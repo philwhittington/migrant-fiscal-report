@@ -1,0 +1,28 @@
+{
+  "filename": "VAT_Interest_Log.csv",
+  "description": "Hand-logged sheet of businesses that enquired about VAT registration before the law passed. Maintained by front desk. Started Sep 2024.",
+  "schemaNote": "Free-form. Not linked to GRT numbers. Names as given verbally — may not match legal name. Officer initials only.",
+  "columns": ["Date_Logged", "Name_as_Given", "Phone_as_Given", "Officer", "Query_Notes"],
+  "rows": [
+    ["2024-09-04", "Pacific Gateway Hotel", "625-3100", "RJ", "Called asking about VAT timeline. Wants to be ready. Will register immediately when law passes."],
+    ["2024-09-11", "someone from Kwajalein Logistics", "625-1100", "DT", "Came in person with assistant. Asked about input credits on imports — very keen. US military contractor."],
+    ["2024-09-19", "Majuro Dive & Tourism (Sarah)", "625-3390", "RJ", "Sarah — the dive place near the lagoon. Asked if equipment imports will be refundable. We said probably yes. Kathy's contact."],
+    ["2024-09-25", "Ebeye Catering — Lina", "329-0070", "DT", "Called from Ebeye. Said 'we import a lot of food ingredients so want to get the money back'. Wants voluntary registration. No email."],
+    ["2024-10-02", "Quick Build — a small builder", "625-5625", "RJ", "Young guy, came in. Building contractor. Said he imports all his materials. Interested in refunds. New to the area."],
+    ["2024-10-08", "Majuro Island Traders (Alvin)", "625-2255", "DT", "Alvin — new import business. Said he's bringing in a full container at start of Q1. Wants to claim input tax back immediately."],
+    ["2024-10-15", "RMI Construction Alliance", "625-5570", "RJ", "Ben from RMI Construction. Large company. Currently working on school upgrade project. Expects big material imports Q1. Sophisticated — has accountant."],
+    ["2024-10-22", "Pacific Solar Installations (Fred)", "625-8880", "DT", "Small solar installer. Imports all panels and batteries. Interested in voluntary registration. Seems genuine."],
+    ["2024-10-30", "Majuro Catering Events", "625-3365", "RJ", "Small events company. Wants to register to look legitimate to hotel clients. Low turnover."],
+    ["2024-11-06", "someone from Pacific Electrical", "625-5615", "DT", "Sam — electrical supplies importer. Input credits on specialised components. Voluntary registration makes sense for them."],
+    ["2024-11-14", "Arno Fisheries (Lani?)", "625-3305", "RJ", "Lady called about fisheries — not sure which company. Phone only. No follow-up."],
+    ["2024-11-20", "Hotel on Majuro — Kathy's boss", "625-3370", "DT", "This is the Pacific Tourism Services place near the wharf. Kathy arranged the meeting. Very keen to be ready. Manager is Carlos? Or Kelly? Need to confirm."],
+    ["2024-11-27", "Majuro Quick Build again", "625-5625", "RJ", "Same guy as Oct 2. Called back. Still interested. Mentioned he might have a big refund in first quarter."],
+    ["2024-12-04", "RMI Agricultural Supplies (Nina)", "", "DT", "Nina — agricultural supplies. Imports fertiliser and tools. No phone noted. Wants refund on imports. No email either."],
+    ["2024-12-10", "Pacific Medical Imports", "625-9040", "RJ", "Dr Grace — imports medical equipment. Very clear about what she wants. Well-organised. Will register voluntarily."],
+    ["2024-12-18", "Ebeye Food & Provisions (Rose)", "329-0090", "DT", "Rose — Ebeye. Imports food. Paper everything — no computer. Will file manually."],
+    ["2024-12-20", "Majuro Food Services — Rachel", "625-3330", "RJ", "Rachel — runs a catering/food service operation. Large food imports. Asked about refunds. Seemed to have high expectations."],
+    ["2025-01-08", "Weto Building Supplies (Jack)", "625-6620", "DT", "Jack called again re VAT. Still no computer. Will file everything on paper. Fine."],
+    ["2025-01-15", "Pacific Freight Forwarders", "625-4475", "RJ", "Mark — freight forwarder. Wants to register so clients can get VAT invoices. Not really about refunds — more about B2B invoicing."],
+    ["2025-01-22", "Majuro Cleaning Products", "625-2275", "DT", "Kim — cleaning products. Import business. Major clients are hotels — needs VAT invoices to keep their business."]
+  ]
+}

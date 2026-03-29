@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "pacific-llm-report",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "5001", "--directory", "dist/public"],
+      "port": 5001
+    }
+  ]
+}
