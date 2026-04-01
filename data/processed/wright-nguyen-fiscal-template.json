@@ -1,0 +1,592 @@
+{
+  "source": "Wright & Nguyen, Treasury AN 24/09",
+  "unit": "NZD, tax year 2018/19",
+  "notes": [
+    "fiscal_components: No sharing assumption, individual age bands",
+    "net_fiscal_impact: Family sharing assumption, principal earner age bands",
+    "family_composition: Family counts by principal earner age (null = suppressed)"
+  ],
+  "fiscal_components": [
+    {
+      "age_band": "0-4",
+      "components": {
+        "direct_taxes": 0,
+        "disposable_income": 0,
+        "education_spending": 6170,
+        "health_spending": 3050,
+        "housing_support": 0,
+        "income_support": 0,
+        "ietc": 0,
+        "market_income": 0,
+        "nz_super": 0,
+        "other_non_taxable": 0,
+        "other_income_support": 0,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 0,
+        "wff": 0,
+        "working_age_support": 0
+      }
+    },
+    {
+      "age_band": "5-9",
+      "components": {
+        "direct_taxes": 0,
+        "disposable_income": 0,
+        "education_spending": 7590,
+        "health_spending": 1490,
+        "housing_support": 0,
+        "income_support": 0,
+        "ietc": 0,
+        "market_income": 0,
+        "nz_super": 0,
+        "other_non_taxable": 0,
+        "other_income_support": 0,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 0,
+        "wff": 0,
+        "working_age_support": 0
+      }
+    },
+    {
+      "age_band": "10-14",
+      "components": {
+        "direct_taxes": 0,
+        "disposable_income": 0,
+        "education_spending": 7870,
+        "health_spending": 1530,
+        "housing_support": 0,
+        "income_support": 0,
+        "ietc": 0,
+        "market_income": 0,
+        "nz_super": 0,
+        "other_non_taxable": 0,
+        "other_income_support": 0,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 0,
+        "wff": 0,
+        "working_age_support": 0
+      }
+    },
+    {
+      "age_band": "15-19",
+      "components": {
+        "direct_taxes": 1030,
+        "disposable_income": 7520,
+        "education_spending": 7890,
+        "health_spending": 1820,
+        "housing_support": 140,
+        "income_support": 820,
+        "ietc": 50,
+        "market_income": 7730,
+        "nz_super": 0,
+        "other_income_support": 290,
+        "paid_parental_leave": 0,
+        "working_age_support": 320
+      }
+    },
+    {
+      "age_band": "20-24",
+      "components": {
+        "direct_taxes": 4720,
+        "disposable_income": 27600,
+        "education_spending": 3470,
+        "health_spending": 2000,
+        "housing_support": 590,
+        "income_support": 3880,
+        "ietc": 140,
+        "market_income": 28450,
+        "nz_super": 0,
+        "other_non_taxable": 140,
+        "other_income_support": 1170,
+        "student_allowance": 720,
+        "winter_energy": 60,
+        "wff": 420,
+        "working_age_support": 1700
+      }
+    },
+    {
+      "age_band": "25-29",
+      "components": {
+        "direct_taxes": 8130,
+        "disposable_income": 40350,
+        "education_spending": 1690,
+        "health_spending": 2320,
+        "housing_support": 810,
+        "income_support": 4650,
+        "ietc": 120,
+        "market_income": 43820,
+        "nz_super": 0,
+        "other_non_taxable": 190,
+        "other_income_support": 1140,
+        "paid_parental_leave": 310,
+        "student_allowance": 430,
+        "winter_energy": 60,
+        "wff": 1030,
+        "working_age_support": 1660
+      }
+    },
+    {
+      "age_band": "30-34",
+      "components": {
+        "direct_taxes": 11360,
+        "disposable_income": 48150,
+        "education_spending": 970,
+        "health_spending": 2650,
+        "housing_support": 830,
+        "income_support": 4410,
+        "ietc": 50,
+        "market_income": 55090,
+        "nz_super": 0,
+        "other_non_taxable": 190,
+        "other_income_support": 770,
+        "paid_parental_leave": 390,
+        "winter_energy": 50,
+        "wff": 1390,
+        "working_age_support": 1430
+      }
+    },
+    {
+      "age_band": "35-39",
+      "components": {
+        "direct_taxes": 12230,
+        "disposable_income": 49960,
+        "education_spending": 680,
+        "health_spending": 2500,
+        "housing_support": 750,
+        "income_support": 4490,
+        "ietc": 50,
+        "market_income": 57690,
+        "nz_super": 0,
+        "other_income_support": 530,
+        "paid_parental_leave": 220,
+        "winter_energy": 40,
+        "wff": 1860,
+        "working_age_support": 1350
+      }
+    },
+    {
+      "age_band": "40-44",
+      "components": {
+        "direct_taxes": 15460,
+        "disposable_income": 59340,
+        "education_spending": 600,
+        "health_spending": 2570,
+        "housing_support": 830,
+        "income_support": 4150,
+        "ietc": 50,
+        "market_income": 70650,
+        "nz_super": 0,
+        "other_non_taxable": 270,
+        "other_income_support": 450,
+        "winter_energy": 40,
+        "wff": 1610,
+        "working_age_support": 1270
+      }
+    },
+    {
+      "age_band": "45-49",
+      "components": {
+        "direct_taxes": 15160,
+        "disposable_income": 57440,
+        "education_spending": 550,
+        "health_spending": 2730,
+        "housing_support": 530,
+        "income_support": 2760,
+        "ietc": 60,
+        "market_income": 69840,
+        "nz_super": 0,
+        "other_non_taxable": 180,
+        "other_income_support": 360,
+        "paid_parental_leave": 0,
+        "winter_energy": 40,
+        "wff": 860,
+        "working_age_support": 1010
+      }
+    },
+    {
+      "age_band": "50-54",
+      "components": {
+        "direct_taxes": 16260,
+        "disposable_income": 60000,
+        "education_spending": 500,
+        "health_spending": 3220,
+        "housing_support": 580,
+        "income_support": 3000,
+        "ietc": 70,
+        "market_income": 73270,
+        "other_income_support": 450,
+        "paid_parental_leave": 0,
+        "winter_energy": 50,
+        "wff": 570,
+        "working_age_support": 1330
+      }
+    },
+    {
+      "age_band": "55-59",
+      "components": {
+        "direct_taxes": 13110,
+        "disposable_income": 53630,
+        "health_spending": 3900,
+        "housing_support": 580,
+        "income_support": 2660,
+        "ietc": 70,
+        "market_income": 64080,
+        "other_income_support": 400,
+        "paid_parental_leave": 0,
+        "winter_energy": 60,
+        "wff": 190,
+        "working_age_support": 1310
+      }
+    },
+    {
+      "age_band": "60-64",
+      "components": {
+        "direct_taxes": 12660,
+        "disposable_income": 57030,
+        "health_spending": 4680,
+        "housing_support": 940,
+        "income_support": 4420,
+        "ietc": 70,
+        "market_income": 65270,
+        "nz_super": 590,
+        "other_non_taxable": 260,
+        "other_income_support": 460,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 130,
+        "working_age_support": 2250
+      }
+    },
+    {
+      "age_band": "65-69",
+      "components": {
+        "direct_taxes": 10310,
+        "disposable_income": 49880,
+        "health_spending": 6140,
+        "housing_support": 820,
+        "income_support": 20410,
+        "market_income": 39790,
+        "nz_super": 18420,
+        "other_non_taxable": 270,
+        "other_income_support": 640,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 360,
+        "working_age_support": 480
+      }
+    },
+    {
+      "age_band": "70-74",
+      "components": {
+        "direct_taxes": 7770,
+        "disposable_income": 40380,
+        "health_spending": 8010,
+        "housing_support": 440,
+        "income_support": 22040,
+        "ietc": 0,
+        "market_income": 26120,
+        "nz_super": 20760,
+        "other_income_support": 670,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 380
+      }
+    },
+    {
+      "age_band": "75-79",
+      "components": {
+        "direct_taxes": 5310,
+        "disposable_income": 33180,
+        "education_spending": 0,
+        "health_spending": 10890,
+        "housing_support": 540,
+        "income_support": 22120,
+        "market_income": 16370,
+        "nz_super": 20810,
+        "other_non_taxable": 220,
+        "other_income_support": 610,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 380
+      }
+    },
+    {
+      "age_band": "80+",
+      "components": {
+        "direct_taxes": 4550,
+        "disposable_income": 30660,
+        "education_spending": 0,
+        "health_spending": 18250,
+        "income_support": 23060,
+        "ietc": 0,
+        "market_income": 12140,
+        "nz_super": 21850,
+        "other_non_taxable": 460,
+        "other_income_support": 870,
+        "paid_parental_leave": 0,
+        "student_allowance": 0,
+        "winter_energy": 400,
+        "working_age_support": 0
+      }
+    }
+  ],
+  "net_fiscal_impact": [
+    {
+      "age_band": "15-19",
+      "direct_taxes": 2250,
+      "final_income": 22000,
+      "in_kind_spending": 8050,
+      "income_support": 1940,
+      "indirect_taxes": 1760,
+      "market_income": 16080,
+      "net_fiscal_impact": 5980,
+      "nfi_error": 1380
+    },
+    {
+      "age_band": "20-24",
+      "direct_taxes": 5250,
+      "final_income": 32530,
+      "in_kind_spending": 6910,
+      "income_support": 4190,
+      "indirect_taxes": 3050,
+      "market_income": 28890,
+      "net_fiscal_impact": 2800,
+      "nfi_error": 1730
+    },
+    {
+      "age_band": "25-29",
+      "direct_taxes": 11020,
+      "final_income": 46270,
+      "in_kind_spending": 8750,
+      "income_support": 6500,
+      "indirect_taxes": 4830,
+      "market_income": 44500,
+      "net_fiscal_impact": -610,
+      "nfi_error": 3150
+    },
+    {
+      "age_band": "30-34",
+      "direct_taxes": 16970,
+      "final_income": 52340,
+      "in_kind_spending": 13360,
+      "income_support": 6890,
+      "indirect_taxes": 7110,
+      "market_income": 53200,
+      "net_fiscal_impact": -3830,
+      "nfi_error": 2770
+    },
+    {
+      "age_band": "35-39",
+      "direct_taxes": 19470,
+      "final_income": 54600,
+      "in_kind_spending": 15630,
+      "income_support": 6980,
+      "indirect_taxes": 7910,
+      "market_income": 56410,
+      "net_fiscal_impact": -4760,
+      "nfi_error": 3510
+    },
+    {
+      "age_band": "40-44",
+      "direct_taxes": 24070,
+      "final_income": 61440,
+      "in_kind_spending": 17720,
+      "income_support": 6660,
+      "indirect_taxes": 8560,
+      "market_income": 65520,
+      "net_fiscal_impact": -8240,
+      "nfi_error": 3940
+    },
+    {
+      "age_band": "45-49",
+      "direct_taxes": 25490,
+      "final_income": 64570,
+      "in_kind_spending": 14000,
+      "income_support": 4580,
+      "indirect_taxes": 9690,
+      "market_income": 74410,
+      "net_fiscal_impact": -16590,
+      "nfi_error": 4860
+    },
+    {
+      "age_band": "50-54",
+      "direct_taxes": 25680,
+      "final_income": 68060,
+      "in_kind_spending": 11080,
+      "income_support": 5050,
+      "indirect_taxes": 8830,
+      "market_income": 80210,
+      "net_fiscal_impact": -18390,
+      "nfi_error": 5910
+    },
+    {
+      "age_band": "55-59",
+      "direct_taxes": 21550,
+      "final_income": 63920,
+      "in_kind_spending": 8950,
+      "income_support": 4860,
+      "indirect_taxes": 9100,
+      "market_income": 75720,
+      "net_fiscal_impact": -16840,
+      "nfi_error": 3600
+    },
+    {
+      "age_band": "60-64",
+      "direct_taxes": 18340,
+      "final_income": 68500,
+      "in_kind_spending": 8800,
+      "income_support": 8250,
+      "indirect_taxes": 7400,
+      "market_income": 75680,
+      "net_fiscal_impact": -8690,
+      "nfi_error": 4170
+    },
+    {
+      "age_band": "65-69",
+      "direct_taxes": 15860,
+      "final_income": 61740,
+      "in_kind_spending": 9960,
+      "income_support": 29200,
+      "indirect_taxes": 8630,
+      "market_income": 50800,
+      "net_fiscal_impact": 14670,
+      "nfi_error": 3810
+    },
+    {
+      "age_band": "70-74",
+      "direct_taxes": 12180,
+      "final_income": 54020,
+      "in_kind_spending": 12940,
+      "income_support": 34260,
+      "indirect_taxes": 7710,
+      "market_income": 33120,
+      "net_fiscal_impact": 27310,
+      "nfi_error": 3950
+    },
+    {
+      "age_band": "75-79",
+      "direct_taxes": 8310,
+      "final_income": 48480,
+      "in_kind_spending": 16170,
+      "income_support": 33010,
+      "indirect_taxes": 6640,
+      "market_income": 21460,
+      "net_fiscal_impact": 34230,
+      "nfi_error": 2760
+    },
+    {
+      "age_band": "80+",
+      "direct_taxes": 6130,
+      "final_income": 52470,
+      "in_kind_spending": 23200,
+      "income_support": 30360,
+      "indirect_taxes": 4120,
+      "market_income": 15490,
+      "net_fiscal_impact": 43320,
+      "nfi_error": 2040
+    }
+  ],
+  "family_composition": [
+    {
+      "age_band": "15-19",
+      "couple": null,
+      "couple_with_children": null,
+      "single_member": 119000,
+      "sole_parent": null
+    },
+    {
+      "age_band": "20-24",
+      "couple": 24000,
+      "couple_with_children": null,
+      "single_member": 248000,
+      "sole_parent": 12000
+    },
+    {
+      "age_band": "25-29",
+      "couple": 55000,
+      "couple_with_children": 34000,
+      "single_member": 150000,
+      "sole_parent": 23000
+    },
+    {
+      "age_band": "30-34",
+      "couple": 46000,
+      "couple_with_children": 80000,
+      "single_member": 79000,
+      "sole_parent": 17000
+    },
+    {
+      "age_band": "35-39",
+      "couple": 20000,
+      "couple_with_children": 91000,
+      "single_member": 63000,
+      "sole_parent": 23000
+    },
+    {
+      "age_band": "40-44",
+      "couple": 25000,
+      "couple_with_children": 93000,
+      "single_member": 47000,
+      "sole_parent": 29000
+    },
+    {
+      "age_band": "45-49",
+      "couple": 43000,
+      "couple_with_children": 80000,
+      "single_member": 58000,
+      "sole_parent": 14000
+    },
+    {
+      "age_band": "50-54",
+      "couple": 79000,
+      "couple_with_children": 45000,
+      "single_member": 62000,
+      "sole_parent": 13000
+    },
+    {
+      "age_band": "55-59",
+      "couple": 95000,
+      "couple_with_children": 23000,
+      "single_member": 76000,
+      "sole_parent": null
+    },
+    {
+      "age_band": "60-64",
+      "couple": 92000,
+      "couple_with_children": 9000,
+      "single_member": 85000,
+      "sole_parent": null
+    },
+    {
+      "age_band": "65-69",
+      "couple": 79000,
+      "couple_with_children": null,
+      "single_member": 71000,
+      "sole_parent": null
+    },
+    {
+      "age_band": "70-74",
+      "couple": 65000,
+      "couple_with_children": null,
+      "single_member": 52000,
+      "sole_parent": null
+    },
+    {
+      "age_band": "75-79",
+      "couple": 41000,
+      "couple_with_children": null,
+      "single_member": 39000,
+      "sole_parent": null
+    },
+    {
+      "age_band": "80+",
+      "couple": 38000,
+      "couple_with_children": null,
+      "single_member": 81000,
+      "sole_parent": null
+    }
+  ]
+}

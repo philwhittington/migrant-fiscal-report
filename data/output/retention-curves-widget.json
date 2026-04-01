@@ -1,0 +1,2396 @@
+[
+  {
+    "visa": "R.Skilled/investor/entrepreneu",
+    "label": "Skilled/Investor",
+    "data": [
+      {
+        "year": 0,
+        "rate": 1.0,
+        "extrapolated": false
+      },
+      {
+        "year": 1,
+        "rate": 0.9655,
+        "extrapolated": false
+      },
+      {
+        "year": 2,
+        "rate": 0.9225,
+        "extrapolated": false
+      },
+      {
+        "year": 3,
+        "rate": 0.8887,
+        "extrapolated": false
+      },
+      {
+        "year": 4,
+        "rate": 0.8644,
+        "extrapolated": false
+      },
+      {
+        "year": 5,
+        "rate": 0.8407,
+        "extrapolated": false
+      },
+      {
+        "year": 6,
+        "rate": 0.8097,
+        "extrapolated": false
+      },
+      {
+        "year": 7,
+        "rate": 0.7822,
+        "extrapolated": false
+      },
+      {
+        "year": 8,
+        "rate": 0.7598,
+        "extrapolated": false
+      },
+      {
+        "year": 9,
+        "rate": 0.7412,
+        "extrapolated": false
+      },
+      {
+        "year": 10,
+        "rate": 0.7257,
+        "extrapolated": false
+      },
+      {
+        "year": 11,
+        "rate": 0.7106,
+        "extrapolated": false
+      },
+      {
+        "year": 12,
+        "rate": 0.6958,
+        "extrapolated": false
+      },
+      {
+        "year": 13,
+        "rate": 0.6821,
+        "extrapolated": false
+      },
+      {
+        "year": 14,
+        "rate": 0.6698,
+        "extrapolated": false
+      },
+      {
+        "year": 15,
+        "rate": 0.6584,
+        "extrapolated": false
+      },
+      {
+        "year": 16,
+        "rate": 0.6446,
+        "extrapolated": false
+      },
+      {
+        "year": 17,
+        "rate": 0.6307,
+        "extrapolated": false
+      },
+      {
+        "year": 18,
+        "rate": 0.6193,
+        "extrapolated": false
+      },
+      {
+        "year": 19,
+        "rate": 0.6043,
+        "extrapolated": false
+      },
+      {
+        "year": 20,
+        "rate": 0.5932,
+        "extrapolated": false
+      },
+      {
+        "year": 21,
+        "rate": 0.5834,
+        "extrapolated": false
+      },
+      {
+        "year": 22,
+        "rate": 0.5708,
+        "extrapolated": false
+      },
+      {
+        "year": 23,
+        "rate": 0.5626,
+        "extrapolated": false
+      },
+      {
+        "year": 24,
+        "rate": 0.5663,
+        "extrapolated": false
+      },
+      {
+        "year": 25,
+        "rate": 0.5395,
+        "extrapolated": true
+      },
+      {
+        "year": 26,
+        "rate": 0.529,
+        "extrapolated": true
+      },
+      {
+        "year": 27,
+        "rate": 0.5187,
+        "extrapolated": true
+      },
+      {
+        "year": 28,
+        "rate": 0.5086,
+        "extrapolated": true
+      },
+      {
+        "year": 29,
+        "rate": 0.4987,
+        "extrapolated": true
+      },
+      {
+        "year": 30,
+        "rate": 0.489,
+        "extrapolated": true
+      },
+      {
+        "year": 31,
+        "rate": 0.4794,
+        "extrapolated": true
+      },
+      {
+        "year": 32,
+        "rate": 0.4701,
+        "extrapolated": true
+      },
+      {
+        "year": 33,
+        "rate": 0.4609,
+        "extrapolated": true
+      },
+      {
+        "year": 34,
+        "rate": 0.452,
+        "extrapolated": true
+      },
+      {
+        "year": 35,
+        "rate": 0.4432,
+        "extrapolated": true
+      },
+      {
+        "year": 36,
+        "rate": 0.4345,
+        "extrapolated": true
+      },
+      {
+        "year": 37,
+        "rate": 0.426,
+        "extrapolated": true
+      },
+      {
+        "year": 38,
+        "rate": 0.4177,
+        "extrapolated": true
+      },
+      {
+        "year": 39,
+        "rate": 0.4096,
+        "extrapolated": true
+      },
+      {
+        "year": 40,
+        "rate": 0.4016,
+        "extrapolated": true
+      },
+      {
+        "year": 41,
+        "rate": 0.3938,
+        "extrapolated": true
+      },
+      {
+        "year": 42,
+        "rate": 0.3861,
+        "extrapolated": true
+      },
+      {
+        "year": 43,
+        "rate": 0.3786,
+        "extrapolated": true
+      },
+      {
+        "year": 44,
+        "rate": 0.3712,
+        "extrapolated": true
+      },
+      {
+        "year": 45,
+        "rate": 0.364,
+        "extrapolated": true
+      },
+      {
+        "year": 46,
+        "rate": 0.3569,
+        "extrapolated": true
+      },
+      {
+        "year": 47,
+        "rate": 0.3499,
+        "extrapolated": true
+      },
+      {
+        "year": 48,
+        "rate": 0.3431,
+        "extrapolated": true
+      },
+      {
+        "year": 49,
+        "rate": 0.3364,
+        "extrapolated": true
+      },
+      {
+        "year": 50,
+        "rate": 0.3299,
+        "extrapolated": true
+      },
+      {
+        "year": 51,
+        "rate": 0.3235,
+        "extrapolated": true
+      },
+      {
+        "year": 52,
+        "rate": 0.3172,
+        "extrapolated": true
+      },
+      {
+        "year": 53,
+        "rate": 0.311,
+        "extrapolated": true
+      },
+      {
+        "year": 54,
+        "rate": 0.3049,
+        "extrapolated": true
+      },
+      {
+        "year": 55,
+        "rate": 0.299,
+        "extrapolated": true
+      },
+      {
+        "year": 56,
+        "rate": 0.2931,
+        "extrapolated": true
+      },
+      {
+        "year": 57,
+        "rate": 0.2874,
+        "extrapolated": true
+      },
+      {
+        "year": 58,
+        "rate": 0.2818,
+        "extrapolated": true
+      },
+      {
+        "year": 59,
+        "rate": 0.2763,
+        "extrapolated": true
+      },
+      {
+        "year": 60,
+        "rate": 0.271,
+        "extrapolated": true
+      },
+      {
+        "year": 61,
+        "rate": 0.2657,
+        "extrapolated": true
+      },
+      {
+        "year": 62,
+        "rate": 0.2605,
+        "extrapolated": true
+      },
+      {
+        "year": 63,
+        "rate": 0.2554,
+        "extrapolated": true
+      },
+      {
+        "year": 64,
+        "rate": 0.2504,
+        "extrapolated": true
+      },
+      {
+        "year": 65,
+        "rate": 0.2456,
+        "extrapolated": true
+      }
+    ],
+    "initial_cohort": 8092,
+    "fit_params": {
+      "a": 0.882394,
+      "b": 0.019678,
+      "r_squared": 0.9994
+    }
+  },
+  {
+    "visa": "R.Family",
+    "label": "Family",
+    "data": [
+      {
+        "year": 0,
+        "rate": 1.0,
+        "extrapolated": false
+      },
+      {
+        "year": 1,
+        "rate": 0.9277,
+        "extrapolated": false
+      },
+      {
+        "year": 2,
+        "rate": 0.8448,
+        "extrapolated": false
+      },
+      {
+        "year": 3,
+        "rate": 0.8043,
+        "extrapolated": false
+      },
+      {
+        "year": 4,
+        "rate": 0.7918,
+        "extrapolated": false
+      },
+      {
+        "year": 5,
+        "rate": 0.7763,
+        "extrapolated": false
+      },
+      {
+        "year": 6,
+        "rate": 0.7628,
+        "extrapolated": false
+      },
+      {
+        "year": 7,
+        "rate": 0.7475,
+        "extrapolated": false
+      },
+      {
+        "year": 8,
+        "rate": 0.7366,
+        "extrapolated": false
+      },
+      {
+        "year": 9,
+        "rate": 0.725,
+        "extrapolated": false
+      },
+      {
+        "year": 10,
+        "rate": 0.7105,
+        "extrapolated": false
+      },
+      {
+        "year": 11,
+        "rate": 0.6862,
+        "extrapolated": false
+      },
+      {
+        "year": 12,
+        "rate": 0.671,
+        "extrapolated": false
+      },
+      {
+        "year": 13,
+        "rate": 0.6565,
+        "extrapolated": false
+      },
+      {
+        "year": 14,
+        "rate": 0.6434,
+        "extrapolated": false
+      },
+      {
+        "year": 15,
+        "rate": 0.6288,
+        "extrapolated": false
+      },
+      {
+        "year": 16,
+        "rate": 0.6154,
+        "extrapolated": false
+      },
+      {
+        "year": 17,
+        "rate": 0.6029,
+        "extrapolated": false
+      },
+      {
+        "year": 18,
+        "rate": 0.5911,
+        "extrapolated": false
+      },
+      {
+        "year": 19,
+        "rate": 0.5825,
+        "extrapolated": false
+      },
+      {
+        "year": 20,
+        "rate": 0.5686,
+        "extrapolated": false
+      },
+      {
+        "year": 21,
+        "rate": 0.5536,
+        "extrapolated": false
+      },
+      {
+        "year": 22,
+        "rate": 0.5314,
+        "extrapolated": false
+      },
+      {
+        "year": 23,
+        "rate": 0.5118,
+        "extrapolated": false
+      },
+      {
+        "year": 24,
+        "rate": 0.4964,
+        "extrapolated": false
+      },
+      {
+        "year": 25,
+        "rate": 0.503,
+        "extrapolated": true
+      },
+      {
+        "year": 26,
+        "rate": 0.4918,
+        "extrapolated": true
+      },
+      {
+        "year": 27,
+        "rate": 0.4809,
+        "extrapolated": true
+      },
+      {
+        "year": 28,
+        "rate": 0.4702,
+        "extrapolated": true
+      },
+      {
+        "year": 29,
+        "rate": 0.4598,
+        "extrapolated": true
+      },
+      {
+        "year": 30,
+        "rate": 0.4496,
+        "extrapolated": true
+      },
+      {
+        "year": 31,
+        "rate": 0.4396,
+        "extrapolated": true
+      },
+      {
+        "year": 32,
+        "rate": 0.4298,
+        "extrapolated": true
+      },
+      {
+        "year": 33,
+        "rate": 0.4203,
+        "extrapolated": true
+      },
+      {
+        "year": 34,
+        "rate": 0.411,
+        "extrapolated": true
+      },
+      {
+        "year": 35,
+        "rate": 0.4018,
+        "extrapolated": true
+      },
+      {
+        "year": 36,
+        "rate": 0.3929,
+        "extrapolated": true
+      },
+      {
+        "year": 37,
+        "rate": 0.3842,
+        "extrapolated": true
+      },
+      {
+        "year": 38,
+        "rate": 0.3756,
+        "extrapolated": true
+      },
+      {
+        "year": 39,
+        "rate": 0.3673,
+        "extrapolated": true
+      },
+      {
+        "year": 40,
+        "rate": 0.3591,
+        "extrapolated": true
+      },
+      {
+        "year": 41,
+        "rate": 0.3512,
+        "extrapolated": true
+      },
+      {
+        "year": 42,
+        "rate": 0.3434,
+        "extrapolated": true
+      },
+      {
+        "year": 43,
+        "rate": 0.3357,
+        "extrapolated": true
+      },
+      {
+        "year": 44,
+        "rate": 0.3283,
+        "extrapolated": true
+      },
+      {
+        "year": 45,
+        "rate": 0.321,
+        "extrapolated": true
+      },
+      {
+        "year": 46,
+        "rate": 0.3139,
+        "extrapolated": true
+      },
+      {
+        "year": 47,
+        "rate": 0.3069,
+        "extrapolated": true
+      },
+      {
+        "year": 48,
+        "rate": 0.3001,
+        "extrapolated": true
+      },
+      {
+        "year": 49,
+        "rate": 0.2934,
+        "extrapolated": true
+      },
+      {
+        "year": 50,
+        "rate": 0.2869,
+        "extrapolated": true
+      },
+      {
+        "year": 51,
+        "rate": 0.2805,
+        "extrapolated": true
+      },
+      {
+        "year": 52,
+        "rate": 0.2743,
+        "extrapolated": true
+      },
+      {
+        "year": 53,
+        "rate": 0.2682,
+        "extrapolated": true
+      },
+      {
+        "year": 54,
+        "rate": 0.2622,
+        "extrapolated": true
+      },
+      {
+        "year": 55,
+        "rate": 0.2564,
+        "extrapolated": true
+      },
+      {
+        "year": 56,
+        "rate": 0.2507,
+        "extrapolated": true
+      },
+      {
+        "year": 57,
+        "rate": 0.2452,
+        "extrapolated": true
+      },
+      {
+        "year": 58,
+        "rate": 0.2397,
+        "extrapolated": true
+      },
+      {
+        "year": 59,
+        "rate": 0.2344,
+        "extrapolated": true
+      },
+      {
+        "year": 60,
+        "rate": 0.2292,
+        "extrapolated": true
+      },
+      {
+        "year": 61,
+        "rate": 0.2241,
+        "extrapolated": true
+      },
+      {
+        "year": 62,
+        "rate": 0.2191,
+        "extrapolated": true
+      },
+      {
+        "year": 63,
+        "rate": 0.2142,
+        "extrapolated": true
+      },
+      {
+        "year": 64,
+        "rate": 0.2095,
+        "extrapolated": true
+      },
+      {
+        "year": 65,
+        "rate": 0.2048,
+        "extrapolated": true
+      }
+    ],
+    "initial_cohort": 4490,
+    "fit_params": {
+      "a": 0.881966,
+      "b": 0.022461,
+      "r_squared": 0.9951
+    }
+  },
+  {
+    "visa": "R.Humanitarian and Pacific",
+    "label": "Humanitarian",
+    "data": [
+      {
+        "year": 0,
+        "rate": 1.0,
+        "extrapolated": false
+      },
+      {
+        "year": 1,
+        "rate": 0.9828,
+        "extrapolated": false
+      },
+      {
+        "year": 2,
+        "rate": 0.953,
+        "extrapolated": false
+      },
+      {
+        "year": 3,
+        "rate": 0.9224,
+        "extrapolated": false
+      },
+      {
+        "year": 4,
+        "rate": 0.8941,
+        "extrapolated": false
+      },
+      {
+        "year": 5,
+        "rate": 0.872,
+        "extrapolated": false
+      },
+      {
+        "year": 6,
+        "rate": 0.8444,
+        "extrapolated": false
+      },
+      {
+        "year": 7,
+        "rate": 0.8179,
+        "extrapolated": false
+      },
+      {
+        "year": 8,
+        "rate": 0.7957,
+        "extrapolated": false
+      },
+      {
+        "year": 9,
+        "rate": 0.7744,
+        "extrapolated": false
+      },
+      {
+        "year": 10,
+        "rate": 0.7521,
+        "extrapolated": false
+      },
+      {
+        "year": 11,
+        "rate": 0.7304,
+        "extrapolated": false
+      },
+      {
+        "year": 12,
+        "rate": 0.7096,
+        "extrapolated": false
+      },
+      {
+        "year": 13,
+        "rate": 0.6911,
+        "extrapolated": false
+      },
+      {
+        "year": 14,
+        "rate": 0.6734,
+        "extrapolated": false
+      },
+      {
+        "year": 15,
+        "rate": 0.653,
+        "extrapolated": false
+      },
+      {
+        "year": 16,
+        "rate": 0.6415,
+        "extrapolated": false
+      },
+      {
+        "year": 17,
+        "rate": 0.624,
+        "extrapolated": false
+      },
+      {
+        "year": 18,
+        "rate": 0.6065,
+        "extrapolated": false
+      },
+      {
+        "year": 19,
+        "rate": 0.5791,
+        "extrapolated": false
+      },
+      {
+        "year": 20,
+        "rate": 0.5564,
+        "extrapolated": false
+      },
+      {
+        "year": 21,
+        "rate": 0.5198,
+        "extrapolated": false
+      },
+      {
+        "year": 22,
+        "rate": 0.514,
+        "extrapolated": false
+      },
+      {
+        "year": 23,
+        "rate": 0.5192,
+        "extrapolated": false
+      },
+      {
+        "year": 24,
+        "rate": 0.499,
+        "extrapolated": false
+      },
+      {
+        "year": 25,
+        "rate": 0.5031,
+        "extrapolated": true
+      },
+      {
+        "year": 26,
+        "rate": 0.4899,
+        "extrapolated": true
+      },
+      {
+        "year": 27,
+        "rate": 0.4771,
+        "extrapolated": true
+      },
+      {
+        "year": 28,
+        "rate": 0.4645,
+        "extrapolated": true
+      },
+      {
+        "year": 29,
+        "rate": 0.4523,
+        "extrapolated": true
+      },
+      {
+        "year": 30,
+        "rate": 0.4405,
+        "extrapolated": true
+      },
+      {
+        "year": 31,
+        "rate": 0.4289,
+        "extrapolated": true
+      },
+      {
+        "year": 32,
+        "rate": 0.4176,
+        "extrapolated": true
+      },
+      {
+        "year": 33,
+        "rate": 0.4067,
+        "extrapolated": true
+      },
+      {
+        "year": 34,
+        "rate": 0.396,
+        "extrapolated": true
+      },
+      {
+        "year": 35,
+        "rate": 0.3856,
+        "extrapolated": true
+      },
+      {
+        "year": 36,
+        "rate": 0.3755,
+        "extrapolated": true
+      },
+      {
+        "year": 37,
+        "rate": 0.3656,
+        "extrapolated": true
+      },
+      {
+        "year": 38,
+        "rate": 0.356,
+        "extrapolated": true
+      },
+      {
+        "year": 39,
+        "rate": 0.3467,
+        "extrapolated": true
+      },
+      {
+        "year": 40,
+        "rate": 0.3376,
+        "extrapolated": true
+      },
+      {
+        "year": 41,
+        "rate": 0.3287,
+        "extrapolated": true
+      },
+      {
+        "year": 42,
+        "rate": 0.3201,
+        "extrapolated": true
+      },
+      {
+        "year": 43,
+        "rate": 0.3117,
+        "extrapolated": true
+      },
+      {
+        "year": 44,
+        "rate": 0.3035,
+        "extrapolated": true
+      },
+      {
+        "year": 45,
+        "rate": 0.2955,
+        "extrapolated": true
+      },
+      {
+        "year": 46,
+        "rate": 0.2878,
+        "extrapolated": true
+      },
+      {
+        "year": 47,
+        "rate": 0.2802,
+        "extrapolated": true
+      },
+      {
+        "year": 48,
+        "rate": 0.2729,
+        "extrapolated": true
+      },
+      {
+        "year": 49,
+        "rate": 0.2657,
+        "extrapolated": true
+      },
+      {
+        "year": 50,
+        "rate": 0.2587,
+        "extrapolated": true
+      },
+      {
+        "year": 51,
+        "rate": 0.2519,
+        "extrapolated": true
+      },
+      {
+        "year": 52,
+        "rate": 0.2453,
+        "extrapolated": true
+      },
+      {
+        "year": 53,
+        "rate": 0.2389,
+        "extrapolated": true
+      },
+      {
+        "year": 54,
+        "rate": 0.2326,
+        "extrapolated": true
+      },
+      {
+        "year": 55,
+        "rate": 0.2265,
+        "extrapolated": true
+      },
+      {
+        "year": 56,
+        "rate": 0.2206,
+        "extrapolated": true
+      },
+      {
+        "year": 57,
+        "rate": 0.2148,
+        "extrapolated": true
+      },
+      {
+        "year": 58,
+        "rate": 0.2091,
+        "extrapolated": true
+      },
+      {
+        "year": 59,
+        "rate": 0.2036,
+        "extrapolated": true
+      },
+      {
+        "year": 60,
+        "rate": 0.1983,
+        "extrapolated": true
+      },
+      {
+        "year": 61,
+        "rate": 0.1931,
+        "extrapolated": true
+      },
+      {
+        "year": 62,
+        "rate": 0.188,
+        "extrapolated": true
+      },
+      {
+        "year": 63,
+        "rate": 0.1831,
+        "extrapolated": true
+      },
+      {
+        "year": 64,
+        "rate": 0.1783,
+        "extrapolated": true
+      },
+      {
+        "year": 65,
+        "rate": 0.1736,
+        "extrapolated": true
+      }
+    ],
+    "initial_cohort": 1913,
+    "fit_params": {
+      "a": 0.978337,
+      "b": 0.026601,
+      "r_squared": 0.9985
+    }
+  },
+  {
+    "visa": "S.Fee paying",
+    "label": "Student",
+    "data": [
+      {
+        "year": 0,
+        "rate": 1.0,
+        "extrapolated": false
+      },
+      {
+        "year": 1,
+        "rate": 0.8874,
+        "extrapolated": false
+      },
+      {
+        "year": 2,
+        "rate": 0.7192,
+        "extrapolated": false
+      },
+      {
+        "year": 3,
+        "rate": 0.6222,
+        "extrapolated": false
+      },
+      {
+        "year": 4,
+        "rate": 0.5539,
+        "extrapolated": false
+      },
+      {
+        "year": 5,
+        "rate": 0.5057,
+        "extrapolated": false
+      },
+      {
+        "year": 6,
+        "rate": 0.4624,
+        "extrapolated": false
+      },
+      {
+        "year": 7,
+        "rate": 0.4284,
+        "extrapolated": false
+      },
+      {
+        "year": 8,
+        "rate": 0.3993,
+        "extrapolated": false
+      },
+      {
+        "year": 9,
+        "rate": 0.3746,
+        "extrapolated": false
+      },
+      {
+        "year": 10,
+        "rate": 0.3495,
+        "extrapolated": false
+      },
+      {
+        "year": 11,
+        "rate": 0.3299,
+        "extrapolated": false
+      },
+      {
+        "year": 12,
+        "rate": 0.3148,
+        "extrapolated": false
+      },
+      {
+        "year": 13,
+        "rate": 0.3017,
+        "extrapolated": false
+      },
+      {
+        "year": 14,
+        "rate": 0.2909,
+        "extrapolated": false
+      },
+      {
+        "year": 15,
+        "rate": 0.28,
+        "extrapolated": false
+      },
+      {
+        "year": 16,
+        "rate": 0.2723,
+        "extrapolated": false
+      },
+      {
+        "year": 17,
+        "rate": 0.266,
+        "extrapolated": false
+      },
+      {
+        "year": 18,
+        "rate": 0.2628,
+        "extrapolated": false
+      },
+      {
+        "year": 19,
+        "rate": 0.262,
+        "extrapolated": false
+      },
+      {
+        "year": 20,
+        "rate": 0.2649,
+        "extrapolated": false
+      },
+      {
+        "year": 21,
+        "rate": 0.2689,
+        "extrapolated": false
+      },
+      {
+        "year": 22,
+        "rate": 0.2704,
+        "extrapolated": false
+      },
+      {
+        "year": 23,
+        "rate": 0.2696,
+        "extrapolated": false
+      },
+      {
+        "year": 24,
+        "rate": 0.2692,
+        "extrapolated": false
+      },
+      {
+        "year": 25,
+        "rate": 0.1967,
+        "extrapolated": true
+      },
+      {
+        "year": 26,
+        "rate": 0.1896,
+        "extrapolated": true
+      },
+      {
+        "year": 27,
+        "rate": 0.1828,
+        "extrapolated": true
+      },
+      {
+        "year": 28,
+        "rate": 0.1762,
+        "extrapolated": true
+      },
+      {
+        "year": 29,
+        "rate": 0.1698,
+        "extrapolated": true
+      },
+      {
+        "year": 30,
+        "rate": 0.1636,
+        "extrapolated": true
+      },
+      {
+        "year": 31,
+        "rate": 0.1577,
+        "extrapolated": true
+      },
+      {
+        "year": 32,
+        "rate": 0.152,
+        "extrapolated": true
+      },
+      {
+        "year": 33,
+        "rate": 0.1465,
+        "extrapolated": true
+      },
+      {
+        "year": 34,
+        "rate": 0.1412,
+        "extrapolated": true
+      },
+      {
+        "year": 35,
+        "rate": 0.1361,
+        "extrapolated": true
+      },
+      {
+        "year": 36,
+        "rate": 0.1312,
+        "extrapolated": true
+      },
+      {
+        "year": 37,
+        "rate": 0.1264,
+        "extrapolated": true
+      },
+      {
+        "year": 38,
+        "rate": 0.1219,
+        "extrapolated": true
+      },
+      {
+        "year": 39,
+        "rate": 0.1174,
+        "extrapolated": true
+      },
+      {
+        "year": 40,
+        "rate": 0.1132,
+        "extrapolated": true
+      },
+      {
+        "year": 41,
+        "rate": 0.1091,
+        "extrapolated": true
+      },
+      {
+        "year": 42,
+        "rate": 0.1052,
+        "extrapolated": true
+      },
+      {
+        "year": 43,
+        "rate": 0.1014,
+        "extrapolated": true
+      },
+      {
+        "year": 44,
+        "rate": 0.0977,
+        "extrapolated": true
+      },
+      {
+        "year": 45,
+        "rate": 0.0942,
+        "extrapolated": true
+      },
+      {
+        "year": 46,
+        "rate": 0.0907,
+        "extrapolated": true
+      },
+      {
+        "year": 47,
+        "rate": 0.0875,
+        "extrapolated": true
+      },
+      {
+        "year": 48,
+        "rate": 0.0843,
+        "extrapolated": true
+      },
+      {
+        "year": 49,
+        "rate": 0.0812,
+        "extrapolated": true
+      },
+      {
+        "year": 50,
+        "rate": 0.0783,
+        "extrapolated": true
+      },
+      {
+        "year": 51,
+        "rate": 0.0755,
+        "extrapolated": true
+      },
+      {
+        "year": 52,
+        "rate": 0.0727,
+        "extrapolated": true
+      },
+      {
+        "year": 53,
+        "rate": 0.0701,
+        "extrapolated": true
+      },
+      {
+        "year": 54,
+        "rate": 0.0676,
+        "extrapolated": true
+      },
+      {
+        "year": 55,
+        "rate": 0.0651,
+        "extrapolated": true
+      },
+      {
+        "year": 56,
+        "rate": 0.0628,
+        "extrapolated": true
+      },
+      {
+        "year": 57,
+        "rate": 0.0605,
+        "extrapolated": true
+      },
+      {
+        "year": 58,
+        "rate": 0.0583,
+        "extrapolated": true
+      },
+      {
+        "year": 59,
+        "rate": 0.0562,
+        "extrapolated": true
+      },
+      {
+        "year": 60,
+        "rate": 0.0542,
+        "extrapolated": true
+      },
+      {
+        "year": 61,
+        "rate": 0.0522,
+        "extrapolated": true
+      },
+      {
+        "year": 62,
+        "rate": 0.0503,
+        "extrapolated": true
+      },
+      {
+        "year": 63,
+        "rate": 0.0485,
+        "extrapolated": true
+      },
+      {
+        "year": 64,
+        "rate": 0.0467,
+        "extrapolated": true
+      },
+      {
+        "year": 65,
+        "rate": 0.0451,
+        "extrapolated": true
+      }
+    ],
+    "initial_cohort": 16302,
+    "fit_params": {
+      "a": 0.49429,
+      "b": 0.036849,
+      "r_squared": 0.973
+    }
+  },
+  {
+    "visa": "W.Working holiday",
+    "label": "Working Holiday",
+    "data": [
+      {
+        "year": 0,
+        "rate": 1.0,
+        "extrapolated": false
+      },
+      {
+        "year": 1,
+        "rate": 0.7904,
+        "extrapolated": false
+      },
+      {
+        "year": 2,
+        "rate": 0.4898,
+        "extrapolated": false
+      },
+      {
+        "year": 3,
+        "rate": 0.4155,
+        "extrapolated": false
+      },
+      {
+        "year": 4,
+        "rate": 0.3801,
+        "extrapolated": false
+      },
+      {
+        "year": 5,
+        "rate": 0.359,
+        "extrapolated": false
+      },
+      {
+        "year": 6,
+        "rate": 0.349,
+        "extrapolated": false
+      },
+      {
+        "year": 7,
+        "rate": 0.341,
+        "extrapolated": false
+      },
+      {
+        "year": 8,
+        "rate": 0.3349,
+        "extrapolated": false
+      },
+      {
+        "year": 9,
+        "rate": 0.3303,
+        "extrapolated": false
+      },
+      {
+        "year": 10,
+        "rate": 0.328,
+        "extrapolated": false
+      },
+      {
+        "year": 11,
+        "rate": 0.3265,
+        "extrapolated": false
+      },
+      {
+        "year": 12,
+        "rate": 0.3257,
+        "extrapolated": false
+      },
+      {
+        "year": 13,
+        "rate": 0.326,
+        "extrapolated": false
+      },
+      {
+        "year": 14,
+        "rate": 0.3282,
+        "extrapolated": false
+      },
+      {
+        "year": 15,
+        "rate": 0.3306,
+        "extrapolated": false
+      },
+      {
+        "year": 16,
+        "rate": 0.3346,
+        "extrapolated": false
+      },
+      {
+        "year": 17,
+        "rate": 0.3405,
+        "extrapolated": false
+      },
+      {
+        "year": 18,
+        "rate": 0.3471,
+        "extrapolated": false
+      },
+      {
+        "year": 19,
+        "rate": 0.3515,
+        "extrapolated": false
+      },
+      {
+        "year": 20,
+        "rate": 0.3519,
+        "extrapolated": false
+      },
+      {
+        "year": 21,
+        "rate": 0.3527,
+        "extrapolated": false
+      },
+      {
+        "year": 22,
+        "rate": 0.3546,
+        "extrapolated": false
+      },
+      {
+        "year": 23,
+        "rate": 0.3481,
+        "extrapolated": false
+      },
+      {
+        "year": 24,
+        "rate": 0.3514,
+        "extrapolated": false
+      },
+      {
+        "year": 25,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 26,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 27,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 28,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 29,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 30,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 31,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 32,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 33,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 34,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 35,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 36,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 37,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 38,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 39,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 40,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 41,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 42,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 43,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 44,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 45,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 46,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 47,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 48,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 49,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 50,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 51,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 52,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 53,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 54,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 55,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 56,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 57,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 58,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 59,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 60,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 61,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 62,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 63,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 64,
+        "rate": 0.3319,
+        "extrapolated": true
+      },
+      {
+        "year": 65,
+        "rate": 0.3319,
+        "extrapolated": true
+      }
+    ],
+    "initial_cohort": 6820,
+    "fit_params": {
+      "a": 0.331911,
+      "b": 0.0,
+      "r_squared": -0.0
+    }
+  },
+  {
+    "visa": "W.Skills/specific purposes/pos",
+    "label": "Skilled Work",
+    "data": [
+      {
+        "year": 0,
+        "rate": 1.0,
+        "extrapolated": false
+      },
+      {
+        "year": 1,
+        "rate": 0.9199,
+        "extrapolated": false
+      },
+      {
+        "year": 2,
+        "rate": 0.7846,
+        "extrapolated": false
+      },
+      {
+        "year": 3,
+        "rate": 0.7228,
+        "extrapolated": false
+      },
+      {
+        "year": 4,
+        "rate": 0.6869,
+        "extrapolated": false
+      },
+      {
+        "year": 5,
+        "rate": 0.6619,
+        "extrapolated": false
+      },
+      {
+        "year": 6,
+        "rate": 0.6338,
+        "extrapolated": false
+      },
+      {
+        "year": 7,
+        "rate": 0.6053,
+        "extrapolated": false
+      },
+      {
+        "year": 8,
+        "rate": 0.5808,
+        "extrapolated": false
+      },
+      {
+        "year": 9,
+        "rate": 0.5608,
+        "extrapolated": false
+      },
+      {
+        "year": 10,
+        "rate": 0.5409,
+        "extrapolated": false
+      },
+      {
+        "year": 11,
+        "rate": 0.5231,
+        "extrapolated": false
+      },
+      {
+        "year": 12,
+        "rate": 0.5092,
+        "extrapolated": false
+      },
+      {
+        "year": 13,
+        "rate": 0.4981,
+        "extrapolated": false
+      },
+      {
+        "year": 14,
+        "rate": 0.4932,
+        "extrapolated": false
+      },
+      {
+        "year": 15,
+        "rate": 0.4911,
+        "extrapolated": false
+      },
+      {
+        "year": 16,
+        "rate": 0.4878,
+        "extrapolated": false
+      },
+      {
+        "year": 17,
+        "rate": 0.4774,
+        "extrapolated": false
+      },
+      {
+        "year": 18,
+        "rate": 0.4715,
+        "extrapolated": false
+      },
+      {
+        "year": 19,
+        "rate": 0.4681,
+        "extrapolated": false
+      },
+      {
+        "year": 20,
+        "rate": 0.462,
+        "extrapolated": false
+      },
+      {
+        "year": 21,
+        "rate": 0.4565,
+        "extrapolated": false
+      },
+      {
+        "year": 22,
+        "rate": 0.4489,
+        "extrapolated": false
+      },
+      {
+        "year": 23,
+        "rate": 0.4425,
+        "extrapolated": false
+      },
+      {
+        "year": 24,
+        "rate": 0.4352,
+        "extrapolated": false
+      },
+      {
+        "year": 25,
+        "rate": 0.42,
+        "extrapolated": true
+      },
+      {
+        "year": 26,
+        "rate": 0.4134,
+        "extrapolated": true
+      },
+      {
+        "year": 27,
+        "rate": 0.407,
+        "extrapolated": true
+      },
+      {
+        "year": 28,
+        "rate": 0.4007,
+        "extrapolated": true
+      },
+      {
+        "year": 29,
+        "rate": 0.3945,
+        "extrapolated": true
+      },
+      {
+        "year": 30,
+        "rate": 0.3884,
+        "extrapolated": true
+      },
+      {
+        "year": 31,
+        "rate": 0.3824,
+        "extrapolated": true
+      },
+      {
+        "year": 32,
+        "rate": 0.3764,
+        "extrapolated": true
+      },
+      {
+        "year": 33,
+        "rate": 0.3706,
+        "extrapolated": true
+      },
+      {
+        "year": 34,
+        "rate": 0.3649,
+        "extrapolated": true
+      },
+      {
+        "year": 35,
+        "rate": 0.3592,
+        "extrapolated": true
+      },
+      {
+        "year": 36,
+        "rate": 0.3536,
+        "extrapolated": true
+      },
+      {
+        "year": 37,
+        "rate": 0.3481,
+        "extrapolated": true
+      },
+      {
+        "year": 38,
+        "rate": 0.3427,
+        "extrapolated": true
+      },
+      {
+        "year": 39,
+        "rate": 0.3374,
+        "extrapolated": true
+      },
+      {
+        "year": 40,
+        "rate": 0.3322,
+        "extrapolated": true
+      },
+      {
+        "year": 41,
+        "rate": 0.3271,
+        "extrapolated": true
+      },
+      {
+        "year": 42,
+        "rate": 0.322,
+        "extrapolated": true
+      },
+      {
+        "year": 43,
+        "rate": 0.317,
+        "extrapolated": true
+      },
+      {
+        "year": 44,
+        "rate": 0.3121,
+        "extrapolated": true
+      },
+      {
+        "year": 45,
+        "rate": 0.3072,
+        "extrapolated": true
+      },
+      {
+        "year": 46,
+        "rate": 0.3025,
+        "extrapolated": true
+      },
+      {
+        "year": 47,
+        "rate": 0.2978,
+        "extrapolated": true
+      },
+      {
+        "year": 48,
+        "rate": 0.2932,
+        "extrapolated": true
+      },
+      {
+        "year": 49,
+        "rate": 0.2886,
+        "extrapolated": true
+      },
+      {
+        "year": 50,
+        "rate": 0.2841,
+        "extrapolated": true
+      },
+      {
+        "year": 51,
+        "rate": 0.2797,
+        "extrapolated": true
+      },
+      {
+        "year": 52,
+        "rate": 0.2754,
+        "extrapolated": true
+      },
+      {
+        "year": 53,
+        "rate": 0.2711,
+        "extrapolated": true
+      },
+      {
+        "year": 54,
+        "rate": 0.2669,
+        "extrapolated": true
+      },
+      {
+        "year": 55,
+        "rate": 0.2628,
+        "extrapolated": true
+      },
+      {
+        "year": 56,
+        "rate": 0.2587,
+        "extrapolated": true
+      },
+      {
+        "year": 57,
+        "rate": 0.2547,
+        "extrapolated": true
+      },
+      {
+        "year": 58,
+        "rate": 0.2507,
+        "extrapolated": true
+      },
+      {
+        "year": 59,
+        "rate": 0.2469,
+        "extrapolated": true
+      },
+      {
+        "year": 60,
+        "rate": 0.243,
+        "extrapolated": true
+      },
+      {
+        "year": 61,
+        "rate": 0.2393,
+        "extrapolated": true
+      },
+      {
+        "year": 62,
+        "rate": 0.2356,
+        "extrapolated": true
+      },
+      {
+        "year": 63,
+        "rate": 0.2319,
+        "extrapolated": true
+      },
+      {
+        "year": 64,
+        "rate": 0.2283,
+        "extrapolated": true
+      },
+      {
+        "year": 65,
+        "rate": 0.2248,
+        "extrapolated": true
+      }
+    ],
+    "initial_cohort": 6646,
+    "fit_params": {
+      "a": 0.62071,
+      "b": 0.015628,
+      "r_squared": 0.9325
+    }
+  },
+  {
+    "visa": "A.Australian",
+    "label": "Australian",
+    "data": [
+      {
+        "year": 0,
+        "rate": 1.0,
+        "extrapolated": false
+      },
+      {
+        "year": 1,
+        "rate": 0.8769,
+        "extrapolated": false
+      },
+      {
+        "year": 2,
+        "rate": 0.7325,
+        "extrapolated": false
+      },
+      {
+        "year": 3,
+        "rate": 0.556,
+        "extrapolated": false
+      },
+      {
+        "year": 4,
+        "rate": 0.4955,
+        "extrapolated": false
+      },
+      {
+        "year": 5,
+        "rate": 0.4564,
+        "extrapolated": false
+      },
+      {
+        "year": 6,
+        "rate": 0.4286,
+        "extrapolated": false
+      },
+      {
+        "year": 7,
+        "rate": 0.4055,
+        "extrapolated": false
+      },
+      {
+        "year": 8,
+        "rate": 0.3837,
+        "extrapolated": false
+      },
+      {
+        "year": 9,
+        "rate": 0.3648,
+        "extrapolated": false
+      },
+      {
+        "year": 10,
+        "rate": 0.3499,
+        "extrapolated": false
+      },
+      {
+        "year": 11,
+        "rate": 0.3343,
+        "extrapolated": false
+      },
+      {
+        "year": 12,
+        "rate": 0.3219,
+        "extrapolated": false
+      },
+      {
+        "year": 13,
+        "rate": 0.3086,
+        "extrapolated": false
+      },
+      {
+        "year": 14,
+        "rate": 0.2993,
+        "extrapolated": false
+      },
+      {
+        "year": 15,
+        "rate": 0.2903,
+        "extrapolated": false
+      },
+      {
+        "year": 16,
+        "rate": 0.2813,
+        "extrapolated": false
+      },
+      {
+        "year": 17,
+        "rate": 0.2732,
+        "extrapolated": false
+      },
+      {
+        "year": 18,
+        "rate": 0.2652,
+        "extrapolated": false
+      },
+      {
+        "year": 19,
+        "rate": 0.2586,
+        "extrapolated": false
+      },
+      {
+        "year": 20,
+        "rate": 0.2502,
+        "extrapolated": false
+      },
+      {
+        "year": 21,
+        "rate": 0.239,
+        "extrapolated": false
+      },
+      {
+        "year": 22,
+        "rate": 0.2264,
+        "extrapolated": false
+      },
+      {
+        "year": 23,
+        "rate": 0.2113,
+        "extrapolated": false
+      },
+      {
+        "year": 24,
+        "rate": 0.2064,
+        "extrapolated": false
+      },
+      {
+        "year": 25,
+        "rate": 0.2063,
+        "extrapolated": true
+      },
+      {
+        "year": 26,
+        "rate": 0.1993,
+        "extrapolated": true
+      },
+      {
+        "year": 27,
+        "rate": 0.1925,
+        "extrapolated": true
+      },
+      {
+        "year": 28,
+        "rate": 0.186,
+        "extrapolated": true
+      },
+      {
+        "year": 29,
+        "rate": 0.1797,
+        "extrapolated": true
+      },
+      {
+        "year": 30,
+        "rate": 0.1736,
+        "extrapolated": true
+      },
+      {
+        "year": 31,
+        "rate": 0.1677,
+        "extrapolated": true
+      },
+      {
+        "year": 32,
+        "rate": 0.162,
+        "extrapolated": true
+      },
+      {
+        "year": 33,
+        "rate": 0.1565,
+        "extrapolated": true
+      },
+      {
+        "year": 34,
+        "rate": 0.1512,
+        "extrapolated": true
+      },
+      {
+        "year": 35,
+        "rate": 0.1461,
+        "extrapolated": true
+      },
+      {
+        "year": 36,
+        "rate": 0.1412,
+        "extrapolated": true
+      },
+      {
+        "year": 37,
+        "rate": 0.1364,
+        "extrapolated": true
+      },
+      {
+        "year": 38,
+        "rate": 0.1318,
+        "extrapolated": true
+      },
+      {
+        "year": 39,
+        "rate": 0.1273,
+        "extrapolated": true
+      },
+      {
+        "year": 40,
+        "rate": 0.123,
+        "extrapolated": true
+      },
+      {
+        "year": 41,
+        "rate": 0.1188,
+        "extrapolated": true
+      },
+      {
+        "year": 42,
+        "rate": 0.1148,
+        "extrapolated": true
+      },
+      {
+        "year": 43,
+        "rate": 0.1109,
+        "extrapolated": true
+      },
+      {
+        "year": 44,
+        "rate": 0.1071,
+        "extrapolated": true
+      },
+      {
+        "year": 45,
+        "rate": 0.1035,
+        "extrapolated": true
+      },
+      {
+        "year": 46,
+        "rate": 0.1,
+        "extrapolated": true
+      },
+      {
+        "year": 47,
+        "rate": 0.0966,
+        "extrapolated": true
+      },
+      {
+        "year": 48,
+        "rate": 0.0933,
+        "extrapolated": true
+      },
+      {
+        "year": 49,
+        "rate": 0.0902,
+        "extrapolated": true
+      },
+      {
+        "year": 50,
+        "rate": 0.0871,
+        "extrapolated": true
+      },
+      {
+        "year": 51,
+        "rate": 0.0841,
+        "extrapolated": true
+      },
+      {
+        "year": 52,
+        "rate": 0.0813,
+        "extrapolated": true
+      },
+      {
+        "year": 53,
+        "rate": 0.0785,
+        "extrapolated": true
+      },
+      {
+        "year": 54,
+        "rate": 0.0759,
+        "extrapolated": true
+      },
+      {
+        "year": 55,
+        "rate": 0.0733,
+        "extrapolated": true
+      },
+      {
+        "year": 56,
+        "rate": 0.0708,
+        "extrapolated": true
+      },
+      {
+        "year": 57,
+        "rate": 0.0684,
+        "extrapolated": true
+      },
+      {
+        "year": 58,
+        "rate": 0.0661,
+        "extrapolated": true
+      },
+      {
+        "year": 59,
+        "rate": 0.0639,
+        "extrapolated": true
+      },
+      {
+        "year": 60,
+        "rate": 0.0617,
+        "extrapolated": true
+      },
+      {
+        "year": 61,
+        "rate": 0.0596,
+        "extrapolated": true
+      },
+      {
+        "year": 62,
+        "rate": 0.0576,
+        "extrapolated": true
+      },
+      {
+        "year": 63,
+        "rate": 0.0556,
+        "extrapolated": true
+      },
+      {
+        "year": 64,
+        "rate": 0.0537,
+        "extrapolated": true
+      },
+      {
+        "year": 65,
+        "rate": 0.0519,
+        "extrapolated": true
+      }
+    ],
+    "initial_cohort": 5038,
+    "fit_params": {
+      "a": 0.488573,
+      "b": 0.034489,
+      "r_squared": 0.9936
+    }
+  }
+]

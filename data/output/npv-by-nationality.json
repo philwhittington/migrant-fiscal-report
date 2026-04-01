@@ -1,0 +1,354 @@
+[
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "arrival_age": 25,
+    "npv": -140831,
+    "nzborn_npv": -63105,
+    "surplus": 77726,
+    "tax_premium_pct": -9.3
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "arrival_age": 30,
+    "npv": -184603,
+    "nzborn_npv": -71563,
+    "surplus": 113040,
+    "tax_premium_pct": 47.1
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "arrival_age": 40,
+    "npv": -199043,
+    "nzborn_npv": -49281,
+    "surplus": 149762,
+    "tax_premium_pct": 45.2
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "arrival_age": 50,
+    "npv": -113256,
+    "nzborn_npv": 76878,
+    "surplus": 190134,
+    "tax_premium_pct": 53.0
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "arrival_age": 25,
+    "npv": -107785,
+    "nzborn_npv": -63105,
+    "surplus": 44680,
+    "tax_premium_pct": 15.4
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "arrival_age": 30,
+    "npv": -132449,
+    "nzborn_npv": -71563,
+    "surplus": 60886,
+    "tax_premium_pct": 32.5
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "arrival_age": 40,
+    "npv": -127612,
+    "nzborn_npv": -49281,
+    "surplus": 78331,
+    "tax_premium_pct": 16.6
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "arrival_age": 50,
+    "npv": -40646,
+    "nzborn_npv": 76878,
+    "surplus": 117524,
+    "tax_premium_pct": 9.3
+  },
+  {
+    "nationality": "China",
+    "arrival_age": 25,
+    "npv": -44755,
+    "nzborn_npv": -63105,
+    "surplus": -18350,
+    "tax_premium_pct": 19.9
+  },
+  {
+    "nationality": "China",
+    "arrival_age": 30,
+    "npv": -46867,
+    "nzborn_npv": -71563,
+    "surplus": -24696,
+    "tax_premium_pct": -5.8
+  },
+  {
+    "nationality": "China",
+    "arrival_age": 40,
+    "npv": -30257,
+    "nzborn_npv": -49281,
+    "surplus": -19024,
+    "tax_premium_pct": -29.9
+  },
+  {
+    "nationality": "China",
+    "arrival_age": 50,
+    "npv": 43406,
+    "nzborn_npv": 76878,
+    "surplus": 33472,
+    "tax_premium_pct": -35.4
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "arrival_age": 25,
+    "npv": -166146,
+    "nzborn_npv": -63105,
+    "surplus": 103041,
+    "tax_premium_pct": 36.4
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "arrival_age": 30,
+    "npv": -203885,
+    "nzborn_npv": -71563,
+    "surplus": 132322,
+    "tax_premium_pct": 86.6
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "arrival_age": 40,
+    "npv": -178279,
+    "nzborn_npv": -49281,
+    "surplus": 128998,
+    "tax_premium_pct": 49.2
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "arrival_age": 50,
+    "npv": -68450,
+    "nzborn_npv": 76878,
+    "surplus": 145328,
+    "tax_premium_pct": 26.1
+  },
+  {
+    "nationality": "Other Asia",
+    "arrival_age": 25,
+    "npv": -48554,
+    "nzborn_npv": -63105,
+    "surplus": -14551,
+    "tax_premium_pct": 2.6
+  },
+  {
+    "nationality": "Other Asia",
+    "arrival_age": 30,
+    "npv": -58403,
+    "nzborn_npv": -71563,
+    "surplus": -13160,
+    "tax_premium_pct": 13.7
+  },
+  {
+    "nationality": "Other Asia",
+    "arrival_age": 40,
+    "npv": -23192,
+    "nzborn_npv": -49281,
+    "surplus": -26089,
+    "tax_premium_pct": -32.1
+  },
+  {
+    "nationality": "Other Asia",
+    "arrival_age": 50,
+    "npv": 52305,
+    "nzborn_npv": 76878,
+    "surplus": 24573,
+    "tax_premium_pct": -47.3
+  },
+  {
+    "nationality": "Pacific",
+    "arrival_age": 25,
+    "npv": -105805,
+    "nzborn_npv": -63105,
+    "surplus": 42700,
+    "tax_premium_pct": 9.5
+  },
+  {
+    "nationality": "Pacific",
+    "arrival_age": 30,
+    "npv": -132007,
+    "nzborn_npv": -71563,
+    "surplus": 60444,
+    "tax_premium_pct": 37.6
+  },
+  {
+    "nationality": "Pacific",
+    "arrival_age": 40,
+    "npv": -119881,
+    "nzborn_npv": -49281,
+    "surplus": 70600,
+    "tax_premium_pct": 15.9
+  },
+  {
+    "nationality": "Pacific",
+    "arrival_age": 50,
+    "npv": -27798,
+    "nzborn_npv": 76878,
+    "surplus": 104676,
+    "tax_premium_pct": -3.5
+  },
+  {
+    "nationality": "Phillipines",
+    "arrival_age": 25,
+    "npv": -150130,
+    "nzborn_npv": -63105,
+    "surplus": 87025,
+    "tax_premium_pct": 17.4
+  },
+  {
+    "nationality": "Phillipines",
+    "arrival_age": 30,
+    "npv": -188711,
+    "nzborn_npv": -71563,
+    "surplus": 117148,
+    "tax_premium_pct": 70.7
+  },
+  {
+    "nationality": "Phillipines",
+    "arrival_age": 40,
+    "npv": -172853,
+    "nzborn_npv": -49281,
+    "surplus": 123572,
+    "tax_premium_pct": 31.5
+  },
+  {
+    "nationality": "Phillipines",
+    "arrival_age": 50,
+    "npv": -91754,
+    "nzborn_npv": 76878,
+    "surplus": 168632,
+    "tax_premium_pct": 24.7
+  },
+  {
+    "nationality": "South Africa",
+    "arrival_age": 25,
+    "npv": -182714,
+    "nzborn_npv": -63105,
+    "surplus": 119609,
+    "tax_premium_pct": 13.8
+  },
+  {
+    "nationality": "South Africa",
+    "arrival_age": 30,
+    "npv": -232341,
+    "nzborn_npv": -71563,
+    "surplus": 160778,
+    "tax_premium_pct": 63.9
+  },
+  {
+    "nationality": "South Africa",
+    "arrival_age": 40,
+    "npv": -259627,
+    "nzborn_npv": -49281,
+    "surplus": 210346,
+    "tax_premium_pct": 69.2
+  },
+  {
+    "nationality": "South Africa",
+    "arrival_age": 50,
+    "npv": -174038,
+    "nzborn_npv": 76878,
+    "surplus": 250916,
+    "tax_premium_pct": 72.9
+  },
+  {
+    "nationality": "South Asia",
+    "arrival_age": 25,
+    "npv": -137879,
+    "nzborn_npv": -63105,
+    "surplus": 74774,
+    "tax_premium_pct": 52.8
+  },
+  {
+    "nationality": "South Asia",
+    "arrival_age": 30,
+    "npv": -159574,
+    "nzborn_npv": -71563,
+    "surplus": 88011,
+    "tax_premium_pct": 39.9
+  },
+  {
+    "nationality": "South Asia",
+    "arrival_age": 40,
+    "npv": -164209,
+    "nzborn_npv": -49281,
+    "surplus": 114928,
+    "tax_premium_pct": 17.0
+  },
+  {
+    "nationality": "South Asia",
+    "arrival_age": 50,
+    "npv": -103288,
+    "nzborn_npv": 76878,
+    "surplus": 180166,
+    "tax_premium_pct": 20.0
+  },
+  {
+    "nationality": "UK",
+    "arrival_age": 25,
+    "npv": -215866,
+    "nzborn_npv": -63105,
+    "surplus": 152761,
+    "tax_premium_pct": 21.1
+  },
+  {
+    "nationality": "UK",
+    "arrival_age": 30,
+    "npv": -274539,
+    "nzborn_npv": -71563,
+    "surplus": 202976,
+    "tax_premium_pct": 95.4
+  },
+  {
+    "nationality": "UK",
+    "arrival_age": 40,
+    "npv": -289700,
+    "nzborn_npv": -49281,
+    "surplus": 240419,
+    "tax_premium_pct": 82.0
+  },
+  {
+    "nationality": "UK",
+    "arrival_age": 50,
+    "npv": -201856,
+    "nzborn_npv": 76878,
+    "surplus": 278734,
+    "tax_premium_pct": 67.0
+  },
+  {
+    "nationality": "US/Canada",
+    "arrival_age": 25,
+    "npv": -229864,
+    "nzborn_npv": -63105,
+    "surplus": 166759,
+    "tax_premium_pct": 6.6
+  },
+  {
+    "nationality": "US/Canada",
+    "arrival_age": 30,
+    "npv": -297724,
+    "nzborn_npv": -71563,
+    "surplus": 226161,
+    "tax_premium_pct": 95.3
+  },
+  {
+    "nationality": "US/Canada",
+    "arrival_age": 40,
+    "npv": -331137,
+    "nzborn_npv": -49281,
+    "surplus": 281856,
+    "tax_premium_pct": 105.0
+  },
+  {
+    "nationality": "US/Canada",
+    "arrival_age": 50,
+    "npv": -231678,
+    "nzborn_npv": 76878,
+    "surplus": 308556,
+    "tax_premium_pct": 82.9
+  }
+]

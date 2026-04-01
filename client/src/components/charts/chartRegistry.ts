@@ -6,14 +6,20 @@ import { lazy, type ComponentType } from "react";
  * and swaps in the registered component.
  */
 const registry: Record<string, React.LazyExoticComponent<ComponentType<any>>> = {
-  "vat-registrants": lazy(() =>
-    import("./VATDemoWidget").then((m) => ({ default: m.VATDemoWidget }))
+  "npv-calculator": lazy(() =>
+    import("./NPVCalculatorWidget").then((m) => ({ default: m.NPVCalculatorWidget }))
   ),
-  "implementation-plan": lazy(() =>
-    import("./ImplementationPlanWidget").then((m) => ({ default: m.ImplementationPlanWidget }))
+  "nationality-convergence": lazy(() =>
+    import("./NationalityConvergenceWidget").then((m) => ({ default: m.NationalityConvergenceWidget }))
   ),
-  "compliance-review": lazy(() =>
-    import("./ComplianceReviewWidget").then((m) => ({ default: m.ComplianceReviewWidget }))
+  "retention-explorer": lazy(() =>
+    import("./RetentionExplorerWidget").then((m) => ({ default: m.RetentionExplorerWidget }))
+  ),
+  "rv2021-shift": lazy(() =>
+    import("./RV2021ShiftWidget").then((m) => ({ default: m.RV2021ShiftWidget }))
+  ),
+  "fiscal-waterfall": lazy(() =>
+    import("./FiscalWaterfallWidget").then((m) => ({ default: m.FiscalWaterfallWidget }))
   ),
 };
 

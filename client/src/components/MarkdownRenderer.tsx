@@ -1,4 +1,28 @@
-import React, { Suspense, createContext, useContext, useMemo } from "react";
+import React, { Component, Suspense, createContext, useContext, useMemo } from "react";
+
+// ── Error boundary for lazy-loaded widgets ──────────────────────────────────
+class WidgetErrorBoundary extends Component<
+  { id: string; children: React.ReactNode },
+  { hasError: boolean; error: string }
+> {
+  constructor(props: any) {
+    super(props);
+    this.state = { hasError: false, error: "" };
+  }
+  static getDerivedStateFromError(error: Error) {
+    return { hasError: true, error: error.message };
+  }
+  render() {
+    if (this.state.hasError) {
+      return (
+        <div className="my-8 p-4 border border-rule bg-linen text-steel text-sm font-sans">
+          Widget "{this.props.id}" failed to load: {this.state.error}
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
@@ -77,15 +101,17 @@ function DemoEmbed({ id }: { id: string }) {
     );
   }
   return (
-    <Suspense
-      fallback={
-        <div className="my-8 py-12 flex items-center justify-center text-steel text-sm font-sans">
-          Loading demo…
-        </div>
-      }
-    >
-      <Component />
-    </Suspense>
+    <WidgetErrorBoundary id={id}>
+      <Suspense
+        fallback={
+          <div className="my-8 py-12 flex items-center justify-center text-steel text-sm font-sans">
+            Loading demo…
+          </div>
+        }
+      >
+        <Component />
+      </Suspense>
+    </WidgetErrorBoundary>
   );
 }
 

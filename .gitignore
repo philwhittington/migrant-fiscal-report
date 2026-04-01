@@ -6,3 +6,6 @@ dist/
 *.tsbuildinfo
 .DS_Store
 .wrangler/
+.agent/logs/
+client/public/data/
+data/raw/hughes-an2602.xlsx

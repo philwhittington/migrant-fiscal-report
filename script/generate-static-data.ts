@@ -1,64 +1,64 @@
 /**
- * Build-time script: converts content/pacific-llm-revenue.md into a static
+ * Build-time script: converts content/migrant-fiscal-impact.md into a static
  * JSON file, and copies data assets to client/public.
  *
  * Produces:
- *   client/public/data/report.json          — full report content
- *   client/public/data/vat-register.json    — 112-row VAT register
- *   client/public/data/source-a.json        — messy GRT source file
- *   client/public/data/source-b.json        — business licence source
- *   client/public/data/source-c.json        — VAT interest log source
+ *   client/public/data/report.json     -- full report content
+ *   client/public/data/*.json          -- widget data files from data/output/
+ *   client/public/data/*.json          -- processed data from data/processed/
  */
 
 import fs from "fs";
 import path from "path";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
-const CONTENT_FILE = path.join(ROOT, "content", "pacific-llm-revenue.md");
-const DATA_DIR = path.join(ROOT, "data");
+const CONTENT_FILE = path.join(ROOT, "content", "migrant-fiscal-impact.md");
+const OUTPUT_DIR = path.join(ROOT, "data", "output");
+const PROCESSED_DIR = path.join(ROOT, "data", "processed");
 const PUBLIC_DIR = path.join(ROOT, "client", "public");
 const PUBLIC_DATA_DIR = path.join(PUBLIC_DIR, "data");
 
 function extractTitle(content: string): string {
   const match = content.match(/^#\s+(.+)$/m);
-  return match ? match[1].trim() : "Pacific LLM Report";
+  return match ? match[1].trim() : "Migrant Fiscal Impact Report";
+}
+
+function copyJsonFiles(srcDir: string, destDir: string, label: string): void {
+  if (!fs.existsSync(srcDir)) {
+    console.warn(`  Warning: ${label} directory not found -- skipping.`);
+    return;
+  }
+  const files = fs.readdirSync(srcDir).filter(f => f.endsWith(".json"));
+  for (const file of files) {
+    const destPath = path.join(destDir, file);
+    if (!fs.existsSync(destPath)) {
+      fs.copyFileSync(path.join(srcDir, file), destPath);
+      console.log(`  OK ${file} (from ${label})`);
+    }
+  }
 }
 
 function generateData() {
-  console.log("Generating static data...");
+  console.log("Generating static data for migrant fiscal report...\n");
   fs.mkdirSync(PUBLIC_DATA_DIR, { recursive: true });
 
-  // 1. Report markdown
+  // 1. Report markdown to JSON
   if (!fs.existsSync(CONTENT_FILE)) {
-    console.warn("  ⚠ content/pacific-llm-revenue.md not found — skipping.");
+    console.warn("  Warning: content/migrant-fiscal-impact.md not found -- skipping report.json.");
   } else {
     const content = fs.readFileSync(CONTENT_FILE, "utf-8");
     const report = { id: "report", title: extractTitle(content), content };
     fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "report.json"), JSON.stringify(report));
-    console.log("  ✓ report.json");
+    console.log("  OK report.json");
   }
 
-  // 2. Data files — copy from data/ to client/public/data/
-  const dataFiles: { src: string; dest: string }[] = [
-    { src: "vat-register.json",              dest: "vat-register.json" },
-    { src: "source-a-grt-register.json",     dest: "source-a.json" },
-    { src: "source-b-business-licences.json", dest: "source-b.json" },
-    { src: "source-c-vat-interest-log.json", dest: "source-c.json" },
-    { src: "implementation-plan.json",       dest: "implementation-plan.json" },
-  ];
+  // 2. Widget data files from data/output/ (takes precedence)
+  copyJsonFiles(OUTPUT_DIR, PUBLIC_DATA_DIR, "data/output");
 
-  for (const { src, dest } of dataFiles) {
-    const srcPath = path.join(DATA_DIR, src);
-    const destPath = path.join(PUBLIC_DATA_DIR, dest);
-    if (fs.existsSync(srcPath)) {
-      fs.copyFileSync(srcPath, destPath);
-      console.log(`  ✓ ${dest}`);
-    } else {
-      console.warn(`  ⚠ ${src} not found — skipping.`);
-    }
-  }
+  // 3. Processed data files from data/processed/
+  copyJsonFiles(PROCESSED_DIR, PUBLIC_DATA_DIR, "data/processed");
 
-  console.log("\n✓ Static data generation complete.\n");
+  console.log("\nStatic data generation complete.\n");
 }
 
 try {

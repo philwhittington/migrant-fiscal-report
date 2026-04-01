@@ -1,0 +1,2037 @@
+{
+  "retention_curves": [
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 5038
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 1,
+      "retention_rate": 0.8769,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 5038
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 2,
+      "retention_rate": 0.7325,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 5038
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 3,
+      "retention_rate": 0.556,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 5038
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 4,
+      "retention_rate": 0.4955,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 5038
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 5,
+      "retention_rate": 0.4564,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 5038
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 6,
+      "retention_rate": 0.4286,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 4994
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 7,
+      "retention_rate": 0.4055,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 4978
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 8,
+      "retention_rate": 0.3837,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 4941
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 9,
+      "retention_rate": 0.3648,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 4899
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 10,
+      "retention_rate": 0.3499,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 4871
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 11,
+      "retention_rate": 0.3343,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 4868
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 12,
+      "retention_rate": 0.3219,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 4901
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 13,
+      "retention_rate": 0.3086,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 5005
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 14,
+      "retention_rate": 0.2993,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 5110
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 15,
+      "retention_rate": 0.2903,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 5205
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 16,
+      "retention_rate": 0.2813,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 5326
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 17,
+      "retention_rate": 0.2732,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 5422
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 18,
+      "retention_rate": 0.2652,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 5471
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 19,
+      "retention_rate": 0.2586,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 5491
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 20,
+      "retention_rate": 0.2502,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 5479
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 21,
+      "retention_rate": 0.239,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 5283
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 22,
+      "retention_rate": 0.2264,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 5000
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 23,
+      "retention_rate": 0.2113,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 4838
+    },
+    {
+      "first_visa": "A.Australian",
+      "years_since_arrival": 24,
+      "retention_rate": 0.2064,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 4563
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8601
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9423,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8601
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 2,
+      "retention_rate": 0.8849,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8601
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 3,
+      "retention_rate": 0.7348,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8601
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 4,
+      "retention_rate": 0.7028,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8601
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 5,
+      "retention_rate": 0.679,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8601
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 6,
+      "retention_rate": 0.6563,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 8555
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 7,
+      "retention_rate": 0.6319,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 8562
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 8,
+      "retention_rate": 0.611,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 8541
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 9,
+      "retention_rate": 0.5915,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8480
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 10,
+      "retention_rate": 0.5755,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 8431
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 11,
+      "retention_rate": 0.5596,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 8391
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 12,
+      "retention_rate": 0.5463,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 8379
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 13,
+      "retention_rate": 0.5316,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 8428
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 14,
+      "retention_rate": 0.5181,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 8492
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 15,
+      "retention_rate": 0.5064,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 8542
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 16,
+      "retention_rate": 0.4941,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 8553
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 17,
+      "retention_rate": 0.4821,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 8584
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 18,
+      "retention_rate": 0.4709,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 8624
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 19,
+      "retention_rate": 0.4614,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 8616
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 20,
+      "retention_rate": 0.4529,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 8539
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 21,
+      "retention_rate": 0.4362,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 8389
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 22,
+      "retention_rate": 0.4223,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 7998
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 23,
+      "retention_rate": 0.4114,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 7473
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "years_since_arrival": 24,
+      "retention_rate": 0.4026,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 6342
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 4490
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9277,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 4490
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 2,
+      "retention_rate": 0.8448,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 4490
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 3,
+      "retention_rate": 0.8043,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 4490
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 4,
+      "retention_rate": 0.7918,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 4490
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 5,
+      "retention_rate": 0.7763,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 4490
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 6,
+      "retention_rate": 0.7628,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 4497
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 7,
+      "retention_rate": 0.7475,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 4516
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 8,
+      "retention_rate": 0.7366,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 4529
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 9,
+      "retention_rate": 0.725,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 4490
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 10,
+      "retention_rate": 0.7105,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 4469
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 11,
+      "retention_rate": 0.6862,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 4453
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 12,
+      "retention_rate": 0.671,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 4486
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 13,
+      "retention_rate": 0.6565,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 4489
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 14,
+      "retention_rate": 0.6434,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 4532
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 15,
+      "retention_rate": 0.6288,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 4614
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 16,
+      "retention_rate": 0.6154,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 4655
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 17,
+      "retention_rate": 0.6029,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 4683
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 18,
+      "retention_rate": 0.5911,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 4702
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 19,
+      "retention_rate": 0.5825,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 4720
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 20,
+      "retention_rate": 0.5686,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 4777
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 21,
+      "retention_rate": 0.5536,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 4928
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 22,
+      "retention_rate": 0.5314,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 5044
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 23,
+      "retention_rate": 0.5118,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 5031
+    },
+    {
+      "first_visa": "R.Family",
+      "years_since_arrival": 24,
+      "retention_rate": 0.4964,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 4194
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 1913
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9828,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 1913
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 2,
+      "retention_rate": 0.953,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 1913
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 3,
+      "retention_rate": 0.9224,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 1913
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 4,
+      "retention_rate": 0.8941,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 1913
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 5,
+      "retention_rate": 0.872,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 1913
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 6,
+      "retention_rate": 0.8444,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 1924
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 7,
+      "retention_rate": 0.8179,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 1921
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 8,
+      "retention_rate": 0.7957,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 1915
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 9,
+      "retention_rate": 0.7744,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 1923
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 10,
+      "retention_rate": 0.7521,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 1922
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 11,
+      "retention_rate": 0.7304,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 1900
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 12,
+      "retention_rate": 0.7096,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 1890
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 13,
+      "retention_rate": 0.6911,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 1881
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 14,
+      "retention_rate": 0.6734,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 1885
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 15,
+      "retention_rate": 0.653,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 1888
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 16,
+      "retention_rate": 0.6415,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 1874
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 17,
+      "retention_rate": 0.624,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 1795
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 18,
+      "retention_rate": 0.6065,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 1728
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 19,
+      "retention_rate": 0.5791,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 1594
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 20,
+      "retention_rate": 0.5564,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 1384
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 21,
+      "retention_rate": 0.5198,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 1289
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 22,
+      "retention_rate": 0.514,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 1305
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 23,
+      "retention_rate": 0.5192,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 1396
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "years_since_arrival": 24,
+      "retention_rate": 0.499,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 1527
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8092
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9655,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8092
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 2,
+      "retention_rate": 0.9225,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8092
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 3,
+      "retention_rate": 0.8887,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8092
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 4,
+      "retention_rate": 0.8644,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8092
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 5,
+      "retention_rate": 0.8407,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8092
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 6,
+      "retention_rate": 0.8097,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 8331
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 7,
+      "retention_rate": 0.7822,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 8586
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 8,
+      "retention_rate": 0.7598,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 8779
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 9,
+      "retention_rate": 0.7412,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8915
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 10,
+      "retention_rate": 0.7257,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 9167
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 11,
+      "retention_rate": 0.7106,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 9503
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 12,
+      "retention_rate": 0.6958,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 9918
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 13,
+      "retention_rate": 0.6821,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 10375
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 14,
+      "retention_rate": 0.6698,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 10865
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 15,
+      "retention_rate": 0.6584,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 11383
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 16,
+      "retention_rate": 0.6446,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 11930
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 17,
+      "retention_rate": 0.6307,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 12381
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 18,
+      "retention_rate": 0.6193,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 12735
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 19,
+      "retention_rate": 0.6043,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 12930
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 20,
+      "retention_rate": 0.5932,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 13341
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 21,
+      "retention_rate": 0.5834,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 14475
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 22,
+      "retention_rate": 0.5708,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 14079
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 23,
+      "retention_rate": 0.5626,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 11049
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "years_since_arrival": 24,
+      "retention_rate": 0.5663,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 7194
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 3565
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9675,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 3565
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 2,
+      "retention_rate": 0.8976,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 3565
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 3,
+      "retention_rate": 0.8486,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 3565
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 4,
+      "retention_rate": 0.817,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 3565
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 5,
+      "retention_rate": 0.7963,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 3565
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 6,
+      "retention_rate": 0.7771,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 3333
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 7,
+      "retention_rate": 0.7525,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 3183
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 8,
+      "retention_rate": 0.7286,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 3049
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 9,
+      "retention_rate": 0.7078,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 2958
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 10,
+      "retention_rate": 0.6884,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 2917
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 11,
+      "retention_rate": 0.6712,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 2909
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 12,
+      "retention_rate": 0.6548,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 2939
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 13,
+      "retention_rate": 0.639,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 2990
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 14,
+      "retention_rate": 0.6262,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 3063
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 15,
+      "retention_rate": 0.6168,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 3136
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 16,
+      "retention_rate": 0.603,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 3049
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 17,
+      "retention_rate": 0.5821,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 2725
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 18,
+      "retention_rate": 0.5658,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 2456
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 19,
+      "retention_rate": 0.5509,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 2240
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 20,
+      "retention_rate": 0.534,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 2100
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 21,
+      "retention_rate": 0.5163,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 1872
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 22,
+      "retention_rate": 0.4956,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 1669
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 23,
+      "retention_rate": 0.4635,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 1120
+    },
+    {
+      "first_visa": "S.Dependent",
+      "years_since_arrival": 24,
+      "retention_rate": 0.4138,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 348
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 16302
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 1,
+      "retention_rate": 0.8874,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 16302
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 2,
+      "retention_rate": 0.7192,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 16302
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 3,
+      "retention_rate": 0.6222,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 16302
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 4,
+      "retention_rate": 0.5539,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 16302
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 5,
+      "retention_rate": 0.5057,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 16302
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 6,
+      "retention_rate": 0.4624,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 16142
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 7,
+      "retention_rate": 0.4284,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 15938
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 8,
+      "retention_rate": 0.3993,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 15619
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 9,
+      "retention_rate": 0.3746,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 15167
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 10,
+      "retention_rate": 0.3495,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 14344
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 11,
+      "retention_rate": 0.3299,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 13758
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 12,
+      "retention_rate": 0.3148,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 13723
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 13,
+      "retention_rate": 0.3017,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 13726
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 14,
+      "retention_rate": 0.2909,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 13625
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 15,
+      "retention_rate": 0.28,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 13413
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 16,
+      "retention_rate": 0.2723,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 13346
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 17,
+      "retention_rate": 0.266,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 13370
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 18,
+      "retention_rate": 0.2628,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 13802
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 19,
+      "retention_rate": 0.262,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 14665
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 20,
+      "retention_rate": 0.2649,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 16132
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 21,
+      "retention_rate": 0.2689,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 17940
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 22,
+      "retention_rate": 0.2704,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 18246
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 23,
+      "retention_rate": 0.2696,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 14145
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "years_since_arrival": 24,
+      "retention_rate": 0.2692,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 9183
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8631
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9287,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8631
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 2,
+      "retention_rate": 0.836,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8631
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 3,
+      "retention_rate": 0.7664,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8631
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 4,
+      "retention_rate": 0.733,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8631
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 5,
+      "retention_rate": 0.7108,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 8631
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 6,
+      "retention_rate": 0.6927,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 8448
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 7,
+      "retention_rate": 0.67,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 8347
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 8,
+      "retention_rate": 0.648,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 8227
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 9,
+      "retention_rate": 0.6267,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8130
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 10,
+      "retention_rate": 0.6078,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 8087
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 11,
+      "retention_rate": 0.5907,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 8168
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 12,
+      "retention_rate": 0.5726,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 8343
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 13,
+      "retention_rate": 0.5577,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 8586
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 14,
+      "retention_rate": 0.5437,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 8863
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 15,
+      "retention_rate": 0.5312,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 9162
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 16,
+      "retention_rate": 0.5155,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 9378
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 17,
+      "retention_rate": 0.4984,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 9309
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 18,
+      "retention_rate": 0.4847,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 9277
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 19,
+      "retention_rate": 0.4733,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 9304
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 20,
+      "retention_rate": 0.4644,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 9432
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 21,
+      "retention_rate": 0.4516,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 9631
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 22,
+      "retention_rate": 0.4377,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 9748
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 23,
+      "retention_rate": 0.4378,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 9492
+    },
+    {
+      "first_visa": "V.Visitor",
+      "years_since_arrival": 24,
+      "retention_rate": 0.4292,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 9366
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6499
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9541,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6499
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 2,
+      "retention_rate": 0.8734,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6499
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 3,
+      "retention_rate": 0.8266,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6499
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 4,
+      "retention_rate": 0.7958,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6499
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 5,
+      "retention_rate": 0.7726,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6499
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 6,
+      "retention_rate": 0.753,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 6305
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 7,
+      "retention_rate": 0.73,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 6071
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 8,
+      "retention_rate": 0.7093,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 5849
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 9,
+      "retention_rate": 0.6906,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 5631
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 10,
+      "retention_rate": 0.6738,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 5428
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 11,
+      "retention_rate": 0.6589,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 5277
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 12,
+      "retention_rate": 0.6479,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 5219
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 13,
+      "retention_rate": 0.6388,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 5170
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 14,
+      "retention_rate": 0.6295,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 5135
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 15,
+      "retention_rate": 0.6222,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 5150
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 16,
+      "retention_rate": 0.6119,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 4981
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 17,
+      "retention_rate": 0.6018,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 4561
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 18,
+      "retention_rate": 0.5931,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 4226
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 19,
+      "retention_rate": 0.5837,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 3936
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 20,
+      "retention_rate": 0.5759,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 3653
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 21,
+      "retention_rate": 0.5685,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 3145
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 22,
+      "retention_rate": 0.5635,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 2702
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 23,
+      "retention_rate": 0.5618,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 2044
+    },
+    {
+      "first_visa": "W.Family",
+      "years_since_arrival": 24,
+      "retention_rate": 0.5781,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 1344
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6646
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9199,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6646
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 2,
+      "retention_rate": 0.7846,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6646
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 3,
+      "retention_rate": 0.7228,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6646
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 4,
+      "retention_rate": 0.6869,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6646
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 5,
+      "retention_rate": 0.6619,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6646
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 6,
+      "retention_rate": 0.6338,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 6333
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 7,
+      "retention_rate": 0.6053,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 6105
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 8,
+      "retention_rate": 0.5808,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 5942
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 9,
+      "retention_rate": 0.5608,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 5827
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 10,
+      "retention_rate": 0.5409,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 5745
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 11,
+      "retention_rate": 0.5231,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 5705
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 12,
+      "retention_rate": 0.5092,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 5732
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 13,
+      "retention_rate": 0.4981,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 5784
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 14,
+      "retention_rate": 0.4932,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 5915
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 15,
+      "retention_rate": 0.4911,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 6161
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 16,
+      "retention_rate": 0.4878,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 6386
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 17,
+      "retention_rate": 0.4774,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 5994
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 18,
+      "retention_rate": 0.4715,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 5526
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 19,
+      "retention_rate": 0.4681,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 5248
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 20,
+      "retention_rate": 0.462,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 5019
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 21,
+      "retention_rate": 0.4565,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 4756
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 22,
+      "retention_rate": 0.4489,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 4392
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 23,
+      "retention_rate": 0.4425,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 3448
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "years_since_arrival": 24,
+      "retention_rate": 0.4352,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 2592
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6820
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 1,
+      "retention_rate": 0.7904,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6820
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 2,
+      "retention_rate": 0.4898,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6820
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 3,
+      "retention_rate": 0.4155,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6820
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 4,
+      "retention_rate": 0.3801,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6820
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 5,
+      "retention_rate": 0.359,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 6820
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 6,
+      "retention_rate": 0.349,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 6351
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 7,
+      "retention_rate": 0.341,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 6033
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 8,
+      "retention_rate": 0.3349,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 5692
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 9,
+      "retention_rate": 0.3303,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 5303
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 10,
+      "retention_rate": 0.328,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 4874
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 11,
+      "retention_rate": 0.3265,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 4510
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 12,
+      "retention_rate": 0.3257,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 4174
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 13,
+      "retention_rate": 0.326,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 3893
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 14,
+      "retention_rate": 0.3282,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 3593
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 15,
+      "retention_rate": 0.3306,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 3334
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 16,
+      "retention_rate": 0.3346,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 3050
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 17,
+      "retention_rate": 0.3405,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 2835
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 18,
+      "retention_rate": 0.3471,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 2573
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 19,
+      "retention_rate": 0.3515,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 2281
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 20,
+      "retention_rate": 0.3519,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 2096
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 21,
+      "retention_rate": 0.3527,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 1967
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 22,
+      "retention_rate": 0.3546,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 1771
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 23,
+      "retention_rate": 0.3481,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 1599
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "years_since_arrival": 24,
+      "retention_rate": 0.3514,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 1383
+    }
+  ],
+  "extrapolation_fits": [
+    {
+      "first_visa": "A.Australian",
+      "a": 0.488573,
+      "b": 0.034489,
+      "r_squared": 0.9936,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "C.Non_birth_citizen",
+      "a": 0.737534,
+      "b": 0.025042,
+      "r_squared": 0.9994,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "R.Family",
+      "a": 0.881966,
+      "b": 0.022461,
+      "r_squared": 0.9951,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "R.Humanitarian and Pacific",
+      "a": 0.978337,
+      "b": 0.026601,
+      "r_squared": 0.9985,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "R.Skilled/investor/entrepreneu",
+      "a": 0.882394,
+      "b": 0.019678,
+      "r_squared": 0.9994,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "S.Dependent",
+      "a": 0.869656,
+      "b": 0.023444,
+      "r_squared": 0.9935,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "S.Fee paying",
+      "a": 0.49429,
+      "b": 0.036849,
+      "r_squared": 0.973,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "V.Visitor",
+      "a": 0.802407,
+      "b": 0.027855,
+      "r_squared": 0.9986,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "W.Family",
+      "a": 0.782227,
+      "b": 0.015416,
+      "r_squared": 0.9959,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "W.Skills/specific purposes/pos",
+      "a": 0.62071,
+      "b": 0.015628,
+      "r_squared": 0.9325,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "first_visa": "W.Working holiday",
+      "a": 0.331911,
+      "b": 0.0,
+      "r_squared": -0.0,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    }
+  ],
+  "metadata": {
+    "source_table": 16,
+    "cohort_range": "2000-2019",
+    "fit_method": "exponential_decay: retention(t) = a * exp(-b * t)",
+    "fit_window": "years 10-18 since arrival",
+    "note": "Retention curves from Table 16 (detailed visa types). Table 14 has aggregated visa types only."
+  }
+}

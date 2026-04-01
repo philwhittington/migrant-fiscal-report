@@ -1,0 +1,976 @@
+{
+  "retention_curves": [
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 11094
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9566,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 11094
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 2,
+      "retention_rate": 0.893,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 11094
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 3,
+      "retention_rate": 0.8355,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 11094
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 4,
+      "retention_rate": 0.8096,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 11094
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 5,
+      "retention_rate": 0.7949,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 11094
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 6,
+      "retention_rate": 0.7742,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 10858
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 7,
+      "retention_rate": 0.7544,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 10648
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 8,
+      "retention_rate": 0.7377,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 10371
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 9,
+      "retention_rate": 0.722,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 10088
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 10,
+      "retention_rate": 0.7075,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 9919
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 11,
+      "retention_rate": 0.6955,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 9838
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 12,
+      "retention_rate": 0.6835,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 9880
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 13,
+      "retention_rate": 0.6699,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 10052
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 14,
+      "retention_rate": 0.6586,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 10315
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 15,
+      "retention_rate": 0.6486,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 10662
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 16,
+      "retention_rate": 0.6361,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 10866
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 17,
+      "retention_rate": 0.6147,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 10634
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 18,
+      "retention_rate": 0.5863,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 10375
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 19,
+      "retention_rate": 0.5614,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 10032
+    },
+    {
+      "arrival_age_band": "0-9",
+      "years_since_arrival": 20,
+      "retention_rate": 0.5302,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 9942
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 25936
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 1,
+      "retention_rate": 0.8762,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 25936
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 2,
+      "retention_rate": 0.7222,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 25936
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 3,
+      "retention_rate": 0.6353,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 25936
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 4,
+      "retention_rate": 0.5709,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 25936
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 5,
+      "retention_rate": 0.515,
+      "cohorts_averaged": 20,
+      "initial_cohort_avg": 25936
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 6,
+      "retention_rate": 0.4832,
+      "cohorts_averaged": 19,
+      "initial_cohort_avg": 26597
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 7,
+      "retention_rate": 0.4536,
+      "cohorts_averaged": 18,
+      "initial_cohort_avg": 27396
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 8,
+      "retention_rate": 0.4277,
+      "cohorts_averaged": 17,
+      "initial_cohort_avg": 28248
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 9,
+      "retention_rate": 0.406,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 29171
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 10,
+      "retention_rate": 0.3879,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 30274
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 11,
+      "retention_rate": 0.3714,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 31587
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 12,
+      "retention_rate": 0.3564,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 33225
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 13,
+      "retention_rate": 0.3406,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 35172
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 14,
+      "retention_rate": 0.3257,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 37444
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 15,
+      "retention_rate": 0.309,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 40122
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 16,
+      "retention_rate": 0.2884,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 43221
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 17,
+      "retention_rate": 0.2609,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 46900
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 18,
+      "retention_rate": 0.2293,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 51771
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 19,
+      "retention_rate": 0.191,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 58349
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 20,
+      "retention_rate": 0.1402,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 67741
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 21,
+      "retention_rate": 0.0742,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 81703
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 22,
+      "retention_rate": 0.0751,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 80195
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 23,
+      "retention_rate": 0.0732,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 69610
+    },
+    {
+      "arrival_age_band": "10-19",
+      "years_since_arrival": 24,
+      "retention_rate": 0.067,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 55209
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 28587
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 1,
+      "retention_rate": 0.8775,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 28587
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 2,
+      "retention_rate": 0.7111,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 28587
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 3,
+      "retention_rate": 0.6297,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 28587
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 4,
+      "retention_rate": 0.5852,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 28587
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 5,
+      "retention_rate": 0.5556,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 28587
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 6,
+      "retention_rate": 0.5349,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 27984
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 7,
+      "retention_rate": 0.5153,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 27511
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 8,
+      "retention_rate": 0.4995,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 26892
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 9,
+      "retention_rate": 0.4858,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 26062
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 10,
+      "retention_rate": 0.4732,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 24719
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 11,
+      "retention_rate": 0.4619,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 23674
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 12,
+      "retention_rate": 0.4533,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 23305
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 13,
+      "retention_rate": 0.4455,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 23077
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 14,
+      "retention_rate": 0.44,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 22757
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 15,
+      "retention_rate": 0.4349,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 22363
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 16,
+      "retention_rate": 0.4293,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 21842
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 17,
+      "retention_rate": 0.4204,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 20614
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 18,
+      "retention_rate": 0.4144,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 19758
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 19,
+      "retention_rate": 0.4088,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 19018
+    },
+    {
+      "arrival_age_band": "20-29",
+      "years_since_arrival": 20,
+      "retention_rate": 0.3992,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 18720
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 17901
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9217,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 17901
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 2,
+      "retention_rate": 0.8234,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 17901
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 3,
+      "retention_rate": 0.7444,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 17901
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 4,
+      "retention_rate": 0.7087,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 17901
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 5,
+      "retention_rate": 0.6862,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 17901
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 6,
+      "retention_rate": 0.6647,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 17234
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 7,
+      "retention_rate": 0.6411,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 16720
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 8,
+      "retention_rate": 0.6208,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 16186
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 9,
+      "retention_rate": 0.6039,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 15679
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 10,
+      "retention_rate": 0.5898,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 15223
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 11,
+      "retention_rate": 0.5773,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 15033
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 12,
+      "retention_rate": 0.5676,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 15104
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 13,
+      "retention_rate": 0.5592,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 15341
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 14,
+      "retention_rate": 0.5538,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 15730
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 15,
+      "retention_rate": 0.551,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 16381
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 16,
+      "retention_rate": 0.5453,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 16971
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 17,
+      "retention_rate": 0.5324,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 16698
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 18,
+      "retention_rate": 0.5191,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 16300
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 19,
+      "retention_rate": 0.5076,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 15764
+    },
+    {
+      "arrival_age_band": "30-39",
+      "years_since_arrival": 20,
+      "retention_rate": 0.4928,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 15585
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8393
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 1,
+      "retention_rate": 0.9303,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8393
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 2,
+      "retention_rate": 0.8544,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8393
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 3,
+      "retention_rate": 0.77,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8393
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 4,
+      "retention_rate": 0.7345,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8393
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 5,
+      "retention_rate": 0.7102,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 8393
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 6,
+      "retention_rate": 0.6862,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 8135
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 7,
+      "retention_rate": 0.6624,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 7991
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 8,
+      "retention_rate": 0.6417,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 7892
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 9,
+      "retention_rate": 0.6258,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 7796
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 10,
+      "retention_rate": 0.6122,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 7791
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 11,
+      "retention_rate": 0.6018,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 7862
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 12,
+      "retention_rate": 0.5926,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 8048
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 13,
+      "retention_rate": 0.5824,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 8308
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 14,
+      "retention_rate": 0.579,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 8636
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 15,
+      "retention_rate": 0.5742,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 9090
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 16,
+      "retention_rate": 0.5691,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 9467
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 17,
+      "retention_rate": 0.5567,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 9384
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 18,
+      "retention_rate": 0.5421,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 9234
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 19,
+      "retention_rate": 0.5189,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 8901
+    },
+    {
+      "arrival_age_band": "40-49",
+      "years_since_arrival": 20,
+      "retention_rate": 0.5065,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 8730
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 0,
+      "retention_rate": 1.0,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 7800
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 1,
+      "retention_rate": 0.8591,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 7800
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 2,
+      "retention_rate": 0.7491,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 7800
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 3,
+      "retention_rate": 0.6632,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 7800
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 4,
+      "retention_rate": 0.6394,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 7800
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 5,
+      "retention_rate": 0.6208,
+      "cohorts_averaged": 16,
+      "initial_cohort_avg": 7800
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 6,
+      "retention_rate": 0.6097,
+      "cohorts_averaged": 15,
+      "initial_cohort_avg": 7560
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 7,
+      "retention_rate": 0.595,
+      "cohorts_averaged": 14,
+      "initial_cohort_avg": 7582
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 8,
+      "retention_rate": 0.5833,
+      "cohorts_averaged": 13,
+      "initial_cohort_avg": 7592
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 9,
+      "retention_rate": 0.5734,
+      "cohorts_averaged": 12,
+      "initial_cohort_avg": 7525
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 10,
+      "retention_rate": 0.5586,
+      "cohorts_averaged": 11,
+      "initial_cohort_avg": 7477
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 11,
+      "retention_rate": 0.5381,
+      "cohorts_averaged": 10,
+      "initial_cohort_avg": 7419
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 12,
+      "retention_rate": 0.52,
+      "cohorts_averaged": 9,
+      "initial_cohort_avg": 7416
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 13,
+      "retention_rate": 0.5036,
+      "cohorts_averaged": 8,
+      "initial_cohort_avg": 7419
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 14,
+      "retention_rate": 0.4888,
+      "cohorts_averaged": 7,
+      "initial_cohort_avg": 7490
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 15,
+      "retention_rate": 0.475,
+      "cohorts_averaged": 6,
+      "initial_cohort_avg": 7636
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 16,
+      "retention_rate": 0.4611,
+      "cohorts_averaged": 5,
+      "initial_cohort_avg": 7726
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 17,
+      "retention_rate": 0.4389,
+      "cohorts_averaged": 4,
+      "initial_cohort_avg": 7647
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 18,
+      "retention_rate": 0.4108,
+      "cohorts_averaged": 3,
+      "initial_cohort_avg": 7499
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 19,
+      "retention_rate": 0.3833,
+      "cohorts_averaged": 2,
+      "initial_cohort_avg": 7215
+    },
+    {
+      "arrival_age_band": "50+",
+      "years_since_arrival": 20,
+      "retention_rate": 0.3723,
+      "cohorts_averaged": 1,
+      "initial_cohort_avg": 7131
+    }
+  ],
+  "extrapolation_fits": [
+    {
+      "arrival_age_band": "0-9",
+      "a": 0.882013,
+      "b": 0.021293,
+      "r_squared": 0.9664,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "arrival_age_band": "10-19",
+      "a": 0.710473,
+      "b": 0.05801,
+      "r_squared": 0.9588,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "arrival_age_band": "20-29",
+      "a": 0.550486,
+      "b": 0.015829,
+      "r_squared": 0.9906,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "arrival_age_band": "30-39",
+      "a": 0.675874,
+      "b": 0.014114,
+      "r_squared": 0.9706,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "arrival_age_band": "40-49",
+      "a": 0.699314,
+      "b": 0.013541,
+      "r_squared": 0.9718,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    },
+    {
+      "arrival_age_band": "50+",
+      "a": 0.795797,
+      "b": 0.035176,
+      "r_squared": 0.9864,
+      "fit_years_min": 10,
+      "fit_years_max": 18,
+      "fit_points": 9
+    }
+  ],
+  "metadata": {
+    "source_table": 142,
+    "cohort_range": "2000-2019",
+    "fit_method": "exponential_decay: retention(t) = a * exp(-b * t)",
+    "fit_window": "years 10-18 since arrival"
+  }
+}

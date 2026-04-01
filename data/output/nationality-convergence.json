@@ -1,0 +1,8522 @@
+[
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2002,
+    "ratio": 0.4286,
+    "age_band": "20-29",
+    "nationality_tax": 1416,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2003,
+    "ratio": 0.743,
+    "age_band": "20-29",
+    "nationality_tax": 2565,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2004,
+    "ratio": 0.9854,
+    "age_band": "20-29",
+    "nationality_tax": 3612,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2005,
+    "ratio": 0.7908,
+    "age_band": "20-29",
+    "nationality_tax": 3127,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2006,
+    "ratio": 0.8406,
+    "age_band": "20-29",
+    "nationality_tax": 3543,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2007,
+    "ratio": 0.8195,
+    "age_band": "20-29",
+    "nationality_tax": 3592,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2008,
+    "ratio": 0.8282,
+    "age_band": "20-29",
+    "nationality_tax": 3885,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2009,
+    "ratio": 0.8023,
+    "age_band": "20-29",
+    "nationality_tax": 3503,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2010,
+    "ratio": 0.825,
+    "age_band": "20-29",
+    "nationality_tax": 2936,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2011,
+    "ratio": 0.8435,
+    "age_band": "20-29",
+    "nationality_tax": 2641,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2012,
+    "ratio": 0.803,
+    "age_band": "20-29",
+    "nationality_tax": 2350,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2013,
+    "ratio": 0.8169,
+    "age_band": "20-29",
+    "nationality_tax": 2548,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2014,
+    "ratio": 0.7348,
+    "age_band": "20-29",
+    "nationality_tax": 2483,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2015,
+    "ratio": 0.797,
+    "age_band": "20-29",
+    "nationality_tax": 2932,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2016,
+    "ratio": 0.7943,
+    "age_band": "20-29",
+    "nationality_tax": 3082,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2017,
+    "ratio": 0.8227,
+    "age_band": "20-29",
+    "nationality_tax": 3392,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2018,
+    "ratio": 0.8665,
+    "age_band": "20-29",
+    "nationality_tax": 3875,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2019,
+    "ratio": 0.9073,
+    "age_band": "20-29",
+    "nationality_tax": 4374,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2020,
+    "ratio": 0.9381,
+    "age_band": "20-29",
+    "nationality_tax": 4808,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2021,
+    "ratio": 0.8755,
+    "age_band": "20-29",
+    "nationality_tax": 4538,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2022,
+    "ratio": 0.9852,
+    "age_band": "20-29",
+    "nationality_tax": 5846,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2023,
+    "ratio": 1.0727,
+    "age_band": "20-29",
+    "nationality_tax": 7138,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2024,
+    "ratio": 1.1159,
+    "age_band": "20-29",
+    "nationality_tax": 7663,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2000,
+    "ratio": 0.3935,
+    "age_band": "30-39",
+    "nationality_tax": 1669,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2001,
+    "ratio": 0.6104,
+    "age_band": "30-39",
+    "nationality_tax": 2752,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2002,
+    "ratio": 0.9256,
+    "age_band": "30-39",
+    "nationality_tax": 4498,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2003,
+    "ratio": 1.0703,
+    "age_band": "30-39",
+    "nationality_tax": 5414,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2004,
+    "ratio": 1.1537,
+    "age_band": "30-39",
+    "nationality_tax": 6206,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2005,
+    "ratio": 1.2327,
+    "age_band": "30-39",
+    "nationality_tax": 7013,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2006,
+    "ratio": 1.2563,
+    "age_band": "30-39",
+    "nationality_tax": 7445,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2007,
+    "ratio": 1.4033,
+    "age_band": "30-39",
+    "nationality_tax": 8598,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2008,
+    "ratio": 1.4048,
+    "age_band": "30-39",
+    "nationality_tax": 9107,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2009,
+    "ratio": 1.4485,
+    "age_band": "30-39",
+    "nationality_tax": 9112,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2010,
+    "ratio": 1.4353,
+    "age_band": "30-39",
+    "nationality_tax": 8428,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2011,
+    "ratio": 1.413,
+    "age_band": "30-39",
+    "nationality_tax": 7848,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2012,
+    "ratio": 1.3664,
+    "age_band": "30-39",
+    "nationality_tax": 7290,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2013,
+    "ratio": 1.3317,
+    "age_band": "30-39",
+    "nationality_tax": 7420,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2014,
+    "ratio": 1.4345,
+    "age_band": "30-39",
+    "nationality_tax": 8389,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2015,
+    "ratio": 1.3151,
+    "age_band": "30-39",
+    "nationality_tax": 8013,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2016,
+    "ratio": 1.2959,
+    "age_band": "30-39",
+    "nationality_tax": 8174,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2017,
+    "ratio": 1.4106,
+    "age_band": "30-39",
+    "nationality_tax": 9156,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2018,
+    "ratio": 1.3709,
+    "age_band": "30-39",
+    "nationality_tax": 9381,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2019,
+    "ratio": 1.4711,
+    "age_band": "30-39",
+    "nationality_tax": 10571,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2020,
+    "ratio": 1.4861,
+    "age_band": "30-39",
+    "nationality_tax": 11152,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2021,
+    "ratio": 1.5129,
+    "age_band": "30-39",
+    "nationality_tax": 11748,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2022,
+    "ratio": 1.5709,
+    "age_band": "30-39",
+    "nationality_tax": 14020,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2023,
+    "ratio": 1.596,
+    "age_band": "30-39",
+    "nationality_tax": 16185,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2024,
+    "ratio": 1.5423,
+    "age_band": "30-39",
+    "nationality_tax": 17172,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2000,
+    "ratio": 0.2214,
+    "age_band": "40-49",
+    "nationality_tax": 1076,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2001,
+    "ratio": 0.4891,
+    "age_band": "40-49",
+    "nationality_tax": 2502,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2002,
+    "ratio": 0.9414,
+    "age_band": "40-49",
+    "nationality_tax": 5189,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2003,
+    "ratio": 0.9519,
+    "age_band": "40-49",
+    "nationality_tax": 5461,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2004,
+    "ratio": 0.9823,
+    "age_band": "40-49",
+    "nationality_tax": 5918,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2005,
+    "ratio": 1.1789,
+    "age_band": "40-49",
+    "nationality_tax": 7404,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2006,
+    "ratio": 1.3293,
+    "age_band": "40-49",
+    "nationality_tax": 8667,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2007,
+    "ratio": 1.319,
+    "age_band": "40-49",
+    "nationality_tax": 8919,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2008,
+    "ratio": 1.3099,
+    "age_band": "40-49",
+    "nationality_tax": 9303,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2009,
+    "ratio": 1.4025,
+    "age_band": "40-49",
+    "nationality_tax": 9697,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2010,
+    "ratio": 1.3803,
+    "age_band": "40-49",
+    "nationality_tax": 8997,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2011,
+    "ratio": 1.3862,
+    "age_band": "40-49",
+    "nationality_tax": 8590,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2012,
+    "ratio": 1.3698,
+    "age_band": "40-49",
+    "nationality_tax": 8266,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2013,
+    "ratio": 1.4027,
+    "age_band": "40-49",
+    "nationality_tax": 8847,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2014,
+    "ratio": 1.3834,
+    "age_band": "40-49",
+    "nationality_tax": 9190,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2015,
+    "ratio": 1.4709,
+    "age_band": "40-49",
+    "nationality_tax": 10202,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2016,
+    "ratio": 1.4863,
+    "age_band": "40-49",
+    "nationality_tax": 10702,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2017,
+    "ratio": 1.5624,
+    "age_band": "40-49",
+    "nationality_tax": 11637,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2018,
+    "ratio": 1.5516,
+    "age_band": "40-49",
+    "nationality_tax": 12520,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2019,
+    "ratio": 1.4515,
+    "age_band": "40-49",
+    "nationality_tax": 12828,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2020,
+    "ratio": 1.4324,
+    "age_band": "40-49",
+    "nationality_tax": 13671,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2021,
+    "ratio": 1.473,
+    "age_band": "40-49",
+    "nationality_tax": 14662,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2022,
+    "ratio": 1.5128,
+    "age_band": "40-49",
+    "nationality_tax": 16824,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2023,
+    "ratio": 1.5792,
+    "age_band": "40-49",
+    "nationality_tax": 19648,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2024,
+    "ratio": 1.5472,
+    "age_band": "40-49",
+    "nationality_tax": 21022,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2002,
+    "ratio": 0.3527,
+    "age_band": "50-59",
+    "nationality_tax": 1722,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2003,
+    "ratio": 0.4833,
+    "age_band": "50-59",
+    "nationality_tax": 2510,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2004,
+    "ratio": 1.0199,
+    "age_band": "50-59",
+    "nationality_tax": 5701,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2005,
+    "ratio": 0.8784,
+    "age_band": "50-59",
+    "nationality_tax": 5215,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2006,
+    "ratio": 1.0796,
+    "age_band": "50-59",
+    "nationality_tax": 6730,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2007,
+    "ratio": 1.1088,
+    "age_band": "50-59",
+    "nationality_tax": 7278,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2008,
+    "ratio": 1.1972,
+    "age_band": "50-59",
+    "nationality_tax": 8334,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2009,
+    "ratio": 1.3618,
+    "age_band": "50-59",
+    "nationality_tax": 9310,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2010,
+    "ratio": 1.2954,
+    "age_band": "50-59",
+    "nationality_tax": 8394,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2011,
+    "ratio": 1.2629,
+    "age_band": "50-59",
+    "nationality_tax": 7762,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2012,
+    "ratio": 1.2533,
+    "age_band": "50-59",
+    "nationality_tax": 7545,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2013,
+    "ratio": 1.2349,
+    "age_band": "50-59",
+    "nationality_tax": 7780,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2014,
+    "ratio": 1.3239,
+    "age_band": "50-59",
+    "nationality_tax": 8694,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2015,
+    "ratio": 1.3886,
+    "age_band": "50-59",
+    "nationality_tax": 9448,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2016,
+    "ratio": 1.5231,
+    "age_band": "50-59",
+    "nationality_tax": 10659,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2017,
+    "ratio": 1.4223,
+    "age_band": "50-59",
+    "nationality_tax": 10296,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2018,
+    "ratio": 1.4492,
+    "age_band": "50-59",
+    "nationality_tax": 10973,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2019,
+    "ratio": 1.5299,
+    "age_band": "50-59",
+    "nationality_tax": 12643,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2020,
+    "ratio": 1.524,
+    "age_band": "50-59",
+    "nationality_tax": 13545,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2021,
+    "ratio": 1.4337,
+    "age_band": "50-59",
+    "nationality_tax": 13346,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2022,
+    "ratio": 1.4898,
+    "age_band": "50-59",
+    "nationality_tax": 15474,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2023,
+    "ratio": 1.4784,
+    "age_band": "50-59",
+    "nationality_tax": 17382,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "Africa/Middle East (excl RSA)",
+    "year": 2024,
+    "ratio": 1.4367,
+    "age_band": "50-59",
+    "nationality_tax": 18648,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2004,
+    "ratio": 0.2595,
+    "age_band": "20-29",
+    "nationality_tax": 951,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2005,
+    "ratio": 1.3596,
+    "age_band": "20-29",
+    "nationality_tax": 5376,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2006,
+    "ratio": 1.3528,
+    "age_band": "20-29",
+    "nationality_tax": 5702,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2007,
+    "ratio": 1.3325,
+    "age_band": "20-29",
+    "nationality_tax": 5840,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2008,
+    "ratio": 1.3861,
+    "age_band": "20-29",
+    "nationality_tax": 6502,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2009,
+    "ratio": 1.3079,
+    "age_band": "20-29",
+    "nationality_tax": 5710,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2010,
+    "ratio": 1.404,
+    "age_band": "20-29",
+    "nationality_tax": 4996,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2011,
+    "ratio": 1.4248,
+    "age_band": "20-29",
+    "nationality_tax": 4461,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2012,
+    "ratio": 1.461,
+    "age_band": "20-29",
+    "nationality_tax": 4275,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2013,
+    "ratio": 1.4303,
+    "age_band": "20-29",
+    "nationality_tax": 4461,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2014,
+    "ratio": 1.2652,
+    "age_band": "20-29",
+    "nationality_tax": 4275,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2015,
+    "ratio": 1.2623,
+    "age_band": "20-29",
+    "nationality_tax": 4644,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2016,
+    "ratio": 1.2903,
+    "age_band": "20-29",
+    "nationality_tax": 5006,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2017,
+    "ratio": 1.284,
+    "age_band": "20-29",
+    "nationality_tax": 5294,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2018,
+    "ratio": 1.3285,
+    "age_band": "20-29",
+    "nationality_tax": 5941,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2019,
+    "ratio": 1.1537,
+    "age_band": "20-29",
+    "nationality_tax": 5562,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2020,
+    "ratio": 1.1343,
+    "age_band": "20-29",
+    "nationality_tax": 5814,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2021,
+    "ratio": 0.9461,
+    "age_band": "20-29",
+    "nationality_tax": 4904,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2022,
+    "ratio": 0.9506,
+    "age_band": "20-29",
+    "nationality_tax": 5641,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2023,
+    "ratio": 1.3572,
+    "age_band": "20-29",
+    "nationality_tax": 9031,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2024,
+    "ratio": 1.3059,
+    "age_band": "20-29",
+    "nationality_tax": 8968,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2001,
+    "ratio": 0.8152,
+    "age_band": "30-39",
+    "nationality_tax": 3675,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2002,
+    "ratio": 0.5076,
+    "age_band": "30-39",
+    "nationality_tax": 2467,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2003,
+    "ratio": 0.6664,
+    "age_band": "30-39",
+    "nationality_tax": 3370,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2004,
+    "ratio": 0.979,
+    "age_band": "30-39",
+    "nationality_tax": 5266,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2005,
+    "ratio": 1.0196,
+    "age_band": "30-39",
+    "nationality_tax": 5800,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2006,
+    "ratio": 1.1176,
+    "age_band": "30-39",
+    "nationality_tax": 6623,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2007,
+    "ratio": 1.1914,
+    "age_band": "30-39",
+    "nationality_tax": 7300,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2008,
+    "ratio": 1.1425,
+    "age_band": "30-39",
+    "nationality_tax": 7407,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2009,
+    "ratio": 1.2678,
+    "age_band": "30-39",
+    "nationality_tax": 7976,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2010,
+    "ratio": 1.2883,
+    "age_band": "30-39",
+    "nationality_tax": 7565,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2011,
+    "ratio": 1.2452,
+    "age_band": "30-39",
+    "nationality_tax": 6916,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2012,
+    "ratio": 1.176,
+    "age_band": "30-39",
+    "nationality_tax": 6274,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2013,
+    "ratio": 1.2227,
+    "age_band": "30-39",
+    "nationality_tax": 6813,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2014,
+    "ratio": 1.1719,
+    "age_band": "30-39",
+    "nationality_tax": 6853,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2015,
+    "ratio": 1.1956,
+    "age_band": "30-39",
+    "nationality_tax": 7285,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2016,
+    "ratio": 1.1525,
+    "age_band": "30-39",
+    "nationality_tax": 7269,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2017,
+    "ratio": 1.202,
+    "age_band": "30-39",
+    "nationality_tax": 7802,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2018,
+    "ratio": 1.2434,
+    "age_band": "30-39",
+    "nationality_tax": 8508,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2019,
+    "ratio": 1.3254,
+    "age_band": "30-39",
+    "nationality_tax": 9524,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2020,
+    "ratio": 1.4339,
+    "age_band": "30-39",
+    "nationality_tax": 10760,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2021,
+    "ratio": 1.4535,
+    "age_band": "30-39",
+    "nationality_tax": 11286,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2022,
+    "ratio": 1.4729,
+    "age_band": "30-39",
+    "nationality_tax": 13146,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2023,
+    "ratio": 1.2392,
+    "age_band": "30-39",
+    "nationality_tax": 12567,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2024,
+    "ratio": 1.1926,
+    "age_band": "30-39",
+    "nationality_tax": 13278,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2004,
+    "ratio": 0.4165,
+    "age_band": "40-49",
+    "nationality_tax": 2509,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2005,
+    "ratio": 0.6125,
+    "age_band": "40-49",
+    "nationality_tax": 3847,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2006,
+    "ratio": 1.0365,
+    "age_band": "40-49",
+    "nationality_tax": 6758,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2007,
+    "ratio": 1.088,
+    "age_band": "40-49",
+    "nationality_tax": 7357,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2008,
+    "ratio": 1.0952,
+    "age_band": "40-49",
+    "nationality_tax": 7778,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2009,
+    "ratio": 1.0667,
+    "age_band": "40-49",
+    "nationality_tax": 7375,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2010,
+    "ratio": 1.0649,
+    "age_band": "40-49",
+    "nationality_tax": 6941,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2011,
+    "ratio": 0.9939,
+    "age_band": "40-49",
+    "nationality_tax": 6159,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2012,
+    "ratio": 0.9897,
+    "age_band": "40-49",
+    "nationality_tax": 5972,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2013,
+    "ratio": 0.9539,
+    "age_band": "40-49",
+    "nationality_tax": 6016,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2014,
+    "ratio": 0.9421,
+    "age_band": "40-49",
+    "nationality_tax": 6258,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2015,
+    "ratio": 0.9337,
+    "age_band": "40-49",
+    "nationality_tax": 6476,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2016,
+    "ratio": 0.9842,
+    "age_band": "40-49",
+    "nationality_tax": 7086,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2017,
+    "ratio": 0.9973,
+    "age_band": "40-49",
+    "nationality_tax": 7428,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2018,
+    "ratio": 1.0889,
+    "age_band": "40-49",
+    "nationality_tax": 8786,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2019,
+    "ratio": 1.1659,
+    "age_band": "40-49",
+    "nationality_tax": 10304,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2020,
+    "ratio": 1.151,
+    "age_band": "40-49",
+    "nationality_tax": 10985,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2021,
+    "ratio": 1.1904,
+    "age_band": "40-49",
+    "nationality_tax": 11849,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2022,
+    "ratio": 1.2455,
+    "age_band": "40-49",
+    "nationality_tax": 13851,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2023,
+    "ratio": 1.1622,
+    "age_band": "40-49",
+    "nationality_tax": 14460,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2024,
+    "ratio": 1.1213,
+    "age_band": "40-49",
+    "nationality_tax": 15235,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2009,
+    "ratio": 1.0412,
+    "age_band": "50-59",
+    "nationality_tax": 7118,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2010,
+    "ratio": 1.058,
+    "age_band": "50-59",
+    "nationality_tax": 6856,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2011,
+    "ratio": 1.07,
+    "age_band": "50-59",
+    "nationality_tax": 6576,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2012,
+    "ratio": 0.9884,
+    "age_band": "50-59",
+    "nationality_tax": 5950,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2013,
+    "ratio": 0.9732,
+    "age_band": "50-59",
+    "nationality_tax": 6131,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2014,
+    "ratio": 0.9694,
+    "age_band": "50-59",
+    "nationality_tax": 6366,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2015,
+    "ratio": 0.9447,
+    "age_band": "50-59",
+    "nationality_tax": 6428,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2016,
+    "ratio": 0.9656,
+    "age_band": "50-59",
+    "nationality_tax": 6757,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2017,
+    "ratio": 0.949,
+    "age_band": "50-59",
+    "nationality_tax": 6870,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2018,
+    "ratio": 1.0198,
+    "age_band": "50-59",
+    "nationality_tax": 7722,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2019,
+    "ratio": 1.0931,
+    "age_band": "50-59",
+    "nationality_tax": 9033,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2020,
+    "ratio": 1.1363,
+    "age_band": "50-59",
+    "nationality_tax": 10099,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2021,
+    "ratio": 1.0248,
+    "age_band": "50-59",
+    "nationality_tax": 9540,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2022,
+    "ratio": 1.0918,
+    "age_band": "50-59",
+    "nationality_tax": 11341,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2023,
+    "ratio": 1.0601,
+    "age_band": "50-59",
+    "nationality_tax": 12464,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "Americas (excl US/Canada)",
+    "year": 2024,
+    "ratio": 1.0167,
+    "age_band": "50-59",
+    "nationality_tax": 13197,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "China",
+    "year": 2000,
+    "ratio": 0.324,
+    "age_band": "20-29",
+    "nationality_tax": 969,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "China",
+    "year": 2001,
+    "ratio": 0.1505,
+    "age_band": "20-29",
+    "nationality_tax": 475,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "China",
+    "year": 2002,
+    "ratio": 0.1229,
+    "age_band": "20-29",
+    "nationality_tax": 406,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "China",
+    "year": 2003,
+    "ratio": 0.1222,
+    "age_band": "20-29",
+    "nationality_tax": 422,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "China",
+    "year": 2004,
+    "ratio": 0.185,
+    "age_band": "20-29",
+    "nationality_tax": 678,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "China",
+    "year": 2005,
+    "ratio": 0.2779,
+    "age_band": "20-29",
+    "nationality_tax": 1099,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "China",
+    "year": 2006,
+    "ratio": 0.4848,
+    "age_band": "20-29",
+    "nationality_tax": 2044,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "China",
+    "year": 2007,
+    "ratio": 0.583,
+    "age_band": "20-29",
+    "nationality_tax": 2556,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "China",
+    "year": 2008,
+    "ratio": 0.7308,
+    "age_band": "20-29",
+    "nationality_tax": 3428,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "China",
+    "year": 2009,
+    "ratio": 0.8769,
+    "age_band": "20-29",
+    "nationality_tax": 3828,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "China",
+    "year": 2010,
+    "ratio": 0.7993,
+    "age_band": "20-29",
+    "nationality_tax": 2844,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "China",
+    "year": 2011,
+    "ratio": 0.9013,
+    "age_band": "20-29",
+    "nationality_tax": 2822,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "China",
+    "year": 2012,
+    "ratio": 0.9822,
+    "age_band": "20-29",
+    "nationality_tax": 2874,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "China",
+    "year": 2013,
+    "ratio": 1.0005,
+    "age_band": "20-29",
+    "nationality_tax": 3120,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "China",
+    "year": 2014,
+    "ratio": 1.0391,
+    "age_band": "20-29",
+    "nationality_tax": 3511,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "China",
+    "year": 2015,
+    "ratio": 0.9704,
+    "age_band": "20-29",
+    "nationality_tax": 3570,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "China",
+    "year": 2016,
+    "ratio": 1.072,
+    "age_band": "20-29",
+    "nationality_tax": 4160,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "China",
+    "year": 2017,
+    "ratio": 1.1033,
+    "age_band": "20-29",
+    "nationality_tax": 4549,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "China",
+    "year": 2018,
+    "ratio": 1.1089,
+    "age_band": "20-29",
+    "nationality_tax": 4959,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "China",
+    "year": 2019,
+    "ratio": 1.1993,
+    "age_band": "20-29",
+    "nationality_tax": 5782,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "China",
+    "year": 2020,
+    "ratio": 1.254,
+    "age_band": "20-29",
+    "nationality_tax": 6427,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "China",
+    "year": 2021,
+    "ratio": 1.2257,
+    "age_band": "20-29",
+    "nationality_tax": 6354,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "China",
+    "year": 2022,
+    "ratio": 1.2255,
+    "age_band": "20-29",
+    "nationality_tax": 7272,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "China",
+    "year": 2023,
+    "ratio": 1.4279,
+    "age_band": "20-29",
+    "nationality_tax": 9502,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "China",
+    "year": 2024,
+    "ratio": 1.4326,
+    "age_band": "20-29",
+    "nationality_tax": 9838,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "China",
+    "year": 2000,
+    "ratio": 0.0648,
+    "age_band": "30-39",
+    "nationality_tax": 275,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "China",
+    "year": 2001,
+    "ratio": 0.0887,
+    "age_band": "30-39",
+    "nationality_tax": 400,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "China",
+    "year": 2002,
+    "ratio": 0.077,
+    "age_band": "30-39",
+    "nationality_tax": 374,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "China",
+    "year": 2003,
+    "ratio": 0.0947,
+    "age_band": "30-39",
+    "nationality_tax": 479,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "China",
+    "year": 2004,
+    "ratio": 0.1322,
+    "age_band": "30-39",
+    "nationality_tax": 711,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "China",
+    "year": 2005,
+    "ratio": 0.2052,
+    "age_band": "30-39",
+    "nationality_tax": 1168,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "China",
+    "year": 2006,
+    "ratio": 0.2918,
+    "age_band": "30-39",
+    "nationality_tax": 1729,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "China",
+    "year": 2007,
+    "ratio": 0.3746,
+    "age_band": "30-39",
+    "nationality_tax": 2295,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "China",
+    "year": 2008,
+    "ratio": 0.485,
+    "age_band": "30-39",
+    "nationality_tax": 3144,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "China",
+    "year": 2009,
+    "ratio": 0.6155,
+    "age_band": "30-39",
+    "nationality_tax": 3872,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "China",
+    "year": 2010,
+    "ratio": 0.6773,
+    "age_band": "30-39",
+    "nationality_tax": 3977,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "China",
+    "year": 2011,
+    "ratio": 0.7283,
+    "age_band": "30-39",
+    "nationality_tax": 4045,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "China",
+    "year": 2012,
+    "ratio": 0.8004,
+    "age_band": "30-39",
+    "nationality_tax": 4270,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "China",
+    "year": 2013,
+    "ratio": 0.8164,
+    "age_band": "30-39",
+    "nationality_tax": 4549,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "China",
+    "year": 2014,
+    "ratio": 0.8757,
+    "age_band": "30-39",
+    "nationality_tax": 5121,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "China",
+    "year": 2015,
+    "ratio": 0.9273,
+    "age_band": "30-39",
+    "nationality_tax": 5650,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "China",
+    "year": 2016,
+    "ratio": 0.9764,
+    "age_band": "30-39",
+    "nationality_tax": 6158,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "China",
+    "year": 2017,
+    "ratio": 0.9559,
+    "age_band": "30-39",
+    "nationality_tax": 6205,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "China",
+    "year": 2018,
+    "ratio": 0.9129,
+    "age_band": "30-39",
+    "nationality_tax": 6247,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "China",
+    "year": 2019,
+    "ratio": 0.9416,
+    "age_band": "30-39",
+    "nationality_tax": 6766,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "China",
+    "year": 2020,
+    "ratio": 0.9888,
+    "age_band": "30-39",
+    "nationality_tax": 7420,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "China",
+    "year": 2021,
+    "ratio": 1.0551,
+    "age_band": "30-39",
+    "nationality_tax": 8192,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "China",
+    "year": 2022,
+    "ratio": 1.1787,
+    "age_band": "30-39",
+    "nationality_tax": 10520,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "China",
+    "year": 2023,
+    "ratio": 1.2035,
+    "age_band": "30-39",
+    "nationality_tax": 12205,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "China",
+    "year": 2024,
+    "ratio": 1.1685,
+    "age_band": "30-39",
+    "nationality_tax": 13010,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "China",
+    "year": 2000,
+    "ratio": 0.029,
+    "age_band": "40-49",
+    "nationality_tax": 141,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "China",
+    "year": 2001,
+    "ratio": 0.0846,
+    "age_band": "40-49",
+    "nationality_tax": 432,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "China",
+    "year": 2002,
+    "ratio": 0.0795,
+    "age_band": "40-49",
+    "nationality_tax": 438,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "China",
+    "year": 2003,
+    "ratio": 0.0594,
+    "age_band": "40-49",
+    "nationality_tax": 341,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "China",
+    "year": 2004,
+    "ratio": 0.127,
+    "age_band": "40-49",
+    "nationality_tax": 765,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "China",
+    "year": 2005,
+    "ratio": 0.1701,
+    "age_band": "40-49",
+    "nationality_tax": 1068,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "China",
+    "year": 2006,
+    "ratio": 0.2049,
+    "age_band": "40-49",
+    "nationality_tax": 1336,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "China",
+    "year": 2007,
+    "ratio": 0.227,
+    "age_band": "40-49",
+    "nationality_tax": 1535,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "China",
+    "year": 2008,
+    "ratio": 0.2429,
+    "age_band": "40-49",
+    "nationality_tax": 1725,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "China",
+    "year": 2009,
+    "ratio": 0.2537,
+    "age_band": "40-49",
+    "nationality_tax": 1754,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "China",
+    "year": 2010,
+    "ratio": 0.2577,
+    "age_band": "40-49",
+    "nationality_tax": 1680,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "China",
+    "year": 2011,
+    "ratio": 0.309,
+    "age_band": "40-49",
+    "nationality_tax": 1915,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "China",
+    "year": 2012,
+    "ratio": 0.4104,
+    "age_band": "40-49",
+    "nationality_tax": 2476,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "China",
+    "year": 2013,
+    "ratio": 0.5394,
+    "age_band": "40-49",
+    "nationality_tax": 3402,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "China",
+    "year": 2014,
+    "ratio": 0.6402,
+    "age_band": "40-49",
+    "nationality_tax": 4253,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "China",
+    "year": 2015,
+    "ratio": 0.7121,
+    "age_band": "40-49",
+    "nationality_tax": 4939,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "China",
+    "year": 2016,
+    "ratio": 0.7375,
+    "age_band": "40-49",
+    "nationality_tax": 5310,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "China",
+    "year": 2017,
+    "ratio": 0.7474,
+    "age_band": "40-49",
+    "nationality_tax": 5567,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "China",
+    "year": 2018,
+    "ratio": 0.7198,
+    "age_band": "40-49",
+    "nationality_tax": 5808,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "China",
+    "year": 2019,
+    "ratio": 0.7011,
+    "age_band": "40-49",
+    "nationality_tax": 6196,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "China",
+    "year": 2020,
+    "ratio": 0.706,
+    "age_band": "40-49",
+    "nationality_tax": 6738,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "China",
+    "year": 2021,
+    "ratio": 0.7315,
+    "age_band": "40-49",
+    "nationality_tax": 7281,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "China",
+    "year": 2022,
+    "ratio": 0.8011,
+    "age_band": "40-49",
+    "nationality_tax": 8908,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "China",
+    "year": 2023,
+    "ratio": 0.8591,
+    "age_band": "40-49",
+    "nationality_tax": 10688,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "China",
+    "year": 2024,
+    "ratio": 0.8544,
+    "age_band": "40-49",
+    "nationality_tax": 11609,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "China",
+    "year": 2004,
+    "ratio": 0.0821,
+    "age_band": "50-59",
+    "nationality_tax": 459,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "China",
+    "year": 2005,
+    "ratio": 0.0278,
+    "age_band": "50-59",
+    "nationality_tax": 165,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "China",
+    "year": 2006,
+    "ratio": 0.094,
+    "age_band": "50-59",
+    "nationality_tax": 586,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "China",
+    "year": 2007,
+    "ratio": 0.0684,
+    "age_band": "50-59",
+    "nationality_tax": 449,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "China",
+    "year": 2008,
+    "ratio": 0.0488,
+    "age_band": "50-59",
+    "nationality_tax": 340,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "China",
+    "year": 2009,
+    "ratio": 0.0581,
+    "age_band": "50-59",
+    "nationality_tax": 397,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "China",
+    "year": 2010,
+    "ratio": 0.028,
+    "age_band": "50-59",
+    "nationality_tax": 182,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "China",
+    "year": 2011,
+    "ratio": 0.0532,
+    "age_band": "50-59",
+    "nationality_tax": 327,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "China",
+    "year": 2012,
+    "ratio": 0.091,
+    "age_band": "50-59",
+    "nationality_tax": 548,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "China",
+    "year": 2013,
+    "ratio": 0.1487,
+    "age_band": "50-59",
+    "nationality_tax": 937,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "China",
+    "year": 2014,
+    "ratio": 0.2238,
+    "age_band": "50-59",
+    "nationality_tax": 1470,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "China",
+    "year": 2015,
+    "ratio": 0.3073,
+    "age_band": "50-59",
+    "nationality_tax": 2091,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "China",
+    "year": 2016,
+    "ratio": 0.4459,
+    "age_band": "50-59",
+    "nationality_tax": 3120,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "China",
+    "year": 2017,
+    "ratio": 0.5305,
+    "age_band": "50-59",
+    "nationality_tax": 3840,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "China",
+    "year": 2018,
+    "ratio": 0.6041,
+    "age_band": "50-59",
+    "nationality_tax": 4574,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "China",
+    "year": 2019,
+    "ratio": 0.6462,
+    "age_band": "50-59",
+    "nationality_tax": 5340,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "China",
+    "year": 2020,
+    "ratio": 0.6907,
+    "age_band": "50-59",
+    "nationality_tax": 6139,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "China",
+    "year": 2021,
+    "ratio": 0.6675,
+    "age_band": "50-59",
+    "nationality_tax": 6214,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "China",
+    "year": 2022,
+    "ratio": 0.7086,
+    "age_band": "50-59",
+    "nationality_tax": 7360,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "China",
+    "year": 2023,
+    "ratio": 0.737,
+    "age_band": "50-59",
+    "nationality_tax": 8665,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "China",
+    "year": 2024,
+    "ratio": 0.7867,
+    "age_band": "50-59",
+    "nationality_tax": 10211,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2000,
+    "ratio": 1.5438,
+    "age_band": "20-29",
+    "nationality_tax": 4618,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2001,
+    "ratio": 1.4884,
+    "age_band": "20-29",
+    "nationality_tax": 4698,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2002,
+    "ratio": 1.2896,
+    "age_band": "20-29",
+    "nationality_tax": 4261,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2003,
+    "ratio": 1.1173,
+    "age_band": "20-29",
+    "nationality_tax": 3857,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2004,
+    "ratio": 1.2641,
+    "age_band": "20-29",
+    "nationality_tax": 4633,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2005,
+    "ratio": 1.1634,
+    "age_band": "20-29",
+    "nationality_tax": 4600,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2006,
+    "ratio": 1.2357,
+    "age_band": "20-29",
+    "nationality_tax": 5208,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2007,
+    "ratio": 1.3333,
+    "age_band": "20-29",
+    "nationality_tax": 5844,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2008,
+    "ratio": 1.2504,
+    "age_band": "20-29",
+    "nationality_tax": 5866,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2009,
+    "ratio": 1.2758,
+    "age_band": "20-29",
+    "nationality_tax": 5570,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2010,
+    "ratio": 1.3522,
+    "age_band": "20-29",
+    "nationality_tax": 4811,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2011,
+    "ratio": 1.4248,
+    "age_band": "20-29",
+    "nationality_tax": 4461,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2012,
+    "ratio": 1.461,
+    "age_band": "20-29",
+    "nationality_tax": 4275,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2013,
+    "ratio": 1.5383,
+    "age_band": "20-29",
+    "nationality_tax": 4798,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2014,
+    "ratio": 1.5798,
+    "age_band": "20-29",
+    "nationality_tax": 5338,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2015,
+    "ratio": 1.5578,
+    "age_band": "20-29",
+    "nationality_tax": 5731,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2016,
+    "ratio": 1.6222,
+    "age_band": "20-29",
+    "nationality_tax": 6294,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2017,
+    "ratio": 1.5314,
+    "age_band": "20-29",
+    "nationality_tax": 6314,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2018,
+    "ratio": 1.4726,
+    "age_band": "20-29",
+    "nationality_tax": 6586,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2019,
+    "ratio": 1.3643,
+    "age_band": "20-29",
+    "nationality_tax": 6578,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2020,
+    "ratio": 1.2605,
+    "age_band": "20-29",
+    "nationality_tax": 6460,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2021,
+    "ratio": 1.1298,
+    "age_band": "20-29",
+    "nationality_tax": 5857,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2022,
+    "ratio": 1.1159,
+    "age_band": "20-29",
+    "nationality_tax": 6622,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2023,
+    "ratio": 1.3894,
+    "age_band": "20-29",
+    "nationality_tax": 9245,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2024,
+    "ratio": 1.3932,
+    "age_band": "20-29",
+    "nationality_tax": 9567,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2000,
+    "ratio": 1.0691,
+    "age_band": "30-39",
+    "nationality_tax": 4534,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2001,
+    "ratio": 1.1817,
+    "age_band": "30-39",
+    "nationality_tax": 5327,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2002,
+    "ratio": 0.9916,
+    "age_band": "30-39",
+    "nationality_tax": 4819,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2003,
+    "ratio": 0.9936,
+    "age_band": "30-39",
+    "nationality_tax": 5026,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2004,
+    "ratio": 1.0682,
+    "age_band": "30-39",
+    "nationality_tax": 5746,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2005,
+    "ratio": 1.157,
+    "age_band": "30-39",
+    "nationality_tax": 6582,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2006,
+    "ratio": 1.2508,
+    "age_band": "30-39",
+    "nationality_tax": 7412,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2007,
+    "ratio": 1.3403,
+    "age_band": "30-39",
+    "nationality_tax": 8212,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2008,
+    "ratio": 1.4174,
+    "age_band": "30-39",
+    "nationality_tax": 9189,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2009,
+    "ratio": 1.4903,
+    "age_band": "30-39",
+    "nationality_tax": 9376,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2010,
+    "ratio": 1.4121,
+    "age_band": "30-39",
+    "nationality_tax": 8292,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2011,
+    "ratio": 1.449,
+    "age_band": "30-39",
+    "nationality_tax": 8048,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2012,
+    "ratio": 1.5034,
+    "age_band": "30-39",
+    "nationality_tax": 8020,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2013,
+    "ratio": 1.556,
+    "age_band": "30-39",
+    "nationality_tax": 8670,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2014,
+    "ratio": 1.6395,
+    "age_band": "30-39",
+    "nationality_tax": 9588,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2015,
+    "ratio": 1.699,
+    "age_band": "30-39",
+    "nationality_tax": 10352,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2016,
+    "ratio": 1.7775,
+    "age_band": "30-39",
+    "nationality_tax": 11211,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2017,
+    "ratio": 1.8096,
+    "age_band": "30-39",
+    "nationality_tax": 11746,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2018,
+    "ratio": 1.8254,
+    "age_band": "30-39",
+    "nationality_tax": 12491,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2019,
+    "ratio": 1.8661,
+    "age_band": "30-39",
+    "nationality_tax": 13410,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2020,
+    "ratio": 1.9383,
+    "age_band": "30-39",
+    "nationality_tax": 14545,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2021,
+    "ratio": 1.965,
+    "age_band": "30-39",
+    "nationality_tax": 15258,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2022,
+    "ratio": 1.8402,
+    "age_band": "30-39",
+    "nationality_tax": 16424,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2023,
+    "ratio": 1.6452,
+    "age_band": "30-39",
+    "nationality_tax": 16684,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2024,
+    "ratio": 1.5979,
+    "age_band": "30-39",
+    "nationality_tax": 17792,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2000,
+    "ratio": 0.3144,
+    "age_band": "40-49",
+    "nationality_tax": 1528,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2001,
+    "ratio": 0.4521,
+    "age_band": "40-49",
+    "nationality_tax": 2312,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2002,
+    "ratio": 0.7159,
+    "age_band": "40-49",
+    "nationality_tax": 3946,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2003,
+    "ratio": 0.708,
+    "age_band": "40-49",
+    "nationality_tax": 4062,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2004,
+    "ratio": 0.8293,
+    "age_band": "40-49",
+    "nationality_tax": 4996,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2005,
+    "ratio": 0.9148,
+    "age_band": "40-49",
+    "nationality_tax": 5746,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2006,
+    "ratio": 0.9607,
+    "age_band": "40-49",
+    "nationality_tax": 6264,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2007,
+    "ratio": 1.0107,
+    "age_band": "40-49",
+    "nationality_tax": 6834,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2008,
+    "ratio": 1.0332,
+    "age_band": "40-49",
+    "nationality_tax": 7338,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2009,
+    "ratio": 1.0858,
+    "age_band": "40-49",
+    "nationality_tax": 7507,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2010,
+    "ratio": 1.1055,
+    "age_band": "40-49",
+    "nationality_tax": 7206,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2011,
+    "ratio": 1.138,
+    "age_band": "40-49",
+    "nationality_tax": 7052,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2012,
+    "ratio": 1.2169,
+    "age_band": "40-49",
+    "nationality_tax": 7343,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2013,
+    "ratio": 1.1893,
+    "age_band": "40-49",
+    "nationality_tax": 7501,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2014,
+    "ratio": 1.2728,
+    "age_band": "40-49",
+    "nationality_tax": 8455,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2015,
+    "ratio": 1.3264,
+    "age_band": "40-49",
+    "nationality_tax": 9200,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2016,
+    "ratio": 1.426,
+    "age_band": "40-49",
+    "nationality_tax": 10267,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2017,
+    "ratio": 1.4813,
+    "age_band": "40-49",
+    "nationality_tax": 11033,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2018,
+    "ratio": 1.5146,
+    "age_band": "40-49",
+    "nationality_tax": 12221,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2019,
+    "ratio": 1.4917,
+    "age_band": "40-49",
+    "nationality_tax": 13184,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2020,
+    "ratio": 1.5068,
+    "age_band": "40-49",
+    "nationality_tax": 14381,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2021,
+    "ratio": 1.5503,
+    "age_band": "40-49",
+    "nationality_tax": 15432,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2022,
+    "ratio": 1.5599,
+    "age_band": "40-49",
+    "nationality_tax": 17348,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2023,
+    "ratio": 1.5313,
+    "age_band": "40-49",
+    "nationality_tax": 19053,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2024,
+    "ratio": 1.5599,
+    "age_band": "40-49",
+    "nationality_tax": 21194,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2001,
+    "ratio": 0.1972,
+    "age_band": "50-59",
+    "nationality_tax": 860,
+    "nzborn_tax": 4361
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2002,
+    "ratio": 0.3019,
+    "age_band": "50-59",
+    "nationality_tax": 1474,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2003,
+    "ratio": 0.423,
+    "age_band": "50-59",
+    "nationality_tax": 2197,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2004,
+    "ratio": 0.4479,
+    "age_band": "50-59",
+    "nationality_tax": 2504,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2005,
+    "ratio": 0.6118,
+    "age_band": "50-59",
+    "nationality_tax": 3632,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2006,
+    "ratio": 0.7571,
+    "age_band": "50-59",
+    "nationality_tax": 4720,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2007,
+    "ratio": 0.7929,
+    "age_band": "50-59",
+    "nationality_tax": 5204,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2008,
+    "ratio": 0.8655,
+    "age_band": "50-59",
+    "nationality_tax": 6025,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2009,
+    "ratio": 0.9387,
+    "age_band": "50-59",
+    "nationality_tax": 6418,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2010,
+    "ratio": 0.9367,
+    "age_band": "50-59",
+    "nationality_tax": 6070,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2011,
+    "ratio": 0.9498,
+    "age_band": "50-59",
+    "nationality_tax": 5838,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2012,
+    "ratio": 0.8739,
+    "age_band": "50-59",
+    "nationality_tax": 5261,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2013,
+    "ratio": 0.9795,
+    "age_band": "50-59",
+    "nationality_tax": 6171,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2014,
+    "ratio": 1.0153,
+    "age_band": "50-59",
+    "nationality_tax": 6668,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2015,
+    "ratio": 1.0445,
+    "age_band": "50-59",
+    "nationality_tax": 7107,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2016,
+    "ratio": 1.0616,
+    "age_band": "50-59",
+    "nationality_tax": 7429,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2017,
+    "ratio": 1.1292,
+    "age_band": "50-59",
+    "nationality_tax": 8174,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2018,
+    "ratio": 1.1733,
+    "age_band": "50-59",
+    "nationality_tax": 8884,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2019,
+    "ratio": 1.261,
+    "age_band": "50-59",
+    "nationality_tax": 10420,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2020,
+    "ratio": 1.2876,
+    "age_band": "50-59",
+    "nationality_tax": 11444,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2021,
+    "ratio": 1.2723,
+    "age_band": "50-59",
+    "nationality_tax": 11844,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2022,
+    "ratio": 1.3322,
+    "age_band": "50-59",
+    "nationality_tax": 13838,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2023,
+    "ratio": 1.3221,
+    "age_band": "50-59",
+    "nationality_tax": 15544,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "Europe (excl UK)",
+    "year": 2024,
+    "ratio": 1.3233,
+    "age_band": "50-59",
+    "nationality_tax": 17177,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2000,
+    "ratio": 0.3681,
+    "age_band": "20-29",
+    "nationality_tax": 1101,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2001,
+    "ratio": 0.8858,
+    "age_band": "20-29",
+    "nationality_tax": 2796,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2002,
+    "ratio": 0.7114,
+    "age_band": "20-29",
+    "nationality_tax": 2350,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2003,
+    "ratio": 0.5403,
+    "age_band": "20-29",
+    "nationality_tax": 1865,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2004,
+    "ratio": 0.3432,
+    "age_band": "20-29",
+    "nationality_tax": 1258,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2005,
+    "ratio": 0.2085,
+    "age_band": "20-29",
+    "nationality_tax": 824,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2006,
+    "ratio": 0.2529,
+    "age_band": "20-29",
+    "nationality_tax": 1066,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2007,
+    "ratio": 0.2172,
+    "age_band": "20-29",
+    "nationality_tax": 952,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2008,
+    "ratio": 0.2206,
+    "age_band": "20-29",
+    "nationality_tax": 1035,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2009,
+    "ratio": 0.2241,
+    "age_band": "20-29",
+    "nationality_tax": 978,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2010,
+    "ratio": 0.2007,
+    "age_band": "20-29",
+    "nationality_tax": 714,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2011,
+    "ratio": 0.2242,
+    "age_band": "20-29",
+    "nationality_tax": 702,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2012,
+    "ratio": 0.2891,
+    "age_band": "20-29",
+    "nationality_tax": 846,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2013,
+    "ratio": 0.3431,
+    "age_band": "20-29",
+    "nationality_tax": 1070,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2014,
+    "ratio": 0.4566,
+    "age_band": "20-29",
+    "nationality_tax": 1543,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2015,
+    "ratio": 0.5743,
+    "age_band": "20-29",
+    "nationality_tax": 2113,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2016,
+    "ratio": 0.7839,
+    "age_band": "20-29",
+    "nationality_tax": 3042,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2017,
+    "ratio": 0.8545,
+    "age_band": "20-29",
+    "nationality_tax": 3523,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2018,
+    "ratio": 0.9971,
+    "age_band": "20-29",
+    "nationality_tax": 4459,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2019,
+    "ratio": 1.0263,
+    "age_band": "20-29",
+    "nationality_tax": 4948,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2020,
+    "ratio": 1.0886,
+    "age_band": "20-29",
+    "nationality_tax": 5579,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2021,
+    "ratio": 1.0923,
+    "age_band": "20-29",
+    "nationality_tax": 5662,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2022,
+    "ratio": 1.1168,
+    "age_band": "20-29",
+    "nationality_tax": 6627,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2023,
+    "ratio": 1.4941,
+    "age_band": "20-29",
+    "nationality_tax": 9942,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2024,
+    "ratio": 1.5339,
+    "age_band": "20-29",
+    "nationality_tax": 10533,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2000,
+    "ratio": 0.2046,
+    "age_band": "30-39",
+    "nationality_tax": 868,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2001,
+    "ratio": 0.2123,
+    "age_band": "30-39",
+    "nationality_tax": 957,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2002,
+    "ratio": 0.1955,
+    "age_band": "30-39",
+    "nationality_tax": 950,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2003,
+    "ratio": 0.1876,
+    "age_band": "30-39",
+    "nationality_tax": 949,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2004,
+    "ratio": 0.2701,
+    "age_band": "30-39",
+    "nationality_tax": 1453,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2005,
+    "ratio": 0.3072,
+    "age_band": "30-39",
+    "nationality_tax": 1748,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2006,
+    "ratio": 0.5046,
+    "age_band": "30-39",
+    "nationality_tax": 2990,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2007,
+    "ratio": 0.5428,
+    "age_band": "30-39",
+    "nationality_tax": 3326,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2008,
+    "ratio": 0.6357,
+    "age_band": "30-39",
+    "nationality_tax": 4121,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2009,
+    "ratio": 0.6578,
+    "age_band": "30-39",
+    "nationality_tax": 4138,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2010,
+    "ratio": 0.7485,
+    "age_band": "30-39",
+    "nationality_tax": 4395,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2011,
+    "ratio": 0.8237,
+    "age_band": "30-39",
+    "nationality_tax": 4575,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2012,
+    "ratio": 0.8543,
+    "age_band": "30-39",
+    "nationality_tax": 4558,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2013,
+    "ratio": 0.8537,
+    "age_band": "30-39",
+    "nationality_tax": 4757,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2014,
+    "ratio": 0.8759,
+    "age_band": "30-39",
+    "nationality_tax": 5122,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2015,
+    "ratio": 0.9234,
+    "age_band": "30-39",
+    "nationality_tax": 5626,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2016,
+    "ratio": 0.9777,
+    "age_band": "30-39",
+    "nationality_tax": 6166,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2017,
+    "ratio": 1.0311,
+    "age_band": "30-39",
+    "nationality_tax": 6693,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2018,
+    "ratio": 1.0491,
+    "age_band": "30-39",
+    "nationality_tax": 7179,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2019,
+    "ratio": 1.1368,
+    "age_band": "30-39",
+    "nationality_tax": 8169,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2020,
+    "ratio": 1.2922,
+    "age_band": "30-39",
+    "nationality_tax": 9697,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2021,
+    "ratio": 1.4106,
+    "age_band": "30-39",
+    "nationality_tax": 10953,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2022,
+    "ratio": 1.4693,
+    "age_band": "30-39",
+    "nationality_tax": 13114,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2023,
+    "ratio": 1.2656,
+    "age_band": "30-39",
+    "nationality_tax": 12834,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2024,
+    "ratio": 1.2315,
+    "age_band": "30-39",
+    "nationality_tax": 13711,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2000,
+    "ratio": 0.0,
+    "age_band": "40-49",
+    "nationality_tax": 0,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2001,
+    "ratio": 0.0839,
+    "age_band": "40-49",
+    "nationality_tax": 429,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2002,
+    "ratio": 0.0522,
+    "age_band": "40-49",
+    "nationality_tax": 288,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2003,
+    "ratio": 0.0547,
+    "age_band": "40-49",
+    "nationality_tax": 314,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2004,
+    "ratio": 0.0996,
+    "age_band": "40-49",
+    "nationality_tax": 600,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2005,
+    "ratio": 0.1309,
+    "age_band": "40-49",
+    "nationality_tax": 822,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2006,
+    "ratio": 0.161,
+    "age_band": "40-49",
+    "nationality_tax": 1050,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2007,
+    "ratio": 0.1798,
+    "age_band": "40-49",
+    "nationality_tax": 1216,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2008,
+    "ratio": 0.1991,
+    "age_band": "40-49",
+    "nationality_tax": 1414,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2009,
+    "ratio": 0.2028,
+    "age_band": "40-49",
+    "nationality_tax": 1402,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2010,
+    "ratio": 0.2088,
+    "age_band": "40-49",
+    "nationality_tax": 1361,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2011,
+    "ratio": 0.2394,
+    "age_band": "40-49",
+    "nationality_tax": 1484,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2012,
+    "ratio": 0.3049,
+    "age_band": "40-49",
+    "nationality_tax": 1840,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2013,
+    "ratio": 0.3585,
+    "age_band": "40-49",
+    "nationality_tax": 2261,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2014,
+    "ratio": 0.4174,
+    "age_band": "40-49",
+    "nationality_tax": 2773,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2015,
+    "ratio": 0.4768,
+    "age_band": "40-49",
+    "nationality_tax": 3307,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2016,
+    "ratio": 0.5444,
+    "age_band": "40-49",
+    "nationality_tax": 3920,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2017,
+    "ratio": 0.6231,
+    "age_band": "40-49",
+    "nationality_tax": 4641,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2018,
+    "ratio": 0.6527,
+    "age_band": "40-49",
+    "nationality_tax": 5267,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2019,
+    "ratio": 0.6791,
+    "age_band": "40-49",
+    "nationality_tax": 6002,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2020,
+    "ratio": 0.722,
+    "age_band": "40-49",
+    "nationality_tax": 6890,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2021,
+    "ratio": 0.7579,
+    "age_band": "40-49",
+    "nationality_tax": 7544,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2022,
+    "ratio": 0.871,
+    "age_band": "40-49",
+    "nationality_tax": 9686,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2023,
+    "ratio": 0.9036,
+    "age_band": "40-49",
+    "nationality_tax": 11242,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2024,
+    "ratio": 0.8972,
+    "age_band": "40-49",
+    "nationality_tax": 12190,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2001,
+    "ratio": 0.0104,
+    "age_band": "50-59",
+    "nationality_tax": 46,
+    "nzborn_tax": 4361
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2002,
+    "ratio": 0.0281,
+    "age_band": "50-59",
+    "nationality_tax": 137,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2003,
+    "ratio": 0.0462,
+    "age_band": "50-59",
+    "nationality_tax": 240,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2004,
+    "ratio": 0.1155,
+    "age_band": "50-59",
+    "nationality_tax": 646,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2005,
+    "ratio": 0.1359,
+    "age_band": "50-59",
+    "nationality_tax": 807,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2006,
+    "ratio": 0.1754,
+    "age_band": "50-59",
+    "nationality_tax": 1094,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2007,
+    "ratio": 0.2025,
+    "age_band": "50-59",
+    "nationality_tax": 1329,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2008,
+    "ratio": 0.2032,
+    "age_band": "50-59",
+    "nationality_tax": 1414,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2009,
+    "ratio": 0.1976,
+    "age_band": "50-59",
+    "nationality_tax": 1351,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2010,
+    "ratio": 0.1555,
+    "age_band": "50-59",
+    "nationality_tax": 1008,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2011,
+    "ratio": 0.1549,
+    "age_band": "50-59",
+    "nationality_tax": 952,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2012,
+    "ratio": 0.2096,
+    "age_band": "50-59",
+    "nationality_tax": 1262,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2013,
+    "ratio": 0.2327,
+    "age_band": "50-59",
+    "nationality_tax": 1466,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2014,
+    "ratio": 0.2611,
+    "age_band": "50-59",
+    "nationality_tax": 1714,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2015,
+    "ratio": 0.316,
+    "age_band": "50-59",
+    "nationality_tax": 2150,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2016,
+    "ratio": 0.3441,
+    "age_band": "50-59",
+    "nationality_tax": 2408,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2017,
+    "ratio": 0.4114,
+    "age_band": "50-59",
+    "nationality_tax": 2978,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2018,
+    "ratio": 0.4608,
+    "age_band": "50-59",
+    "nationality_tax": 3489,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2019,
+    "ratio": 0.527,
+    "age_band": "50-59",
+    "nationality_tax": 4355,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2020,
+    "ratio": 0.5721,
+    "age_band": "50-59",
+    "nationality_tax": 5085,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2021,
+    "ratio": 0.606,
+    "age_band": "50-59",
+    "nationality_tax": 5641,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2022,
+    "ratio": 0.6519,
+    "age_band": "50-59",
+    "nationality_tax": 6771,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2023,
+    "ratio": 0.6711,
+    "age_band": "50-59",
+    "nationality_tax": 7890,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "Other Asia",
+    "year": 2024,
+    "ratio": 0.697,
+    "age_band": "50-59",
+    "nationality_tax": 9046,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2000,
+    "ratio": 1.3688,
+    "age_band": "20-29",
+    "nationality_tax": 4094,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2001,
+    "ratio": 1.3284,
+    "age_band": "20-29",
+    "nationality_tax": 4192,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2002,
+    "ratio": 1.0366,
+    "age_band": "20-29",
+    "nationality_tax": 3425,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2003,
+    "ratio": 0.9157,
+    "age_band": "20-29",
+    "nationality_tax": 3161,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2004,
+    "ratio": 0.7869,
+    "age_band": "20-29",
+    "nationality_tax": 2884,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2005,
+    "ratio": 0.7754,
+    "age_band": "20-29",
+    "nationality_tax": 3066,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2006,
+    "ratio": 0.9084,
+    "age_band": "20-29",
+    "nationality_tax": 3829,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2007,
+    "ratio": 0.9083,
+    "age_band": "20-29",
+    "nationality_tax": 3981,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2008,
+    "ratio": 1.0424,
+    "age_band": "20-29",
+    "nationality_tax": 4890,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2009,
+    "ratio": 1.1269,
+    "age_band": "20-29",
+    "nationality_tax": 4920,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2010,
+    "ratio": 1.2299,
+    "age_band": "20-29",
+    "nationality_tax": 4376,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2011,
+    "ratio": 1.2512,
+    "age_band": "20-29",
+    "nationality_tax": 3918,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2012,
+    "ratio": 1.2191,
+    "age_band": "20-29",
+    "nationality_tax": 3567,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2013,
+    "ratio": 1.1683,
+    "age_band": "20-29",
+    "nationality_tax": 3644,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2014,
+    "ratio": 1.0209,
+    "age_band": "20-29",
+    "nationality_tax": 3450,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2015,
+    "ratio": 1.0921,
+    "age_band": "20-29",
+    "nationality_tax": 4018,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2016,
+    "ratio": 1.0803,
+    "age_band": "20-29",
+    "nationality_tax": 4192,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2017,
+    "ratio": 1.0885,
+    "age_band": "20-29",
+    "nationality_tax": 4488,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2018,
+    "ratio": 1.0667,
+    "age_band": "20-29",
+    "nationality_tax": 4770,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2019,
+    "ratio": 1.0952,
+    "age_band": "20-29",
+    "nationality_tax": 5280,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2020,
+    "ratio": 1.105,
+    "age_band": "20-29",
+    "nationality_tax": 5663,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2021,
+    "ratio": 1.0847,
+    "age_band": "20-29",
+    "nationality_tax": 5623,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2022,
+    "ratio": 1.0891,
+    "age_band": "20-29",
+    "nationality_tax": 6462,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2023,
+    "ratio": 1.2344,
+    "age_band": "20-29",
+    "nationality_tax": 8214,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2024,
+    "ratio": 1.2465,
+    "age_band": "20-29",
+    "nationality_tax": 8560,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2000,
+    "ratio": 0.9755,
+    "age_band": "30-39",
+    "nationality_tax": 4137,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2001,
+    "ratio": 1.0654,
+    "age_band": "30-39",
+    "nationality_tax": 4803,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2002,
+    "ratio": 1.129,
+    "age_band": "30-39",
+    "nationality_tax": 5487,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2003,
+    "ratio": 1.1138,
+    "age_band": "30-39",
+    "nationality_tax": 5634,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2004,
+    "ratio": 1.1266,
+    "age_band": "30-39",
+    "nationality_tax": 6060,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2005,
+    "ratio": 1.1528,
+    "age_band": "30-39",
+    "nationality_tax": 6558,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2006,
+    "ratio": 1.1927,
+    "age_band": "30-39",
+    "nationality_tax": 7068,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2007,
+    "ratio": 1.2708,
+    "age_band": "30-39",
+    "nationality_tax": 7786,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2008,
+    "ratio": 1.3079,
+    "age_band": "30-39",
+    "nationality_tax": 8479,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2009,
+    "ratio": 1.3781,
+    "age_band": "30-39",
+    "nationality_tax": 8670,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2010,
+    "ratio": 1.2962,
+    "age_band": "30-39",
+    "nationality_tax": 7612,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2011,
+    "ratio": 1.2791,
+    "age_band": "30-39",
+    "nationality_tax": 7104,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2012,
+    "ratio": 1.238,
+    "age_band": "30-39",
+    "nationality_tax": 6604,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2013,
+    "ratio": 1.2163,
+    "age_band": "30-39",
+    "nationality_tax": 6778,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2014,
+    "ratio": 1.2102,
+    "age_band": "30-39",
+    "nationality_tax": 7077,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2015,
+    "ratio": 1.2103,
+    "age_band": "30-39",
+    "nationality_tax": 7374,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2016,
+    "ratio": 1.2646,
+    "age_band": "30-39",
+    "nationality_tax": 7976,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2017,
+    "ratio": 1.2953,
+    "age_band": "30-39",
+    "nationality_tax": 8408,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2018,
+    "ratio": 1.3049,
+    "age_band": "30-39",
+    "nationality_tax": 8930,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2019,
+    "ratio": 1.3761,
+    "age_band": "30-39",
+    "nationality_tax": 9889,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2020,
+    "ratio": 1.4248,
+    "age_band": "30-39",
+    "nationality_tax": 10692,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2021,
+    "ratio": 1.4603,
+    "age_band": "30-39",
+    "nationality_tax": 11339,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2022,
+    "ratio": 1.4333,
+    "age_band": "30-39",
+    "nationality_tax": 12792,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2023,
+    "ratio": 1.3486,
+    "age_band": "30-39",
+    "nationality_tax": 13676,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2024,
+    "ratio": 1.2903,
+    "age_band": "30-39",
+    "nationality_tax": 14366,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2000,
+    "ratio": 0.8383,
+    "age_band": "40-49",
+    "nationality_tax": 4074,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2001,
+    "ratio": 0.8346,
+    "age_band": "40-49",
+    "nationality_tax": 4268,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2002,
+    "ratio": 0.8199,
+    "age_band": "40-49",
+    "nationality_tax": 4520,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2003,
+    "ratio": 0.8644,
+    "age_band": "40-49",
+    "nationality_tax": 4959,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2004,
+    "ratio": 0.9424,
+    "age_band": "40-49",
+    "nationality_tax": 5677,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2005,
+    "ratio": 0.9545,
+    "age_band": "40-49",
+    "nationality_tax": 5995,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2006,
+    "ratio": 1.004,
+    "age_band": "40-49",
+    "nationality_tax": 6546,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2007,
+    "ratio": 1.0127,
+    "age_band": "40-49",
+    "nationality_tax": 6848,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2008,
+    "ratio": 1.0142,
+    "age_band": "40-49",
+    "nationality_tax": 7203,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2009,
+    "ratio": 1.0579,
+    "age_band": "40-49",
+    "nationality_tax": 7314,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2010,
+    "ratio": 1.0718,
+    "age_band": "40-49",
+    "nationality_tax": 6986,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2011,
+    "ratio": 1.0642,
+    "age_band": "40-49",
+    "nationality_tax": 6595,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2012,
+    "ratio": 1.036,
+    "age_band": "40-49",
+    "nationality_tax": 6251,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2013,
+    "ratio": 1.0226,
+    "age_band": "40-49",
+    "nationality_tax": 6450,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2014,
+    "ratio": 1.0308,
+    "age_band": "40-49",
+    "nationality_tax": 6848,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2015,
+    "ratio": 1.0398,
+    "age_band": "40-49",
+    "nationality_tax": 7212,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2016,
+    "ratio": 1.0765,
+    "age_band": "40-49",
+    "nationality_tax": 7751,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2017,
+    "ratio": 1.1365,
+    "age_band": "40-49",
+    "nationality_tax": 8465,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2018,
+    "ratio": 1.1269,
+    "age_band": "40-49",
+    "nationality_tax": 9093,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2019,
+    "ratio": 1.159,
+    "age_band": "40-49",
+    "nationality_tax": 10243,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2020,
+    "ratio": 1.1937,
+    "age_band": "40-49",
+    "nationality_tax": 11393,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2021,
+    "ratio": 1.205,
+    "age_band": "40-49",
+    "nationality_tax": 11995,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2022,
+    "ratio": 1.1909,
+    "age_band": "40-49",
+    "nationality_tax": 13244,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2023,
+    "ratio": 1.1866,
+    "age_band": "40-49",
+    "nationality_tax": 14764,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2024,
+    "ratio": 1.1399,
+    "age_band": "40-49",
+    "nationality_tax": 15488,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2001,
+    "ratio": 0.6698,
+    "age_band": "50-59",
+    "nationality_tax": 2921,
+    "nzborn_tax": 4361
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2002,
+    "ratio": 0.8699,
+    "age_band": "50-59",
+    "nationality_tax": 4246,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2003,
+    "ratio": 0.9222,
+    "age_band": "50-59",
+    "nationality_tax": 4790,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2004,
+    "ratio": 0.8601,
+    "age_band": "50-59",
+    "nationality_tax": 4808,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2005,
+    "ratio": 0.7938,
+    "age_band": "50-59",
+    "nationality_tax": 4713,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2006,
+    "ratio": 0.8698,
+    "age_band": "50-59",
+    "nationality_tax": 5422,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2007,
+    "ratio": 0.9295,
+    "age_band": "50-59",
+    "nationality_tax": 6101,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2008,
+    "ratio": 0.906,
+    "age_band": "50-59",
+    "nationality_tax": 6306,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2009,
+    "ratio": 0.9748,
+    "age_band": "50-59",
+    "nationality_tax": 6664,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2010,
+    "ratio": 0.9677,
+    "age_band": "50-59",
+    "nationality_tax": 6270,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2011,
+    "ratio": 0.9636,
+    "age_band": "50-59",
+    "nationality_tax": 5922,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2012,
+    "ratio": 0.9468,
+    "age_band": "50-59",
+    "nationality_tax": 5700,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2013,
+    "ratio": 0.9298,
+    "age_band": "50-59",
+    "nationality_tax": 5858,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2014,
+    "ratio": 0.9469,
+    "age_band": "50-59",
+    "nationality_tax": 6218,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2015,
+    "ratio": 0.9508,
+    "age_band": "50-59",
+    "nationality_tax": 6469,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2016,
+    "ratio": 0.943,
+    "age_band": "50-59",
+    "nationality_tax": 6599,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2017,
+    "ratio": 0.9575,
+    "age_band": "50-59",
+    "nationality_tax": 6931,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2018,
+    "ratio": 0.9638,
+    "age_band": "50-59",
+    "nationality_tax": 7298,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2019,
+    "ratio": 0.9654,
+    "age_band": "50-59",
+    "nationality_tax": 7978,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2020,
+    "ratio": 1.0132,
+    "age_band": "50-59",
+    "nationality_tax": 9006,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2021,
+    "ratio": 1.0448,
+    "age_band": "50-59",
+    "nationality_tax": 9726,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2022,
+    "ratio": 1.0674,
+    "age_band": "50-59",
+    "nationality_tax": 11087,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2023,
+    "ratio": 1.0904,
+    "age_band": "50-59",
+    "nationality_tax": 12820,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "Pacific",
+    "year": 2024,
+    "ratio": 1.0383,
+    "age_band": "50-59",
+    "nationality_tax": 13476,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2000,
+    "ratio": 2.5119,
+    "age_band": "20-29",
+    "nationality_tax": 7513,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2001,
+    "ratio": 2.7228,
+    "age_band": "20-29",
+    "nationality_tax": 8593,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2002,
+    "ratio": 2.5269,
+    "age_band": "20-29",
+    "nationality_tax": 8349,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2003,
+    "ratio": 1.6406,
+    "age_band": "20-29",
+    "nationality_tax": 5664,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2004,
+    "ratio": 1.4925,
+    "age_band": "20-29",
+    "nationality_tax": 5470,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2005,
+    "ratio": 1.3015,
+    "age_band": "20-29",
+    "nationality_tax": 5146,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2006,
+    "ratio": 1.0604,
+    "age_band": "20-29",
+    "nationality_tax": 4470,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2007,
+    "ratio": 1.0773,
+    "age_band": "20-29",
+    "nationality_tax": 4722,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2008,
+    "ratio": 1.1765,
+    "age_band": "20-29",
+    "nationality_tax": 5519,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2009,
+    "ratio": 1.2519,
+    "age_band": "20-29",
+    "nationality_tax": 5466,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2010,
+    "ratio": 1.3988,
+    "age_band": "20-29",
+    "nationality_tax": 4977,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2011,
+    "ratio": 1.5902,
+    "age_band": "20-29",
+    "nationality_tax": 4979,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2012,
+    "ratio": 1.5545,
+    "age_band": "20-29",
+    "nationality_tax": 4548,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2013,
+    "ratio": 1.5563,
+    "age_band": "20-29",
+    "nationality_tax": 4854,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2014,
+    "ratio": 1.5108,
+    "age_band": "20-29",
+    "nationality_tax": 5105,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2015,
+    "ratio": 1.3691,
+    "age_band": "20-29",
+    "nationality_tax": 5037,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2016,
+    "ratio": 1.296,
+    "age_band": "20-29",
+    "nationality_tax": 5028,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2017,
+    "ratio": 1.2117,
+    "age_band": "20-29",
+    "nationality_tax": 4996,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2018,
+    "ratio": 1.2062,
+    "age_band": "20-29",
+    "nationality_tax": 5394,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2019,
+    "ratio": 1.174,
+    "age_band": "20-29",
+    "nationality_tax": 5660,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2020,
+    "ratio": 1.1197,
+    "age_band": "20-29",
+    "nationality_tax": 5738,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2021,
+    "ratio": 1.0395,
+    "age_band": "20-29",
+    "nationality_tax": 5389,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2022,
+    "ratio": 1.049,
+    "age_band": "20-29",
+    "nationality_tax": 6225,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2023,
+    "ratio": 1.1913,
+    "age_band": "20-29",
+    "nationality_tax": 7927,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2024,
+    "ratio": 1.1351,
+    "age_band": "20-29",
+    "nationality_tax": 7795,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2000,
+    "ratio": 1.1587,
+    "age_band": "30-39",
+    "nationality_tax": 4914,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2001,
+    "ratio": 1.1957,
+    "age_band": "30-39",
+    "nationality_tax": 5390,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2002,
+    "ratio": 1.25,
+    "age_band": "30-39",
+    "nationality_tax": 6075,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2003,
+    "ratio": 1.2068,
+    "age_band": "30-39",
+    "nationality_tax": 6104,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2004,
+    "ratio": 1.1644,
+    "age_band": "30-39",
+    "nationality_tax": 6264,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2005,
+    "ratio": 1.2505,
+    "age_band": "30-39",
+    "nationality_tax": 7114,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2006,
+    "ratio": 1.3206,
+    "age_band": "30-39",
+    "nationality_tax": 7826,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2007,
+    "ratio": 1.4335,
+    "age_band": "30-39",
+    "nationality_tax": 8783,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2008,
+    "ratio": 1.448,
+    "age_band": "30-39",
+    "nationality_tax": 9388,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2009,
+    "ratio": 1.5621,
+    "age_band": "30-39",
+    "nationality_tax": 9827,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2010,
+    "ratio": 1.4601,
+    "age_band": "30-39",
+    "nationality_tax": 8574,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2011,
+    "ratio": 1.4106,
+    "age_band": "30-39",
+    "nationality_tax": 7834,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2012,
+    "ratio": 1.3848,
+    "age_band": "30-39",
+    "nationality_tax": 7388,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2013,
+    "ratio": 1.358,
+    "age_band": "30-39",
+    "nationality_tax": 7567,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2014,
+    "ratio": 1.4287,
+    "age_band": "30-39",
+    "nationality_tax": 8355,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2015,
+    "ratio": 1.4947,
+    "age_band": "30-39",
+    "nationality_tax": 9107,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2016,
+    "ratio": 1.5691,
+    "age_band": "30-39",
+    "nationality_tax": 9896,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2017,
+    "ratio": 1.5927,
+    "age_band": "30-39",
+    "nationality_tax": 10338,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2018,
+    "ratio": 1.6295,
+    "age_band": "30-39",
+    "nationality_tax": 11151,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2019,
+    "ratio": 1.7074,
+    "age_band": "30-39",
+    "nationality_tax": 12270,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2020,
+    "ratio": 1.8219,
+    "age_band": "30-39",
+    "nationality_tax": 13672,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2021,
+    "ratio": 1.8976,
+    "age_band": "30-39",
+    "nationality_tax": 14734,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2022,
+    "ratio": 1.9173,
+    "age_band": "30-39",
+    "nationality_tax": 17112,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2023,
+    "ratio": 1.6871,
+    "age_band": "30-39",
+    "nationality_tax": 17109,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2024,
+    "ratio": 1.6046,
+    "age_band": "30-39",
+    "nationality_tax": 17866,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2000,
+    "ratio": 0.9854,
+    "age_band": "40-49",
+    "nationality_tax": 4789,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2001,
+    "ratio": 0.9604,
+    "age_band": "40-49",
+    "nationality_tax": 4912,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2002,
+    "ratio": 1.0034,
+    "age_band": "40-49",
+    "nationality_tax": 5531,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2003,
+    "ratio": 1.0049,
+    "age_band": "40-49",
+    "nationality_tax": 5765,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2004,
+    "ratio": 0.9809,
+    "age_band": "40-49",
+    "nationality_tax": 5909,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2005,
+    "ratio": 1.0344,
+    "age_band": "40-49",
+    "nationality_tax": 6497,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2006,
+    "ratio": 1.0917,
+    "age_band": "40-49",
+    "nationality_tax": 7118,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2007,
+    "ratio": 1.1112,
+    "age_band": "40-49",
+    "nationality_tax": 7514,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2008,
+    "ratio": 1.1502,
+    "age_band": "40-49",
+    "nationality_tax": 8168,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2009,
+    "ratio": 1.236,
+    "age_band": "40-49",
+    "nationality_tax": 8546,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2010,
+    "ratio": 1.2021,
+    "age_band": "40-49",
+    "nationality_tax": 7835,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2011,
+    "ratio": 1.2078,
+    "age_band": "40-49",
+    "nationality_tax": 7485,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2012,
+    "ratio": 1.1638,
+    "age_band": "40-49",
+    "nationality_tax": 7022,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2013,
+    "ratio": 1.1625,
+    "age_band": "40-49",
+    "nationality_tax": 7332,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2014,
+    "ratio": 1.1745,
+    "age_band": "40-49",
+    "nationality_tax": 7802,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2015,
+    "ratio": 1.2311,
+    "age_band": "40-49",
+    "nationality_tax": 8539,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2016,
+    "ratio": 1.3089,
+    "age_band": "40-49",
+    "nationality_tax": 9424,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2017,
+    "ratio": 1.3252,
+    "age_band": "40-49",
+    "nationality_tax": 9870,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2018,
+    "ratio": 1.3117,
+    "age_band": "40-49",
+    "nationality_tax": 10584,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2019,
+    "ratio": 1.3146,
+    "age_band": "40-49",
+    "nationality_tax": 11618,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2020,
+    "ratio": 1.3144,
+    "age_band": "40-49",
+    "nationality_tax": 12545,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2021,
+    "ratio": 1.3304,
+    "age_band": "40-49",
+    "nationality_tax": 13242,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2022,
+    "ratio": 1.3417,
+    "age_band": "40-49",
+    "nationality_tax": 14921,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2023,
+    "ratio": 1.3711,
+    "age_band": "40-49",
+    "nationality_tax": 17060,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2024,
+    "ratio": 1.2697,
+    "age_band": "40-49",
+    "nationality_tax": 17251,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2004,
+    "ratio": 0.9268,
+    "age_band": "50-59",
+    "nationality_tax": 5181,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2005,
+    "ratio": 1.007,
+    "age_band": "50-59",
+    "nationality_tax": 5978,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2006,
+    "ratio": 1.1128,
+    "age_band": "50-59",
+    "nationality_tax": 6938,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2007,
+    "ratio": 1.1332,
+    "age_band": "50-59",
+    "nationality_tax": 7438,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2008,
+    "ratio": 1.1358,
+    "age_band": "50-59",
+    "nationality_tax": 7906,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2009,
+    "ratio": 1.2263,
+    "age_band": "50-59",
+    "nationality_tax": 8384,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2010,
+    "ratio": 1.1781,
+    "age_band": "50-59",
+    "nationality_tax": 7634,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2011,
+    "ratio": 1.1297,
+    "age_band": "50-59",
+    "nationality_tax": 6943,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2012,
+    "ratio": 1.0988,
+    "age_band": "50-59",
+    "nationality_tax": 6614,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2013,
+    "ratio": 1.0909,
+    "age_band": "50-59",
+    "nationality_tax": 6872,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2014,
+    "ratio": 1.1035,
+    "age_band": "50-59",
+    "nationality_tax": 7247,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2015,
+    "ratio": 1.0971,
+    "age_band": "50-59",
+    "nationality_tax": 7465,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2016,
+    "ratio": 1.1348,
+    "age_band": "50-59",
+    "nationality_tax": 7941,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2017,
+    "ratio": 1.1662,
+    "age_band": "50-59",
+    "nationality_tax": 8442,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2018,
+    "ratio": 1.2118,
+    "age_band": "50-59",
+    "nationality_tax": 9176,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2019,
+    "ratio": 1.2471,
+    "age_band": "50-59",
+    "nationality_tax": 10306,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2020,
+    "ratio": 1.2555,
+    "age_band": "50-59",
+    "nationality_tax": 11159,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2021,
+    "ratio": 1.2371,
+    "age_band": "50-59",
+    "nationality_tax": 11516,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2022,
+    "ratio": 1.2527,
+    "age_band": "50-59",
+    "nationality_tax": 13012,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2023,
+    "ratio": 1.3276,
+    "age_band": "50-59",
+    "nationality_tax": 15609,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "Phillipines",
+    "year": 2024,
+    "ratio": 1.2818,
+    "age_band": "50-59",
+    "nationality_tax": 16638,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2000,
+    "ratio": 1.5914,
+    "age_band": "20-29",
+    "nationality_tax": 4760,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2001,
+    "ratio": 1.4775,
+    "age_band": "20-29",
+    "nationality_tax": 4663,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2002,
+    "ratio": 1.2685,
+    "age_band": "20-29",
+    "nationality_tax": 4191,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2003,
+    "ratio": 1.2587,
+    "age_band": "20-29",
+    "nationality_tax": 4345,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2004,
+    "ratio": 1.0494,
+    "age_band": "20-29",
+    "nationality_tax": 3846,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2005,
+    "ratio": 0.9846,
+    "age_band": "20-29",
+    "nationality_tax": 3893,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2006,
+    "ratio": 1.0273,
+    "age_band": "20-29",
+    "nationality_tax": 4330,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2007,
+    "ratio": 0.997,
+    "age_band": "20-29",
+    "nationality_tax": 4370,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2008,
+    "ratio": 1.0556,
+    "age_band": "20-29",
+    "nationality_tax": 4952,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2009,
+    "ratio": 1.1096,
+    "age_band": "20-29",
+    "nationality_tax": 4844,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2010,
+    "ratio": 1.1231,
+    "age_band": "20-29",
+    "nationality_tax": 3996,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2011,
+    "ratio": 1.1827,
+    "age_band": "20-29",
+    "nationality_tax": 3703,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2012,
+    "ratio": 1.1364,
+    "age_band": "20-29",
+    "nationality_tax": 3325,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2013,
+    "ratio": 1.102,
+    "age_band": "20-29",
+    "nationality_tax": 3437,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2014,
+    "ratio": 1.0923,
+    "age_band": "20-29",
+    "nationality_tax": 3691,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2015,
+    "ratio": 1.1087,
+    "age_band": "20-29",
+    "nationality_tax": 4079,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2016,
+    "ratio": 1.134,
+    "age_band": "20-29",
+    "nationality_tax": 4400,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2017,
+    "ratio": 1.1363,
+    "age_band": "20-29",
+    "nationality_tax": 4685,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2018,
+    "ratio": 1.131,
+    "age_band": "20-29",
+    "nationality_tax": 5058,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2019,
+    "ratio": 1.1385,
+    "age_band": "20-29",
+    "nationality_tax": 5488,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2020,
+    "ratio": 1.1668,
+    "age_band": "20-29",
+    "nationality_tax": 5980,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2021,
+    "ratio": 1.1391,
+    "age_band": "20-29",
+    "nationality_tax": 5905,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2022,
+    "ratio": 1.1311,
+    "age_band": "20-29",
+    "nationality_tax": 6712,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2023,
+    "ratio": 1.1393,
+    "age_band": "20-29",
+    "nationality_tax": 7581,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2024,
+    "ratio": 1.1762,
+    "age_band": "20-29",
+    "nationality_tax": 8077,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2000,
+    "ratio": 1.6352,
+    "age_band": "30-39",
+    "nationality_tax": 6935,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2001,
+    "ratio": 1.6009,
+    "age_band": "30-39",
+    "nationality_tax": 7217,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2002,
+    "ratio": 1.603,
+    "age_band": "30-39",
+    "nationality_tax": 7790,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2003,
+    "ratio": 1.6139,
+    "age_band": "30-39",
+    "nationality_tax": 8163,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2004,
+    "ratio": 1.6561,
+    "age_band": "30-39",
+    "nationality_tax": 8908,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2005,
+    "ratio": 1.6538,
+    "age_band": "30-39",
+    "nationality_tax": 9408,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2006,
+    "ratio": 1.7307,
+    "age_band": "30-39",
+    "nationality_tax": 10256,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2007,
+    "ratio": 1.6994,
+    "age_band": "30-39",
+    "nationality_tax": 10412,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2008,
+    "ratio": 1.7112,
+    "age_band": "30-39",
+    "nationality_tax": 11094,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2009,
+    "ratio": 1.7847,
+    "age_band": "30-39",
+    "nationality_tax": 11228,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2010,
+    "ratio": 1.6773,
+    "age_band": "30-39",
+    "nationality_tax": 9849,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2011,
+    "ratio": 1.6984,
+    "age_band": "30-39",
+    "nationality_tax": 9433,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2012,
+    "ratio": 1.6948,
+    "age_band": "30-39",
+    "nationality_tax": 9042,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2013,
+    "ratio": 1.6276,
+    "age_band": "30-39",
+    "nationality_tax": 9069,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2014,
+    "ratio": 1.6329,
+    "age_band": "30-39",
+    "nationality_tax": 9549,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2015,
+    "ratio": 1.5848,
+    "age_band": "30-39",
+    "nationality_tax": 9656,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2016,
+    "ratio": 1.6295,
+    "age_band": "30-39",
+    "nationality_tax": 10278,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2017,
+    "ratio": 1.6252,
+    "age_band": "30-39",
+    "nationality_tax": 10549,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2018,
+    "ratio": 1.616,
+    "age_band": "30-39",
+    "nationality_tax": 11058,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2019,
+    "ratio": 1.6386,
+    "age_band": "30-39",
+    "nationality_tax": 11775,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2020,
+    "ratio": 1.7283,
+    "age_band": "30-39",
+    "nationality_tax": 12969,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2021,
+    "ratio": 1.6948,
+    "age_band": "30-39",
+    "nationality_tax": 13160,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2022,
+    "ratio": 1.6204,
+    "age_band": "30-39",
+    "nationality_tax": 14462,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2023,
+    "ratio": 1.6212,
+    "age_band": "30-39",
+    "nationality_tax": 16441,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2024,
+    "ratio": 1.6119,
+    "age_band": "30-39",
+    "nationality_tax": 17947,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2000,
+    "ratio": 1.5169,
+    "age_band": "40-49",
+    "nationality_tax": 7372,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2001,
+    "ratio": 1.5679,
+    "age_band": "40-49",
+    "nationality_tax": 8018,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2002,
+    "ratio": 1.5793,
+    "age_band": "40-49",
+    "nationality_tax": 8705,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2003,
+    "ratio": 1.5662,
+    "age_band": "40-49",
+    "nationality_tax": 8986,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2004,
+    "ratio": 1.6472,
+    "age_band": "40-49",
+    "nationality_tax": 9923,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2005,
+    "ratio": 1.7055,
+    "age_band": "40-49",
+    "nationality_tax": 10712,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2006,
+    "ratio": 1.7192,
+    "age_band": "40-49",
+    "nationality_tax": 11209,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2007,
+    "ratio": 1.7274,
+    "age_band": "40-49",
+    "nationality_tax": 11681,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2008,
+    "ratio": 1.7309,
+    "age_band": "40-49",
+    "nationality_tax": 12292,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2009,
+    "ratio": 1.8248,
+    "age_band": "40-49",
+    "nationality_tax": 12616,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2010,
+    "ratio": 1.7393,
+    "age_band": "40-49",
+    "nationality_tax": 11337,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2011,
+    "ratio": 1.7612,
+    "age_band": "40-49",
+    "nationality_tax": 10914,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2012,
+    "ratio": 1.7509,
+    "age_band": "40-49",
+    "nationality_tax": 10565,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2013,
+    "ratio": 1.7254,
+    "age_band": "40-49",
+    "nationality_tax": 10882,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2014,
+    "ratio": 1.7045,
+    "age_band": "40-49",
+    "nationality_tax": 11323,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2015,
+    "ratio": 1.7173,
+    "age_band": "40-49",
+    "nationality_tax": 11911,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2016,
+    "ratio": 1.7567,
+    "age_band": "40-49",
+    "nationality_tax": 12648,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2017,
+    "ratio": 1.7818,
+    "age_band": "40-49",
+    "nationality_tax": 13271,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2018,
+    "ratio": 1.7135,
+    "age_band": "40-49",
+    "nationality_tax": 13826,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2019,
+    "ratio": 1.6924,
+    "age_band": "40-49",
+    "nationality_tax": 14957,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2020,
+    "ratio": 1.6932,
+    "age_band": "40-49",
+    "nationality_tax": 16160,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2021,
+    "ratio": 1.6741,
+    "age_band": "40-49",
+    "nationality_tax": 16664,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2022,
+    "ratio": 1.6802,
+    "age_band": "40-49",
+    "nationality_tax": 18686,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2023,
+    "ratio": 1.6389,
+    "age_band": "40-49",
+    "nationality_tax": 20391,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2024,
+    "ratio": 1.6069,
+    "age_band": "40-49",
+    "nationality_tax": 21833,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2000,
+    "ratio": 1.7052,
+    "age_band": "50-59",
+    "nationality_tax": 6778,
+    "nzborn_tax": 3975
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2001,
+    "ratio": 1.6751,
+    "age_band": "50-59",
+    "nationality_tax": 7305,
+    "nzborn_tax": 4361
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2002,
+    "ratio": 1.5317,
+    "age_band": "50-59",
+    "nationality_tax": 7476,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2003,
+    "ratio": 1.6236,
+    "age_band": "50-59",
+    "nationality_tax": 8433,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2004,
+    "ratio": 1.6775,
+    "age_band": "50-59",
+    "nationality_tax": 9377,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2005,
+    "ratio": 1.7064,
+    "age_band": "50-59",
+    "nationality_tax": 10131,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2006,
+    "ratio": 1.7523,
+    "age_band": "50-59",
+    "nationality_tax": 10924,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2007,
+    "ratio": 1.7084,
+    "age_band": "50-59",
+    "nationality_tax": 11214,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2008,
+    "ratio": 1.7299,
+    "age_band": "50-59",
+    "nationality_tax": 12042,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2009,
+    "ratio": 1.7691,
+    "age_band": "50-59",
+    "nationality_tax": 12095,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2010,
+    "ratio": 1.6395,
+    "age_band": "50-59",
+    "nationality_tax": 10624,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2011,
+    "ratio": 1.6759,
+    "age_band": "50-59",
+    "nationality_tax": 10300,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2012,
+    "ratio": 1.7336,
+    "age_band": "50-59",
+    "nationality_tax": 10436,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2013,
+    "ratio": 1.743,
+    "age_band": "50-59",
+    "nationality_tax": 10981,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2014,
+    "ratio": 1.75,
+    "age_band": "50-59",
+    "nationality_tax": 11492,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2015,
+    "ratio": 1.7638,
+    "age_band": "50-59",
+    "nationality_tax": 12001,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2016,
+    "ratio": 1.7822,
+    "age_band": "50-59",
+    "nationality_tax": 12472,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2017,
+    "ratio": 1.7935,
+    "age_band": "50-59",
+    "nationality_tax": 12983,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2018,
+    "ratio": 1.8102,
+    "age_band": "50-59",
+    "nationality_tax": 13707,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2019,
+    "ratio": 1.7285,
+    "age_band": "50-59",
+    "nationality_tax": 14284,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2020,
+    "ratio": 1.734,
+    "age_band": "50-59",
+    "nationality_tax": 15412,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2021,
+    "ratio": 1.7195,
+    "age_band": "50-59",
+    "nationality_tax": 16007,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2022,
+    "ratio": 1.6746,
+    "age_band": "50-59",
+    "nationality_tax": 17394,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2023,
+    "ratio": 1.6607,
+    "age_band": "50-59",
+    "nationality_tax": 19525,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "South Africa",
+    "year": 2024,
+    "ratio": 1.6342,
+    "age_band": "50-59",
+    "nationality_tax": 21212,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2000,
+    "ratio": 0.7817,
+    "age_band": "20-29",
+    "nationality_tax": 2338,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2001,
+    "ratio": 0.6689,
+    "age_band": "20-29",
+    "nationality_tax": 2111,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2002,
+    "ratio": 0.7869,
+    "age_band": "20-29",
+    "nationality_tax": 2600,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2003,
+    "ratio": 0.9541,
+    "age_band": "20-29",
+    "nationality_tax": 3294,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2004,
+    "ratio": 1.104,
+    "age_band": "20-29",
+    "nationality_tax": 4046,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2005,
+    "ratio": 1.068,
+    "age_band": "20-29",
+    "nationality_tax": 4223,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2006,
+    "ratio": 1.1502,
+    "age_band": "20-29",
+    "nationality_tax": 4848,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2007,
+    "ratio": 1.1939,
+    "age_band": "20-29",
+    "nationality_tax": 5233,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2008,
+    "ratio": 1.1893,
+    "age_band": "20-29",
+    "nationality_tax": 5579,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2009,
+    "ratio": 1.2112,
+    "age_band": "20-29",
+    "nationality_tax": 5288,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2010,
+    "ratio": 1.3831,
+    "age_band": "20-29",
+    "nationality_tax": 4921,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2011,
+    "ratio": 1.6094,
+    "age_band": "20-29",
+    "nationality_tax": 5039,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2012,
+    "ratio": 1.7194,
+    "age_band": "20-29",
+    "nationality_tax": 5031,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2013,
+    "ratio": 1.732,
+    "age_band": "20-29",
+    "nationality_tax": 5402,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2014,
+    "ratio": 1.6887,
+    "age_band": "20-29",
+    "nationality_tax": 5706,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2015,
+    "ratio": 1.6537,
+    "age_band": "20-29",
+    "nationality_tax": 6084,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2016,
+    "ratio": 1.608,
+    "age_band": "20-29",
+    "nationality_tax": 6239,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2017,
+    "ratio": 1.5399,
+    "age_band": "20-29",
+    "nationality_tax": 6349,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2018,
+    "ratio": 1.5069,
+    "age_band": "20-29",
+    "nationality_tax": 6739,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2019,
+    "ratio": 1.5283,
+    "age_band": "20-29",
+    "nationality_tax": 7368,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2020,
+    "ratio": 1.5973,
+    "age_band": "20-29",
+    "nationality_tax": 8186,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2021,
+    "ratio": 1.6516,
+    "age_band": "20-29",
+    "nationality_tax": 8562,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2022,
+    "ratio": 1.6673,
+    "age_band": "20-29",
+    "nationality_tax": 9894,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2023,
+    "ratio": 1.676,
+    "age_band": "20-29",
+    "nationality_tax": 11152,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2024,
+    "ratio": 1.758,
+    "age_band": "20-29",
+    "nationality_tax": 12072,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2000,
+    "ratio": 0.5717,
+    "age_band": "30-39",
+    "nationality_tax": 2424,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2001,
+    "ratio": 0.9097,
+    "age_band": "30-39",
+    "nationality_tax": 4101,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2002,
+    "ratio": 0.8984,
+    "age_band": "30-39",
+    "nationality_tax": 4366,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2003,
+    "ratio": 0.8324,
+    "age_band": "30-39",
+    "nationality_tax": 4210,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2004,
+    "ratio": 0.9041,
+    "age_band": "30-39",
+    "nationality_tax": 4863,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2005,
+    "ratio": 1.0088,
+    "age_band": "30-39",
+    "nationality_tax": 5739,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2006,
+    "ratio": 1.0751,
+    "age_band": "30-39",
+    "nationality_tax": 6371,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2007,
+    "ratio": 1.1109,
+    "age_band": "30-39",
+    "nationality_tax": 6806,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2008,
+    "ratio": 1.1273,
+    "age_band": "30-39",
+    "nationality_tax": 7308,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2009,
+    "ratio": 1.1879,
+    "age_band": "30-39",
+    "nationality_tax": 7473,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2010,
+    "ratio": 1.2575,
+    "age_band": "30-39",
+    "nationality_tax": 7384,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2011,
+    "ratio": 1.2623,
+    "age_band": "30-39",
+    "nationality_tax": 7011,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2012,
+    "ratio": 1.2418,
+    "age_band": "30-39",
+    "nationality_tax": 6625,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2013,
+    "ratio": 1.2462,
+    "age_band": "30-39",
+    "nationality_tax": 6944,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2014,
+    "ratio": 1.2409,
+    "age_band": "30-39",
+    "nationality_tax": 7257,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2015,
+    "ratio": 1.2478,
+    "age_band": "30-39",
+    "nationality_tax": 7603,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2016,
+    "ratio": 1.2933,
+    "age_band": "30-39",
+    "nationality_tax": 8157,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2017,
+    "ratio": 1.3261,
+    "age_band": "30-39",
+    "nationality_tax": 8608,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2018,
+    "ratio": 1.3355,
+    "age_band": "30-39",
+    "nationality_tax": 9139,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2019,
+    "ratio": 1.3987,
+    "age_band": "30-39",
+    "nationality_tax": 10051,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2020,
+    "ratio": 1.5022,
+    "age_band": "30-39",
+    "nationality_tax": 11272,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2021,
+    "ratio": 1.5785,
+    "age_band": "30-39",
+    "nationality_tax": 12257,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2022,
+    "ratio": 1.5718,
+    "age_band": "30-39",
+    "nationality_tax": 14028,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2023,
+    "ratio": 1.3622,
+    "age_band": "30-39",
+    "nationality_tax": 13814,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2024,
+    "ratio": 1.2982,
+    "age_band": "30-39",
+    "nationality_tax": 14454,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2000,
+    "ratio": 0.4921,
+    "age_band": "40-49",
+    "nationality_tax": 2392,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2001,
+    "ratio": 0.682,
+    "age_band": "40-49",
+    "nationality_tax": 3488,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2002,
+    "ratio": 0.7528,
+    "age_band": "40-49",
+    "nationality_tax": 4150,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2003,
+    "ratio": 0.7814,
+    "age_band": "40-49",
+    "nationality_tax": 4483,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2004,
+    "ratio": 0.8345,
+    "age_band": "40-49",
+    "nationality_tax": 5027,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2005,
+    "ratio": 0.9034,
+    "age_band": "40-49",
+    "nationality_tax": 5674,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2006,
+    "ratio": 0.9832,
+    "age_band": "40-49",
+    "nationality_tax": 6410,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2007,
+    "ratio": 1.0251,
+    "age_band": "40-49",
+    "nationality_tax": 6932,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2008,
+    "ratio": 1.0322,
+    "age_band": "40-49",
+    "nationality_tax": 7330,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2009,
+    "ratio": 1.1025,
+    "age_band": "40-49",
+    "nationality_tax": 7622,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2010,
+    "ratio": 1.1283,
+    "age_band": "40-49",
+    "nationality_tax": 7354,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2011,
+    "ratio": 1.1353,
+    "age_band": "40-49",
+    "nationality_tax": 7036,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2012,
+    "ratio": 1.1303,
+    "age_band": "40-49",
+    "nationality_tax": 6820,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2013,
+    "ratio": 1.1321,
+    "age_band": "40-49",
+    "nationality_tax": 7140,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2014,
+    "ratio": 1.1421,
+    "age_band": "40-49",
+    "nationality_tax": 7587,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2015,
+    "ratio": 1.1608,
+    "age_band": "40-49",
+    "nationality_tax": 8051,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2016,
+    "ratio": 1.1843,
+    "age_band": "40-49",
+    "nationality_tax": 8527,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2017,
+    "ratio": 1.1905,
+    "age_band": "40-49",
+    "nationality_tax": 8867,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2018,
+    "ratio": 1.1777,
+    "age_band": "40-49",
+    "nationality_tax": 9503,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2019,
+    "ratio": 1.1705,
+    "age_band": "40-49",
+    "nationality_tax": 10344,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2020,
+    "ratio": 1.2247,
+    "age_band": "40-49",
+    "nationality_tax": 11689,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2021,
+    "ratio": 1.2754,
+    "age_band": "40-49",
+    "nationality_tax": 12696,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2022,
+    "ratio": 1.3374,
+    "age_band": "40-49",
+    "nationality_tax": 14873,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2023,
+    "ratio": 1.2731,
+    "age_band": "40-49",
+    "nationality_tax": 15840,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2024,
+    "ratio": 1.2204,
+    "age_band": "40-49",
+    "nationality_tax": 16581,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2001,
+    "ratio": 0.5774,
+    "age_band": "50-59",
+    "nationality_tax": 2518,
+    "nzborn_tax": 4361
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2002,
+    "ratio": 0.5927,
+    "age_band": "50-59",
+    "nationality_tax": 2893,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2003,
+    "ratio": 0.7293,
+    "age_band": "50-59",
+    "nationality_tax": 3788,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2004,
+    "ratio": 0.8242,
+    "age_band": "50-59",
+    "nationality_tax": 4607,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2005,
+    "ratio": 0.8792,
+    "age_band": "50-59",
+    "nationality_tax": 5220,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2006,
+    "ratio": 0.9732,
+    "age_band": "50-59",
+    "nationality_tax": 6067,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2007,
+    "ratio": 1.0104,
+    "age_band": "50-59",
+    "nationality_tax": 6632,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2008,
+    "ratio": 1.0401,
+    "age_band": "50-59",
+    "nationality_tax": 7240,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2009,
+    "ratio": 1.072,
+    "age_band": "50-59",
+    "nationality_tax": 7329,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2010,
+    "ratio": 1.1272,
+    "age_band": "50-59",
+    "nationality_tax": 7304,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2011,
+    "ratio": 1.1445,
+    "age_band": "50-59",
+    "nationality_tax": 7034,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2012,
+    "ratio": 1.1066,
+    "age_band": "50-59",
+    "nationality_tax": 6662,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2013,
+    "ratio": 1.1237,
+    "age_band": "50-59",
+    "nationality_tax": 7079,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2014,
+    "ratio": 1.1299,
+    "age_band": "50-59",
+    "nationality_tax": 7420,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2015,
+    "ratio": 1.1183,
+    "age_band": "50-59",
+    "nationality_tax": 7609,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2016,
+    "ratio": 1.1599,
+    "age_band": "50-59",
+    "nationality_tax": 8117,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2017,
+    "ratio": 1.183,
+    "age_band": "50-59",
+    "nationality_tax": 8564,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2018,
+    "ratio": 1.212,
+    "age_band": "50-59",
+    "nationality_tax": 9177,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2019,
+    "ratio": 1.2004,
+    "age_band": "50-59",
+    "nationality_tax": 9920,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2020,
+    "ratio": 1.2706,
+    "age_band": "50-59",
+    "nationality_tax": 11293,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2021,
+    "ratio": 1.2751,
+    "age_band": "50-59",
+    "nationality_tax": 11870,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2022,
+    "ratio": 1.2884,
+    "age_band": "50-59",
+    "nationality_tax": 13382,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2023,
+    "ratio": 1.2717,
+    "age_band": "50-59",
+    "nationality_tax": 14951,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "South Asia",
+    "year": 2024,
+    "ratio": 1.2597,
+    "age_band": "50-59",
+    "nationality_tax": 16352,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "UK",
+    "year": 2000,
+    "ratio": 2.3317,
+    "age_band": "20-29",
+    "nationality_tax": 6974,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "UK",
+    "year": 2001,
+    "ratio": 2.2703,
+    "age_band": "20-29",
+    "nationality_tax": 7165,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "UK",
+    "year": 2002,
+    "ratio": 2.1138,
+    "age_band": "20-29",
+    "nationality_tax": 6984,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "UK",
+    "year": 2003,
+    "ratio": 2.0413,
+    "age_band": "20-29",
+    "nationality_tax": 7046,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "UK",
+    "year": 2004,
+    "ratio": 1.8744,
+    "age_band": "20-29",
+    "nationality_tax": 6870,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "UK",
+    "year": 2005,
+    "ratio": 1.6437,
+    "age_band": "20-29",
+    "nationality_tax": 6499,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "UK",
+    "year": 2006,
+    "ratio": 1.603,
+    "age_band": "20-29",
+    "nationality_tax": 6756,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "UK",
+    "year": 2007,
+    "ratio": 1.4919,
+    "age_band": "20-29",
+    "nationality_tax": 6539,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "UK",
+    "year": 2008,
+    "ratio": 1.3783,
+    "age_band": "20-29",
+    "nationality_tax": 6466,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "UK",
+    "year": 2009,
+    "ratio": 1.3536,
+    "age_band": "20-29",
+    "nationality_tax": 5910,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "UK",
+    "year": 2010,
+    "ratio": 1.3704,
+    "age_band": "20-29",
+    "nationality_tax": 4876,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "UK",
+    "year": 2011,
+    "ratio": 1.3619,
+    "age_band": "20-29",
+    "nationality_tax": 4264,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "UK",
+    "year": 2012,
+    "ratio": 1.3042,
+    "age_band": "20-29",
+    "nationality_tax": 3816,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "UK",
+    "year": 2013,
+    "ratio": 1.2767,
+    "age_band": "20-29",
+    "nationality_tax": 3982,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "UK",
+    "year": 2014,
+    "ratio": 1.2234,
+    "age_band": "20-29",
+    "nationality_tax": 4134,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "UK",
+    "year": 2015,
+    "ratio": 1.2003,
+    "age_band": "20-29",
+    "nationality_tax": 4416,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "UK",
+    "year": 2016,
+    "ratio": 1.2784,
+    "age_band": "20-29",
+    "nationality_tax": 4960,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "UK",
+    "year": 2017,
+    "ratio": 1.2587,
+    "age_band": "20-29",
+    "nationality_tax": 5190,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "UK",
+    "year": 2018,
+    "ratio": 1.2589,
+    "age_band": "20-29",
+    "nationality_tax": 5630,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "UK",
+    "year": 2019,
+    "ratio": 1.2107,
+    "age_band": "20-29",
+    "nationality_tax": 5837,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "UK",
+    "year": 2020,
+    "ratio": 1.2107,
+    "age_band": "20-29",
+    "nationality_tax": 6205,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "UK",
+    "year": 2021,
+    "ratio": 1.2002,
+    "age_band": "20-29",
+    "nationality_tax": 6222,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "UK",
+    "year": 2022,
+    "ratio": 1.1716,
+    "age_band": "20-29",
+    "nationality_tax": 6952,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "UK",
+    "year": 2023,
+    "ratio": 1.286,
+    "age_band": "20-29",
+    "nationality_tax": 8557,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "UK",
+    "year": 2024,
+    "ratio": 1.3399,
+    "age_band": "20-29",
+    "nationality_tax": 9201,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "UK",
+    "year": 2000,
+    "ratio": 1.8755,
+    "age_band": "30-39",
+    "nationality_tax": 7954,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "UK",
+    "year": 2001,
+    "ratio": 1.8991,
+    "age_band": "30-39",
+    "nationality_tax": 8561,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "UK",
+    "year": 2002,
+    "ratio": 1.7508,
+    "age_band": "30-39",
+    "nationality_tax": 8509,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "UK",
+    "year": 2003,
+    "ratio": 1.6767,
+    "age_band": "30-39",
+    "nationality_tax": 8481,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "UK",
+    "year": 2004,
+    "ratio": 1.6619,
+    "age_band": "30-39",
+    "nationality_tax": 8940,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "UK",
+    "year": 2005,
+    "ratio": 1.6516,
+    "age_band": "30-39",
+    "nationality_tax": 9396,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "UK",
+    "year": 2006,
+    "ratio": 1.6743,
+    "age_band": "30-39",
+    "nationality_tax": 9922,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "UK",
+    "year": 2007,
+    "ratio": 1.7398,
+    "age_band": "30-39",
+    "nationality_tax": 10660,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "UK",
+    "year": 2008,
+    "ratio": 1.7435,
+    "age_band": "30-39",
+    "nationality_tax": 11303,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "UK",
+    "year": 2009,
+    "ratio": 1.8813,
+    "age_band": "30-39",
+    "nationality_tax": 11835,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "UK",
+    "year": 2010,
+    "ratio": 1.8266,
+    "age_band": "30-39",
+    "nationality_tax": 10726,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "UK",
+    "year": 2011,
+    "ratio": 1.9067,
+    "age_band": "30-39",
+    "nationality_tax": 10590,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "UK",
+    "year": 2012,
+    "ratio": 1.9376,
+    "age_band": "30-39",
+    "nationality_tax": 10337,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "UK",
+    "year": 2013,
+    "ratio": 1.9975,
+    "age_band": "30-39",
+    "nationality_tax": 11130,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "UK",
+    "year": 2014,
+    "ratio": 1.9628,
+    "age_band": "30-39",
+    "nationality_tax": 11478,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "UK",
+    "year": 2015,
+    "ratio": 1.9787,
+    "age_band": "30-39",
+    "nationality_tax": 12056,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "UK",
+    "year": 2016,
+    "ratio": 2.0401,
+    "age_band": "30-39",
+    "nationality_tax": 12867,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "UK",
+    "year": 2017,
+    "ratio": 2.0074,
+    "age_band": "30-39",
+    "nationality_tax": 13030,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "UK",
+    "year": 2018,
+    "ratio": 1.9674,
+    "age_band": "30-39",
+    "nationality_tax": 13463,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "UK",
+    "year": 2019,
+    "ratio": 1.9537,
+    "age_band": "30-39",
+    "nationality_tax": 14040,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "UK",
+    "year": 2020,
+    "ratio": 1.9944,
+    "age_band": "30-39",
+    "nationality_tax": 14966,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "UK",
+    "year": 2021,
+    "ratio": 1.979,
+    "age_band": "30-39",
+    "nationality_tax": 15367,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "UK",
+    "year": 2022,
+    "ratio": 1.8441,
+    "age_band": "30-39",
+    "nationality_tax": 16459,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "UK",
+    "year": 2023,
+    "ratio": 1.7133,
+    "age_band": "30-39",
+    "nationality_tax": 17375,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "UK",
+    "year": 2024,
+    "ratio": 1.6989,
+    "age_band": "30-39",
+    "nationality_tax": 18916,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "UK",
+    "year": 2000,
+    "ratio": 1.5027,
+    "age_band": "40-49",
+    "nationality_tax": 7303,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "UK",
+    "year": 2001,
+    "ratio": 1.4425,
+    "age_band": "40-49",
+    "nationality_tax": 7377,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "UK",
+    "year": 2002,
+    "ratio": 1.3901,
+    "age_band": "40-49",
+    "nationality_tax": 7662,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "UK",
+    "year": 2003,
+    "ratio": 1.3453,
+    "age_band": "40-49",
+    "nationality_tax": 7718,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "UK",
+    "year": 2004,
+    "ratio": 1.3263,
+    "age_band": "40-49",
+    "nationality_tax": 7990,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "UK",
+    "year": 2005,
+    "ratio": 1.3875,
+    "age_band": "40-49",
+    "nationality_tax": 8715,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "UK",
+    "year": 2006,
+    "ratio": 1.4196,
+    "age_band": "40-49",
+    "nationality_tax": 9256,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "UK",
+    "year": 2007,
+    "ratio": 1.4414,
+    "age_band": "40-49",
+    "nationality_tax": 9747,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "UK",
+    "year": 2008,
+    "ratio": 1.4709,
+    "age_band": "40-49",
+    "nationality_tax": 10446,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "UK",
+    "year": 2009,
+    "ratio": 1.543,
+    "age_band": "40-49",
+    "nationality_tax": 10668,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "UK",
+    "year": 2010,
+    "ratio": 1.4928,
+    "age_band": "40-49",
+    "nationality_tax": 9730,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "UK",
+    "year": 2011,
+    "ratio": 1.5685,
+    "age_band": "40-49",
+    "nationality_tax": 9720,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "UK",
+    "year": 2012,
+    "ratio": 1.6283,
+    "age_band": "40-49",
+    "nationality_tax": 9825,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "UK",
+    "year": 2013,
+    "ratio": 1.6937,
+    "age_band": "40-49",
+    "nationality_tax": 10682,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "UK",
+    "year": 2014,
+    "ratio": 1.7432,
+    "age_band": "40-49",
+    "nationality_tax": 11580,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "UK",
+    "year": 2015,
+    "ratio": 1.8179,
+    "age_band": "40-49",
+    "nationality_tax": 12609,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "UK",
+    "year": 2016,
+    "ratio": 1.8558,
+    "age_band": "40-49",
+    "nationality_tax": 13362,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "UK",
+    "year": 2017,
+    "ratio": 1.864,
+    "age_band": "40-49",
+    "nationality_tax": 13883,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "UK",
+    "year": 2018,
+    "ratio": 1.8181,
+    "age_band": "40-49",
+    "nationality_tax": 14670,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "UK",
+    "year": 2019,
+    "ratio": 1.8203,
+    "age_band": "40-49",
+    "nationality_tax": 16088,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "UK",
+    "year": 2020,
+    "ratio": 1.8221,
+    "age_band": "40-49",
+    "nationality_tax": 17390,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "UK",
+    "year": 2021,
+    "ratio": 1.8362,
+    "age_band": "40-49",
+    "nationality_tax": 18278,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "UK",
+    "year": 2022,
+    "ratio": 1.8419,
+    "age_band": "40-49",
+    "nationality_tax": 20484,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "UK",
+    "year": 2023,
+    "ratio": 1.7843,
+    "age_band": "40-49",
+    "nationality_tax": 22200,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "UK",
+    "year": 2024,
+    "ratio": 1.8163,
+    "age_band": "40-49",
+    "nationality_tax": 24678,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "UK",
+    "year": 2000,
+    "ratio": 1.7286,
+    "age_band": "50-59",
+    "nationality_tax": 6871,
+    "nzborn_tax": 3975
+  },
+  {
+    "nationality": "UK",
+    "year": 2001,
+    "ratio": 1.7032,
+    "age_band": "50-59",
+    "nationality_tax": 7428,
+    "nzborn_tax": 4361
+  },
+  {
+    "nationality": "UK",
+    "year": 2002,
+    "ratio": 1.498,
+    "age_band": "50-59",
+    "nationality_tax": 7312,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "UK",
+    "year": 2003,
+    "ratio": 1.3152,
+    "age_band": "50-59",
+    "nationality_tax": 6831,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "UK",
+    "year": 2004,
+    "ratio": 1.2504,
+    "age_band": "50-59",
+    "nationality_tax": 6990,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "UK",
+    "year": 2005,
+    "ratio": 1.2237,
+    "age_band": "50-59",
+    "nationality_tax": 7265,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "UK",
+    "year": 2006,
+    "ratio": 1.2248,
+    "age_band": "50-59",
+    "nationality_tax": 7636,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "UK",
+    "year": 2007,
+    "ratio": 1.3151,
+    "age_band": "50-59",
+    "nationality_tax": 8632,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "UK",
+    "year": 2008,
+    "ratio": 1.3461,
+    "age_band": "50-59",
+    "nationality_tax": 9370,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "UK",
+    "year": 2009,
+    "ratio": 1.4218,
+    "age_band": "50-59",
+    "nationality_tax": 9721,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "UK",
+    "year": 2010,
+    "ratio": 1.3073,
+    "age_band": "50-59",
+    "nationality_tax": 8471,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "UK",
+    "year": 2011,
+    "ratio": 1.3244,
+    "age_band": "50-59",
+    "nationality_tax": 8140,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "UK",
+    "year": 2012,
+    "ratio": 1.4183,
+    "age_band": "50-59",
+    "nationality_tax": 8538,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "UK",
+    "year": 2013,
+    "ratio": 1.4803,
+    "age_band": "50-59",
+    "nationality_tax": 9326,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "UK",
+    "year": 2014,
+    "ratio": 1.5657,
+    "age_band": "50-59",
+    "nationality_tax": 10282,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "UK",
+    "year": 2015,
+    "ratio": 1.6606,
+    "age_band": "50-59",
+    "nationality_tax": 11299,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "UK",
+    "year": 2016,
+    "ratio": 1.6832,
+    "age_band": "50-59",
+    "nationality_tax": 11779,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "UK",
+    "year": 2017,
+    "ratio": 1.6817,
+    "age_band": "50-59",
+    "nationality_tax": 12174,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "UK",
+    "year": 2018,
+    "ratio": 1.6992,
+    "age_band": "50-59",
+    "nationality_tax": 12866,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "UK",
+    "year": 2019,
+    "ratio": 1.6697,
+    "age_band": "50-59",
+    "nationality_tax": 13798,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "UK",
+    "year": 2020,
+    "ratio": 1.6673,
+    "age_band": "50-59",
+    "nationality_tax": 14819,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "UK",
+    "year": 2021,
+    "ratio": 1.6808,
+    "age_band": "50-59",
+    "nationality_tax": 15646,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "UK",
+    "year": 2022,
+    "ratio": 1.6638,
+    "age_band": "50-59",
+    "nationality_tax": 17282,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "UK",
+    "year": 2023,
+    "ratio": 1.6211,
+    "age_band": "50-59",
+    "nationality_tax": 19060,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "UK",
+    "year": 2024,
+    "ratio": 1.6856,
+    "age_band": "50-59",
+    "nationality_tax": 21879,
+    "nzborn_tax": 12980
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2000,
+    "ratio": 2.2946,
+    "age_band": "20-29",
+    "nationality_tax": 6863,
+    "nzborn_tax": 2991
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2001,
+    "ratio": 1.8354,
+    "age_band": "20-29",
+    "nationality_tax": 5792,
+    "nzborn_tax": 3156
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2002,
+    "ratio": 1.7379,
+    "age_band": "20-29",
+    "nationality_tax": 5742,
+    "nzborn_tax": 3304
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2003,
+    "ratio": 0.9754,
+    "age_band": "20-29",
+    "nationality_tax": 3367,
+    "nzborn_tax": 3452
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2004,
+    "ratio": 1.0843,
+    "age_band": "20-29",
+    "nationality_tax": 3974,
+    "nzborn_tax": 3665
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2005,
+    "ratio": 0.9583,
+    "age_band": "20-29",
+    "nationality_tax": 3789,
+    "nzborn_tax": 3954
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2006,
+    "ratio": 1.0944,
+    "age_band": "20-29",
+    "nationality_tax": 4613,
+    "nzborn_tax": 4215
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2007,
+    "ratio": 1.3735,
+    "age_band": "20-29",
+    "nationality_tax": 6020,
+    "nzborn_tax": 4383
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2008,
+    "ratio": 1.1975,
+    "age_band": "20-29",
+    "nationality_tax": 5618,
+    "nzborn_tax": 4691
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2009,
+    "ratio": 1.2334,
+    "age_band": "20-29",
+    "nationality_tax": 5385,
+    "nzborn_tax": 4366
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2010,
+    "ratio": 1.2338,
+    "age_band": "20-29",
+    "nationality_tax": 4390,
+    "nzborn_tax": 3558
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2011,
+    "ratio": 1.0224,
+    "age_band": "20-29",
+    "nationality_tax": 3201,
+    "nzborn_tax": 3131
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2012,
+    "ratio": 1.0085,
+    "age_band": "20-29",
+    "nationality_tax": 2951,
+    "nzborn_tax": 2926
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2013,
+    "ratio": 0.8964,
+    "age_band": "20-29",
+    "nationality_tax": 2796,
+    "nzborn_tax": 3119
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2014,
+    "ratio": 1.0465,
+    "age_band": "20-29",
+    "nationality_tax": 3536,
+    "nzborn_tax": 3379
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2015,
+    "ratio": 1.1343,
+    "age_band": "20-29",
+    "nationality_tax": 4173,
+    "nzborn_tax": 3679
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2016,
+    "ratio": 1.0706,
+    "age_band": "20-29",
+    "nationality_tax": 4154,
+    "nzborn_tax": 3880
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2017,
+    "ratio": 1.0538,
+    "age_band": "20-29",
+    "nationality_tax": 4345,
+    "nzborn_tax": 4123
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2018,
+    "ratio": 1.1571,
+    "age_band": "20-29",
+    "nationality_tax": 5174,
+    "nzborn_tax": 4472
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2019,
+    "ratio": 1.0663,
+    "age_band": "20-29",
+    "nationality_tax": 5140,
+    "nzborn_tax": 4821
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2020,
+    "ratio": 1.0527,
+    "age_band": "20-29",
+    "nationality_tax": 5395,
+    "nzborn_tax": 5125
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2021,
+    "ratio": 0.8791,
+    "age_band": "20-29",
+    "nationality_tax": 4557,
+    "nzborn_tax": 5184
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2022,
+    "ratio": 0.754,
+    "age_band": "20-29",
+    "nationality_tax": 4474,
+    "nzborn_tax": 5934
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2023,
+    "ratio": 0.9842,
+    "age_band": "20-29",
+    "nationality_tax": 6549,
+    "nzborn_tax": 6654
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2024,
+    "ratio": 0.9557,
+    "age_band": "20-29",
+    "nationality_tax": 6563,
+    "nzborn_tax": 6867
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2000,
+    "ratio": 2.1188,
+    "age_band": "30-39",
+    "nationality_tax": 8986,
+    "nzborn_tax": 4241
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2001,
+    "ratio": 2.0324,
+    "age_band": "30-39",
+    "nationality_tax": 9162,
+    "nzborn_tax": 4508
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2002,
+    "ratio": 1.9393,
+    "age_band": "30-39",
+    "nationality_tax": 9425,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2003,
+    "ratio": 1.9571,
+    "age_band": "30-39",
+    "nationality_tax": 9899,
+    "nzborn_tax": 5058
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2004,
+    "ratio": 1.8655,
+    "age_band": "30-39",
+    "nationality_tax": 10034,
+    "nzborn_tax": 5379
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2005,
+    "ratio": 1.837,
+    "age_band": "30-39",
+    "nationality_tax": 10450,
+    "nzborn_tax": 5689
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2006,
+    "ratio": 1.675,
+    "age_band": "30-39",
+    "nationality_tax": 9926,
+    "nzborn_tax": 5926
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2007,
+    "ratio": 1.7315,
+    "age_band": "30-39",
+    "nationality_tax": 10609,
+    "nzborn_tax": 6127
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2008,
+    "ratio": 1.7498,
+    "age_band": "30-39",
+    "nationality_tax": 11344,
+    "nzborn_tax": 6483
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2009,
+    "ratio": 1.8682,
+    "age_band": "30-39",
+    "nationality_tax": 11753,
+    "nzborn_tax": 6291
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2010,
+    "ratio": 1.865,
+    "age_band": "30-39",
+    "nationality_tax": 10951,
+    "nzborn_tax": 5872
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2011,
+    "ratio": 1.8678,
+    "age_band": "30-39",
+    "nationality_tax": 10374,
+    "nzborn_tax": 5554
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2012,
+    "ratio": 1.9398,
+    "age_band": "30-39",
+    "nationality_tax": 10349,
+    "nzborn_tax": 5335
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2013,
+    "ratio": 1.859,
+    "age_band": "30-39",
+    "nationality_tax": 10358,
+    "nzborn_tax": 5572
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2014,
+    "ratio": 1.8187,
+    "age_band": "30-39",
+    "nationality_tax": 10636,
+    "nzborn_tax": 5848
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2015,
+    "ratio": 1.9373,
+    "age_band": "30-39",
+    "nationality_tax": 11804,
+    "nzborn_tax": 6093
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2016,
+    "ratio": 2.0503,
+    "age_band": "30-39",
+    "nationality_tax": 12931,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2017,
+    "ratio": 1.9912,
+    "age_band": "30-39",
+    "nationality_tax": 12925,
+    "nzborn_tax": 6491
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2018,
+    "ratio": 1.9971,
+    "age_band": "30-39",
+    "nationality_tax": 13666,
+    "nzborn_tax": 6843
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2019,
+    "ratio": 1.9525,
+    "age_band": "30-39",
+    "nationality_tax": 14031,
+    "nzborn_tax": 7186
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2020,
+    "ratio": 2.0362,
+    "age_band": "30-39",
+    "nationality_tax": 15280,
+    "nzborn_tax": 7504
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2021,
+    "ratio": 2.0679,
+    "age_band": "30-39",
+    "nationality_tax": 16057,
+    "nzborn_tax": 7765
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2022,
+    "ratio": 1.9043,
+    "age_band": "30-39",
+    "nationality_tax": 16996,
+    "nzborn_tax": 8925
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2023,
+    "ratio": 1.7878,
+    "age_band": "30-39",
+    "nationality_tax": 18130,
+    "nzborn_tax": 10141
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2024,
+    "ratio": 1.7435,
+    "age_band": "30-39",
+    "nationality_tax": 19412,
+    "nzborn_tax": 11134
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2000,
+    "ratio": 1.5408,
+    "age_band": "40-49",
+    "nationality_tax": 7488,
+    "nzborn_tax": 4860
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2001,
+    "ratio": 1.8676,
+    "age_band": "40-49",
+    "nationality_tax": 9551,
+    "nzborn_tax": 5114
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2002,
+    "ratio": 1.439,
+    "age_band": "40-49",
+    "nationality_tax": 7932,
+    "nzborn_tax": 5512
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2003,
+    "ratio": 1.3389,
+    "age_band": "40-49",
+    "nationality_tax": 7681,
+    "nzborn_tax": 5737
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2004,
+    "ratio": 1.1772,
+    "age_band": "40-49",
+    "nationality_tax": 7092,
+    "nzborn_tax": 6024
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2005,
+    "ratio": 1.2934,
+    "age_band": "40-49",
+    "nationality_tax": 8124,
+    "nzborn_tax": 6281
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2006,
+    "ratio": 1.4354,
+    "age_band": "40-49",
+    "nationality_tax": 9359,
+    "nzborn_tax": 6520
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2007,
+    "ratio": 1.492,
+    "age_band": "40-49",
+    "nationality_tax": 10089,
+    "nzborn_tax": 6762
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2008,
+    "ratio": 1.6,
+    "age_band": "40-49",
+    "nationality_tax": 11363,
+    "nzborn_tax": 7102
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2009,
+    "ratio": 1.8137,
+    "age_band": "40-49",
+    "nationality_tax": 12540,
+    "nzborn_tax": 6914
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2010,
+    "ratio": 1.5551,
+    "age_band": "40-49",
+    "nationality_tax": 10136,
+    "nzborn_tax": 6518
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2011,
+    "ratio": 1.6952,
+    "age_band": "40-49",
+    "nationality_tax": 10505,
+    "nzborn_tax": 6197
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2012,
+    "ratio": 1.8144,
+    "age_band": "40-49",
+    "nationality_tax": 10948,
+    "nzborn_tax": 6034
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2013,
+    "ratio": 1.8404,
+    "age_band": "40-49",
+    "nationality_tax": 11608,
+    "nzborn_tax": 6307
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2014,
+    "ratio": 1.9,
+    "age_band": "40-49",
+    "nationality_tax": 12622,
+    "nzborn_tax": 6643
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2015,
+    "ratio": 1.9348,
+    "age_band": "40-49",
+    "nationality_tax": 13420,
+    "nzborn_tax": 6936
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2016,
+    "ratio": 2.125,
+    "age_band": "40-49",
+    "nationality_tax": 15300,
+    "nzborn_tax": 7200
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2017,
+    "ratio": 2.1084,
+    "age_band": "40-49",
+    "nationality_tax": 15704,
+    "nzborn_tax": 7448
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2018,
+    "ratio": 2.1031,
+    "age_band": "40-49",
+    "nationality_tax": 16970,
+    "nzborn_tax": 8069
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2019,
+    "ratio": 2.05,
+    "age_band": "40-49",
+    "nationality_tax": 18118,
+    "nzborn_tax": 8838
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2020,
+    "ratio": 2.1402,
+    "age_band": "40-49",
+    "nationality_tax": 20426,
+    "nzborn_tax": 9544
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2021,
+    "ratio": 2.1006,
+    "age_band": "40-49",
+    "nationality_tax": 20909,
+    "nzborn_tax": 9954
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2022,
+    "ratio": 2.0413,
+    "age_band": "40-49",
+    "nationality_tax": 22701,
+    "nzborn_tax": 11121
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2023,
+    "ratio": 1.9075,
+    "age_band": "40-49",
+    "nationality_tax": 23733,
+    "nzborn_tax": 12442
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2024,
+    "ratio": 1.8655,
+    "age_band": "40-49",
+    "nationality_tax": 25346,
+    "nzborn_tax": 13587
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2001,
+    "ratio": 1.3346,
+    "age_band": "50-59",
+    "nationality_tax": 5820,
+    "nzborn_tax": 4361
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2002,
+    "ratio": 1.3785,
+    "age_band": "50-59",
+    "nationality_tax": 6728,
+    "nzborn_tax": 4881
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2003,
+    "ratio": 0.6942,
+    "age_band": "50-59",
+    "nationality_tax": 3606,
+    "nzborn_tax": 5194
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2004,
+    "ratio": 0.9123,
+    "age_band": "50-59",
+    "nationality_tax": 5100,
+    "nzborn_tax": 5590
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2005,
+    "ratio": 0.877,
+    "age_band": "50-59",
+    "nationality_tax": 5206,
+    "nzborn_tax": 5937
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2006,
+    "ratio": 0.9904,
+    "age_band": "50-59",
+    "nationality_tax": 6174,
+    "nzborn_tax": 6234
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2007,
+    "ratio": 1.2493,
+    "age_band": "50-59",
+    "nationality_tax": 8200,
+    "nzborn_tax": 6564
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2008,
+    "ratio": 1.2998,
+    "age_band": "50-59",
+    "nationality_tax": 9048,
+    "nzborn_tax": 6961
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2009,
+    "ratio": 1.3773,
+    "age_band": "50-59",
+    "nationality_tax": 9416,
+    "nzborn_tax": 6837
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2010,
+    "ratio": 1.4447,
+    "age_band": "50-59",
+    "nationality_tax": 9362,
+    "nzborn_tax": 6480
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2011,
+    "ratio": 1.4092,
+    "age_band": "50-59",
+    "nationality_tax": 8661,
+    "nzborn_tax": 6146
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2012,
+    "ratio": 1.4742,
+    "age_band": "50-59",
+    "nationality_tax": 8874,
+    "nzborn_tax": 6020
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2013,
+    "ratio": 1.3475,
+    "age_band": "50-59",
+    "nationality_tax": 8489,
+    "nzborn_tax": 6300
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2014,
+    "ratio": 1.6563,
+    "age_band": "50-59",
+    "nationality_tax": 10877,
+    "nzborn_tax": 6567
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2015,
+    "ratio": 1.7265,
+    "age_band": "50-59",
+    "nationality_tax": 11747,
+    "nzborn_tax": 6804
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2016,
+    "ratio": 1.8021,
+    "age_band": "50-59",
+    "nationality_tax": 12611,
+    "nzborn_tax": 6998
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2017,
+    "ratio": 1.9367,
+    "age_band": "50-59",
+    "nationality_tax": 14020,
+    "nzborn_tax": 7239
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2018,
+    "ratio": 1.9256,
+    "age_band": "50-59",
+    "nationality_tax": 14581,
+    "nzborn_tax": 7572
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2019,
+    "ratio": 1.8294,
+    "age_band": "50-59",
+    "nationality_tax": 15118,
+    "nzborn_tax": 8264
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2020,
+    "ratio": 1.8687,
+    "age_band": "50-59",
+    "nationality_tax": 16609,
+    "nzborn_tax": 8888
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2021,
+    "ratio": 1.816,
+    "age_band": "50-59",
+    "nationality_tax": 16905,
+    "nzborn_tax": 9309
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2022,
+    "ratio": 1.863,
+    "age_band": "50-59",
+    "nationality_tax": 19351,
+    "nzborn_tax": 10387
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2023,
+    "ratio": 1.8719,
+    "age_band": "50-59",
+    "nationality_tax": 22008,
+    "nzborn_tax": 11757
+  },
+  {
+    "nationality": "US/Canada",
+    "year": 2024,
+    "ratio": 1.9554,
+    "age_band": "50-59",
+    "nationality_tax": 25382,
+    "nzborn_tax": 12980
+  }
+]

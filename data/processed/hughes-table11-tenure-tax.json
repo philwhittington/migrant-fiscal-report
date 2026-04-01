@@ -1,0 +1,3002 @@
+[
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 19560,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 19560,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 19560,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 19560,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 19560,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 8295,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 8295,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 8298,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 8295,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 0,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 8295,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 18051,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 18051,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 18048,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 18051,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 18048,
+    "tax_dollars": 1287.1
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 10974,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 10971,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 10971,
+    "tax_dollars": 1.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 10971,
+    "tax_dollars": 780.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 10971,
+    "tax_dollars": 2431.8
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 2973,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 2973,
+    "tax_dollars": 1.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 2973,
+    "tax_dollars": 628.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 2973,
+    "tax_dollars": 2159.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 2973,
+    "tax_dollars": 5195.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 21327,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 21330,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 21327,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 21330,
+    "tax_dollars": 16.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 21327,
+    "tax_dollars": 1282.3
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 4323,
+    "tax_dollars": 225.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 4320,
+    "tax_dollars": 2123.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 4320,
+    "tax_dollars": 5881.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 4320,
+    "tax_dollars": 9525.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 4323,
+    "tax_dollars": 13008.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 10989,
+    "tax_dollars": 39.6
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 10989,
+    "tax_dollars": 1790.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 10986,
+    "tax_dollars": 6729.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 10986,
+    "tax_dollars": 13081.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 10986,
+    "tax_dollars": 19529.4
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 12279,
+    "tax_dollars": 68.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 12282,
+    "tax_dollars": 2329.25
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 12279,
+    "tax_dollars": 8270.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 12279,
+    "tax_dollars": 14699.8
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 12282,
+    "tax_dollars": 22081.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 6309,
+    "tax_dollars": 83.7
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 6309,
+    "tax_dollars": 3748.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 6309,
+    "tax_dollars": 11806.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 6306,
+    "tax_dollars": 18985.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 6309,
+    "tax_dollars": 28382.4
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 6474,
+    "tax_dollars": 30.6
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 6474,
+    "tax_dollars": 1331.25
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 6474,
+    "tax_dollars": 4873.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 6474,
+    "tax_dollars": 10088.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 6474,
+    "tax_dollars": 14917.3
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 87,
+    "tax_dollars": 217.2
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 90,
+    "tax_dollars": 4927.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 90,
+    "tax_dollars": 11696.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 87,
+    "tax_dollars": 19925.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 90,
+    "tax_dollars": 36280.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 2418,
+    "tax_dollars": 245.4
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 2421,
+    "tax_dollars": 5796.75
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 2421,
+    "tax_dollars": 13638.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 2418,
+    "tax_dollars": 22117.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 2421,
+    "tax_dollars": 32563.4
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 5535,
+    "tax_dollars": 38.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 5535,
+    "tax_dollars": 5621.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 5535,
+    "tax_dollars": 14759.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 5535,
+    "tax_dollars": 24257.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 5535,
+    "tax_dollars": 36031.4
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 9132,
+    "tax_dollars": 40.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 9132,
+    "tax_dollars": 6020.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 9132,
+    "tax_dollars": 16757.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 9132,
+    "tax_dollars": 28303.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 9129,
+    "tax_dollars": 41979.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 432,
+    "tax_dollars": 1022.8
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 432,
+    "tax_dollars": 6617.25
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 432,
+    "tax_dollars": 12830.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 432,
+    "tax_dollars": 18664.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 432,
+    "tax_dollars": 28674.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 120,
+    "tax_dollars": 49.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 117,
+    "tax_dollars": 6984.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 120,
+    "tax_dollars": 15263.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 120,
+    "tax_dollars": 27907.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 120,
+    "tax_dollars": 43526.2
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 879,
+    "tax_dollars": 2.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 879,
+    "tax_dollars": 5057.5
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 879,
+    "tax_dollars": 17342.0
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 876,
+    "tax_dollars": 31875.8
+  },
+  {
+    "relationship": "Presumed Child",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 879,
+    "tax_dollars": 49794.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 300,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 303,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 303,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 300,
+    "tax_dollars": 1349.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 303,
+    "tax_dollars": 4160.1
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 183,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 183,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 183,
+    "tax_dollars": 135.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 183,
+    "tax_dollars": 1417.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 10,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 183,
+    "tax_dollars": 3747.2
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 3021,
+    "tax_dollars": 3.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 3021,
+    "tax_dollars": 3252.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 3021,
+    "tax_dollars": 7749.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 3021,
+    "tax_dollars": 12408.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 3021,
+    "tax_dollars": 17892.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 378,
+    "tax_dollars": 102.8
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 378,
+    "tax_dollars": 3302.25
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 378,
+    "tax_dollars": 8513.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 378,
+    "tax_dollars": 13638.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 378,
+    "tax_dollars": 21528.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 114,
+    "tax_dollars": 189.3
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 114,
+    "tax_dollars": 3920.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 114,
+    "tax_dollars": 9746.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 114,
+    "tax_dollars": 15518.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 114,
+    "tax_dollars": 20241.9
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 2184,
+    "tax_dollars": 307.2
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 2184,
+    "tax_dollars": 3774.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 2181,
+    "tax_dollars": 8634.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 2181,
+    "tax_dollars": 13915.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 2181,
+    "tax_dollars": 19856.6
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 16017,
+    "tax_dollars": 8.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 16017,
+    "tax_dollars": 3687.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 16017,
+    "tax_dollars": 8967.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 16017,
+    "tax_dollars": 15370.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 16017,
+    "tax_dollars": 24576.2
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 5595,
+    "tax_dollars": 84.4
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 5595,
+    "tax_dollars": 4184.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 5595,
+    "tax_dollars": 11372.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 5595,
+    "tax_dollars": 19731.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 5595,
+    "tax_dollars": 31189.8
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 1236,
+    "tax_dollars": 0.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 1236,
+    "tax_dollars": 2815.25
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 1236,
+    "tax_dollars": 11314.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 1236,
+    "tax_dollars": 20632.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 1236,
+    "tax_dollars": 33544.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 510,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 510,
+    "tax_dollars": 1448.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 510,
+    "tax_dollars": 11308.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 513,
+    "tax_dollars": 21643.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 510,
+    "tax_dollars": 38180.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 19443,
+    "tax_dollars": 343.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 19443,
+    "tax_dollars": 4834.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 19443,
+    "tax_dollars": 10775.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 19440,
+    "tax_dollars": 17757.3
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 19440,
+    "tax_dollars": 27690.6
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 9999,
+    "tax_dollars": 22.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 10002,
+    "tax_dollars": 3968.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 10002,
+    "tax_dollars": 9321.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 10002,
+    "tax_dollars": 15923.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 9999,
+    "tax_dollars": 25329.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 8934,
+    "tax_dollars": 223.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 8934,
+    "tax_dollars": 5099.25
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 8934,
+    "tax_dollars": 12495.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 8934,
+    "tax_dollars": 22229.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 8934,
+    "tax_dollars": 35149.3
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 5445,
+    "tax_dollars": 125.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 5445,
+    "tax_dollars": 5151.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 5448,
+    "tax_dollars": 13254.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 5448,
+    "tax_dollars": 24004.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 5448,
+    "tax_dollars": 37729.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 2463,
+    "tax_dollars": 5.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 2463,
+    "tax_dollars": 3820.25
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 2463,
+    "tax_dollars": 13254.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 2463,
+    "tax_dollars": 25598.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 2466,
+    "tax_dollars": 43784.8
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 13293,
+    "tax_dollars": 240.2
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 13293,
+    "tax_dollars": 4864.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 13293,
+    "tax_dollars": 11078.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 13293,
+    "tax_dollars": 18369.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 13293,
+    "tax_dollars": 29679.6
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 2532,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 2532,
+    "tax_dollars": 2609.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 2532,
+    "tax_dollars": 9076.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 2532,
+    "tax_dollars": 15797.8
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 2532,
+    "tax_dollars": 26885.7
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 5979,
+    "tax_dollars": 59.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 5982,
+    "tax_dollars": 4504.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 5982,
+    "tax_dollars": 11478.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 5982,
+    "tax_dollars": 20326.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 5982,
+    "tax_dollars": 32466.1
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 7467,
+    "tax_dollars": 59.7
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 7467,
+    "tax_dollars": 4856.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 7467,
+    "tax_dollars": 11992.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 7467,
+    "tax_dollars": 21215.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 7467,
+    "tax_dollars": 34646.2
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 5970,
+    "tax_dollars": 29.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 5970,
+    "tax_dollars": 4226.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 5970,
+    "tax_dollars": 13657.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 5970,
+    "tax_dollars": 24746.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 5970,
+    "tax_dollars": 40916.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 4161,
+    "tax_dollars": 171.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 4161,
+    "tax_dollars": 4496.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 4161,
+    "tax_dollars": 10383.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 4161,
+    "tax_dollars": 17519.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 4161,
+    "tax_dollars": 28043.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 318,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 321,
+    "tax_dollars": 15.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 318,
+    "tax_dollars": 4770.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 318,
+    "tax_dollars": 14058.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 318,
+    "tax_dollars": 28390.6
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 1617,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 1614,
+    "tax_dollars": 870.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 1614,
+    "tax_dollars": 7430.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 1617,
+    "tax_dollars": 16712.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 1617,
+    "tax_dollars": 28556.6
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 3168,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 3168,
+    "tax_dollars": 407.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 3171,
+    "tax_dollars": 7087.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 3171,
+    "tax_dollars": 16704.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 3168,
+    "tax_dollars": 27071.2
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 4242,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 4242,
+    "tax_dollars": 641.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 4239,
+    "tax_dollars": 6980.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 4242,
+    "tax_dollars": 18560.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 4242,
+    "tax_dollars": 30968.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 609,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 609,
+    "tax_dollars": 934.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 612,
+    "tax_dollars": 6939.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 612,
+    "tax_dollars": 14811.3
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 609,
+    "tax_dollars": 25973.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 198,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 201,
+    "tax_dollars": 3.75
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 198,
+    "tax_dollars": 1016.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 201,
+    "tax_dollars": 8194.75
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 201,
+    "tax_dollars": 20820.1
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 498,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 495,
+    "tax_dollars": 43.25
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 495,
+    "tax_dollars": 1739.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 495,
+    "tax_dollars": 7833.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 495,
+    "tax_dollars": 17843.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 795,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 795,
+    "tax_dollars": 13.75
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 795,
+    "tax_dollars": 843.5
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 795,
+    "tax_dollars": 5984.0
+  },
+  {
+    "relationship": "Presumed Spouse",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 795,
+    "tax_dollars": 17579.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 9096,
+    "tax_dollars": 5488.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 9096,
+    "tax_dollars": 9775.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 9096,
+    "tax_dollars": 14099.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 9096,
+    "tax_dollars": 19626.3
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 9096,
+    "tax_dollars": 26784.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 1245,
+    "tax_dollars": 1720.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 1245,
+    "tax_dollars": 7335.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 1245,
+    "tax_dollars": 13962.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 1248,
+    "tax_dollars": 20857.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 1245,
+    "tax_dollars": 29099.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 180,
+    "tax_dollars": 226.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 180,
+    "tax_dollars": 4407.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 183,
+    "tax_dollars": 12097.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 180,
+    "tax_dollars": 20049.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 180,
+    "tax_dollars": 28571.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 144,
+    "tax_dollars": 62.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 147,
+    "tax_dollars": 5260.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 144,
+    "tax_dollars": 12896.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 144,
+    "tax_dollars": 20470.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 144,
+    "tax_dollars": 29081.6
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 12657,
+    "tax_dollars": 3209.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 12657,
+    "tax_dollars": 7759.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 12657,
+    "tax_dollars": 12998.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 12657,
+    "tax_dollars": 18363.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 20,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 12657,
+    "tax_dollars": 24795.4
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 24507,
+    "tax_dollars": 7275.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 24507,
+    "tax_dollars": 13282.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 24507,
+    "tax_dollars": 20455.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 24507,
+    "tax_dollars": 30514.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 24507,
+    "tax_dollars": 39565.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 19683,
+    "tax_dollars": 1693.4
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 19683,
+    "tax_dollars": 8738.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 19683,
+    "tax_dollars": 17388.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 19683,
+    "tax_dollars": 28458.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 19683,
+    "tax_dollars": 41479.4
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 4713,
+    "tax_dollars": 314.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 4716,
+    "tax_dollars": 7076.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 4716,
+    "tax_dollars": 17312.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 4716,
+    "tax_dollars": 29820.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 4716,
+    "tax_dollars": 44039.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 2418,
+    "tax_dollars": 167.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 2418,
+    "tax_dollars": 6525.75
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 2418,
+    "tax_dollars": 17548.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 2418,
+    "tax_dollars": 30667.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 2418,
+    "tax_dollars": 46567.1
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 43905,
+    "tax_dollars": 4692.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 43905,
+    "tax_dollars": 10744.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 43905,
+    "tax_dollars": 17391.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 43905,
+    "tax_dollars": 27384.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 30,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 43905,
+    "tax_dollars": 39706.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 13716,
+    "tax_dollars": 8412.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 13716,
+    "tax_dollars": 14753.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 13716,
+    "tax_dollars": 21738.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 13716,
+    "tax_dollars": 32578.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 13716,
+    "tax_dollars": 46421.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 15009,
+    "tax_dollars": 3240.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 15009,
+    "tax_dollars": 11812.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 15009,
+    "tax_dollars": 21958.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 15009,
+    "tax_dollars": 36400.3
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 15009,
+    "tax_dollars": 53549.7
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 12030,
+    "tax_dollars": 1822.1
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 12030,
+    "tax_dollars": 10607.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 12027,
+    "tax_dollars": 21173.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 12030,
+    "tax_dollars": 35258.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 12027,
+    "tax_dollars": 52127.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 8547,
+    "tax_dollars": 209.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 8547,
+    "tax_dollars": 6728.75
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 8544,
+    "tax_dollars": 18502.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 8544,
+    "tax_dollars": 33489.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 8547,
+    "tax_dollars": 50320.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 22350,
+    "tax_dollars": 5908.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 22350,
+    "tax_dollars": 13307.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 22350,
+    "tax_dollars": 20802.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 22350,
+    "tax_dollars": 32374.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 40,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 22350,
+    "tax_dollars": 47130.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 3849,
+    "tax_dollars": 6343.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 3849,
+    "tax_dollars": 14020.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 3849,
+    "tax_dollars": 21710.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 3849,
+    "tax_dollars": 34361.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 3849,
+    "tax_dollars": 55855.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 7794,
+    "tax_dollars": 2716.6
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 7794,
+    "tax_dollars": 11331.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 7794,
+    "tax_dollars": 21515.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 7794,
+    "tax_dollars": 36105.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 7794,
+    "tax_dollars": 56296.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 11451,
+    "tax_dollars": 1581.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 11448,
+    "tax_dollars": 10702.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 11448,
+    "tax_dollars": 20904.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 11451,
+    "tax_dollars": 34000.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 11451,
+    "tax_dollars": 51776.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 10845,
+    "tax_dollars": 637.4
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 10845,
+    "tax_dollars": 7623.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 10845,
+    "tax_dollars": 20234.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 10845,
+    "tax_dollars": 35513.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 10845,
+    "tax_dollars": 55091.6
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 7404,
+    "tax_dollars": 4756.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 7401,
+    "tax_dollars": 12501.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 7404,
+    "tax_dollars": 19339.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 7404,
+    "tax_dollars": 29858.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 50,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 7404,
+    "tax_dollars": 46783.4
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p10",
+    "count": 288,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p25",
+    "count": 288,
+    "tax_dollars": 7216.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p50",
+    "count": 288,
+    "tax_dollars": 18774.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p75",
+    "count": 291,
+    "tax_dollars": 33942.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 0,
+    "quantile": "p90",
+    "count": 291,
+    "tax_dollars": 73871.2
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 2331,
+    "tax_dollars": 116.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 2331,
+    "tax_dollars": 5730.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 2331,
+    "tax_dollars": 16629.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 2331,
+    "tax_dollars": 29454.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 2331,
+    "tax_dollars": 46928.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 5040,
+    "tax_dollars": 2.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 5043,
+    "tax_dollars": 3412.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 5040,
+    "tax_dollars": 15068.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 5040,
+    "tax_dollars": 27884.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 5043,
+    "tax_dollars": 43470.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 7113,
+    "tax_dollars": 1.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 7113,
+    "tax_dollars": 2045.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 7113,
+    "tax_dollars": 13426.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 7113,
+    "tax_dollars": 27388.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 7113,
+    "tax_dollars": 44160.8
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p10",
+    "count": 873,
+    "tax_dollars": 843.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p25",
+    "count": 873,
+    "tax_dollars": 9448.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p50",
+    "count": 870,
+    "tax_dollars": 17890.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p75",
+    "count": 873,
+    "tax_dollars": 31407.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 60,
+    "residence_years_start": 5,
+    "quantile": "p90",
+    "count": 873,
+    "tax_dollars": 56717.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p10",
+    "count": 138,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p25",
+    "count": 138,
+    "tax_dollars": 123.75
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p50",
+    "count": 138,
+    "tax_dollars": 3262.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p75",
+    "count": 138,
+    "tax_dollars": 17242.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 10,
+    "quantile": "p90",
+    "count": 138,
+    "tax_dollars": 34021.6
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p10",
+    "count": 594,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p25",
+    "count": 594,
+    "tax_dollars": 87.75
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p50",
+    "count": 594,
+    "tax_dollars": 2631.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p75",
+    "count": 594,
+    "tax_dollars": 12254.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 15,
+    "quantile": "p90",
+    "count": 594,
+    "tax_dollars": 24168.7
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p10",
+    "count": 1437,
+    "tax_dollars": 0.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p25",
+    "count": 1437,
+    "tax_dollars": 48.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p50",
+    "count": 1437,
+    "tax_dollars": 1807.0
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p75",
+    "count": 1440,
+    "tax_dollars": 10475.5
+  },
+  {
+    "relationship": "Self",
+    "age_start": 70,
+    "residence_years_start": 20,
+    "quantile": "p90",
+    "count": 1440,
+    "tax_dollars": 25662.0
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "year": 2019,
+    "visa_group": "Australian",
+    "count": 48150,
+    "tax_billions": 0.4971
+  },
+  {
+    "year": 2019,
+    "visa_group": "Family",
+    "count": 159603,
+    "tax_billions": 1.0547
+  },
+  {
+    "year": 2019,
+    "visa_group": "Humanitarian",
+    "count": 46308,
+    "tax_billions": 0.1924
+  },
+  {
+    "year": 2019,
+    "visa_group": "NZ-born",
+    "count": 3321945,
+    "tax_billions": 22.8207
+  },
+  {
+    "year": 2019,
+    "visa_group": "Other",
+    "count": 13470,
+    "tax_billions": 0.0133
+  },
+  {
+    "year": 2019,
+    "visa_group": "Other Resident",
+    "count": 552405,
+    "tax_billions": 4.8854
+  },
+  {
+    "year": 2019,
+    "visa_group": "Skilled/Investor",
+    "count": 310494,
+    "tax_billions": 3.4562
+  },
+  {
+    "year": 2019,
+    "visa_group": "Student",
+    "count": 55407,
+    "tax_billions": 0.0335
+  },
+  {
+    "year": 2019,
+    "visa_group": "Temp Work",
+    "count": 139575,
+    "tax_billions": 1.0308
+  },
+  {
+    "year": 2019,
+    "visa_group": "Unknown",
+    "count": 132399,
+    "tax_billions": 0.6171
+  },
+  {
+    "year": 2020,
+    "visa_group": "Australian",
+    "count": 48087,
+    "tax_billions": 0.5117
+  },
+  {
+    "year": 2020,
+    "visa_group": "Family",
+    "count": 164694,
+    "tax_billions": 1.2047
+  },
+  {
+    "year": 2020,
+    "visa_group": "Humanitarian",
+    "count": 49005,
+    "tax_billions": 0.2207
+  },
+  {
+    "year": 2020,
+    "visa_group": "NZ-born",
+    "count": 3347517,
+    "tax_billions": 24.1379
+  },
+  {
+    "year": 2020,
+    "visa_group": "Other",
+    "count": 14235,
+    "tax_billions": 0.0135
+  },
+  {
+    "year": 2020,
+    "visa_group": "Other Resident",
+    "count": 557019,
+    "tax_billions": 5.1933
+  },
+  {
+    "year": 2020,
+    "visa_group": "Skilled/Investor",
+    "count": 321222,
+    "tax_billions": 3.9148
+  },
+  {
+    "year": 2020,
+    "visa_group": "Student",
+    "count": 57378,
+    "tax_billions": 0.035
+  },
+  {
+    "year": 2020,
+    "visa_group": "Temp Work",
+    "count": 161211,
+    "tax_billions": 1.3308
+  },
+  {
+    "year": 2020,
+    "visa_group": "Unknown",
+    "count": 129735,
+    "tax_billions": 0.6246
+  },
+  {
+    "year": 2021,
+    "visa_group": "Australian",
+    "count": 50622,
+    "tax_billions": 0.5898
+  },
+  {
+    "year": 2021,
+    "visa_group": "Family",
+    "count": 180864,
+    "tax_billions": 1.446
+  },
+  {
+    "year": 2021,
+    "visa_group": "Humanitarian",
+    "count": 52446,
+    "tax_billions": 0.2559
+  },
+  {
+    "year": 2021,
+    "visa_group": "NZ-born",
+    "count": 3421869,
+    "tax_billions": 27.7425
+  },
+  {
+    "year": 2021,
+    "visa_group": "Other",
+    "count": 19464,
+    "tax_billions": 0.0343
+  },
+  {
+    "year": 2021,
+    "visa_group": "Other Resident",
+    "count": 575871,
+    "tax_billions": 6.0241
+  },
+  {
+    "year": 2021,
+    "visa_group": "Skilled/Investor",
+    "count": 340992,
+    "tax_billions": 4.6145
+  },
+  {
+    "year": 2021,
+    "visa_group": "Student",
+    "count": 66300,
+    "tax_billions": 0.0453
+  },
+  {
+    "year": 2021,
+    "visa_group": "Temp Work",
+    "count": 197448,
+    "tax_billions": 1.7033
+  },
+  {
+    "year": 2021,
+    "visa_group": "Unknown",
+    "count": 127254,
+    "tax_billions": 0.6733
+  },
+  {
+    "year": 2022,
+    "visa_group": "Australian",
+    "count": 47682,
+    "tax_billions": 0.59
+  },
+  {
+    "year": 2022,
+    "visa_group": "Family",
+    "count": 190665,
+    "tax_billions": 1.7294
+  },
+  {
+    "year": 2022,
+    "visa_group": "Humanitarian",
+    "count": 52887,
+    "tax_billions": 0.3
+  },
+  {
+    "year": 2022,
+    "visa_group": "NZ-born",
+    "count": 3456054,
+    "tax_billions": 28.2903
+  },
+  {
+    "year": 2022,
+    "visa_group": "Other",
+    "count": 14067,
+    "tax_billions": 0.0297
+  },
+  {
+    "year": 2022,
+    "visa_group": "Other Resident",
+    "count": 572217,
+    "tax_billions": 6.0137
+  },
+  {
+    "year": 2022,
+    "visa_group": "Skilled/Investor",
+    "count": 352401,
+    "tax_billions": 5.3094
+  },
+  {
+    "year": 2022,
+    "visa_group": "Student",
+    "count": 47025,
+    "tax_billions": 0.0335
+  },
+  {
+    "year": 2022,
+    "visa_group": "Temp Work",
+    "count": 177192,
+    "tax_billions": 1.9448
+  },
+  {
+    "year": 2022,
+    "visa_group": "Unknown",
+    "count": 124911,
+    "tax_billions": 0.6817
+  },
+  {
+    "year": 2023,
+    "visa_group": "Australian",
+    "count": 45513,
+    "tax_billions": 0.6008
+  },
+  {
+    "year": 2023,
+    "visa_group": "Family",
+    "count": 188514,
+    "tax_billions": 1.9436
+  },
+  {
+    "year": 2023,
+    "visa_group": "Humanitarian",
+    "count": 54258,
+    "tax_billions": 0.344
+  },
+  {
+    "year": 2023,
+    "visa_group": "NZ-born",
+    "count": 3454299,
+    "tax_billions": 30.6894
+  },
+  {
+    "year": 2023,
+    "visa_group": "Other",
+    "count": 9186,
+    "tax_billions": 0.0252
+  },
+  {
+    "year": 2023,
+    "visa_group": "Other Resident",
+    "count": 559242,
+    "tax_billions": 6.3496
+  },
+  {
+    "year": 2023,
+    "visa_group": "Skilled/Investor",
+    "count": 448854,
+    "tax_billions": 6.9748
+  },
+  {
+    "year": 2023,
+    "visa_group": "Student",
+    "count": 23463,
+    "tax_billions": 0.0204
+  },
+  {
+    "year": 2023,
+    "visa_group": "Temp Work",
+    "count": 72600,
+    "tax_billions": 0.8571
+  },
+  {
+    "year": 2023,
+    "visa_group": "Unknown",
+    "count": 117780,
+    "tax_billions": 0.6789
+  },
+  {
+    "year": 2024,
+    "visa_group": "Australian",
+    "count": 45279,
+    "tax_billions": 0.6453
+  },
+  {
+    "year": 2024,
+    "visa_group": "Family",
+    "count": 189372,
+    "tax_billions": 2.1719
+  },
+  {
+    "year": 2024,
+    "visa_group": "Humanitarian",
+    "count": 56442,
+    "tax_billions": 0.3683
+  },
+  {
+    "year": 2024,
+    "visa_group": "NZ-born",
+    "count": 3444504,
+    "tax_billions": 33.3509
+  },
+  {
+    "year": 2024,
+    "visa_group": "Other",
+    "count": 9885,
+    "tax_billions": 0.0239
+  },
+  {
+    "year": 2024,
+    "visa_group": "Other Resident",
+    "count": 550839,
+    "tax_billions": 6.9286
+  },
+  {
+    "year": 2024,
+    "visa_group": "Skilled/Investor",
+    "count": 516795,
+    "tax_billions": 8.3156
+  },
+  {
+    "year": 2024,
+    "visa_group": "Student",
+    "count": 29691,
+    "tax_billions": 0.0306
+  },
+  {
+    "year": 2024,
+    "visa_group": "Temp Work",
+    "count": 92634,
+    "tax_billions": 0.9233
+  },
+  {
+    "year": 2024,
+    "visa_group": "Unknown",
+    "count": 116844,
+    "tax_billions": 0.7484
+  }
+]

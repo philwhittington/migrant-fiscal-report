@@ -1,0 +1,5150 @@
+[
+  {
+    "taxyr": 2000,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 117
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 315
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 570
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 93
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 879
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 801
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 225
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 12
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 6
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 228
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 333
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 1716
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 1008
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 546
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 360
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 18
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 321
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 462
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 1368
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 462
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 1737
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 618
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 483
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 204
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 384
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 114
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 570
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 135
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 201
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 312
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 495
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 315
+  },
+  {
+    "taxyr": 2000,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 90
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 2883
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 2145
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 1080
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 156
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 978
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 816
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 813
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 33
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 24
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 48
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 537
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 1716
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 1377
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 534
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 234
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 543
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 1125
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 165
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 939
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 387
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 414
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 942
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 543
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 2778
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 192
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 519
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 558
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 897
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 294
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 285
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 1134
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 1494
+  },
+  {
+    "taxyr": 2001,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 339
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 2034
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 603
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 291
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 819
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 3912
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 2241
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 1989
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 420
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 81
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 1548
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 1551
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 270
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 1401
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 2001
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 4050
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 501
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 1026
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 3006
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 39
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 33
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 702
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 2421
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 420
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 840
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 1449
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 840
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 1902
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 1287
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 354
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 711
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 849
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 1767
+  },
+  {
+    "taxyr": 2002,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 525
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 1245
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 2697
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 3219
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 912
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 726
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 3234
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 1275
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 843
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 453
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 5151
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 2835
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 5598
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 1500
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 1224
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 69
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 123
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 3345
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 918
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 432
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 2211
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 3252
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 1404
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 2775
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 2223
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 2061
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 3492
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 504
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 4236
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 531
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 81
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 1797
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 4077
+  },
+  {
+    "taxyr": 2003,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 930
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 4308
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 99
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 2841
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 2499
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 4221
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 1275
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 711
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 3918
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 5388
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 4551
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 777
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 180
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 6177
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 5010
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 1050
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 120
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 1623
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 1584
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 4860
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 1308
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 7251
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 1332
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 2403
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 2805
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 6894
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 1107
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 2328
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 1617
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 2634
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4266
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 3867
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 588
+  },
+  {
+    "taxyr": 2004,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 510
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 5643
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 1509
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 6786
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 1413
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 1926
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 726
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 2958
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 1938
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 849
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 5298
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 5271
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 1905
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 3375
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 5091
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 3318
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 6885
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 5685
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 576
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 1263
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 144
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 255
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 5823
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 3033
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 8358
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 6366
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 1797
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1038
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 3225
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 4374
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 144
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 3036
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 1557
+  },
+  {
+    "taxyr": 2005,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 9360
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 6564
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 7278
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 9594
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 963
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2112
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 201
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 231
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 7116
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 4230
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 3540
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 1767
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 3594
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 2316
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 8790
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 1725
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 6237
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 5040
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 12645
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 1617
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 3243
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 2220
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 3930
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 5709
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 375
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 2361
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 3816
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 7830
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 6672
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 7287
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1224
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 1755
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 915
+  },
+  {
+    "taxyr": 2006,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 747
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 2628
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7284
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 7062
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 891
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 4191
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 2451
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 2091
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 8484
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 4989
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6000
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 1866
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 474
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 8823
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 2739
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 3957
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 9426
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 1968
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 5610
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 10467
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 11625
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 16005
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 285
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 7566
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2214
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 3525
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 4497
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 7476
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 234
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 4350
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 1098
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1287
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 2025
+  },
+  {
+    "taxyr": 2007,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1065
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 3516
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 10401
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 3087
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 1608
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 9309
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 8328
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7548
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 5127
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 7638
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 10872
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 7629
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 2760
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 11583
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1206
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1035
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4185
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 2922
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6069
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2283
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 618
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 2955
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 14472
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 19200
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1338
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 279
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2286
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2013
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 354
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 4782
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 5745
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 4596
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 2844
+  },
+  {
+    "taxyr": 2008,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 6210
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 5310
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16296
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 21711
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 5823
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 13050
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1362
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2112
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 3462
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 8100
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 2202
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 9330
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 753
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3186
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 6258
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 3147
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2349
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 429
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 5085
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 3909
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 10221
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 6918
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6096
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 11310
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1164
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2544
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 7575
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1362
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 12459
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7632
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 342
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 3333
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4284
+  },
+  {
+    "taxyr": 2009,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 3879
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 13866
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 3639
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 4809
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14214
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1422
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 516
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 3588
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 411
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 3303
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7770
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 8691
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 5685
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 5019
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6351
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2298
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 5646
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 6861
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4458
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 2811
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 23808
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3471
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 6714
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 12096
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2469
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 945
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 11583
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 10773
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 7728
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 17640
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1215
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2745
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 7944
+  },
+  {
+    "taxyr": 2010,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1464
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1512
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 3876
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 9132
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 13242
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 7548
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 8793
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 15024
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1284
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 3231
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3651
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 4140
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 513
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 6399
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 3423
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6726
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25680
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2433
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 5772
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1557
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2577
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 660
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4638
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 12666
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 8061
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 14472
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 7473
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7959
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 6051
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 11973
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 18567
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 1137
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 5907
+  },
+  {
+    "taxyr": 2011,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2928
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2517
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 1317
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 3903
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 768
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 5016
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 6744
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 6741
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 3792
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1485
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 12285
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6999
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14832
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 585
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 2934
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 7605
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 8031
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 8988
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 17838
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2928
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 12867
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 8727
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25944
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4344
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 6507
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1299
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 12747
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1536
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2409
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3555
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7290
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 4428
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 8049
+  },
+  {
+    "taxyr": 2012,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 14019
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2322
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 903
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3507
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 7755
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 8283
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 7107
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 12750
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 15351
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 3990
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 7377
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 8097
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 7275
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25779
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1566
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 642
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 8709
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 4674
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 4161
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 17316
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14769
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2481
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 5040
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 1497
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 7071
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2928
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1437
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 12921
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7029
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 9072
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 12282
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1344
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 2712
+  },
+  {
+    "taxyr": 2013,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4344
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 1014
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 2724
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 5361
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 13368
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 8037
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1614
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1353
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2445
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4446
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 7839
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 17121
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 1668
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 4842
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 7971
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 12801
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 9144
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 7794
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 8448
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 4542
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14685
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1401
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3618
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 8826
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 7266
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25635
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 4158
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 6960
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 8286
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2319
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 705
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 12333
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16944
+  },
+  {
+    "taxyr": 2014,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2955
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2376
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4587
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 12600
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 8796
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16521
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1386
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3783
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 6984
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 8568
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14598
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25566
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1686
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 1137
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 4452
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 8514
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 8682
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 2979
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 1875
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 2880
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5022
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 13080
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 804
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 9054
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 8550
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 4947
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 5802
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 14532
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1425
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 7470
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 9399
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 19377
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2484
+  },
+  {
+    "taxyr": 2015,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 8637
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2541
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 2181
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 9726
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 13422
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 13008
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 22542
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14583
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1473
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 882
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 4770
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7155
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 7755
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 5502
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 9546
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 1320
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 4866
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16155
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1821
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1464
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2472
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 16119
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 9561
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 9003
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 9723
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 6510
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 3891
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 3099
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 3357
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 9225
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 9261
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 9651
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5259
+  },
+  {
+    "taxyr": 2016,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25680
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 7494
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1530
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1521
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 9195
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 25821
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 4119
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7488
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 10407
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25752
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2664
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 1524
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 978
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 9789
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 10185
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5442
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 11007
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 10323
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 13689
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 3222
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 2466
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 5172
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 8046
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14487
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2547
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16026
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 4137
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 18111
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 5121
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 10092
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 6186
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 14250
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 10884
+  },
+  {
+    "taxyr": 2017,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1866
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 2832
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1584
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 1068
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 14373
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25983
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 5421
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 5529
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 28590
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2661
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 4800
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 4338
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 11010
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 12120
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 11007
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 1983
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 2733
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 7914
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5565
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 12162
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14568
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1650
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 3426
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 18798
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 8217
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 9345
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 1719
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 7923
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 15189
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 11199
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 10317
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 10785
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 6891
+  },
+  {
+    "taxyr": 2018,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16029
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 1890
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 5598
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 8250
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 16143
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 2127
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 3549
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 3024
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 8514
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 19563
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 9330
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 11727
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 4587
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5616
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 7392
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 15072
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 13230
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14523
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2766
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 5442
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 10590
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 8199
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 11073
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 15918
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1686
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 11679
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 1143
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 2961
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 11982
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25953
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 5766
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 12807
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 30486
+  },
+  {
+    "taxyr": 2019,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1758
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 5901
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 13818
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 25953
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 1863
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 5928
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 5781
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 9396
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 12297
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 2262
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 11172
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5709
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 13902
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1734
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 2058
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 8397
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 12495
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2826
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 1254
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 19602
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 4839
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 7950
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 16023
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 31419
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 14544
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 3189
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 8712
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 17445
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 12582
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 15933
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 3717
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 3150
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 10827
+  },
+  {
+    "taxyr": 2020,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 8409
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 1374
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 2265
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 13035
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 14862
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 3477
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6153
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 19275
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 8781
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 13740
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16608
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 2106
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 6594
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 17283
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 13362
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 9486
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 20607
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 5202
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 15063
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 4173
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 8631
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 2544
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 3333
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 2973
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 6147
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 11550
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5865
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 9618
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 14925
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 32763
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 27120
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1824
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 11529
+  },
+  {
+    "taxyr": 2021,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 8568
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 3786
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 6291
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 13431
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 2652
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 4260
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 3366
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 2478
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 5337
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 8751
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 15882
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 8877
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 6423
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 8961
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 20562
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 34218
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 27342
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 3015
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 6828
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 9819
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 11796
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 15390
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 14601
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16758
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 2151
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 11886
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 9696
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 21051
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 15144
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 1863
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 1482
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 5952
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 18225
+  },
+  {
+    "taxyr": 2022,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 13977
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 18375
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 10077
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 28167
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16788
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 3918
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 11178
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 10182
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 11970
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 16692
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 17622
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 5763
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 22191
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 2847
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 3366
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 7152
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 24573
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 56427
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 2166
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 2337
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 4953
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 14115
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 8253
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 7014
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 21864
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 15570
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 2007
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 7659
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 6936
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 17460
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 3561
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 25188
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 12453
+  },
+  {
+    "taxyr": 2023,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 29859
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 3858
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 11604
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 27627
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 5256
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 2901
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 26964
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 15849
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 8055
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 13209
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 30234
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 11814
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16731
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 6285
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 7467
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 9534
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 20322
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 14838
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 8061
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 13515
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 23655
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 3660
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 16566
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 34509
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 23598
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 23379
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 30228
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 9828
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 65274
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 2598
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 2196
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 4707
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 19107
+  },
+  {
+    "taxyr": 2024,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 3177
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Child",
+    "count": 4197
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Child",
+    "count": 3039
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Child",
+    "count": 6351
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Spouse",
+    "count": 10002
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "South Africa",
+    "relationship": "Self",
+    "count": 23946
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "South Asia",
+    "relationship": "Self",
+    "count": 70044
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Self",
+    "count": 3891
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "China",
+    "relationship": "Self",
+    "count": 31791
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "South Africa",
+    "relationship": "Presumed Child",
+    "count": 27627
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Spouse",
+    "count": 2718
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Self",
+    "count": 14913
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Other Asia",
+    "relationship": "Presumed Child",
+    "count": 12186
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Child",
+    "count": 30780
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Phillipines",
+    "relationship": "Presumed Spouse",
+    "count": 19908
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Phillipines",
+    "relationship": "Self",
+    "count": 35499
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Self",
+    "count": 8268
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Europe (excl UK)",
+    "relationship": "Presumed Spouse",
+    "count": 7548
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Pacific",
+    "relationship": "Presumed Child",
+    "count": 12654
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Pacific",
+    "relationship": "Self",
+    "count": 13674
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "UK",
+    "relationship": "Presumed Child",
+    "count": 16425
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "China",
+    "relationship": "Presumed Child",
+    "count": 11133
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "China",
+    "relationship": "Presumed Spouse",
+    "count": 14244
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "South Africa",
+    "relationship": "Presumed Spouse",
+    "count": 19482
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "UK",
+    "relationship": "Presumed Spouse",
+    "count": 15771
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Africa/Middle East (excl RSA)",
+    "relationship": "Presumed Spouse",
+    "count": 2388
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Americas (excl US/Canada)",
+    "relationship": "Presumed Spouse",
+    "count": 4818
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Pacific",
+    "relationship": "Presumed Spouse",
+    "count": 8415
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "South Asia",
+    "relationship": "Presumed Spouse",
+    "count": 30204
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "UK",
+    "relationship": "Self",
+    "count": 30189
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "Other Asia",
+    "relationship": "Self",
+    "count": 21036
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "South Asia",
+    "relationship": "Presumed Child",
+    "count": 27732
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "US/Canada",
+    "relationship": "Presumed Child",
+    "count": 3465
+  },
+  {
+    "taxyr": 2025,
+    "nationality": "US/Canada",
+    "relationship": "Self",
+    "count": 5463
+  }
+]

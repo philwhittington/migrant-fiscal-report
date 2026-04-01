@@ -1,0 +1,69 @@
+{
+  "discount_rate": 0.035,
+  "nz_super_residence_requirement_years": 10,
+  "nz_super_eligibility_age": 65,
+  "healthy_migrant_health_adjustment": 0.85,
+  "benefit_standown_years": 2,
+  "benefit_standown_factor": 0.5,
+  "max_projection_age": 85,
+  "retention_extrapolation_method": "exponential_decay: retention(t) = a * exp(-b * t)",
+  "retention_fit_window": "years 10-18 since arrival",
+  "retention_data_range": "years 0-24 (actual), 25+ (extrapolated)",
+  "tax_year_for_matching": 2019,
+  "wn_fiscal_year": "2018/19",
+  "base_fiscal_profile": "W&N NFI under Family sharing (includes direct + indirect taxes)",
+  "tax_premium_source": "Hughes Table 4 per-capita mean tax by visa subcategory",
+  "tax_premium_method": "mean_per_capita = tax_billions * 1e9 / count; premium = migrant_mean - nzborn_mean",
+  "nationality_premium_method": "ratio of nationality p50 to NZ-born p50 applied to NZ-born mean tax",
+  "visa_labels": {
+    "R.Skilled/investor/entrepreneu": "Skilled/Investor",
+    "R.Family": "Family",
+    "R.Humanitarian and Pacific": "Humanitarian",
+    "S.Fee paying": "Student",
+    "W.Working holiday": "Working Holiday",
+    "W.Skills/specific purposes/pos": "Skilled Work",
+    "A.Australian": "Australian"
+  },
+  "arrival_ages_computed": [
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55
+  ],
+  "nationality_arrival_ages_computed": [
+    25,
+    30,
+    40,
+    50
+  ],
+  "nationalities": [
+    "Africa/Middle East (excl RSA)",
+    "Americas (excl US/Canada)",
+    "China",
+    "Europe (excl UK)",
+    "Other Asia",
+    "Pacific",
+    "Phillipines",
+    "South Africa",
+    "South Asia",
+    "UK",
+    "US/Canada"
+  ],
+  "notes": [
+    "NPV uses W&N NFI (Family sharing) as the base fiscal profile, which includes direct and indirect taxes, all transfers, and in-kind spending.",
+    "Tax premium from Hughes Table 4 per-capita mean (not p50) \u2014 mean is correct for fiscal impact because total_revenue = mean \u00d7 count.",
+    "Migrant adjustments applied as deltas: NZ Super residence rule, WFF restriction, benefit stand-down, healthy migrant health discount.",
+    "NZ-born baseline uses W&N NFI with retention=1.0 and no adjustments.",
+    "Nationality NPVs use R.Skilled retention curve (most nationality data is for residents).",
+    "Temporary visa holders receive no income support, NZ Super, or WFF.",
+    "Healthy migrant effect: 85% of NZ average health spending.",
+    "Benefit stand-down: 50% of working-age support and housing for first 2 years of residence.",
+    "NZ Super requires 10 years continuous residence and age 65+.",
+    "This is summary-level analysis using public data, not individual-level IDI microdata.",
+    "All dollar values in 2018/19 NZD (Wright & Nguyen base year)."
+  ]
+}
