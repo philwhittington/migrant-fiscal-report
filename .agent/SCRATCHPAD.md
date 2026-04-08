@@ -1,16 +1,16 @@
 # Working state
 
 ## Current phase
-Phase 2 — Synthetic population enhancement
+Phase 2 — **DEPLOYED** (2026-04-08)
 
 ## Phase 1 status
 COMPLETE. Deployed to migration.heuserwhittington.com. 29 tasks done, 5 widgets, 22 JSON data files.
 
-## Phase 2 objective
-Add a synthetic population layer: generate ~500k individual synthetic migrants from aggregate Hughes tables, compute individual-level fiscal incidence using NZ PAYE brackets + W&N expenditure template, produce distributional outputs (histograms, percentile ranges, probability statements), and build 4 new interactive widgets.
+## Phase 2 status
+**DEPLOYED** to migration.heuserwhittington.com on 2026-04-08. 29 tasks completed (P7.1-P12.1), 4 new widgets (9 total), 4 new data files, synthetic population of 500,004 individuals. All QA gates passed. Git commit: a00c1d6.
 
 ## Last completed task
-P11.3 — Data QA for Phase 2 distributional claims
+P12.1 — Deploy Phase 2
 
 ## Census API decision
 - Decision: **no** — Census cross-tabs not needed
