@@ -1,0 +1,268 @@
+[
+  {
+    "household_type": "Skilled family, age 30",
+    "visa_category": "Resident",
+    "arrival_age": 30,
+    "members": [
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21360
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21360
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21360
+      },
+      {
+        "role": "primary",
+        "age": 30,
+        "income": 50761,
+        "nfi": 3058
+      },
+      {
+        "role": "spouse",
+        "age": 40,
+        "income": 29006,
+        "nfi": 1896
+      }
+    ],
+    "household_nfi": -59128
+  },
+  {
+    "household_type": "Family visa single, age 30",
+    "visa_category": "Resident",
+    "arrival_age": 40,
+    "members": [
+      {
+        "role": "primary",
+        "age": 40,
+        "income": 51984,
+        "nfi": 2623
+      }
+    ],
+    "household_nfi": 2623
+  },
+  {
+    "household_type": "Family visa couple + children",
+    "visa_category": "Resident",
+    "arrival_age": 30,
+    "members": [
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21360
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21360
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21360
+      },
+      {
+        "role": "primary",
+        "age": 30,
+        "income": 52586,
+        "nfi": 2505
+      },
+      {
+        "role": "spouse",
+        "age": 40,
+        "income": 0,
+        "nfi": -6824
+      }
+    ],
+    "household_nfi": -68401
+  },
+  {
+    "household_type": "Student, age 20-25",
+    "visa_category": "Student",
+    "arrival_age": 20,
+    "members": [
+      {
+        "role": "child",
+        "age": 0,
+        "income": 0,
+        "nfi": -21410
+      },
+      {
+        "role": "child",
+        "age": 0,
+        "income": 0,
+        "nfi": -21410
+      },
+      {
+        "role": "child",
+        "age": 0,
+        "income": 0,
+        "nfi": -21410
+      },
+      {
+        "role": "spouse",
+        "age": 20,
+        "income": 91265,
+        "nfi": 14978
+      },
+      {
+        "role": "primary",
+        "age": 20,
+        "income": 0,
+        "nfi": -2620
+      }
+    ],
+    "household_nfi": -51872
+  },
+  {
+    "household_type": "Working holiday, age 25",
+    "visa_category": "Non-residential work",
+    "arrival_age": 20,
+    "members": [
+      {
+        "role": "primary",
+        "age": 20,
+        "income": 32856,
+        "nfi": 2676
+      },
+      {
+        "role": "spouse",
+        "age": 30,
+        "income": 55388,
+        "nfi": 2993
+      }
+    ],
+    "household_nfi": 5668
+  },
+  {
+    "household_type": "Australian citizen, age 35",
+    "visa_category": "Australian",
+    "arrival_age": 40,
+    "members": [
+      {
+        "role": "primary",
+        "age": 40,
+        "income": 54649,
+        "nfi": 7625
+      }
+    ],
+    "household_nfi": 7625
+  },
+  {
+    "household_type": "Humanitarian family, age 30",
+    "visa_category": "Resident",
+    "arrival_age": 30,
+    "members": [
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21590
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21590
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21590
+      },
+      {
+        "role": "spouse",
+        "age": 30,
+        "income": 0,
+        "nfi": -7530
+      },
+      {
+        "role": "primary",
+        "age": 30,
+        "income": 42843,
+        "nfi": 71
+      }
+    ],
+    "household_nfi": -72229
+  },
+  {
+    "household_type": "Retiree, age 65+",
+    "visa_category": "Resident",
+    "arrival_age": 60,
+    "members": [
+      {
+        "role": "primary",
+        "age": 60,
+        "income": 0,
+        "nfi": -2678
+      }
+    ],
+    "household_nfi": -2678
+  },
+  {
+    "household_type": "NZ-born single, age 30",
+    "visa_category": "Birth Citizen",
+    "arrival_age": 30,
+    "members": [
+      {
+        "role": "primary",
+        "age": 30,
+        "income": 49269,
+        "nfi": 1059
+      }
+    ],
+    "household_nfi": 1059
+  },
+  {
+    "household_type": "NZ-born family + children",
+    "visa_category": "Birth Citizen",
+    "arrival_age": 30,
+    "members": [
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21590
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 9227,
+        "nfi": -20474
+      },
+      {
+        "role": "child",
+        "age": 10,
+        "income": 0,
+        "nfi": -21590
+      },
+      {
+        "role": "primary",
+        "age": 30,
+        "income": 47988,
+        "nfi": 656
+      },
+      {
+        "role": "spouse",
+        "age": 40,
+        "income": 58787,
+        "nfi": 4387
+      }
+    ],
+    "household_nfi": -58611
+  }
+]

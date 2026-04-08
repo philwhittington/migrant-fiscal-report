@@ -9,3 +9,4 @@ dist/
 .agent/logs/
 client/public/data/
 data/raw/hughes-an2602.xlsx
+__pycache__/

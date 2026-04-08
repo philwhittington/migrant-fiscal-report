@@ -1,0 +1,10007 @@
+{
+  "Resident|0": {
+    "visa_category": "Resident",
+    "arrival_age": 0,
+    "count": 1146,
+    "mean_npv": -198689,
+    "median_npv": -199600,
+    "p10_npv": -207227,
+    "p25_npv": -199600,
+    "p75_npv": -199600,
+    "p90_npv": -190529,
+    "std_npv": 6150,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -207227,
+        "bin_end": -205449,
+        "count": 199
+      },
+      {
+        "bin_start": -205449,
+        "bin_end": -203672,
+        "count": 0
+      },
+      {
+        "bin_start": -203672,
+        "bin_end": -201894,
+        "count": 0
+      },
+      {
+        "bin_start": -201894,
+        "bin_end": -200117,
+        "count": 0
+      },
+      {
+        "bin_start": -200117,
+        "bin_end": -198339,
+        "count": 702
+      },
+      {
+        "bin_start": -198339,
+        "bin_end": -196561,
+        "count": 0
+      },
+      {
+        "bin_start": -196561,
+        "bin_end": -194784,
+        "count": 0
+      },
+      {
+        "bin_start": -194784,
+        "bin_end": -193006,
+        "count": 0
+      },
+      {
+        "bin_start": -193006,
+        "bin_end": -191229,
+        "count": 0
+      },
+      {
+        "bin_start": -191229,
+        "bin_end": -189451,
+        "count": 227
+      },
+      {
+        "bin_start": -189451,
+        "bin_end": -187673,
+        "count": 0
+      },
+      {
+        "bin_start": -187673,
+        "bin_end": -185896,
+        "count": 0
+      },
+      {
+        "bin_start": -185896,
+        "bin_end": -184118,
+        "count": 0
+      },
+      {
+        "bin_start": -184118,
+        "bin_end": -182341,
+        "count": 0
+      },
+      {
+        "bin_start": -182341,
+        "bin_end": -180563,
+        "count": 0
+      },
+      {
+        "bin_start": -180563,
+        "bin_end": -178785,
+        "count": 0
+      },
+      {
+        "bin_start": -178785,
+        "bin_end": -177008,
+        "count": 0
+      },
+      {
+        "bin_start": -177008,
+        "bin_end": -175230,
+        "count": 0
+      },
+      {
+        "bin_start": -175230,
+        "bin_end": -173453,
+        "count": 0
+      },
+      {
+        "bin_start": -173453,
+        "bin_end": -171675,
+        "count": 18
+      }
+    ]
+  },
+  "Resident|10": {
+    "visa_category": "Resident",
+    "arrival_age": 10,
+    "count": 2458,
+    "mean_npv": -82050,
+    "median_npv": -91894,
+    "p10_npv": -96323,
+    "p25_npv": -91894,
+    "p75_npv": -86871,
+    "p90_npv": -86399,
+    "std_npv": 109092,
+    "pct_net_contributor": 0.0163,
+    "histogram": [
+      {
+        "bin_start": -96323,
+        "bin_end": 84290,
+        "count": 2435
+      },
+      {
+        "bin_start": 84290,
+        "bin_end": 264904,
+        "count": 8
+      },
+      {
+        "bin_start": 264904,
+        "bin_end": 445517,
+        "count": 5
+      },
+      {
+        "bin_start": 445517,
+        "bin_end": 626130,
+        "count": 3
+      },
+      {
+        "bin_start": 626130,
+        "bin_end": 806744,
+        "count": 1
+      },
+      {
+        "bin_start": 806744,
+        "bin_end": 987357,
+        "count": 3
+      },
+      {
+        "bin_start": 987357,
+        "bin_end": 1167970,
+        "count": 0
+      },
+      {
+        "bin_start": 1167970,
+        "bin_end": 1348584,
+        "count": 0
+      },
+      {
+        "bin_start": 1348584,
+        "bin_end": 1529197,
+        "count": 0
+      },
+      {
+        "bin_start": 1529197,
+        "bin_end": 1709810,
+        "count": 0
+      },
+      {
+        "bin_start": 1709810,
+        "bin_end": 1890424,
+        "count": 0
+      },
+      {
+        "bin_start": 1890424,
+        "bin_end": 2071037,
+        "count": 1
+      },
+      {
+        "bin_start": 2071037,
+        "bin_end": 2251651,
+        "count": 0
+      },
+      {
+        "bin_start": 2251651,
+        "bin_end": 2432264,
+        "count": 1
+      },
+      {
+        "bin_start": 2432264,
+        "bin_end": 2612877,
+        "count": 0
+      },
+      {
+        "bin_start": 2612877,
+        "bin_end": 2793491,
+        "count": 0
+      },
+      {
+        "bin_start": 2793491,
+        "bin_end": 2974104,
+        "count": 0
+      },
+      {
+        "bin_start": 2974104,
+        "bin_end": 3154717,
+        "count": 0
+      },
+      {
+        "bin_start": 3154717,
+        "bin_end": 3335331,
+        "count": 0
+      },
+      {
+        "bin_start": 3335331,
+        "bin_end": 3515944,
+        "count": 1
+      }
+    ]
+  },
+  "Resident|20": {
+    "visa_category": "Resident",
+    "arrival_age": 20,
+    "count": 6000,
+    "mean_npv": 51087,
+    "median_npv": 33604,
+    "p10_npv": -62011,
+    "p25_npv": -28354,
+    "p75_npv": 91557,
+    "p90_npv": 185804,
+    "std_npv": 109569,
+    "pct_net_contributor": 0.6775,
+    "histogram": [
+      {
+        "bin_start": -62011,
+        "bin_end": 8441,
+        "count": 2158
+      },
+      {
+        "bin_start": 8441,
+        "bin_end": 78893,
+        "count": 2144
+      },
+      {
+        "bin_start": 78893,
+        "bin_end": 149345,
+        "count": 849
+      },
+      {
+        "bin_start": 149345,
+        "bin_end": 219797,
+        "count": 412
+      },
+      {
+        "bin_start": 219797,
+        "bin_end": 290250,
+        "count": 206
+      },
+      {
+        "bin_start": 290250,
+        "bin_end": 360702,
+        "count": 115
+      },
+      {
+        "bin_start": 360702,
+        "bin_end": 431154,
+        "count": 51
+      },
+      {
+        "bin_start": 431154,
+        "bin_end": 501606,
+        "count": 29
+      },
+      {
+        "bin_start": 501606,
+        "bin_end": 572058,
+        "count": 19
+      },
+      {
+        "bin_start": 572058,
+        "bin_end": 642510,
+        "count": 7
+      },
+      {
+        "bin_start": 642510,
+        "bin_end": 712962,
+        "count": 5
+      },
+      {
+        "bin_start": 712962,
+        "bin_end": 783414,
+        "count": 3
+      },
+      {
+        "bin_start": 783414,
+        "bin_end": 853866,
+        "count": 1
+      },
+      {
+        "bin_start": 853866,
+        "bin_end": 924318,
+        "count": 0
+      },
+      {
+        "bin_start": 924318,
+        "bin_end": 994770,
+        "count": 0
+      },
+      {
+        "bin_start": 994770,
+        "bin_end": 1065223,
+        "count": 0
+      },
+      {
+        "bin_start": 1065223,
+        "bin_end": 1135675,
+        "count": 0
+      },
+      {
+        "bin_start": 1135675,
+        "bin_end": 1206127,
+        "count": 0
+      },
+      {
+        "bin_start": 1206127,
+        "bin_end": 1276579,
+        "count": 0
+      },
+      {
+        "bin_start": 1276579,
+        "bin_end": 1347031,
+        "count": 1
+      }
+    ]
+  },
+  "Resident|30": {
+    "visa_category": "Resident",
+    "arrival_age": 30,
+    "count": 7296,
+    "mean_npv": 88316,
+    "median_npv": 40688,
+    "p10_npv": -91856,
+    "p25_npv": -59878,
+    "p75_npv": 169960,
+    "p90_npv": 322786,
+    "std_npv": 183472,
+    "pct_net_contributor": 0.6379,
+    "histogram": [
+      {
+        "bin_start": -91856,
+        "bin_end": -7151,
+        "count": 2475
+      },
+      {
+        "bin_start": -7151,
+        "bin_end": 77554,
+        "count": 1752
+      },
+      {
+        "bin_start": 77554,
+        "bin_end": 162259,
+        "count": 1158
+      },
+      {
+        "bin_start": 162259,
+        "bin_end": 246965,
+        "count": 752
+      },
+      {
+        "bin_start": 246965,
+        "bin_end": 331670,
+        "count": 467
+      },
+      {
+        "bin_start": 331670,
+        "bin_end": 416375,
+        "count": 270
+      },
+      {
+        "bin_start": 416375,
+        "bin_end": 501080,
+        "count": 180
+      },
+      {
+        "bin_start": 501080,
+        "bin_end": 585785,
+        "count": 89
+      },
+      {
+        "bin_start": 585785,
+        "bin_end": 670490,
+        "count": 65
+      },
+      {
+        "bin_start": 670490,
+        "bin_end": 755196,
+        "count": 32
+      },
+      {
+        "bin_start": 755196,
+        "bin_end": 839901,
+        "count": 21
+      },
+      {
+        "bin_start": 839901,
+        "bin_end": 924606,
+        "count": 7
+      },
+      {
+        "bin_start": 924606,
+        "bin_end": 1009311,
+        "count": 9
+      },
+      {
+        "bin_start": 1009311,
+        "bin_end": 1094016,
+        "count": 5
+      },
+      {
+        "bin_start": 1094016,
+        "bin_end": 1178721,
+        "count": 5
+      },
+      {
+        "bin_start": 1178721,
+        "bin_end": 1263426,
+        "count": 2
+      },
+      {
+        "bin_start": 1263426,
+        "bin_end": 1348132,
+        "count": 3
+      },
+      {
+        "bin_start": 1348132,
+        "bin_end": 1432837,
+        "count": 1
+      },
+      {
+        "bin_start": 1432837,
+        "bin_end": 1517542,
+        "count": 1
+      },
+      {
+        "bin_start": 1517542,
+        "bin_end": 1602247,
+        "count": 2
+      }
+    ]
+  },
+  "Resident|40": {
+    "visa_category": "Resident",
+    "arrival_age": 40,
+    "count": 7068,
+    "mean_npv": 89716,
+    "median_npv": 21172,
+    "p10_npv": -129572,
+    "p25_npv": -78238,
+    "p75_npv": 180697,
+    "p90_npv": 387317,
+    "std_npv": 243661,
+    "pct_net_contributor": 0.5463,
+    "histogram": [
+      {
+        "bin_start": -129572,
+        "bin_end": 21407,
+        "count": 3536
+      },
+      {
+        "bin_start": 21407,
+        "bin_end": 172386,
+        "count": 1703
+      },
+      {
+        "bin_start": 172386,
+        "bin_end": 323365,
+        "count": 901
+      },
+      {
+        "bin_start": 323365,
+        "bin_end": 474344,
+        "count": 450
+      },
+      {
+        "bin_start": 474344,
+        "bin_end": 625323,
+        "count": 226
+      },
+      {
+        "bin_start": 625323,
+        "bin_end": 776302,
+        "count": 120
+      },
+      {
+        "bin_start": 776302,
+        "bin_end": 927281,
+        "count": 57
+      },
+      {
+        "bin_start": 927281,
+        "bin_end": 1078260,
+        "count": 27
+      },
+      {
+        "bin_start": 1078260,
+        "bin_end": 1229239,
+        "count": 14
+      },
+      {
+        "bin_start": 1229239,
+        "bin_end": 1380218,
+        "count": 12
+      },
+      {
+        "bin_start": 1380218,
+        "bin_end": 1531198,
+        "count": 7
+      },
+      {
+        "bin_start": 1531198,
+        "bin_end": 1682177,
+        "count": 5
+      },
+      {
+        "bin_start": 1682177,
+        "bin_end": 1833156,
+        "count": 2
+      },
+      {
+        "bin_start": 1833156,
+        "bin_end": 1984135,
+        "count": 3
+      },
+      {
+        "bin_start": 1984135,
+        "bin_end": 2135114,
+        "count": 1
+      },
+      {
+        "bin_start": 2135114,
+        "bin_end": 2286093,
+        "count": 0
+      },
+      {
+        "bin_start": 2286093,
+        "bin_end": 2437072,
+        "count": 2
+      },
+      {
+        "bin_start": 2437072,
+        "bin_end": 2588051,
+        "count": 1
+      },
+      {
+        "bin_start": 2588051,
+        "bin_end": 2739030,
+        "count": 0
+      },
+      {
+        "bin_start": 2739030,
+        "bin_end": 2890009,
+        "count": 1
+      }
+    ]
+  },
+  "Resident|50": {
+    "visa_category": "Resident",
+    "arrival_age": 50,
+    "count": 6647,
+    "mean_npv": 15911,
+    "median_npv": -56006,
+    "p10_npv": -186166,
+    "p25_npv": -170037,
+    "p75_npv": 97974,
+    "p90_npv": 299638,
+    "std_npv": 238536,
+    "pct_net_contributor": 0.3909,
+    "histogram": [
+      {
+        "bin_start": -186166,
+        "bin_end": -60501,
+        "count": 3259
+      },
+      {
+        "bin_start": -60501,
+        "bin_end": 65164,
+        "count": 1438
+      },
+      {
+        "bin_start": 65164,
+        "bin_end": 190829,
+        "count": 857
+      },
+      {
+        "bin_start": 190829,
+        "bin_end": 316494,
+        "count": 470
+      },
+      {
+        "bin_start": 316494,
+        "bin_end": 442159,
+        "count": 254
+      },
+      {
+        "bin_start": 442159,
+        "bin_end": 567824,
+        "count": 138
+      },
+      {
+        "bin_start": 567824,
+        "bin_end": 693489,
+        "count": 86
+      },
+      {
+        "bin_start": 693489,
+        "bin_end": 819154,
+        "count": 45
+      },
+      {
+        "bin_start": 819154,
+        "bin_end": 944819,
+        "count": 29
+      },
+      {
+        "bin_start": 944819,
+        "bin_end": 1070484,
+        "count": 28
+      },
+      {
+        "bin_start": 1070484,
+        "bin_end": 1196150,
+        "count": 13
+      },
+      {
+        "bin_start": 1196150,
+        "bin_end": 1321815,
+        "count": 11
+      },
+      {
+        "bin_start": 1321815,
+        "bin_end": 1447480,
+        "count": 9
+      },
+      {
+        "bin_start": 1447480,
+        "bin_end": 1573145,
+        "count": 4
+      },
+      {
+        "bin_start": 1573145,
+        "bin_end": 1698810,
+        "count": 1
+      },
+      {
+        "bin_start": 1698810,
+        "bin_end": 1824475,
+        "count": 1
+      },
+      {
+        "bin_start": 1824475,
+        "bin_end": 1950140,
+        "count": 2
+      },
+      {
+        "bin_start": 1950140,
+        "bin_end": 2075805,
+        "count": 1
+      },
+      {
+        "bin_start": 2075805,
+        "bin_end": 2201470,
+        "count": 0
+      },
+      {
+        "bin_start": 2201470,
+        "bin_end": 2327135,
+        "count": 1
+      }
+    ]
+  },
+  "Resident|60": {
+    "visa_category": "Resident",
+    "arrival_age": 60,
+    "count": 4133,
+    "mean_npv": -137342,
+    "median_npv": -235849,
+    "p10_npv": -249772,
+    "p25_npv": -249772,
+    "p75_npv": -86804,
+    "p90_npv": 85792,
+    "std_npv": 179001,
+    "pct_net_contributor": 0.1529,
+    "histogram": [
+      {
+        "bin_start": -249772,
+        "bin_end": -118870,
+        "count": 2899
+      },
+      {
+        "bin_start": -118870,
+        "bin_end": 12033,
+        "count": 637
+      },
+      {
+        "bin_start": 12033,
+        "bin_end": 142935,
+        "count": 315
+      },
+      {
+        "bin_start": 142935,
+        "bin_end": 273837,
+        "count": 143
+      },
+      {
+        "bin_start": 273837,
+        "bin_end": 404740,
+        "count": 66
+      },
+      {
+        "bin_start": 404740,
+        "bin_end": 535642,
+        "count": 28
+      },
+      {
+        "bin_start": 535642,
+        "bin_end": 666544,
+        "count": 14
+      },
+      {
+        "bin_start": 666544,
+        "bin_end": 797447,
+        "count": 17
+      },
+      {
+        "bin_start": 797447,
+        "bin_end": 928349,
+        "count": 4
+      },
+      {
+        "bin_start": 928349,
+        "bin_end": 1059252,
+        "count": 4
+      },
+      {
+        "bin_start": 1059252,
+        "bin_end": 1190154,
+        "count": 3
+      },
+      {
+        "bin_start": 1190154,
+        "bin_end": 1321056,
+        "count": 0
+      },
+      {
+        "bin_start": 1321056,
+        "bin_end": 1451959,
+        "count": 1
+      },
+      {
+        "bin_start": 1451959,
+        "bin_end": 1582861,
+        "count": 0
+      },
+      {
+        "bin_start": 1582861,
+        "bin_end": 1713763,
+        "count": 1
+      },
+      {
+        "bin_start": 1713763,
+        "bin_end": 1844666,
+        "count": 0
+      },
+      {
+        "bin_start": 1844666,
+        "bin_end": 1975568,
+        "count": 0
+      },
+      {
+        "bin_start": 1975568,
+        "bin_end": 2106470,
+        "count": 0
+      },
+      {
+        "bin_start": 2106470,
+        "bin_end": 2237373,
+        "count": 0
+      },
+      {
+        "bin_start": 2237373,
+        "bin_end": 2368275,
+        "count": 1
+      }
+    ]
+  },
+  "Resident|70": {
+    "visa_category": "Resident",
+    "arrival_age": 70,
+    "count": 2218,
+    "mean_npv": -178199,
+    "median_npv": -198095,
+    "p10_npv": -206861,
+    "p25_npv": -206861,
+    "p75_npv": -192597,
+    "p90_npv": -157342,
+    "std_npv": 112209,
+    "pct_net_contributor": 0.0302,
+    "histogram": [
+      {
+        "bin_start": -211930,
+        "bin_end": -78070,
+        "count": 2118
+      },
+      {
+        "bin_start": -78070,
+        "bin_end": 55790,
+        "count": 56
+      },
+      {
+        "bin_start": 55790,
+        "bin_end": 189651,
+        "count": 15
+      },
+      {
+        "bin_start": 189651,
+        "bin_end": 323511,
+        "count": 10
+      },
+      {
+        "bin_start": 323511,
+        "bin_end": 457371,
+        "count": 5
+      },
+      {
+        "bin_start": 457371,
+        "bin_end": 591231,
+        "count": 6
+      },
+      {
+        "bin_start": 591231,
+        "bin_end": 725091,
+        "count": 1
+      },
+      {
+        "bin_start": 725091,
+        "bin_end": 858952,
+        "count": 3
+      },
+      {
+        "bin_start": 858952,
+        "bin_end": 992812,
+        "count": 0
+      },
+      {
+        "bin_start": 992812,
+        "bin_end": 1126672,
+        "count": 0
+      },
+      {
+        "bin_start": 1126672,
+        "bin_end": 1260532,
+        "count": 1
+      },
+      {
+        "bin_start": 1260532,
+        "bin_end": 1394392,
+        "count": 1
+      },
+      {
+        "bin_start": 1394392,
+        "bin_end": 1528253,
+        "count": 1
+      },
+      {
+        "bin_start": 1528253,
+        "bin_end": 1662113,
+        "count": 0
+      },
+      {
+        "bin_start": 1662113,
+        "bin_end": 1795973,
+        "count": 0
+      },
+      {
+        "bin_start": 1795973,
+        "bin_end": 1929833,
+        "count": 0
+      },
+      {
+        "bin_start": 1929833,
+        "bin_end": 2063693,
+        "count": 0
+      },
+      {
+        "bin_start": 2063693,
+        "bin_end": 2197554,
+        "count": 0
+      },
+      {
+        "bin_start": 2197554,
+        "bin_end": 2331414,
+        "count": 0
+      },
+      {
+        "bin_start": 2331414,
+        "bin_end": 2465274,
+        "count": 1
+      }
+    ]
+  },
+  "Resident|80": {
+    "visa_category": "Resident",
+    "arrival_age": 80,
+    "count": 1062,
+    "mean_npv": -94931,
+    "median_npv": -102488,
+    "p10_npv": -106456,
+    "p25_npv": -106456,
+    "p75_npv": -99204,
+    "p90_npv": -88389,
+    "std_npv": 43453,
+    "pct_net_contributor": 0.0169,
+    "histogram": [
+      {
+        "bin_start": -109147,
+        "bin_end": -67962,
+        "count": 1003
+      },
+      {
+        "bin_start": -67962,
+        "bin_end": -26777,
+        "count": 30
+      },
+      {
+        "bin_start": -26777,
+        "bin_end": 14408,
+        "count": 12
+      },
+      {
+        "bin_start": 14408,
+        "bin_end": 55593,
+        "count": 2
+      },
+      {
+        "bin_start": 55593,
+        "bin_end": 96778,
+        "count": 9
+      },
+      {
+        "bin_start": 96778,
+        "bin_end": 137963,
+        "count": 0
+      },
+      {
+        "bin_start": 137963,
+        "bin_end": 179148,
+        "count": 0
+      },
+      {
+        "bin_start": 179148,
+        "bin_end": 220333,
+        "count": 1
+      },
+      {
+        "bin_start": 220333,
+        "bin_end": 261518,
+        "count": 2
+      },
+      {
+        "bin_start": 261518,
+        "bin_end": 302703,
+        "count": 0
+      },
+      {
+        "bin_start": 302703,
+        "bin_end": 343888,
+        "count": 0
+      },
+      {
+        "bin_start": 343888,
+        "bin_end": 385073,
+        "count": 1
+      },
+      {
+        "bin_start": 385073,
+        "bin_end": 426258,
+        "count": 0
+      },
+      {
+        "bin_start": 426258,
+        "bin_end": 467443,
+        "count": 0
+      },
+      {
+        "bin_start": 467443,
+        "bin_end": 508628,
+        "count": 1
+      },
+      {
+        "bin_start": 508628,
+        "bin_end": 549813,
+        "count": 0
+      },
+      {
+        "bin_start": 549813,
+        "bin_end": 590998,
+        "count": 0
+      },
+      {
+        "bin_start": 590998,
+        "bin_end": 632183,
+        "count": 0
+      },
+      {
+        "bin_start": 632183,
+        "bin_end": 673368,
+        "count": 0
+      },
+      {
+        "bin_start": 673368,
+        "bin_end": 714553,
+        "count": 1
+      }
+    ]
+  },
+  "Resident|90": {
+    "visa_category": "Resident",
+    "arrival_age": 90,
+    "count": 192,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 192
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Permanent Resident|0": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 0,
+    "count": 1289,
+    "mean_npv": -200151,
+    "median_npv": -201078,
+    "p10_npv": -208550,
+    "p25_npv": -201078,
+    "p75_npv": -201078,
+    "p90_npv": -191885,
+    "std_npv": 4949,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -208550,
+        "bin_end": -206759,
+        "count": 135
+      },
+      {
+        "bin_start": -206759,
+        "bin_end": -204968,
+        "count": 0
+      },
+      {
+        "bin_start": -204968,
+        "bin_end": -203178,
+        "count": 0
+      },
+      {
+        "bin_start": -203178,
+        "bin_end": -201387,
+        "count": 0
+      },
+      {
+        "bin_start": -201387,
+        "bin_end": -199596,
+        "count": 933
+      },
+      {
+        "bin_start": -199596,
+        "bin_end": -197805,
+        "count": 0
+      },
+      {
+        "bin_start": -197805,
+        "bin_end": -196014,
+        "count": 0
+      },
+      {
+        "bin_start": -196014,
+        "bin_end": -194224,
+        "count": 0
+      },
+      {
+        "bin_start": -194224,
+        "bin_end": -192433,
+        "count": 0
+      },
+      {
+        "bin_start": -192433,
+        "bin_end": -190642,
+        "count": 212
+      },
+      {
+        "bin_start": -190642,
+        "bin_end": -188851,
+        "count": 0
+      },
+      {
+        "bin_start": -188851,
+        "bin_end": -187060,
+        "count": 0
+      },
+      {
+        "bin_start": -187060,
+        "bin_end": -185270,
+        "count": 0
+      },
+      {
+        "bin_start": -185270,
+        "bin_end": -183479,
+        "count": 0
+      },
+      {
+        "bin_start": -183479,
+        "bin_end": -181688,
+        "count": 0
+      },
+      {
+        "bin_start": -181688,
+        "bin_end": -179897,
+        "count": 0
+      },
+      {
+        "bin_start": -179897,
+        "bin_end": -178106,
+        "count": 0
+      },
+      {
+        "bin_start": -178106,
+        "bin_end": -176316,
+        "count": 0
+      },
+      {
+        "bin_start": -176316,
+        "bin_end": -174525,
+        "count": 0
+      },
+      {
+        "bin_start": -174525,
+        "bin_end": -172734,
+        "count": 9
+      }
+    ]
+  },
+  "Permanent Resident|10": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 10,
+    "count": 3667,
+    "mean_npv": -85278,
+    "median_npv": -92259,
+    "p10_npv": -92259,
+    "p25_npv": -92259,
+    "p75_npv": -92259,
+    "p90_npv": -87214,
+    "std_npv": 135198,
+    "pct_net_contributor": 0.0074,
+    "histogram": [
+      {
+        "bin_start": -96682,
+        "bin_end": 226467,
+        "count": 3651
+      },
+      {
+        "bin_start": 226467,
+        "bin_end": 549616,
+        "count": 8
+      },
+      {
+        "bin_start": 549616,
+        "bin_end": 872766,
+        "count": 3
+      },
+      {
+        "bin_start": 872766,
+        "bin_end": 1195915,
+        "count": 0
+      },
+      {
+        "bin_start": 1195915,
+        "bin_end": 1519064,
+        "count": 2
+      },
+      {
+        "bin_start": 1519064,
+        "bin_end": 1842214,
+        "count": 0
+      },
+      {
+        "bin_start": 1842214,
+        "bin_end": 2165363,
+        "count": 0
+      },
+      {
+        "bin_start": 2165363,
+        "bin_end": 2488512,
+        "count": 0
+      },
+      {
+        "bin_start": 2488512,
+        "bin_end": 2811661,
+        "count": 1
+      },
+      {
+        "bin_start": 2811661,
+        "bin_end": 3134810,
+        "count": 1
+      },
+      {
+        "bin_start": 3134810,
+        "bin_end": 3457960,
+        "count": 0
+      },
+      {
+        "bin_start": 3457960,
+        "bin_end": 3781109,
+        "count": 0
+      },
+      {
+        "bin_start": 3781109,
+        "bin_end": 4104258,
+        "count": 0
+      },
+      {
+        "bin_start": 4104258,
+        "bin_end": 4427408,
+        "count": 0
+      },
+      {
+        "bin_start": 4427408,
+        "bin_end": 4750557,
+        "count": 0
+      },
+      {
+        "bin_start": 4750557,
+        "bin_end": 5073706,
+        "count": 0
+      },
+      {
+        "bin_start": 5073706,
+        "bin_end": 5396855,
+        "count": 0
+      },
+      {
+        "bin_start": 5396855,
+        "bin_end": 5720004,
+        "count": 0
+      },
+      {
+        "bin_start": 5720004,
+        "bin_end": 6043154,
+        "count": 0
+      },
+      {
+        "bin_start": 6043154,
+        "bin_end": 6366303,
+        "count": 1
+      }
+    ]
+  },
+  "Permanent Resident|20": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 20,
+    "count": 5063,
+    "mean_npv": 47900,
+    "median_npv": 28588,
+    "p10_npv": -57878,
+    "p25_npv": -47059,
+    "p75_npv": 86456,
+    "p90_npv": 182648,
+    "std_npv": 106044,
+    "pct_net_contributor": 0.653,
+    "histogram": [
+      {
+        "bin_start": -57878,
+        "bin_end": -5890,
+        "count": 1625
+      },
+      {
+        "bin_start": -5890,
+        "bin_end": 46098,
+        "count": 1410
+      },
+      {
+        "bin_start": 46098,
+        "bin_end": 98085,
+        "count": 892
+      },
+      {
+        "bin_start": 98085,
+        "bin_end": 150073,
+        "count": 433
+      },
+      {
+        "bin_start": 150073,
+        "bin_end": 202061,
+        "count": 283
+      },
+      {
+        "bin_start": 202061,
+        "bin_end": 254048,
+        "count": 173
+      },
+      {
+        "bin_start": 254048,
+        "bin_end": 306036,
+        "count": 101
+      },
+      {
+        "bin_start": 306036,
+        "bin_end": 358024,
+        "count": 47
+      },
+      {
+        "bin_start": 358024,
+        "bin_end": 410012,
+        "count": 43
+      },
+      {
+        "bin_start": 410012,
+        "bin_end": 462000,
+        "count": 19
+      },
+      {
+        "bin_start": 462000,
+        "bin_end": 513987,
+        "count": 14
+      },
+      {
+        "bin_start": 513987,
+        "bin_end": 565975,
+        "count": 12
+      },
+      {
+        "bin_start": 565975,
+        "bin_end": 617963,
+        "count": 5
+      },
+      {
+        "bin_start": 617963,
+        "bin_end": 669950,
+        "count": 1
+      },
+      {
+        "bin_start": 669950,
+        "bin_end": 721938,
+        "count": 1
+      },
+      {
+        "bin_start": 721938,
+        "bin_end": 773926,
+        "count": 1
+      },
+      {
+        "bin_start": 773926,
+        "bin_end": 825914,
+        "count": 0
+      },
+      {
+        "bin_start": 825914,
+        "bin_end": 877902,
+        "count": 0
+      },
+      {
+        "bin_start": 877902,
+        "bin_end": 929889,
+        "count": 2
+      },
+      {
+        "bin_start": 929889,
+        "bin_end": 981877,
+        "count": 1
+      }
+    ]
+  },
+  "Permanent Resident|30": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 30,
+    "count": 10718,
+    "mean_npv": 87763,
+    "median_npv": 43971,
+    "p10_npv": -98561,
+    "p25_npv": -57830,
+    "p75_npv": 172276,
+    "p90_npv": 323731,
+    "std_npv": 185040,
+    "pct_net_contributor": 0.6408,
+    "histogram": [
+      {
+        "bin_start": -98561,
+        "bin_end": 9730,
+        "count": 4219
+      },
+      {
+        "bin_start": 9730,
+        "bin_end": 118022,
+        "count": 2903
+      },
+      {
+        "bin_start": 118022,
+        "bin_end": 226313,
+        "count": 1607
+      },
+      {
+        "bin_start": 226313,
+        "bin_end": 334605,
+        "count": 985
+      },
+      {
+        "bin_start": 334605,
+        "bin_end": 442896,
+        "count": 482
+      },
+      {
+        "bin_start": 442896,
+        "bin_end": 551188,
+        "count": 234
+      },
+      {
+        "bin_start": 551188,
+        "bin_end": 659479,
+        "count": 138
+      },
+      {
+        "bin_start": 659479,
+        "bin_end": 767771,
+        "count": 69
+      },
+      {
+        "bin_start": 767771,
+        "bin_end": 876062,
+        "count": 36
+      },
+      {
+        "bin_start": 876062,
+        "bin_end": 984354,
+        "count": 16
+      },
+      {
+        "bin_start": 984354,
+        "bin_end": 1092645,
+        "count": 18
+      },
+      {
+        "bin_start": 1092645,
+        "bin_end": 1200936,
+        "count": 3
+      },
+      {
+        "bin_start": 1200936,
+        "bin_end": 1309228,
+        "count": 3
+      },
+      {
+        "bin_start": 1309228,
+        "bin_end": 1417519,
+        "count": 3
+      },
+      {
+        "bin_start": 1417519,
+        "bin_end": 1525811,
+        "count": 0
+      },
+      {
+        "bin_start": 1525811,
+        "bin_end": 1634102,
+        "count": 1
+      },
+      {
+        "bin_start": 1634102,
+        "bin_end": 1742394,
+        "count": 0
+      },
+      {
+        "bin_start": 1742394,
+        "bin_end": 1850685,
+        "count": 0
+      },
+      {
+        "bin_start": 1850685,
+        "bin_end": 1958977,
+        "count": 0
+      },
+      {
+        "bin_start": 1958977,
+        "bin_end": 2067268,
+        "count": 1
+      }
+    ]
+  },
+  "Permanent Resident|40": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 40,
+    "count": 7920,
+    "mean_npv": 88706,
+    "median_npv": 18024,
+    "p10_npv": -133871,
+    "p25_npv": -83462,
+    "p75_npv": 182835,
+    "p90_npv": 393665,
+    "std_npv": 246325,
+    "pct_net_contributor": 0.5346,
+    "histogram": [
+      {
+        "bin_start": -133871,
+        "bin_end": 4704,
+        "count": 3749
+      },
+      {
+        "bin_start": 4704,
+        "bin_end": 143279,
+        "count": 1818
+      },
+      {
+        "bin_start": 143279,
+        "bin_end": 281854,
+        "count": 1031
+      },
+      {
+        "bin_start": 281854,
+        "bin_end": 420429,
+        "count": 618
+      },
+      {
+        "bin_start": 420429,
+        "bin_end": 559004,
+        "count": 335
+      },
+      {
+        "bin_start": 559004,
+        "bin_end": 697578,
+        "count": 159
+      },
+      {
+        "bin_start": 697578,
+        "bin_end": 836153,
+        "count": 82
+      },
+      {
+        "bin_start": 836153,
+        "bin_end": 974728,
+        "count": 47
+      },
+      {
+        "bin_start": 974728,
+        "bin_end": 1113303,
+        "count": 25
+      },
+      {
+        "bin_start": 1113303,
+        "bin_end": 1251878,
+        "count": 19
+      },
+      {
+        "bin_start": 1251878,
+        "bin_end": 1390453,
+        "count": 10
+      },
+      {
+        "bin_start": 1390453,
+        "bin_end": 1529028,
+        "count": 11
+      },
+      {
+        "bin_start": 1529028,
+        "bin_end": 1667603,
+        "count": 6
+      },
+      {
+        "bin_start": 1667603,
+        "bin_end": 1806178,
+        "count": 4
+      },
+      {
+        "bin_start": 1806178,
+        "bin_end": 1944752,
+        "count": 1
+      },
+      {
+        "bin_start": 1944752,
+        "bin_end": 2083327,
+        "count": 2
+      },
+      {
+        "bin_start": 2083327,
+        "bin_end": 2221902,
+        "count": 1
+      },
+      {
+        "bin_start": 2221902,
+        "bin_end": 2360477,
+        "count": 1
+      },
+      {
+        "bin_start": 2360477,
+        "bin_end": 2499052,
+        "count": 0
+      },
+      {
+        "bin_start": 2499052,
+        "bin_end": 2637627,
+        "count": 1
+      }
+    ]
+  },
+  "Permanent Resident|50": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 50,
+    "count": 5674,
+    "mean_npv": 9294,
+    "median_npv": -59971,
+    "p10_npv": -187924,
+    "p25_npv": -146007,
+    "p75_npv": 93590,
+    "p90_npv": 288434,
+    "std_npv": 226099,
+    "pct_net_contributor": 0.3803,
+    "histogram": [
+      {
+        "bin_start": -187924,
+        "bin_end": -73549,
+        "count": 2660
+      },
+      {
+        "bin_start": -73549,
+        "bin_end": 40826,
+        "count": 1239
+      },
+      {
+        "bin_start": 40826,
+        "bin_end": 155201,
+        "count": 740
+      },
+      {
+        "bin_start": 155201,
+        "bin_end": 269575,
+        "count": 416
+      },
+      {
+        "bin_start": 269575,
+        "bin_end": 383950,
+        "count": 251
+      },
+      {
+        "bin_start": 383950,
+        "bin_end": 498325,
+        "count": 130
+      },
+      {
+        "bin_start": 498325,
+        "bin_end": 612700,
+        "count": 100
+      },
+      {
+        "bin_start": 612700,
+        "bin_end": 727075,
+        "count": 51
+      },
+      {
+        "bin_start": 727075,
+        "bin_end": 841450,
+        "count": 29
+      },
+      {
+        "bin_start": 841450,
+        "bin_end": 955824,
+        "count": 19
+      },
+      {
+        "bin_start": 955824,
+        "bin_end": 1070199,
+        "count": 17
+      },
+      {
+        "bin_start": 1070199,
+        "bin_end": 1184574,
+        "count": 5
+      },
+      {
+        "bin_start": 1184574,
+        "bin_end": 1298949,
+        "count": 7
+      },
+      {
+        "bin_start": 1298949,
+        "bin_end": 1413324,
+        "count": 2
+      },
+      {
+        "bin_start": 1413324,
+        "bin_end": 1527699,
+        "count": 2
+      },
+      {
+        "bin_start": 1527699,
+        "bin_end": 1642074,
+        "count": 2
+      },
+      {
+        "bin_start": 1642074,
+        "bin_end": 1756448,
+        "count": 1
+      },
+      {
+        "bin_start": 1756448,
+        "bin_end": 1870823,
+        "count": 1
+      },
+      {
+        "bin_start": 1870823,
+        "bin_end": 1985198,
+        "count": 1
+      },
+      {
+        "bin_start": 1985198,
+        "bin_end": 2099573,
+        "count": 1
+      }
+    ]
+  },
+  "Permanent Resident|60": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 60,
+    "count": 3200,
+    "mean_npv": -145390,
+    "median_npv": -225876,
+    "p10_npv": -243514,
+    "p25_npv": -243514,
+    "p75_npv": -110320,
+    "p90_npv": 47610,
+    "std_npv": 160889,
+    "pct_net_contributor": 0.1313,
+    "histogram": [
+      {
+        "bin_start": -243514,
+        "bin_end": -155786,
+        "count": 2111
+      },
+      {
+        "bin_start": -155786,
+        "bin_end": -68057,
+        "count": 481
+      },
+      {
+        "bin_start": -68057,
+        "bin_end": 19671,
+        "count": 231
+      },
+      {
+        "bin_start": 19671,
+        "bin_end": 107399,
+        "count": 145
+      },
+      {
+        "bin_start": 107399,
+        "bin_end": 195128,
+        "count": 102
+      },
+      {
+        "bin_start": 195128,
+        "bin_end": 282856,
+        "count": 43
+      },
+      {
+        "bin_start": 282856,
+        "bin_end": 370584,
+        "count": 27
+      },
+      {
+        "bin_start": 370584,
+        "bin_end": 458312,
+        "count": 19
+      },
+      {
+        "bin_start": 458312,
+        "bin_end": 546041,
+        "count": 21
+      },
+      {
+        "bin_start": 546041,
+        "bin_end": 633769,
+        "count": 5
+      },
+      {
+        "bin_start": 633769,
+        "bin_end": 721497,
+        "count": 6
+      },
+      {
+        "bin_start": 721497,
+        "bin_end": 809226,
+        "count": 1
+      },
+      {
+        "bin_start": 809226,
+        "bin_end": 896954,
+        "count": 1
+      },
+      {
+        "bin_start": 896954,
+        "bin_end": 984682,
+        "count": 1
+      },
+      {
+        "bin_start": 984682,
+        "bin_end": 1072410,
+        "count": 1
+      },
+      {
+        "bin_start": 1072410,
+        "bin_end": 1160139,
+        "count": 2
+      },
+      {
+        "bin_start": 1160139,
+        "bin_end": 1247867,
+        "count": 0
+      },
+      {
+        "bin_start": 1247867,
+        "bin_end": 1335595,
+        "count": 0
+      },
+      {
+        "bin_start": 1335595,
+        "bin_end": 1423324,
+        "count": 1
+      },
+      {
+        "bin_start": 1423324,
+        "bin_end": 1511052,
+        "count": 2
+      }
+    ]
+  },
+  "Permanent Resident|70": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 70,
+    "count": 1894,
+    "mean_npv": -180821,
+    "median_npv": -208116,
+    "p10_npv": -208116,
+    "p25_npv": -208116,
+    "p75_npv": -196237,
+    "p90_npv": -152881,
+    "std_npv": 107094,
+    "pct_net_contributor": 0.0317,
+    "histogram": [
+      {
+        "bin_start": -213207,
+        "bin_end": -114602,
+        "count": 1772
+      },
+      {
+        "bin_start": -114602,
+        "bin_end": -15996,
+        "count": 55
+      },
+      {
+        "bin_start": -15996,
+        "bin_end": 82610,
+        "count": 30
+      },
+      {
+        "bin_start": 82610,
+        "bin_end": 181215,
+        "count": 17
+      },
+      {
+        "bin_start": 181215,
+        "bin_end": 279820,
+        "count": 8
+      },
+      {
+        "bin_start": 279820,
+        "bin_end": 378426,
+        "count": 2
+      },
+      {
+        "bin_start": 378426,
+        "bin_end": 477032,
+        "count": 2
+      },
+      {
+        "bin_start": 477032,
+        "bin_end": 575637,
+        "count": 1
+      },
+      {
+        "bin_start": 575637,
+        "bin_end": 674242,
+        "count": 1
+      },
+      {
+        "bin_start": 674242,
+        "bin_end": 772848,
+        "count": 1
+      },
+      {
+        "bin_start": 772848,
+        "bin_end": 871454,
+        "count": 1
+      },
+      {
+        "bin_start": 871454,
+        "bin_end": 970059,
+        "count": 0
+      },
+      {
+        "bin_start": 970059,
+        "bin_end": 1068664,
+        "count": 0
+      },
+      {
+        "bin_start": 1068664,
+        "bin_end": 1167270,
+        "count": 0
+      },
+      {
+        "bin_start": 1167270,
+        "bin_end": 1265876,
+        "count": 0
+      },
+      {
+        "bin_start": 1265876,
+        "bin_end": 1364481,
+        "count": 2
+      },
+      {
+        "bin_start": 1364481,
+        "bin_end": 1463086,
+        "count": 0
+      },
+      {
+        "bin_start": 1463086,
+        "bin_end": 1561692,
+        "count": 0
+      },
+      {
+        "bin_start": 1561692,
+        "bin_end": 1660298,
+        "count": 0
+      },
+      {
+        "bin_start": 1660298,
+        "bin_end": 1758903,
+        "count": 2
+      }
+    ]
+  },
+  "Permanent Resident|80": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 80,
+    "count": 718,
+    "mean_npv": -96169,
+    "median_npv": -106456,
+    "p10_npv": -106456,
+    "p25_npv": -106456,
+    "p75_npv": -100084,
+    "p90_npv": -92080,
+    "std_npv": 48253,
+    "pct_net_contributor": 0.0265,
+    "histogram": [
+      {
+        "bin_start": -109147,
+        "bin_end": -71825,
+        "count": 684
+      },
+      {
+        "bin_start": -71825,
+        "bin_end": -34502,
+        "count": 9
+      },
+      {
+        "bin_start": -34502,
+        "bin_end": 2820,
+        "count": 7
+      },
+      {
+        "bin_start": 2820,
+        "bin_end": 40143,
+        "count": 8
+      },
+      {
+        "bin_start": 40143,
+        "bin_end": 77465,
+        "count": 6
+      },
+      {
+        "bin_start": 77465,
+        "bin_end": 114788,
+        "count": 0
+      },
+      {
+        "bin_start": 114788,
+        "bin_end": 152110,
+        "count": 1
+      },
+      {
+        "bin_start": 152110,
+        "bin_end": 189433,
+        "count": 0
+      },
+      {
+        "bin_start": 189433,
+        "bin_end": 226755,
+        "count": 0
+      },
+      {
+        "bin_start": 226755,
+        "bin_end": 264078,
+        "count": 0
+      },
+      {
+        "bin_start": 264078,
+        "bin_end": 301400,
+        "count": 0
+      },
+      {
+        "bin_start": 301400,
+        "bin_end": 338722,
+        "count": 0
+      },
+      {
+        "bin_start": 338722,
+        "bin_end": 376045,
+        "count": 0
+      },
+      {
+        "bin_start": 376045,
+        "bin_end": 413367,
+        "count": 0
+      },
+      {
+        "bin_start": 413367,
+        "bin_end": 450690,
+        "count": 1
+      },
+      {
+        "bin_start": 450690,
+        "bin_end": 488012,
+        "count": 0
+      },
+      {
+        "bin_start": 488012,
+        "bin_end": 525335,
+        "count": 0
+      },
+      {
+        "bin_start": 525335,
+        "bin_end": 562657,
+        "count": 0
+      },
+      {
+        "bin_start": 562657,
+        "bin_end": 599980,
+        "count": 1
+      },
+      {
+        "bin_start": 599980,
+        "bin_end": 637302,
+        "count": 1
+      }
+    ]
+  },
+  "Permanent Resident|90": {
+    "visa_category": "Permanent Resident",
+    "arrival_age": 90,
+    "count": 67,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 67
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Visitor|0": {
+    "visa_category": "Visitor",
+    "arrival_age": 0,
+    "count": 552,
+    "mean_npv": -189395,
+    "median_npv": -189395,
+    "p10_npv": -189395,
+    "p25_npv": -189395,
+    "p75_npv": -189395,
+    "p90_npv": -189395,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -189396,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 552
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189395,
+        "count": 0
+      },
+      {
+        "bin_start": -189395,
+        "bin_end": -189394,
+        "count": 0
+      }
+    ]
+  },
+  "Visitor|10": {
+    "visa_category": "Visitor",
+    "arrival_age": 10,
+    "count": 82,
+    "mean_npv": -102698,
+    "median_npv": -103914,
+    "p10_npv": -106033,
+    "p25_npv": -106033,
+    "p75_npv": -101952,
+    "p90_npv": -98907,
+    "std_npv": 4944,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -106033,
+        "bin_end": -104556,
+        "count": 35
+      },
+      {
+        "bin_start": -104556,
+        "bin_end": -103078,
+        "count": 16
+      },
+      {
+        "bin_start": -103078,
+        "bin_end": -101601,
+        "count": 12
+      },
+      {
+        "bin_start": -101601,
+        "bin_end": -100124,
+        "count": 5
+      },
+      {
+        "bin_start": -100124,
+        "bin_end": -98647,
+        "count": 6
+      },
+      {
+        "bin_start": -98647,
+        "bin_end": -97170,
+        "count": 2
+      },
+      {
+        "bin_start": -97170,
+        "bin_end": -95692,
+        "count": 1
+      },
+      {
+        "bin_start": -95692,
+        "bin_end": -94215,
+        "count": 0
+      },
+      {
+        "bin_start": -94215,
+        "bin_end": -92738,
+        "count": 1
+      },
+      {
+        "bin_start": -92738,
+        "bin_end": -91260,
+        "count": 0
+      },
+      {
+        "bin_start": -91260,
+        "bin_end": -89783,
+        "count": 0
+      },
+      {
+        "bin_start": -89783,
+        "bin_end": -88306,
+        "count": 1
+      },
+      {
+        "bin_start": -88306,
+        "bin_end": -86829,
+        "count": 1
+      },
+      {
+        "bin_start": -86829,
+        "bin_end": -85352,
+        "count": 1
+      },
+      {
+        "bin_start": -85352,
+        "bin_end": -83874,
+        "count": 0
+      },
+      {
+        "bin_start": -83874,
+        "bin_end": -82397,
+        "count": 0
+      },
+      {
+        "bin_start": -82397,
+        "bin_end": -80920,
+        "count": 0
+      },
+      {
+        "bin_start": -80920,
+        "bin_end": -79442,
+        "count": 0
+      },
+      {
+        "bin_start": -79442,
+        "bin_end": -77965,
+        "count": 0
+      },
+      {
+        "bin_start": -77965,
+        "bin_end": -76488,
+        "count": 1
+      }
+    ]
+  },
+  "Visitor|20": {
+    "visa_category": "Visitor",
+    "arrival_age": 20,
+    "count": 153,
+    "mean_npv": -12547,
+    "median_npv": -19263,
+    "p10_npv": -19263,
+    "p25_npv": -19263,
+    "p75_npv": -19263,
+    "p90_npv": -19263,
+    "std_npv": 30715,
+    "pct_net_contributor": 0.0588,
+    "histogram": [
+      {
+        "bin_start": -19263,
+        "bin_end": -6655,
+        "count": 143
+      },
+      {
+        "bin_start": -6655,
+        "bin_end": 5954,
+        "count": 1
+      },
+      {
+        "bin_start": 5954,
+        "bin_end": 18562,
+        "count": 0
+      },
+      {
+        "bin_start": 18562,
+        "bin_end": 31170,
+        "count": 1
+      },
+      {
+        "bin_start": 31170,
+        "bin_end": 43778,
+        "count": 1
+      },
+      {
+        "bin_start": 43778,
+        "bin_end": 56386,
+        "count": 3
+      },
+      {
+        "bin_start": 56386,
+        "bin_end": 68995,
+        "count": 0
+      },
+      {
+        "bin_start": 68995,
+        "bin_end": 81603,
+        "count": 0
+      },
+      {
+        "bin_start": 81603,
+        "bin_end": 94211,
+        "count": 1
+      },
+      {
+        "bin_start": 94211,
+        "bin_end": 106820,
+        "count": 0
+      },
+      {
+        "bin_start": 106820,
+        "bin_end": 119428,
+        "count": 0
+      },
+      {
+        "bin_start": 119428,
+        "bin_end": 132036,
+        "count": 0
+      },
+      {
+        "bin_start": 132036,
+        "bin_end": 144644,
+        "count": 0
+      },
+      {
+        "bin_start": 144644,
+        "bin_end": 157252,
+        "count": 2
+      },
+      {
+        "bin_start": 157252,
+        "bin_end": 169861,
+        "count": 0
+      },
+      {
+        "bin_start": 169861,
+        "bin_end": 182469,
+        "count": 0
+      },
+      {
+        "bin_start": 182469,
+        "bin_end": 195077,
+        "count": 0
+      },
+      {
+        "bin_start": 195077,
+        "bin_end": 207686,
+        "count": 0
+      },
+      {
+        "bin_start": 207686,
+        "bin_end": 220294,
+        "count": 0
+      },
+      {
+        "bin_start": 220294,
+        "bin_end": 232902,
+        "count": 1
+      }
+    ]
+  },
+  "Visitor|30": {
+    "visa_category": "Visitor",
+    "arrival_age": 30,
+    "count": 176,
+    "mean_npv": 72884,
+    "median_npv": -20962,
+    "p10_npv": -20962,
+    "p25_npv": -20962,
+    "p75_npv": -20962,
+    "p90_npv": -20962,
+    "std_npv": 1120570,
+    "pct_net_contributor": 0.0455,
+    "histogram": [
+      {
+        "bin_start": -20962,
+        "bin_end": 723983,
+        "count": 175
+      },
+      {
+        "bin_start": 723983,
+        "bin_end": 1468927,
+        "count": 0
+      },
+      {
+        "bin_start": 1468927,
+        "bin_end": 2213872,
+        "count": 0
+      },
+      {
+        "bin_start": 2213872,
+        "bin_end": 2958816,
+        "count": 0
+      },
+      {
+        "bin_start": 2958816,
+        "bin_end": 3703761,
+        "count": 0
+      },
+      {
+        "bin_start": 3703761,
+        "bin_end": 4448705,
+        "count": 0
+      },
+      {
+        "bin_start": 4448705,
+        "bin_end": 5193650,
+        "count": 0
+      },
+      {
+        "bin_start": 5193650,
+        "bin_end": 5938594,
+        "count": 0
+      },
+      {
+        "bin_start": 5938594,
+        "bin_end": 6683539,
+        "count": 0
+      },
+      {
+        "bin_start": 6683539,
+        "bin_end": 7428484,
+        "count": 0
+      },
+      {
+        "bin_start": 7428484,
+        "bin_end": 8173428,
+        "count": 0
+      },
+      {
+        "bin_start": 8173428,
+        "bin_end": 8918373,
+        "count": 0
+      },
+      {
+        "bin_start": 8918373,
+        "bin_end": 9663317,
+        "count": 0
+      },
+      {
+        "bin_start": 9663317,
+        "bin_end": 10408262,
+        "count": 0
+      },
+      {
+        "bin_start": 10408262,
+        "bin_end": 11153206,
+        "count": 0
+      },
+      {
+        "bin_start": 11153206,
+        "bin_end": 11898151,
+        "count": 0
+      },
+      {
+        "bin_start": 11898151,
+        "bin_end": 12643095,
+        "count": 0
+      },
+      {
+        "bin_start": 12643095,
+        "bin_end": 13388040,
+        "count": 0
+      },
+      {
+        "bin_start": 13388040,
+        "bin_end": 14132984,
+        "count": 0
+      },
+      {
+        "bin_start": 14132984,
+        "bin_end": 14877929,
+        "count": 1
+      }
+    ]
+  },
+  "Visitor|40": {
+    "visa_category": "Visitor",
+    "arrival_age": 40,
+    "count": 189,
+    "mean_npv": -8060,
+    "median_npv": -33072,
+    "p10_npv": -33072,
+    "p25_npv": -33072,
+    "p75_npv": -22536,
+    "p90_npv": 22827,
+    "std_npv": 80607,
+    "pct_net_contributor": 0.1481,
+    "histogram": [
+      {
+        "bin_start": -33072,
+        "bin_end": 2080,
+        "count": 161
+      },
+      {
+        "bin_start": 2080,
+        "bin_end": 37232,
+        "count": 13
+      },
+      {
+        "bin_start": 37232,
+        "bin_end": 72385,
+        "count": 2
+      },
+      {
+        "bin_start": 72385,
+        "bin_end": 107537,
+        "count": 4
+      },
+      {
+        "bin_start": 107537,
+        "bin_end": 142689,
+        "count": 2
+      },
+      {
+        "bin_start": 142689,
+        "bin_end": 177841,
+        "count": 1
+      },
+      {
+        "bin_start": 177841,
+        "bin_end": 212993,
+        "count": 1
+      },
+      {
+        "bin_start": 212993,
+        "bin_end": 248146,
+        "count": 1
+      },
+      {
+        "bin_start": 248146,
+        "bin_end": 283298,
+        "count": 0
+      },
+      {
+        "bin_start": 283298,
+        "bin_end": 318450,
+        "count": 0
+      },
+      {
+        "bin_start": 318450,
+        "bin_end": 353602,
+        "count": 0
+      },
+      {
+        "bin_start": 353602,
+        "bin_end": 388754,
+        "count": 2
+      },
+      {
+        "bin_start": 388754,
+        "bin_end": 423907,
+        "count": 1
+      },
+      {
+        "bin_start": 423907,
+        "bin_end": 459059,
+        "count": 0
+      },
+      {
+        "bin_start": 459059,
+        "bin_end": 494211,
+        "count": 0
+      },
+      {
+        "bin_start": 494211,
+        "bin_end": 529363,
+        "count": 0
+      },
+      {
+        "bin_start": 529363,
+        "bin_end": 564515,
+        "count": 0
+      },
+      {
+        "bin_start": 564515,
+        "bin_end": 599668,
+        "count": 0
+      },
+      {
+        "bin_start": 599668,
+        "bin_end": 634820,
+        "count": 0
+      },
+      {
+        "bin_start": 634820,
+        "bin_end": 669972,
+        "count": 1
+      }
+    ]
+  },
+  "Visitor|50": {
+    "visa_category": "Visitor",
+    "arrival_age": 50,
+    "count": 104,
+    "mean_npv": -52467,
+    "median_npv": -69973,
+    "p10_npv": -69973,
+    "p25_npv": -69973,
+    "p75_npv": -64363,
+    "p90_npv": -5434,
+    "std_npv": 48989,
+    "pct_net_contributor": 0.0962,
+    "histogram": [
+      {
+        "bin_start": -69973,
+        "bin_end": -51688,
+        "count": 85
+      },
+      {
+        "bin_start": -51688,
+        "bin_end": -33402,
+        "count": 3
+      },
+      {
+        "bin_start": -33402,
+        "bin_end": -15117,
+        "count": 4
+      },
+      {
+        "bin_start": -15117,
+        "bin_end": 3168,
+        "count": 3
+      },
+      {
+        "bin_start": 3168,
+        "bin_end": 21453,
+        "count": 5
+      },
+      {
+        "bin_start": 21453,
+        "bin_end": 39738,
+        "count": 1
+      },
+      {
+        "bin_start": 39738,
+        "bin_end": 58024,
+        "count": 1
+      },
+      {
+        "bin_start": 58024,
+        "bin_end": 76309,
+        "count": 0
+      },
+      {
+        "bin_start": 76309,
+        "bin_end": 94594,
+        "count": 0
+      },
+      {
+        "bin_start": 94594,
+        "bin_end": 112880,
+        "count": 0
+      },
+      {
+        "bin_start": 112880,
+        "bin_end": 131165,
+        "count": 0
+      },
+      {
+        "bin_start": 131165,
+        "bin_end": 149450,
+        "count": 0
+      },
+      {
+        "bin_start": 149450,
+        "bin_end": 167735,
+        "count": 0
+      },
+      {
+        "bin_start": 167735,
+        "bin_end": 186020,
+        "count": 1
+      },
+      {
+        "bin_start": 186020,
+        "bin_end": 204306,
+        "count": 0
+      },
+      {
+        "bin_start": 204306,
+        "bin_end": 222591,
+        "count": 0
+      },
+      {
+        "bin_start": 222591,
+        "bin_end": 240876,
+        "count": 0
+      },
+      {
+        "bin_start": 240876,
+        "bin_end": 259162,
+        "count": 0
+      },
+      {
+        "bin_start": 259162,
+        "bin_end": 277447,
+        "count": 0
+      },
+      {
+        "bin_start": 277447,
+        "bin_end": 295732,
+        "count": 1
+      }
+    ]
+  },
+  "Visitor|60": {
+    "visa_category": "Visitor",
+    "arrival_age": 60,
+    "count": 49,
+    "mean_npv": -139401,
+    "median_npv": -153181,
+    "p10_npv": -153181,
+    "p25_npv": -153181,
+    "p75_npv": -153181,
+    "p90_npv": -142961,
+    "std_npv": 63808,
+    "pct_net_contributor": 0.0204,
+    "histogram": [
+      {
+        "bin_start": -153181,
+        "bin_end": -131434,
+        "count": 44
+      },
+      {
+        "bin_start": -131434,
+        "bin_end": -109688,
+        "count": 3
+      },
+      {
+        "bin_start": -109688,
+        "bin_end": -87941,
+        "count": 0
+      },
+      {
+        "bin_start": -87941,
+        "bin_end": -66194,
+        "count": 0
+      },
+      {
+        "bin_start": -66194,
+        "bin_end": -44447,
+        "count": 0
+      },
+      {
+        "bin_start": -44447,
+        "bin_end": -22700,
+        "count": 1
+      },
+      {
+        "bin_start": -22700,
+        "bin_end": -954,
+        "count": 0
+      },
+      {
+        "bin_start": -954,
+        "bin_end": 20793,
+        "count": 0
+      },
+      {
+        "bin_start": 20793,
+        "bin_end": 42540,
+        "count": 0
+      },
+      {
+        "bin_start": 42540,
+        "bin_end": 64286,
+        "count": 0
+      },
+      {
+        "bin_start": 64286,
+        "bin_end": 86033,
+        "count": 0
+      },
+      {
+        "bin_start": 86033,
+        "bin_end": 107780,
+        "count": 0
+      },
+      {
+        "bin_start": 107780,
+        "bin_end": 129527,
+        "count": 0
+      },
+      {
+        "bin_start": 129527,
+        "bin_end": 151274,
+        "count": 0
+      },
+      {
+        "bin_start": 151274,
+        "bin_end": 173020,
+        "count": 0
+      },
+      {
+        "bin_start": 173020,
+        "bin_end": 194767,
+        "count": 0
+      },
+      {
+        "bin_start": 194767,
+        "bin_end": 216514,
+        "count": 0
+      },
+      {
+        "bin_start": 216514,
+        "bin_end": 238260,
+        "count": 0
+      },
+      {
+        "bin_start": 238260,
+        "bin_end": 260007,
+        "count": 0
+      },
+      {
+        "bin_start": 260007,
+        "bin_end": 281754,
+        "count": 1
+      }
+    ]
+  },
+  "Visitor|70": {
+    "visa_category": "Visitor",
+    "arrival_age": 70,
+    "count": 19,
+    "mean_npv": -155408,
+    "median_npv": -161112,
+    "p10_npv": -161112,
+    "p25_npv": -161112,
+    "p75_npv": -161112,
+    "p90_npv": -148202,
+    "std_npv": 17336,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -161112,
+        "bin_end": -157327,
+        "count": 16
+      },
+      {
+        "bin_start": -157327,
+        "bin_end": -153543,
+        "count": 0
+      },
+      {
+        "bin_start": -153543,
+        "bin_end": -149758,
+        "count": 1
+      },
+      {
+        "bin_start": -149758,
+        "bin_end": -145974,
+        "count": 0
+      },
+      {
+        "bin_start": -145974,
+        "bin_end": -142189,
+        "count": 0
+      },
+      {
+        "bin_start": -142189,
+        "bin_end": -138404,
+        "count": 1
+      },
+      {
+        "bin_start": -138404,
+        "bin_end": -134620,
+        "count": 0
+      },
+      {
+        "bin_start": -134620,
+        "bin_end": -130835,
+        "count": 0
+      },
+      {
+        "bin_start": -130835,
+        "bin_end": -127051,
+        "count": 0
+      },
+      {
+        "bin_start": -127051,
+        "bin_end": -123266,
+        "count": 0
+      },
+      {
+        "bin_start": -123266,
+        "bin_end": -119481,
+        "count": 0
+      },
+      {
+        "bin_start": -119481,
+        "bin_end": -115697,
+        "count": 0
+      },
+      {
+        "bin_start": -115697,
+        "bin_end": -111912,
+        "count": 0
+      },
+      {
+        "bin_start": -111912,
+        "bin_end": -108128,
+        "count": 0
+      },
+      {
+        "bin_start": -108128,
+        "bin_end": -104343,
+        "count": 0
+      },
+      {
+        "bin_start": -104343,
+        "bin_end": -100558,
+        "count": 0
+      },
+      {
+        "bin_start": -100558,
+        "bin_end": -96774,
+        "count": 0
+      },
+      {
+        "bin_start": -96774,
+        "bin_end": -92989,
+        "count": 0
+      },
+      {
+        "bin_start": -92989,
+        "bin_end": -89205,
+        "count": 0
+      },
+      {
+        "bin_start": -89205,
+        "bin_end": -85420,
+        "count": 1
+      }
+    ]
+  },
+  "Diplomatic etc|0": {
+    "visa_category": "Diplomatic etc",
+    "arrival_age": 0,
+    "count": 14,
+    "mean_npv": -312082,
+    "median_npv": -312082,
+    "p10_npv": -312082,
+    "p25_npv": -312082,
+    "p75_npv": -312082,
+    "p90_npv": -312082,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 14
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      },
+      {
+        "bin_start": -312082,
+        "bin_end": -312082,
+        "count": 0
+      }
+    ]
+  },
+  "Diplomatic etc|10": {
+    "visa_category": "Diplomatic etc",
+    "arrival_age": 10,
+    "count": 13,
+    "mean_npv": -186051,
+    "median_npv": -186051,
+    "p10_npv": -186051,
+    "p25_npv": -186051,
+    "p75_npv": -186051,
+    "p90_npv": -186051,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -186052,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 13
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186051,
+        "count": 0
+      },
+      {
+        "bin_start": -186051,
+        "bin_end": -186050,
+        "count": 0
+      }
+    ]
+  },
+  "Diplomatic etc|30": {
+    "visa_category": "Diplomatic etc",
+    "arrival_age": 30,
+    "count": 16,
+    "mean_npv": -110798,
+    "median_npv": -110798,
+    "p10_npv": -110798,
+    "p25_npv": -110798,
+    "p75_npv": -110798,
+    "p90_npv": -110798,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 16
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      },
+      {
+        "bin_start": -110798,
+        "bin_end": -110798,
+        "count": 0
+      }
+    ]
+  },
+  "Diplomatic etc|40": {
+    "visa_category": "Diplomatic etc",
+    "arrival_age": 40,
+    "count": 22,
+    "mean_npv": -147392,
+    "median_npv": -147392,
+    "p10_npv": -147392,
+    "p25_npv": -147392,
+    "p75_npv": -147392,
+    "p90_npv": -147392,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 22
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      },
+      {
+        "bin_start": -147392,
+        "bin_end": -147392,
+        "count": 0
+      }
+    ]
+  },
+  "Diplomatic etc|50": {
+    "visa_category": "Diplomatic etc",
+    "arrival_age": 50,
+    "count": 14,
+    "mean_npv": -216952,
+    "median_npv": -216952,
+    "p10_npv": -216952,
+    "p25_npv": -216952,
+    "p75_npv": -216952,
+    "p90_npv": -216952,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 14
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      },
+      {
+        "bin_start": -216952,
+        "bin_end": -216952,
+        "count": 0
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|0": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 0,
+    "count": 634,
+    "mean_npv": -187220,
+    "median_npv": -187220,
+    "p10_npv": -187220,
+    "p25_npv": -187220,
+    "p75_npv": -187220,
+    "p90_npv": -187220,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 634
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      },
+      {
+        "bin_start": -187220,
+        "bin_end": -187220,
+        "count": 0
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|10": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 10,
+    "count": 453,
+    "mean_npv": -107133,
+    "median_npv": -113958,
+    "p10_npv": -113958,
+    "p25_npv": -113958,
+    "p75_npv": -108514,
+    "p90_npv": -95005,
+    "std_npv": 19572,
+    "pct_net_contributor": 0.0044,
+    "histogram": [
+      {
+        "bin_start": -113958,
+        "bin_end": -102161,
+        "count": 374
+      },
+      {
+        "bin_start": -102161,
+        "bin_end": -90364,
+        "count": 46
+      },
+      {
+        "bin_start": -90364,
+        "bin_end": -78566,
+        "count": 12
+      },
+      {
+        "bin_start": -78566,
+        "bin_end": -66769,
+        "count": 4
+      },
+      {
+        "bin_start": -66769,
+        "bin_end": -54972,
+        "count": 5
+      },
+      {
+        "bin_start": -54972,
+        "bin_end": -43175,
+        "count": 3
+      },
+      {
+        "bin_start": -43175,
+        "bin_end": -31378,
+        "count": 2
+      },
+      {
+        "bin_start": -31378,
+        "bin_end": -19580,
+        "count": 2
+      },
+      {
+        "bin_start": -19580,
+        "bin_end": -7783,
+        "count": 2
+      },
+      {
+        "bin_start": -7783,
+        "bin_end": 4014,
+        "count": 1
+      },
+      {
+        "bin_start": 4014,
+        "bin_end": 15811,
+        "count": 0
+      },
+      {
+        "bin_start": 15811,
+        "bin_end": 27608,
+        "count": 0
+      },
+      {
+        "bin_start": 27608,
+        "bin_end": 39406,
+        "count": 1
+      },
+      {
+        "bin_start": 39406,
+        "bin_end": 51203,
+        "count": 0
+      },
+      {
+        "bin_start": 51203,
+        "bin_end": 63000,
+        "count": 0
+      },
+      {
+        "bin_start": 63000,
+        "bin_end": 74797,
+        "count": 0
+      },
+      {
+        "bin_start": 74797,
+        "bin_end": 86594,
+        "count": 0
+      },
+      {
+        "bin_start": 86594,
+        "bin_end": 98392,
+        "count": 0
+      },
+      {
+        "bin_start": 98392,
+        "bin_end": 110189,
+        "count": 0
+      },
+      {
+        "bin_start": 110189,
+        "bin_end": 121986,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|20": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 20,
+    "count": 988,
+    "mean_npv": -13310,
+    "median_npv": -64687,
+    "p10_npv": -64687,
+    "p25_npv": -64687,
+    "p75_npv": 22401,
+    "p90_npv": 68157,
+    "std_npv": 69041,
+    "pct_net_contributor": 0.3826,
+    "histogram": [
+      {
+        "bin_start": -64687,
+        "bin_end": -38947,
+        "count": 508
+      },
+      {
+        "bin_start": -38947,
+        "bin_end": -13207,
+        "count": 45
+      },
+      {
+        "bin_start": -13207,
+        "bin_end": 12533,
+        "count": 132
+      },
+      {
+        "bin_start": 12533,
+        "bin_end": 38273,
+        "count": 127
+      },
+      {
+        "bin_start": 38273,
+        "bin_end": 64013,
+        "count": 67
+      },
+      {
+        "bin_start": 64013,
+        "bin_end": 89753,
+        "count": 39
+      },
+      {
+        "bin_start": 89753,
+        "bin_end": 115493,
+        "count": 25
+      },
+      {
+        "bin_start": 115493,
+        "bin_end": 141233,
+        "count": 16
+      },
+      {
+        "bin_start": 141233,
+        "bin_end": 166973,
+        "count": 11
+      },
+      {
+        "bin_start": 166973,
+        "bin_end": 192713,
+        "count": 5
+      },
+      {
+        "bin_start": 192713,
+        "bin_end": 218453,
+        "count": 2
+      },
+      {
+        "bin_start": 218453,
+        "bin_end": 244193,
+        "count": 4
+      },
+      {
+        "bin_start": 244193,
+        "bin_end": 269933,
+        "count": 0
+      },
+      {
+        "bin_start": 269933,
+        "bin_end": 295673,
+        "count": 3
+      },
+      {
+        "bin_start": 295673,
+        "bin_end": 321413,
+        "count": 0
+      },
+      {
+        "bin_start": 321413,
+        "bin_end": 347153,
+        "count": 0
+      },
+      {
+        "bin_start": 347153,
+        "bin_end": 372893,
+        "count": 0
+      },
+      {
+        "bin_start": 372893,
+        "bin_end": 398633,
+        "count": 0
+      },
+      {
+        "bin_start": 398633,
+        "bin_end": 424373,
+        "count": 3
+      },
+      {
+        "bin_start": 424373,
+        "bin_end": 450113,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|30": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 30,
+    "count": 1206,
+    "mean_npv": 11632,
+    "median_npv": -42921,
+    "p10_npv": -77088,
+    "p25_npv": -77088,
+    "p75_npv": 61868,
+    "p90_npv": 166264,
+    "std_npv": 130829,
+    "pct_net_contributor": 0.4071,
+    "histogram": [
+      {
+        "bin_start": -77088,
+        "bin_end": -2125,
+        "count": 704
+      },
+      {
+        "bin_start": -2125,
+        "bin_end": 72838,
+        "count": 225
+      },
+      {
+        "bin_start": 72838,
+        "bin_end": 147800,
+        "count": 126
+      },
+      {
+        "bin_start": 147800,
+        "bin_end": 222763,
+        "count": 71
+      },
+      {
+        "bin_start": 222763,
+        "bin_end": 297726,
+        "count": 37
+      },
+      {
+        "bin_start": 297726,
+        "bin_end": 372689,
+        "count": 18
+      },
+      {
+        "bin_start": 372689,
+        "bin_end": 447652,
+        "count": 10
+      },
+      {
+        "bin_start": 447652,
+        "bin_end": 522614,
+        "count": 8
+      },
+      {
+        "bin_start": 522614,
+        "bin_end": 597577,
+        "count": 2
+      },
+      {
+        "bin_start": 597577,
+        "bin_end": 672540,
+        "count": 2
+      },
+      {
+        "bin_start": 672540,
+        "bin_end": 747503,
+        "count": 1
+      },
+      {
+        "bin_start": 747503,
+        "bin_end": 822466,
+        "count": 0
+      },
+      {
+        "bin_start": 822466,
+        "bin_end": 897428,
+        "count": 0
+      },
+      {
+        "bin_start": 897428,
+        "bin_end": 972391,
+        "count": 0
+      },
+      {
+        "bin_start": 972391,
+        "bin_end": 1047354,
+        "count": 1
+      },
+      {
+        "bin_start": 1047354,
+        "bin_end": 1122317,
+        "count": 0
+      },
+      {
+        "bin_start": 1122317,
+        "bin_end": 1197280,
+        "count": 0
+      },
+      {
+        "bin_start": 1197280,
+        "bin_end": 1272242,
+        "count": 0
+      },
+      {
+        "bin_start": 1272242,
+        "bin_end": 1347205,
+        "count": 0
+      },
+      {
+        "bin_start": 1347205,
+        "bin_end": 1422168,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|40": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 40,
+    "count": 1464,
+    "mean_npv": 9953,
+    "median_npv": -60612,
+    "p10_npv": -86539,
+    "p25_npv": -86539,
+    "p75_npv": 60349,
+    "p90_npv": 194882,
+    "std_npv": 148320,
+    "pct_net_contributor": 0.3709,
+    "histogram": [
+      {
+        "bin_start": -86539,
+        "bin_end": -8008,
+        "count": 887
+      },
+      {
+        "bin_start": -8008,
+        "bin_end": 70522,
+        "count": 236
+      },
+      {
+        "bin_start": 70522,
+        "bin_end": 149052,
+        "count": 129
+      },
+      {
+        "bin_start": 149052,
+        "bin_end": 227583,
+        "count": 102
+      },
+      {
+        "bin_start": 227583,
+        "bin_end": 306114,
+        "count": 49
+      },
+      {
+        "bin_start": 306114,
+        "bin_end": 384644,
+        "count": 26
+      },
+      {
+        "bin_start": 384644,
+        "bin_end": 463174,
+        "count": 12
+      },
+      {
+        "bin_start": 463174,
+        "bin_end": 541705,
+        "count": 8
+      },
+      {
+        "bin_start": 541705,
+        "bin_end": 620236,
+        "count": 4
+      },
+      {
+        "bin_start": 620236,
+        "bin_end": 698766,
+        "count": 3
+      },
+      {
+        "bin_start": 698766,
+        "bin_end": 777296,
+        "count": 3
+      },
+      {
+        "bin_start": 777296,
+        "bin_end": 855827,
+        "count": 1
+      },
+      {
+        "bin_start": 855827,
+        "bin_end": 934358,
+        "count": 1
+      },
+      {
+        "bin_start": 934358,
+        "bin_end": 1012888,
+        "count": 0
+      },
+      {
+        "bin_start": 1012888,
+        "bin_end": 1091418,
+        "count": 1
+      },
+      {
+        "bin_start": 1091418,
+        "bin_end": 1169949,
+        "count": 1
+      },
+      {
+        "bin_start": 1169949,
+        "bin_end": 1248480,
+        "count": 0
+      },
+      {
+        "bin_start": 1248480,
+        "bin_end": 1327010,
+        "count": 0
+      },
+      {
+        "bin_start": 1327010,
+        "bin_end": 1405540,
+        "count": 0
+      },
+      {
+        "bin_start": 1405540,
+        "bin_end": 1484071,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|50": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 50,
+    "count": 2642,
+    "mean_npv": -34200,
+    "median_npv": -105576,
+    "p10_npv": -105576,
+    "p25_npv": -105576,
+    "p75_npv": 2714,
+    "p90_npv": 113050,
+    "std_npv": 105690,
+    "pct_net_contributor": 0.2562,
+    "histogram": [
+      {
+        "bin_start": -105576,
+        "bin_end": -51997,
+        "count": 1522
+      },
+      {
+        "bin_start": -51997,
+        "bin_end": 1582,
+        "count": 453
+      },
+      {
+        "bin_start": 1582,
+        "bin_end": 55161,
+        "count": 237
+      },
+      {
+        "bin_start": 55161,
+        "bin_end": 108740,
+        "count": 154
+      },
+      {
+        "bin_start": 108740,
+        "bin_end": 162319,
+        "count": 121
+      },
+      {
+        "bin_start": 162319,
+        "bin_end": 215898,
+        "count": 69
+      },
+      {
+        "bin_start": 215898,
+        "bin_end": 269477,
+        "count": 40
+      },
+      {
+        "bin_start": 269477,
+        "bin_end": 323056,
+        "count": 20
+      },
+      {
+        "bin_start": 323056,
+        "bin_end": 376635,
+        "count": 7
+      },
+      {
+        "bin_start": 376635,
+        "bin_end": 430214,
+        "count": 7
+      },
+      {
+        "bin_start": 430214,
+        "bin_end": 483792,
+        "count": 2
+      },
+      {
+        "bin_start": 483792,
+        "bin_end": 537371,
+        "count": 4
+      },
+      {
+        "bin_start": 537371,
+        "bin_end": 590950,
+        "count": 2
+      },
+      {
+        "bin_start": 590950,
+        "bin_end": 644529,
+        "count": 1
+      },
+      {
+        "bin_start": 644529,
+        "bin_end": 698108,
+        "count": 0
+      },
+      {
+        "bin_start": 698108,
+        "bin_end": 751687,
+        "count": 1
+      },
+      {
+        "bin_start": 751687,
+        "bin_end": 805266,
+        "count": 1
+      },
+      {
+        "bin_start": 805266,
+        "bin_end": 858845,
+        "count": 0
+      },
+      {
+        "bin_start": 858845,
+        "bin_end": 912424,
+        "count": 0
+      },
+      {
+        "bin_start": 912424,
+        "bin_end": 966003,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|60": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 60,
+    "count": 2540,
+    "mean_npv": -128992,
+    "median_npv": -180109,
+    "p10_npv": -180109,
+    "p25_npv": -180109,
+    "p75_npv": -121093,
+    "p90_npv": -30464,
+    "std_npv": 103120,
+    "pct_net_contributor": 0.0728,
+    "histogram": [
+      {
+        "bin_start": -180109,
+        "bin_end": -110991,
+        "count": 1983
+      },
+      {
+        "bin_start": -110991,
+        "bin_end": -41873,
+        "count": 267
+      },
+      {
+        "bin_start": -41873,
+        "bin_end": 27245,
+        "count": 140
+      },
+      {
+        "bin_start": 27245,
+        "bin_end": 96363,
+        "count": 48
+      },
+      {
+        "bin_start": 96363,
+        "bin_end": 165480,
+        "count": 42
+      },
+      {
+        "bin_start": 165480,
+        "bin_end": 234598,
+        "count": 23
+      },
+      {
+        "bin_start": 234598,
+        "bin_end": 303716,
+        "count": 12
+      },
+      {
+        "bin_start": 303716,
+        "bin_end": 372834,
+        "count": 6
+      },
+      {
+        "bin_start": 372834,
+        "bin_end": 441952,
+        "count": 3
+      },
+      {
+        "bin_start": 441952,
+        "bin_end": 511070,
+        "count": 3
+      },
+      {
+        "bin_start": 511070,
+        "bin_end": 580188,
+        "count": 6
+      },
+      {
+        "bin_start": 580188,
+        "bin_end": 649306,
+        "count": 3
+      },
+      {
+        "bin_start": 649306,
+        "bin_end": 718424,
+        "count": 1
+      },
+      {
+        "bin_start": 718424,
+        "bin_end": 787542,
+        "count": 1
+      },
+      {
+        "bin_start": 787542,
+        "bin_end": 856659,
+        "count": 1
+      },
+      {
+        "bin_start": 856659,
+        "bin_end": 925777,
+        "count": 0
+      },
+      {
+        "bin_start": 925777,
+        "bin_end": 994895,
+        "count": 0
+      },
+      {
+        "bin_start": 994895,
+        "bin_end": 1064013,
+        "count": 0
+      },
+      {
+        "bin_start": 1064013,
+        "bin_end": 1133131,
+        "count": 0
+      },
+      {
+        "bin_start": 1133131,
+        "bin_end": 1202249,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|70": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 70,
+    "count": 1763,
+    "mean_npv": -157581,
+    "median_npv": -168432,
+    "p10_npv": -168432,
+    "p25_npv": -168432,
+    "p75_npv": -168432,
+    "p90_npv": -168432,
+    "std_npv": 320177,
+    "pct_net_contributor": 0.0074,
+    "histogram": [
+      {
+        "bin_start": -168432,
+        "bin_end": 500106,
+        "count": 1760
+      },
+      {
+        "bin_start": 500106,
+        "bin_end": 1168645,
+        "count": 2
+      },
+      {
+        "bin_start": 1168645,
+        "bin_end": 1837183,
+        "count": 0
+      },
+      {
+        "bin_start": 1837183,
+        "bin_end": 2505722,
+        "count": 0
+      },
+      {
+        "bin_start": 2505722,
+        "bin_end": 3174260,
+        "count": 0
+      },
+      {
+        "bin_start": 3174260,
+        "bin_end": 3842799,
+        "count": 0
+      },
+      {
+        "bin_start": 3842799,
+        "bin_end": 4511337,
+        "count": 0
+      },
+      {
+        "bin_start": 4511337,
+        "bin_end": 5179876,
+        "count": 0
+      },
+      {
+        "bin_start": 5179876,
+        "bin_end": 5848414,
+        "count": 0
+      },
+      {
+        "bin_start": 5848414,
+        "bin_end": 6516952,
+        "count": 0
+      },
+      {
+        "bin_start": 6516952,
+        "bin_end": 7185491,
+        "count": 0
+      },
+      {
+        "bin_start": 7185491,
+        "bin_end": 7854029,
+        "count": 0
+      },
+      {
+        "bin_start": 7854029,
+        "bin_end": 8522568,
+        "count": 0
+      },
+      {
+        "bin_start": 8522568,
+        "bin_end": 9191106,
+        "count": 0
+      },
+      {
+        "bin_start": 9191106,
+        "bin_end": 9859645,
+        "count": 0
+      },
+      {
+        "bin_start": 9859645,
+        "bin_end": 10528183,
+        "count": 0
+      },
+      {
+        "bin_start": 10528183,
+        "bin_end": 11196722,
+        "count": 0
+      },
+      {
+        "bin_start": 11196722,
+        "bin_end": 11865260,
+        "count": 0
+      },
+      {
+        "bin_start": 11865260,
+        "bin_end": 12533799,
+        "count": 0
+      },
+      {
+        "bin_start": 12533799,
+        "bin_end": 13202337,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|80": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 80,
+    "count": 1086,
+    "mean_npv": -92950,
+    "median_npv": -96492,
+    "p10_npv": -96492,
+    "p25_npv": -96492,
+    "p75_npv": -96492,
+    "p90_npv": -96402,
+    "std_npv": 42430,
+    "pct_net_contributor": 0.0092,
+    "histogram": [
+      {
+        "bin_start": -96492,
+        "bin_end": -39959,
+        "count": 1074
+      },
+      {
+        "bin_start": -39959,
+        "bin_end": 16574,
+        "count": 3
+      },
+      {
+        "bin_start": 16574,
+        "bin_end": 73108,
+        "count": 3
+      },
+      {
+        "bin_start": 73108,
+        "bin_end": 129641,
+        "count": 2
+      },
+      {
+        "bin_start": 129641,
+        "bin_end": 186174,
+        "count": 0
+      },
+      {
+        "bin_start": 186174,
+        "bin_end": 242708,
+        "count": 1
+      },
+      {
+        "bin_start": 242708,
+        "bin_end": 299241,
+        "count": 1
+      },
+      {
+        "bin_start": 299241,
+        "bin_end": 355774,
+        "count": 0
+      },
+      {
+        "bin_start": 355774,
+        "bin_end": 412307,
+        "count": 0
+      },
+      {
+        "bin_start": 412307,
+        "bin_end": 468840,
+        "count": 1
+      },
+      {
+        "bin_start": 468840,
+        "bin_end": 525374,
+        "count": 0
+      },
+      {
+        "bin_start": 525374,
+        "bin_end": 581907,
+        "count": 0
+      },
+      {
+        "bin_start": 581907,
+        "bin_end": 638440,
+        "count": 0
+      },
+      {
+        "bin_start": 638440,
+        "bin_end": 694974,
+        "count": 0
+      },
+      {
+        "bin_start": 694974,
+        "bin_end": 751507,
+        "count": 0
+      },
+      {
+        "bin_start": 751507,
+        "bin_end": 808040,
+        "count": 0
+      },
+      {
+        "bin_start": 808040,
+        "bin_end": 864573,
+        "count": 0
+      },
+      {
+        "bin_start": 864573,
+        "bin_end": 921106,
+        "count": 0
+      },
+      {
+        "bin_start": 921106,
+        "bin_end": 977640,
+        "count": 0
+      },
+      {
+        "bin_start": 977640,
+        "bin_end": 1034173,
+        "count": 1
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|90": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 90,
+    "count": 323,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 323
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Unknown (Presumed resident)|100": {
+    "visa_category": "Unknown (Presumed resident)",
+    "arrival_age": 100,
+    "count": 17,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 17
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Student|0": {
+    "visa_category": "Student",
+    "arrival_age": 0,
+    "count": 778,
+    "mean_npv": -204169,
+    "median_npv": -212313,
+    "p10_npv": -212313,
+    "p25_npv": -212313,
+    "p75_npv": -212313,
+    "p90_npv": -139485,
+    "std_npv": 22952,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -212313,
+        "bin_end": -208672,
+        "count": 691
+      },
+      {
+        "bin_start": -208672,
+        "bin_end": -205030,
+        "count": 0
+      },
+      {
+        "bin_start": -205030,
+        "bin_end": -201389,
+        "count": 0
+      },
+      {
+        "bin_start": -201389,
+        "bin_end": -197747,
+        "count": 0
+      },
+      {
+        "bin_start": -197747,
+        "bin_end": -194106,
+        "count": 0
+      },
+      {
+        "bin_start": -194106,
+        "bin_end": -190465,
+        "count": 0
+      },
+      {
+        "bin_start": -190465,
+        "bin_end": -186823,
+        "count": 0
+      },
+      {
+        "bin_start": -186823,
+        "bin_end": -183182,
+        "count": 0
+      },
+      {
+        "bin_start": -183182,
+        "bin_end": -179540,
+        "count": 0
+      },
+      {
+        "bin_start": -179540,
+        "bin_end": -175899,
+        "count": 0
+      },
+      {
+        "bin_start": -175899,
+        "bin_end": -172258,
+        "count": 0
+      },
+      {
+        "bin_start": -172258,
+        "bin_end": -168616,
+        "count": 0
+      },
+      {
+        "bin_start": -168616,
+        "bin_end": -164975,
+        "count": 0
+      },
+      {
+        "bin_start": -164975,
+        "bin_end": -161333,
+        "count": 0
+      },
+      {
+        "bin_start": -161333,
+        "bin_end": -157692,
+        "count": 0
+      },
+      {
+        "bin_start": -157692,
+        "bin_end": -154051,
+        "count": 0
+      },
+      {
+        "bin_start": -154051,
+        "bin_end": -150409,
+        "count": 0
+      },
+      {
+        "bin_start": -150409,
+        "bin_end": -146768,
+        "count": 0
+      },
+      {
+        "bin_start": -146768,
+        "bin_end": -143126,
+        "count": 0
+      },
+      {
+        "bin_start": -143126,
+        "bin_end": -139485,
+        "count": 87
+      }
+    ]
+  },
+  "Student|10": {
+    "visa_category": "Student",
+    "arrival_age": 10,
+    "count": 1956,
+    "mean_npv": -101202,
+    "median_npv": -90554,
+    "p10_npv": -119091,
+    "p25_npv": -119091,
+    "p75_npv": -90554,
+    "p90_npv": -88304,
+    "std_npv": 13958,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -119091,
+        "bin_end": -116550,
+        "count": 600
+      },
+      {
+        "bin_start": -116550,
+        "bin_end": -114008,
+        "count": 112
+      },
+      {
+        "bin_start": -114008,
+        "bin_end": -111467,
+        "count": 62
+      },
+      {
+        "bin_start": -111467,
+        "bin_end": -108925,
+        "count": 27
+      },
+      {
+        "bin_start": -108925,
+        "bin_end": -106384,
+        "count": 11
+      },
+      {
+        "bin_start": -106384,
+        "bin_end": -103843,
+        "count": 8
+      },
+      {
+        "bin_start": -103843,
+        "bin_end": -101301,
+        "count": 2
+      },
+      {
+        "bin_start": -101301,
+        "bin_end": -98760,
+        "count": 2
+      },
+      {
+        "bin_start": -98760,
+        "bin_end": -96218,
+        "count": 2
+      },
+      {
+        "bin_start": -96218,
+        "bin_end": -93677,
+        "count": 1
+      },
+      {
+        "bin_start": -93677,
+        "bin_end": -91136,
+        "count": 2
+      },
+      {
+        "bin_start": -91136,
+        "bin_end": -88594,
+        "count": 901
+      },
+      {
+        "bin_start": -88594,
+        "bin_end": -86053,
+        "count": 163
+      },
+      {
+        "bin_start": -86053,
+        "bin_end": -83511,
+        "count": 45
+      },
+      {
+        "bin_start": -83511,
+        "bin_end": -80970,
+        "count": 7
+      },
+      {
+        "bin_start": -80970,
+        "bin_end": -78429,
+        "count": 4
+      },
+      {
+        "bin_start": -78429,
+        "bin_end": -75887,
+        "count": 2
+      },
+      {
+        "bin_start": -75887,
+        "bin_end": -73346,
+        "count": 2
+      },
+      {
+        "bin_start": -73346,
+        "bin_end": -70804,
+        "count": 0
+      },
+      {
+        "bin_start": -70804,
+        "bin_end": -68263,
+        "count": 3
+      }
+    ]
+  },
+  "Student|20": {
+    "visa_category": "Student",
+    "arrival_age": 20,
+    "count": 2352,
+    "mean_npv": -8550,
+    "median_npv": -17404,
+    "p10_npv": -17404,
+    "p25_npv": -17404,
+    "p75_npv": -3853,
+    "p90_npv": 7666,
+    "std_npv": 13432,
+    "pct_net_contributor": 0.1888,
+    "histogram": [
+      {
+        "bin_start": -31759,
+        "bin_end": -21279,
+        "count": 9
+      },
+      {
+        "bin_start": -21279,
+        "bin_end": -10800,
+        "count": 1272
+      },
+      {
+        "bin_start": -10800,
+        "bin_end": -320,
+        "count": 614
+      },
+      {
+        "bin_start": -320,
+        "bin_end": 10160,
+        "count": 275
+      },
+      {
+        "bin_start": 10160,
+        "bin_end": 20640,
+        "count": 106
+      },
+      {
+        "bin_start": 20640,
+        "bin_end": 31120,
+        "count": 42
+      },
+      {
+        "bin_start": 31120,
+        "bin_end": 41599,
+        "count": 18
+      },
+      {
+        "bin_start": 41599,
+        "bin_end": 52079,
+        "count": 4
+      },
+      {
+        "bin_start": 52079,
+        "bin_end": 62559,
+        "count": 4
+      },
+      {
+        "bin_start": 62559,
+        "bin_end": 73038,
+        "count": 2
+      },
+      {
+        "bin_start": 73038,
+        "bin_end": 83518,
+        "count": 1
+      },
+      {
+        "bin_start": 83518,
+        "bin_end": 93998,
+        "count": 2
+      },
+      {
+        "bin_start": 93998,
+        "bin_end": 104478,
+        "count": 0
+      },
+      {
+        "bin_start": 104478,
+        "bin_end": 114958,
+        "count": 1
+      },
+      {
+        "bin_start": 114958,
+        "bin_end": 125437,
+        "count": 1
+      },
+      {
+        "bin_start": 125437,
+        "bin_end": 135917,
+        "count": 0
+      },
+      {
+        "bin_start": 135917,
+        "bin_end": 146397,
+        "count": 0
+      },
+      {
+        "bin_start": 146397,
+        "bin_end": 156876,
+        "count": 0
+      },
+      {
+        "bin_start": 156876,
+        "bin_end": 167356,
+        "count": 0
+      },
+      {
+        "bin_start": 167356,
+        "bin_end": 177836,
+        "count": 1
+      }
+    ]
+  },
+  "Student|30": {
+    "visa_category": "Student",
+    "arrival_age": 30,
+    "count": 560,
+    "mean_npv": -1347,
+    "median_npv": -13017,
+    "p10_npv": -13017,
+    "p25_npv": -13017,
+    "p75_npv": 4313,
+    "p90_npv": 20950,
+    "std_npv": 19201,
+    "pct_net_contributor": 0.3018,
+    "histogram": [
+      {
+        "bin_start": -13017,
+        "bin_end": -6945,
+        "count": 310
+      },
+      {
+        "bin_start": -6945,
+        "bin_end": -874,
+        "count": 76
+      },
+      {
+        "bin_start": -874,
+        "bin_end": 5198,
+        "count": 42
+      },
+      {
+        "bin_start": 5198,
+        "bin_end": 11270,
+        "count": 26
+      },
+      {
+        "bin_start": 11270,
+        "bin_end": 17342,
+        "count": 36
+      },
+      {
+        "bin_start": 17342,
+        "bin_end": 23414,
+        "count": 20
+      },
+      {
+        "bin_start": 23414,
+        "bin_end": 29485,
+        "count": 11
+      },
+      {
+        "bin_start": 29485,
+        "bin_end": 35557,
+        "count": 12
+      },
+      {
+        "bin_start": 35557,
+        "bin_end": 41629,
+        "count": 7
+      },
+      {
+        "bin_start": 41629,
+        "bin_end": 47700,
+        "count": 5
+      },
+      {
+        "bin_start": 47700,
+        "bin_end": 53772,
+        "count": 3
+      },
+      {
+        "bin_start": 53772,
+        "bin_end": 59844,
+        "count": 1
+      },
+      {
+        "bin_start": 59844,
+        "bin_end": 65916,
+        "count": 3
+      },
+      {
+        "bin_start": 65916,
+        "bin_end": 71988,
+        "count": 0
+      },
+      {
+        "bin_start": 71988,
+        "bin_end": 78059,
+        "count": 1
+      },
+      {
+        "bin_start": 78059,
+        "bin_end": 84131,
+        "count": 1
+      },
+      {
+        "bin_start": 84131,
+        "bin_end": 90203,
+        "count": 0
+      },
+      {
+        "bin_start": 90203,
+        "bin_end": 96274,
+        "count": 1
+      },
+      {
+        "bin_start": 96274,
+        "bin_end": 102346,
+        "count": 3
+      },
+      {
+        "bin_start": 102346,
+        "bin_end": 108418,
+        "count": 2
+      }
+    ]
+  },
+  "Student|40": {
+    "visa_category": "Student",
+    "arrival_age": 40,
+    "count": 126,
+    "mean_npv": -2921,
+    "median_npv": -11214,
+    "p10_npv": -13211,
+    "p25_npv": -13211,
+    "p75_npv": -70,
+    "p90_npv": 9234,
+    "std_npv": 24407,
+    "pct_net_contributor": 0.254,
+    "histogram": [
+      {
+        "bin_start": -13211,
+        "bin_end": -1811,
+        "count": 93
+      },
+      {
+        "bin_start": -1811,
+        "bin_end": 9588,
+        "count": 21
+      },
+      {
+        "bin_start": 9588,
+        "bin_end": 20988,
+        "count": 5
+      },
+      {
+        "bin_start": 20988,
+        "bin_end": 32388,
+        "count": 3
+      },
+      {
+        "bin_start": 32388,
+        "bin_end": 43788,
+        "count": 2
+      },
+      {
+        "bin_start": 43788,
+        "bin_end": 55187,
+        "count": 0
+      },
+      {
+        "bin_start": 55187,
+        "bin_end": 66587,
+        "count": 0
+      },
+      {
+        "bin_start": 66587,
+        "bin_end": 77987,
+        "count": 0
+      },
+      {
+        "bin_start": 77987,
+        "bin_end": 89386,
+        "count": 0
+      },
+      {
+        "bin_start": 89386,
+        "bin_end": 100786,
+        "count": 0
+      },
+      {
+        "bin_start": 100786,
+        "bin_end": 112186,
+        "count": 1
+      },
+      {
+        "bin_start": 112186,
+        "bin_end": 123585,
+        "count": 0
+      },
+      {
+        "bin_start": 123585,
+        "bin_end": 134985,
+        "count": 0
+      },
+      {
+        "bin_start": 134985,
+        "bin_end": 146385,
+        "count": 0
+      },
+      {
+        "bin_start": 146385,
+        "bin_end": 157784,
+        "count": 0
+      },
+      {
+        "bin_start": 157784,
+        "bin_end": 169184,
+        "count": 0
+      },
+      {
+        "bin_start": 169184,
+        "bin_end": 180584,
+        "count": 0
+      },
+      {
+        "bin_start": 180584,
+        "bin_end": 191984,
+        "count": 0
+      },
+      {
+        "bin_start": 191984,
+        "bin_end": 203383,
+        "count": 0
+      },
+      {
+        "bin_start": 203383,
+        "bin_end": 214783,
+        "count": 1
+      }
+    ]
+  },
+  "Student|50": {
+    "visa_category": "Student",
+    "arrival_age": 50,
+    "count": 25,
+    "mean_npv": -20864,
+    "median_npv": -21178,
+    "p10_npv": -21178,
+    "p25_npv": -21178,
+    "p75_npv": -21178,
+    "p90_npv": -20405,
+    "std_npv": 913,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -21178,
+        "bin_end": -21002,
+        "count": 22
+      },
+      {
+        "bin_start": -21002,
+        "bin_end": -20826,
+        "count": 0
+      },
+      {
+        "bin_start": -20826,
+        "bin_end": -20651,
+        "count": 0
+      },
+      {
+        "bin_start": -20651,
+        "bin_end": -20475,
+        "count": 0
+      },
+      {
+        "bin_start": -20475,
+        "bin_end": -20299,
+        "count": 0
+      },
+      {
+        "bin_start": -20299,
+        "bin_end": -20123,
+        "count": 0
+      },
+      {
+        "bin_start": -20123,
+        "bin_end": -19947,
+        "count": 0
+      },
+      {
+        "bin_start": -19947,
+        "bin_end": -19772,
+        "count": 1
+      },
+      {
+        "bin_start": -19772,
+        "bin_end": -19596,
+        "count": 0
+      },
+      {
+        "bin_start": -19596,
+        "bin_end": -19420,
+        "count": 0
+      },
+      {
+        "bin_start": -19420,
+        "bin_end": -19244,
+        "count": 0
+      },
+      {
+        "bin_start": -19244,
+        "bin_end": -19068,
+        "count": 0
+      },
+      {
+        "bin_start": -19068,
+        "bin_end": -18893,
+        "count": 0
+      },
+      {
+        "bin_start": -18893,
+        "bin_end": -18717,
+        "count": 0
+      },
+      {
+        "bin_start": -18717,
+        "bin_end": -18541,
+        "count": 0
+      },
+      {
+        "bin_start": -18541,
+        "bin_end": -18365,
+        "count": 0
+      },
+      {
+        "bin_start": -18365,
+        "bin_end": -18189,
+        "count": 0
+      },
+      {
+        "bin_start": -18189,
+        "bin_end": -18014,
+        "count": 1
+      },
+      {
+        "bin_start": -18014,
+        "bin_end": -17838,
+        "count": 0
+      },
+      {
+        "bin_start": -17838,
+        "bin_end": -17662,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|0": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 0,
+    "count": 1503,
+    "mean_npv": -170349,
+    "median_npv": -170349,
+    "p10_npv": -170349,
+    "p25_npv": -170349,
+    "p75_npv": -170349,
+    "p90_npv": -170349,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -170350,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 1503
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170349,
+        "count": 0
+      },
+      {
+        "bin_start": -170349,
+        "bin_end": -170348,
+        "count": 0
+      }
+    ]
+  },
+  "Non-birth Citizen|10": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 10,
+    "count": 2387,
+    "mean_npv": -80749,
+    "median_npv": -82650,
+    "p10_npv": -82650,
+    "p25_npv": -82650,
+    "p75_npv": -82650,
+    "p90_npv": -82650,
+    "std_npv": 49057,
+    "pct_net_contributor": 0.0021,
+    "histogram": [
+      {
+        "bin_start": -82650,
+        "bin_end": 24538,
+        "count": 2384
+      },
+      {
+        "bin_start": 24538,
+        "bin_end": 131726,
+        "count": 0
+      },
+      {
+        "bin_start": 131726,
+        "bin_end": 238914,
+        "count": 0
+      },
+      {
+        "bin_start": 238914,
+        "bin_end": 346102,
+        "count": 0
+      },
+      {
+        "bin_start": 346102,
+        "bin_end": 453290,
+        "count": 1
+      },
+      {
+        "bin_start": 453290,
+        "bin_end": 560478,
+        "count": 0
+      },
+      {
+        "bin_start": 560478,
+        "bin_end": 667666,
+        "count": 0
+      },
+      {
+        "bin_start": 667666,
+        "bin_end": 774854,
+        "count": 0
+      },
+      {
+        "bin_start": 774854,
+        "bin_end": 882042,
+        "count": 1
+      },
+      {
+        "bin_start": 882042,
+        "bin_end": 989230,
+        "count": 0
+      },
+      {
+        "bin_start": 989230,
+        "bin_end": 1096419,
+        "count": 0
+      },
+      {
+        "bin_start": 1096419,
+        "bin_end": 1203607,
+        "count": 0
+      },
+      {
+        "bin_start": 1203607,
+        "bin_end": 1310795,
+        "count": 0
+      },
+      {
+        "bin_start": 1310795,
+        "bin_end": 1417983,
+        "count": 0
+      },
+      {
+        "bin_start": 1417983,
+        "bin_end": 1525171,
+        "count": 0
+      },
+      {
+        "bin_start": 1525171,
+        "bin_end": 1632359,
+        "count": 0
+      },
+      {
+        "bin_start": 1632359,
+        "bin_end": 1739547,
+        "count": 0
+      },
+      {
+        "bin_start": 1739547,
+        "bin_end": 1846735,
+        "count": 0
+      },
+      {
+        "bin_start": 1846735,
+        "bin_end": 1953923,
+        "count": 0
+      },
+      {
+        "bin_start": 1953923,
+        "bin_end": 2061111,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|20": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 20,
+    "count": 2312,
+    "mean_npv": 44541,
+    "median_npv": 28058,
+    "p10_npv": -40712,
+    "p25_npv": -40712,
+    "p75_npv": 75196,
+    "p90_npv": 159197,
+    "std_npv": 88661,
+    "pct_net_contributor": 0.6791,
+    "histogram": [
+      {
+        "bin_start": -40712,
+        "bin_end": 649,
+        "count": 744
+      },
+      {
+        "bin_start": 649,
+        "bin_end": 42011,
+        "count": 638
+      },
+      {
+        "bin_start": 42011,
+        "bin_end": 83372,
+        "count": 406
+      },
+      {
+        "bin_start": 83372,
+        "bin_end": 124734,
+        "count": 183
+      },
+      {
+        "bin_start": 124734,
+        "bin_end": 166095,
+        "count": 129
+      },
+      {
+        "bin_start": 166095,
+        "bin_end": 207456,
+        "count": 79
+      },
+      {
+        "bin_start": 207456,
+        "bin_end": 248818,
+        "count": 52
+      },
+      {
+        "bin_start": 248818,
+        "bin_end": 290179,
+        "count": 32
+      },
+      {
+        "bin_start": 290179,
+        "bin_end": 331541,
+        "count": 14
+      },
+      {
+        "bin_start": 331541,
+        "bin_end": 372902,
+        "count": 18
+      },
+      {
+        "bin_start": 372902,
+        "bin_end": 414263,
+        "count": 4
+      },
+      {
+        "bin_start": 414263,
+        "bin_end": 455625,
+        "count": 3
+      },
+      {
+        "bin_start": 455625,
+        "bin_end": 496986,
+        "count": 5
+      },
+      {
+        "bin_start": 496986,
+        "bin_end": 538348,
+        "count": 1
+      },
+      {
+        "bin_start": 538348,
+        "bin_end": 579709,
+        "count": 0
+      },
+      {
+        "bin_start": 579709,
+        "bin_end": 621070,
+        "count": 3
+      },
+      {
+        "bin_start": 621070,
+        "bin_end": 662432,
+        "count": 0
+      },
+      {
+        "bin_start": 662432,
+        "bin_end": 703793,
+        "count": 0
+      },
+      {
+        "bin_start": 703793,
+        "bin_end": 745155,
+        "count": 0
+      },
+      {
+        "bin_start": 745155,
+        "bin_end": 786516,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|30": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 30,
+    "count": 2486,
+    "mean_npv": 94066,
+    "median_npv": 44133,
+    "p10_npv": -71108,
+    "p25_npv": -50483,
+    "p75_npv": 162356,
+    "p90_npv": 327197,
+    "std_npv": 189284,
+    "pct_net_contributor": 0.6529,
+    "histogram": [
+      {
+        "bin_start": -71108,
+        "bin_end": 44144,
+        "count": 1243
+      },
+      {
+        "bin_start": 44144,
+        "bin_end": 159396,
+        "count": 612
+      },
+      {
+        "bin_start": 159396,
+        "bin_end": 274648,
+        "count": 297
+      },
+      {
+        "bin_start": 274648,
+        "bin_end": 389900,
+        "count": 173
+      },
+      {
+        "bin_start": 389900,
+        "bin_end": 505152,
+        "count": 78
+      },
+      {
+        "bin_start": 505152,
+        "bin_end": 620405,
+        "count": 40
+      },
+      {
+        "bin_start": 620405,
+        "bin_end": 735657,
+        "count": 18
+      },
+      {
+        "bin_start": 735657,
+        "bin_end": 850909,
+        "count": 9
+      },
+      {
+        "bin_start": 850909,
+        "bin_end": 966161,
+        "count": 4
+      },
+      {
+        "bin_start": 966161,
+        "bin_end": 1081413,
+        "count": 3
+      },
+      {
+        "bin_start": 1081413,
+        "bin_end": 1196665,
+        "count": 1
+      },
+      {
+        "bin_start": 1196665,
+        "bin_end": 1311917,
+        "count": 2
+      },
+      {
+        "bin_start": 1311917,
+        "bin_end": 1427169,
+        "count": 0
+      },
+      {
+        "bin_start": 1427169,
+        "bin_end": 1542421,
+        "count": 4
+      },
+      {
+        "bin_start": 1542421,
+        "bin_end": 1657674,
+        "count": 0
+      },
+      {
+        "bin_start": 1657674,
+        "bin_end": 1772926,
+        "count": 0
+      },
+      {
+        "bin_start": 1772926,
+        "bin_end": 1888178,
+        "count": 1
+      },
+      {
+        "bin_start": 1888178,
+        "bin_end": 2003430,
+        "count": 0
+      },
+      {
+        "bin_start": 2003430,
+        "bin_end": 2118682,
+        "count": 0
+      },
+      {
+        "bin_start": 2118682,
+        "bin_end": 2233934,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|40": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 40,
+    "count": 2877,
+    "mean_npv": 90922,
+    "median_npv": 23607,
+    "p10_npv": -99405,
+    "p25_npv": -67387,
+    "p75_npv": 175721,
+    "p90_npv": 366974,
+    "std_npv": 219340,
+    "pct_net_contributor": 0.5568,
+    "histogram": [
+      {
+        "bin_start": -99405,
+        "bin_end": 9755,
+        "count": 1337
+      },
+      {
+        "bin_start": 9755,
+        "bin_end": 118914,
+        "count": 606
+      },
+      {
+        "bin_start": 118914,
+        "bin_end": 228074,
+        "count": 365
+      },
+      {
+        "bin_start": 228074,
+        "bin_end": 337234,
+        "count": 238
+      },
+      {
+        "bin_start": 337234,
+        "bin_end": 446394,
+        "count": 148
+      },
+      {
+        "bin_start": 446394,
+        "bin_end": 555554,
+        "count": 70
+      },
+      {
+        "bin_start": 555554,
+        "bin_end": 664713,
+        "count": 39
+      },
+      {
+        "bin_start": 664713,
+        "bin_end": 773873,
+        "count": 28
+      },
+      {
+        "bin_start": 773873,
+        "bin_end": 883033,
+        "count": 16
+      },
+      {
+        "bin_start": 883033,
+        "bin_end": 992192,
+        "count": 8
+      },
+      {
+        "bin_start": 992192,
+        "bin_end": 1101352,
+        "count": 7
+      },
+      {
+        "bin_start": 1101352,
+        "bin_end": 1210512,
+        "count": 7
+      },
+      {
+        "bin_start": 1210512,
+        "bin_end": 1319672,
+        "count": 0
+      },
+      {
+        "bin_start": 1319672,
+        "bin_end": 1428832,
+        "count": 2
+      },
+      {
+        "bin_start": 1428832,
+        "bin_end": 1537991,
+        "count": 2
+      },
+      {
+        "bin_start": 1537991,
+        "bin_end": 1647151,
+        "count": 3
+      },
+      {
+        "bin_start": 1647151,
+        "bin_end": 1756311,
+        "count": 0
+      },
+      {
+        "bin_start": 1756311,
+        "bin_end": 1865470,
+        "count": 0
+      },
+      {
+        "bin_start": 1865470,
+        "bin_end": 1974630,
+        "count": 0
+      },
+      {
+        "bin_start": 1974630,
+        "bin_end": 2083790,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|50": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 50,
+    "count": 6277,
+    "mean_npv": 36608,
+    "median_npv": -18175,
+    "p10_npv": -127632,
+    "p25_npv": -98879,
+    "p75_npv": 111096,
+    "p90_npv": 273482,
+    "std_npv": 188625,
+    "pct_net_contributor": 0.4512,
+    "histogram": [
+      {
+        "bin_start": -127632,
+        "bin_end": -32658,
+        "count": 2912
+      },
+      {
+        "bin_start": -32658,
+        "bin_end": 62316,
+        "count": 1338
+      },
+      {
+        "bin_start": 62316,
+        "bin_end": 157290,
+        "count": 863
+      },
+      {
+        "bin_start": 157290,
+        "bin_end": 252263,
+        "count": 455
+      },
+      {
+        "bin_start": 252263,
+        "bin_end": 347237,
+        "count": 310
+      },
+      {
+        "bin_start": 347237,
+        "bin_end": 442211,
+        "count": 168
+      },
+      {
+        "bin_start": 442211,
+        "bin_end": 537185,
+        "count": 83
+      },
+      {
+        "bin_start": 537185,
+        "bin_end": 632159,
+        "count": 50
+      },
+      {
+        "bin_start": 632159,
+        "bin_end": 727133,
+        "count": 29
+      },
+      {
+        "bin_start": 727133,
+        "bin_end": 822106,
+        "count": 26
+      },
+      {
+        "bin_start": 822106,
+        "bin_end": 917080,
+        "count": 17
+      },
+      {
+        "bin_start": 917080,
+        "bin_end": 1012054,
+        "count": 2
+      },
+      {
+        "bin_start": 1012054,
+        "bin_end": 1107028,
+        "count": 7
+      },
+      {
+        "bin_start": 1107028,
+        "bin_end": 1202002,
+        "count": 4
+      },
+      {
+        "bin_start": 1202002,
+        "bin_end": 1296976,
+        "count": 4
+      },
+      {
+        "bin_start": 1296976,
+        "bin_end": 1391950,
+        "count": 6
+      },
+      {
+        "bin_start": 1391950,
+        "bin_end": 1486923,
+        "count": 1
+      },
+      {
+        "bin_start": 1486923,
+        "bin_end": 1581897,
+        "count": 1
+      },
+      {
+        "bin_start": 1581897,
+        "bin_end": 1676871,
+        "count": 0
+      },
+      {
+        "bin_start": 1676871,
+        "bin_end": 1771845,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|60": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 60,
+    "count": 7735,
+    "mean_npv": -90030,
+    "median_npv": -150802,
+    "p10_npv": -191731,
+    "p25_npv": -191731,
+    "p75_npv": -77430,
+    "p90_npv": 80256,
+    "std_npv": 184434,
+    "pct_net_contributor": 0.1575,
+    "histogram": [
+      {
+        "bin_start": -191731,
+        "bin_end": -34581,
+        "count": 6270
+      },
+      {
+        "bin_start": -34581,
+        "bin_end": 122570,
+        "count": 861
+      },
+      {
+        "bin_start": 122570,
+        "bin_end": 279720,
+        "count": 309
+      },
+      {
+        "bin_start": 279720,
+        "bin_end": 436871,
+        "count": 115
+      },
+      {
+        "bin_start": 436871,
+        "bin_end": 594021,
+        "count": 67
+      },
+      {
+        "bin_start": 594021,
+        "bin_end": 751172,
+        "count": 45
+      },
+      {
+        "bin_start": 751172,
+        "bin_end": 908322,
+        "count": 24
+      },
+      {
+        "bin_start": 908322,
+        "bin_end": 1065473,
+        "count": 8
+      },
+      {
+        "bin_start": 1065473,
+        "bin_end": 1222623,
+        "count": 13
+      },
+      {
+        "bin_start": 1222623,
+        "bin_end": 1379774,
+        "count": 8
+      },
+      {
+        "bin_start": 1379774,
+        "bin_end": 1536924,
+        "count": 6
+      },
+      {
+        "bin_start": 1536924,
+        "bin_end": 1694074,
+        "count": 4
+      },
+      {
+        "bin_start": 1694074,
+        "bin_end": 1851225,
+        "count": 2
+      },
+      {
+        "bin_start": 1851225,
+        "bin_end": 2008375,
+        "count": 1
+      },
+      {
+        "bin_start": 2008375,
+        "bin_end": 2165526,
+        "count": 0
+      },
+      {
+        "bin_start": 2165526,
+        "bin_end": 2322676,
+        "count": 1
+      },
+      {
+        "bin_start": 2322676,
+        "bin_end": 2479827,
+        "count": 0
+      },
+      {
+        "bin_start": 2479827,
+        "bin_end": 2636977,
+        "count": 0
+      },
+      {
+        "bin_start": 2636977,
+        "bin_end": 2794128,
+        "count": 0
+      },
+      {
+        "bin_start": 2794128,
+        "bin_end": 2951278,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|70": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 70,
+    "count": 5319,
+    "mean_npv": -137452,
+    "median_npv": -167408,
+    "p10_npv": -170147,
+    "p25_npv": -170147,
+    "p75_npv": -149719,
+    "p90_npv": -107872,
+    "std_npv": 140523,
+    "pct_net_contributor": 0.0402,
+    "histogram": [
+      {
+        "bin_start": -170147,
+        "bin_end": 121650,
+        "count": 5206
+      },
+      {
+        "bin_start": 121650,
+        "bin_end": 413447,
+        "count": 72
+      },
+      {
+        "bin_start": 413447,
+        "bin_end": 705244,
+        "count": 23
+      },
+      {
+        "bin_start": 705244,
+        "bin_end": 997041,
+        "count": 7
+      },
+      {
+        "bin_start": 997041,
+        "bin_end": 1288838,
+        "count": 4
+      },
+      {
+        "bin_start": 1288838,
+        "bin_end": 1580635,
+        "count": 2
+      },
+      {
+        "bin_start": 1580635,
+        "bin_end": 1872432,
+        "count": 2
+      },
+      {
+        "bin_start": 1872432,
+        "bin_end": 2164229,
+        "count": 1
+      },
+      {
+        "bin_start": 2164229,
+        "bin_end": 2456026,
+        "count": 0
+      },
+      {
+        "bin_start": 2456026,
+        "bin_end": 2747822,
+        "count": 0
+      },
+      {
+        "bin_start": 2747822,
+        "bin_end": 3039619,
+        "count": 0
+      },
+      {
+        "bin_start": 3039619,
+        "bin_end": 3331416,
+        "count": 1
+      },
+      {
+        "bin_start": 3331416,
+        "bin_end": 3623213,
+        "count": 0
+      },
+      {
+        "bin_start": 3623213,
+        "bin_end": 3915010,
+        "count": 0
+      },
+      {
+        "bin_start": 3915010,
+        "bin_end": 4206807,
+        "count": 0
+      },
+      {
+        "bin_start": 4206807,
+        "bin_end": 4498604,
+        "count": 0
+      },
+      {
+        "bin_start": 4498604,
+        "bin_end": 4790401,
+        "count": 0
+      },
+      {
+        "bin_start": 4790401,
+        "bin_end": 5082198,
+        "count": 0
+      },
+      {
+        "bin_start": 5082198,
+        "bin_end": 5373995,
+        "count": 0
+      },
+      {
+        "bin_start": 5373995,
+        "bin_end": 5665792,
+        "count": 1
+      }
+    ]
+  },
+  "Non-birth Citizen|80": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 80,
+    "count": 2238,
+    "mean_npv": -85902,
+    "median_npv": -95348,
+    "p10_npv": -96492,
+    "p25_npv": -96492,
+    "p75_npv": -89879,
+    "p90_npv": -72873,
+    "std_npv": 35148,
+    "pct_net_contributor": 0.0232,
+    "histogram": [
+      {
+        "bin_start": -96492,
+        "bin_end": -63689,
+        "count": 2087
+      },
+      {
+        "bin_start": -63689,
+        "bin_end": -30886,
+        "count": 71
+      },
+      {
+        "bin_start": -30886,
+        "bin_end": 1917,
+        "count": 29
+      },
+      {
+        "bin_start": 1917,
+        "bin_end": 34720,
+        "count": 21
+      },
+      {
+        "bin_start": 34720,
+        "bin_end": 67523,
+        "count": 9
+      },
+      {
+        "bin_start": 67523,
+        "bin_end": 100326,
+        "count": 7
+      },
+      {
+        "bin_start": 100326,
+        "bin_end": 133129,
+        "count": 3
+      },
+      {
+        "bin_start": 133129,
+        "bin_end": 165932,
+        "count": 3
+      },
+      {
+        "bin_start": 165932,
+        "bin_end": 198735,
+        "count": 0
+      },
+      {
+        "bin_start": 198735,
+        "bin_end": 231538,
+        "count": 2
+      },
+      {
+        "bin_start": 231538,
+        "bin_end": 264342,
+        "count": 2
+      },
+      {
+        "bin_start": 264342,
+        "bin_end": 297145,
+        "count": 2
+      },
+      {
+        "bin_start": 297145,
+        "bin_end": 329948,
+        "count": 0
+      },
+      {
+        "bin_start": 329948,
+        "bin_end": 362751,
+        "count": 0
+      },
+      {
+        "bin_start": 362751,
+        "bin_end": 395554,
+        "count": 0
+      },
+      {
+        "bin_start": 395554,
+        "bin_end": 428357,
+        "count": 0
+      },
+      {
+        "bin_start": 428357,
+        "bin_end": 461160,
+        "count": 0
+      },
+      {
+        "bin_start": 461160,
+        "bin_end": 493963,
+        "count": 0
+      },
+      {
+        "bin_start": 493963,
+        "bin_end": 526766,
+        "count": 0
+      },
+      {
+        "bin_start": 526766,
+        "bin_end": 559569,
+        "count": 2
+      }
+    ]
+  },
+  "Non-birth Citizen|90": {
+    "visa_category": "Non-birth Citizen",
+    "arrival_age": 90,
+    "count": 396,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 396
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Australian|0": {
+    "visa_category": "Australian",
+    "arrival_age": 0,
+    "count": 289,
+    "mean_npv": -116449,
+    "median_npv": -116449,
+    "p10_npv": -116449,
+    "p25_npv": -116449,
+    "p75_npv": -116449,
+    "p90_npv": -116449,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -116450,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 289
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116449,
+        "count": 0
+      },
+      {
+        "bin_start": -116449,
+        "bin_end": -116448,
+        "count": 0
+      }
+    ]
+  },
+  "Australian|10": {
+    "visa_category": "Australian",
+    "arrival_age": 10,
+    "count": 594,
+    "mean_npv": -51519,
+    "median_npv": -53385,
+    "p10_npv": -53385,
+    "p25_npv": -53385,
+    "p75_npv": -53385,
+    "p90_npv": -53385,
+    "std_npv": 18275,
+    "pct_net_contributor": 0.0084,
+    "histogram": [
+      {
+        "bin_start": -53385,
+        "bin_end": -36018,
+        "count": 586
+      },
+      {
+        "bin_start": -36018,
+        "bin_end": -18650,
+        "count": 0
+      },
+      {
+        "bin_start": -18650,
+        "bin_end": -1283,
+        "count": 2
+      },
+      {
+        "bin_start": -1283,
+        "bin_end": 16084,
+        "count": 2
+      },
+      {
+        "bin_start": 16084,
+        "bin_end": 33452,
+        "count": 1
+      },
+      {
+        "bin_start": 33452,
+        "bin_end": 50819,
+        "count": 0
+      },
+      {
+        "bin_start": 50819,
+        "bin_end": 68186,
+        "count": 1
+      },
+      {
+        "bin_start": 68186,
+        "bin_end": 85554,
+        "count": 0
+      },
+      {
+        "bin_start": 85554,
+        "bin_end": 102921,
+        "count": 0
+      },
+      {
+        "bin_start": 102921,
+        "bin_end": 120288,
+        "count": 0
+      },
+      {
+        "bin_start": 120288,
+        "bin_end": 137656,
+        "count": 0
+      },
+      {
+        "bin_start": 137656,
+        "bin_end": 155023,
+        "count": 0
+      },
+      {
+        "bin_start": 155023,
+        "bin_end": 172391,
+        "count": 1
+      },
+      {
+        "bin_start": 172391,
+        "bin_end": 189758,
+        "count": 0
+      },
+      {
+        "bin_start": 189758,
+        "bin_end": 207125,
+        "count": 0
+      },
+      {
+        "bin_start": 207125,
+        "bin_end": 224493,
+        "count": 0
+      },
+      {
+        "bin_start": 224493,
+        "bin_end": 241860,
+        "count": 0
+      },
+      {
+        "bin_start": 241860,
+        "bin_end": 259227,
+        "count": 0
+      },
+      {
+        "bin_start": 259227,
+        "bin_end": 276595,
+        "count": 0
+      },
+      {
+        "bin_start": 276595,
+        "bin_end": 293962,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|20": {
+    "visa_category": "Australian",
+    "arrival_age": 20,
+    "count": 618,
+    "mean_npv": 69048,
+    "median_npv": 58972,
+    "p10_npv": 11697,
+    "p25_npv": 11697,
+    "p75_npv": 91491,
+    "p90_npv": 145588,
+    "std_npv": 59099,
+    "pct_net_contributor": 1.0,
+    "histogram": [
+      {
+        "bin_start": 11697,
+        "bin_end": 31647,
+        "count": 181
+      },
+      {
+        "bin_start": 31647,
+        "bin_end": 51597,
+        "count": 83
+      },
+      {
+        "bin_start": 51597,
+        "bin_end": 71547,
+        "count": 122
+      },
+      {
+        "bin_start": 71547,
+        "bin_end": 91497,
+        "count": 77
+      },
+      {
+        "bin_start": 91497,
+        "bin_end": 111447,
+        "count": 48
+      },
+      {
+        "bin_start": 111447,
+        "bin_end": 131397,
+        "count": 28
+      },
+      {
+        "bin_start": 131397,
+        "bin_end": 151347,
+        "count": 21
+      },
+      {
+        "bin_start": 151347,
+        "bin_end": 171297,
+        "count": 20
+      },
+      {
+        "bin_start": 171297,
+        "bin_end": 191247,
+        "count": 12
+      },
+      {
+        "bin_start": 191247,
+        "bin_end": 211197,
+        "count": 6
+      },
+      {
+        "bin_start": 211197,
+        "bin_end": 231147,
+        "count": 5
+      },
+      {
+        "bin_start": 231147,
+        "bin_end": 251097,
+        "count": 4
+      },
+      {
+        "bin_start": 251097,
+        "bin_end": 271047,
+        "count": 3
+      },
+      {
+        "bin_start": 271047,
+        "bin_end": 290997,
+        "count": 2
+      },
+      {
+        "bin_start": 290997,
+        "bin_end": 310947,
+        "count": 4
+      },
+      {
+        "bin_start": 310947,
+        "bin_end": 330897,
+        "count": 0
+      },
+      {
+        "bin_start": 330897,
+        "bin_end": 350847,
+        "count": 0
+      },
+      {
+        "bin_start": 350847,
+        "bin_end": 370797,
+        "count": 1
+      },
+      {
+        "bin_start": 370797,
+        "bin_end": 390747,
+        "count": 0
+      },
+      {
+        "bin_start": 390747,
+        "bin_end": 410697,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|30": {
+    "visa_category": "Australian",
+    "arrival_age": 30,
+    "count": 773,
+    "mean_npv": 114250,
+    "median_npv": 73702,
+    "p10_npv": -4442,
+    "p25_npv": -4442,
+    "p75_npv": 171044,
+    "p90_npv": 291378,
+    "std_npv": 136450,
+    "pct_net_contributor": 0.727,
+    "histogram": [
+      {
+        "bin_start": -4442,
+        "bin_end": 49163,
+        "count": 299
+      },
+      {
+        "bin_start": 49163,
+        "bin_end": 102767,
+        "count": 156
+      },
+      {
+        "bin_start": 102767,
+        "bin_end": 156372,
+        "count": 106
+      },
+      {
+        "bin_start": 156372,
+        "bin_end": 209977,
+        "count": 61
+      },
+      {
+        "bin_start": 209977,
+        "bin_end": 263582,
+        "count": 54
+      },
+      {
+        "bin_start": 263582,
+        "bin_end": 317186,
+        "count": 33
+      },
+      {
+        "bin_start": 317186,
+        "bin_end": 370791,
+        "count": 25
+      },
+      {
+        "bin_start": 370791,
+        "bin_end": 424396,
+        "count": 15
+      },
+      {
+        "bin_start": 424396,
+        "bin_end": 478000,
+        "count": 6
+      },
+      {
+        "bin_start": 478000,
+        "bin_end": 531605,
+        "count": 7
+      },
+      {
+        "bin_start": 531605,
+        "bin_end": 585210,
+        "count": 1
+      },
+      {
+        "bin_start": 585210,
+        "bin_end": 638814,
+        "count": 2
+      },
+      {
+        "bin_start": 638814,
+        "bin_end": 692419,
+        "count": 4
+      },
+      {
+        "bin_start": 692419,
+        "bin_end": 746024,
+        "count": 2
+      },
+      {
+        "bin_start": 746024,
+        "bin_end": 799628,
+        "count": 0
+      },
+      {
+        "bin_start": 799628,
+        "bin_end": 853233,
+        "count": 1
+      },
+      {
+        "bin_start": 853233,
+        "bin_end": 906838,
+        "count": 0
+      },
+      {
+        "bin_start": 906838,
+        "bin_end": 960443,
+        "count": 0
+      },
+      {
+        "bin_start": 960443,
+        "bin_end": 1014047,
+        "count": 0
+      },
+      {
+        "bin_start": 1014047,
+        "bin_end": 1067652,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|40": {
+    "visa_category": "Australian",
+    "arrival_age": 40,
+    "count": 813,
+    "mean_npv": 126024,
+    "median_npv": 55956,
+    "p10_npv": -31158,
+    "p25_npv": -3103,
+    "p75_npv": 168203,
+    "p90_npv": 348622,
+    "std_npv": 230310,
+    "pct_net_contributor": 0.7392,
+    "histogram": [
+      {
+        "bin_start": -31158,
+        "bin_end": 96063,
+        "count": 495
+      },
+      {
+        "bin_start": 96063,
+        "bin_end": 223284,
+        "count": 176
+      },
+      {
+        "bin_start": 223284,
+        "bin_end": 350505,
+        "count": 63
+      },
+      {
+        "bin_start": 350505,
+        "bin_end": 477726,
+        "count": 35
+      },
+      {
+        "bin_start": 477726,
+        "bin_end": 604947,
+        "count": 14
+      },
+      {
+        "bin_start": 604947,
+        "bin_end": 732168,
+        "count": 10
+      },
+      {
+        "bin_start": 732168,
+        "bin_end": 859389,
+        "count": 5
+      },
+      {
+        "bin_start": 859389,
+        "bin_end": 986610,
+        "count": 5
+      },
+      {
+        "bin_start": 986610,
+        "bin_end": 1113831,
+        "count": 3
+      },
+      {
+        "bin_start": 1113831,
+        "bin_end": 1241052,
+        "count": 3
+      },
+      {
+        "bin_start": 1241052,
+        "bin_end": 1368272,
+        "count": 0
+      },
+      {
+        "bin_start": 1368272,
+        "bin_end": 1495493,
+        "count": 1
+      },
+      {
+        "bin_start": 1495493,
+        "bin_end": 1622714,
+        "count": 0
+      },
+      {
+        "bin_start": 1622714,
+        "bin_end": 1749935,
+        "count": 0
+      },
+      {
+        "bin_start": 1749935,
+        "bin_end": 1877156,
+        "count": 1
+      },
+      {
+        "bin_start": 1877156,
+        "bin_end": 2004377,
+        "count": 0
+      },
+      {
+        "bin_start": 2004377,
+        "bin_end": 2131598,
+        "count": 0
+      },
+      {
+        "bin_start": 2131598,
+        "bin_end": 2258819,
+        "count": 1
+      },
+      {
+        "bin_start": 2258819,
+        "bin_end": 2386040,
+        "count": 0
+      },
+      {
+        "bin_start": 2386040,
+        "bin_end": 2513261,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|50": {
+    "visa_category": "Australian",
+    "arrival_age": 50,
+    "count": 711,
+    "mean_npv": 96485,
+    "median_npv": 29027,
+    "p10_npv": -53076,
+    "p25_npv": -40494,
+    "p75_npv": 153024,
+    "p90_npv": 309514,
+    "std_npv": 204352,
+    "pct_net_contributor": 0.602,
+    "histogram": [
+      {
+        "bin_start": -53076,
+        "bin_end": 50831,
+        "count": 393
+      },
+      {
+        "bin_start": 50831,
+        "bin_end": 154738,
+        "count": 143
+      },
+      {
+        "bin_start": 154738,
+        "bin_end": 258646,
+        "count": 85
+      },
+      {
+        "bin_start": 258646,
+        "bin_end": 362553,
+        "count": 32
+      },
+      {
+        "bin_start": 362553,
+        "bin_end": 466460,
+        "count": 23
+      },
+      {
+        "bin_start": 466460,
+        "bin_end": 570368,
+        "count": 10
+      },
+      {
+        "bin_start": 570368,
+        "bin_end": 674275,
+        "count": 9
+      },
+      {
+        "bin_start": 674275,
+        "bin_end": 778182,
+        "count": 7
+      },
+      {
+        "bin_start": 778182,
+        "bin_end": 882089,
+        "count": 2
+      },
+      {
+        "bin_start": 882089,
+        "bin_end": 985996,
+        "count": 2
+      },
+      {
+        "bin_start": 985996,
+        "bin_end": 1089904,
+        "count": 1
+      },
+      {
+        "bin_start": 1089904,
+        "bin_end": 1193811,
+        "count": 2
+      },
+      {
+        "bin_start": 1193811,
+        "bin_end": 1297718,
+        "count": 0
+      },
+      {
+        "bin_start": 1297718,
+        "bin_end": 1401626,
+        "count": 0
+      },
+      {
+        "bin_start": 1401626,
+        "bin_end": 1505533,
+        "count": 0
+      },
+      {
+        "bin_start": 1505533,
+        "bin_end": 1609440,
+        "count": 0
+      },
+      {
+        "bin_start": 1609440,
+        "bin_end": 1713347,
+        "count": 1
+      },
+      {
+        "bin_start": 1713347,
+        "bin_end": 1817254,
+        "count": 0
+      },
+      {
+        "bin_start": 1817254,
+        "bin_end": 1921162,
+        "count": 0
+      },
+      {
+        "bin_start": 1921162,
+        "bin_end": 2025069,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|60": {
+    "visa_category": "Australian",
+    "arrival_age": 60,
+    "count": 614,
+    "mean_npv": -17357,
+    "median_npv": -70986,
+    "p10_npv": -94576,
+    "p25_npv": -94576,
+    "p75_npv": -23962,
+    "p90_npv": 135912,
+    "std_npv": 153480,
+    "pct_net_contributor": 0.2166,
+    "histogram": [
+      {
+        "bin_start": -94576,
+        "bin_end": -19351,
+        "count": 466
+      },
+      {
+        "bin_start": -19351,
+        "bin_end": 55875,
+        "count": 54
+      },
+      {
+        "bin_start": 55875,
+        "bin_end": 131100,
+        "count": 31
+      },
+      {
+        "bin_start": 131100,
+        "bin_end": 206325,
+        "count": 17
+      },
+      {
+        "bin_start": 206325,
+        "bin_end": 281551,
+        "count": 18
+      },
+      {
+        "bin_start": 281551,
+        "bin_end": 356776,
+        "count": 9
+      },
+      {
+        "bin_start": 356776,
+        "bin_end": 432001,
+        "count": 5
+      },
+      {
+        "bin_start": 432001,
+        "bin_end": 507227,
+        "count": 4
+      },
+      {
+        "bin_start": 507227,
+        "bin_end": 582452,
+        "count": 3
+      },
+      {
+        "bin_start": 582452,
+        "bin_end": 657678,
+        "count": 2
+      },
+      {
+        "bin_start": 657678,
+        "bin_end": 732903,
+        "count": 1
+      },
+      {
+        "bin_start": 732903,
+        "bin_end": 808128,
+        "count": 0
+      },
+      {
+        "bin_start": 808128,
+        "bin_end": 883354,
+        "count": 0
+      },
+      {
+        "bin_start": 883354,
+        "bin_end": 958579,
+        "count": 1
+      },
+      {
+        "bin_start": 958579,
+        "bin_end": 1033804,
+        "count": 0
+      },
+      {
+        "bin_start": 1033804,
+        "bin_end": 1109030,
+        "count": 2
+      },
+      {
+        "bin_start": 1109030,
+        "bin_end": 1184255,
+        "count": 0
+      },
+      {
+        "bin_start": 1184255,
+        "bin_end": 1259480,
+        "count": 0
+      },
+      {
+        "bin_start": 1259480,
+        "bin_end": 1334706,
+        "count": 0
+      },
+      {
+        "bin_start": 1334706,
+        "bin_end": 1409931,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|70": {
+    "visa_category": "Australian",
+    "arrival_age": 70,
+    "count": 451,
+    "mean_npv": -84527,
+    "median_npv": -102641,
+    "p10_npv": -105408,
+    "p25_npv": -105408,
+    "p75_npv": -92580,
+    "p90_npv": -61814,
+    "std_npv": 68380,
+    "pct_net_contributor": 0.051,
+    "histogram": [
+      {
+        "bin_start": -105408,
+        "bin_end": -56904,
+        "count": 409
+      },
+      {
+        "bin_start": -56904,
+        "bin_end": -8399,
+        "count": 16
+      },
+      {
+        "bin_start": -8399,
+        "bin_end": 40105,
+        "count": 13
+      },
+      {
+        "bin_start": 40105,
+        "bin_end": 88610,
+        "count": 4
+      },
+      {
+        "bin_start": 88610,
+        "bin_end": 137114,
+        "count": 3
+      },
+      {
+        "bin_start": 137114,
+        "bin_end": 185618,
+        "count": 2
+      },
+      {
+        "bin_start": 185618,
+        "bin_end": 234123,
+        "count": 1
+      },
+      {
+        "bin_start": 234123,
+        "bin_end": 282627,
+        "count": 0
+      },
+      {
+        "bin_start": 282627,
+        "bin_end": 331132,
+        "count": 1
+      },
+      {
+        "bin_start": 331132,
+        "bin_end": 379636,
+        "count": 0
+      },
+      {
+        "bin_start": 379636,
+        "bin_end": 428140,
+        "count": 0
+      },
+      {
+        "bin_start": 428140,
+        "bin_end": 476645,
+        "count": 0
+      },
+      {
+        "bin_start": 476645,
+        "bin_end": 525149,
+        "count": 0
+      },
+      {
+        "bin_start": 525149,
+        "bin_end": 573654,
+        "count": 1
+      },
+      {
+        "bin_start": 573654,
+        "bin_end": 622158,
+        "count": 0
+      },
+      {
+        "bin_start": 622158,
+        "bin_end": 670662,
+        "count": 0
+      },
+      {
+        "bin_start": 670662,
+        "bin_end": 719167,
+        "count": 0
+      },
+      {
+        "bin_start": 719167,
+        "bin_end": 767671,
+        "count": 0
+      },
+      {
+        "bin_start": 767671,
+        "bin_end": 816176,
+        "count": 0
+      },
+      {
+        "bin_start": 816176,
+        "bin_end": 864680,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|80": {
+    "visa_category": "Australian",
+    "arrival_age": 80,
+    "count": 156,
+    "mean_npv": -70743,
+    "median_npv": -77674,
+    "p10_npv": -77674,
+    "p25_npv": -77674,
+    "p75_npv": -72530,
+    "p90_npv": -55944,
+    "std_npv": 17217,
+    "pct_net_contributor": 0.0128,
+    "histogram": [
+      {
+        "bin_start": -77674,
+        "bin_end": -71342,
+        "count": 125
+      },
+      {
+        "bin_start": -71342,
+        "bin_end": -65010,
+        "count": 10
+      },
+      {
+        "bin_start": -65010,
+        "bin_end": -58679,
+        "count": 3
+      },
+      {
+        "bin_start": -58679,
+        "bin_end": -52347,
+        "count": 6
+      },
+      {
+        "bin_start": -52347,
+        "bin_end": -46015,
+        "count": 3
+      },
+      {
+        "bin_start": -46015,
+        "bin_end": -39683,
+        "count": 1
+      },
+      {
+        "bin_start": -39683,
+        "bin_end": -33351,
+        "count": 2
+      },
+      {
+        "bin_start": -33351,
+        "bin_end": -27020,
+        "count": 1
+      },
+      {
+        "bin_start": -27020,
+        "bin_end": -20688,
+        "count": 1
+      },
+      {
+        "bin_start": -20688,
+        "bin_end": -14356,
+        "count": 2
+      },
+      {
+        "bin_start": -14356,
+        "bin_end": -8024,
+        "count": 0
+      },
+      {
+        "bin_start": -8024,
+        "bin_end": -1692,
+        "count": 0
+      },
+      {
+        "bin_start": -1692,
+        "bin_end": 4639,
+        "count": 0
+      },
+      {
+        "bin_start": 4639,
+        "bin_end": 10971,
+        "count": 0
+      },
+      {
+        "bin_start": 10971,
+        "bin_end": 17303,
+        "count": 0
+      },
+      {
+        "bin_start": 17303,
+        "bin_end": 23635,
+        "count": 0
+      },
+      {
+        "bin_start": 23635,
+        "bin_end": 29967,
+        "count": 0
+      },
+      {
+        "bin_start": 29967,
+        "bin_end": 36298,
+        "count": 0
+      },
+      {
+        "bin_start": 36298,
+        "bin_end": 42630,
+        "count": 1
+      },
+      {
+        "bin_start": 42630,
+        "bin_end": 48962,
+        "count": 1
+      }
+    ]
+  },
+  "Australian|90": {
+    "visa_category": "Australian",
+    "arrival_age": 90,
+    "count": 26,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 26
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Birth Citizen|0": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 0,
+    "count": 57862,
+    "mean_npv": -251894,
+    "median_npv": -251894,
+    "p10_npv": -251894,
+    "p25_npv": -251894,
+    "p75_npv": -251894,
+    "p90_npv": -251894,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 57862
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      },
+      {
+        "bin_start": -251894,
+        "bin_end": -251894,
+        "count": 0
+      }
+    ]
+  },
+  "Birth Citizen|10": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 10,
+    "count": 53090,
+    "mean_npv": -96857,
+    "median_npv": -111029,
+    "p10_npv": -111029,
+    "p25_npv": -111029,
+    "p75_npv": -111029,
+    "p90_npv": -111029,
+    "std_npv": 456288,
+    "pct_net_contributor": 0.0085,
+    "histogram": [
+      {
+        "bin_start": -111029,
+        "bin_end": 2957702,
+        "count": 53039
+      },
+      {
+        "bin_start": 2957702,
+        "bin_end": 6026434,
+        "count": 27
+      },
+      {
+        "bin_start": 6026434,
+        "bin_end": 9095166,
+        "count": 12
+      },
+      {
+        "bin_start": 9095166,
+        "bin_end": 12163897,
+        "count": 5
+      },
+      {
+        "bin_start": 12163897,
+        "bin_end": 15232628,
+        "count": 2
+      },
+      {
+        "bin_start": 15232628,
+        "bin_end": 18301360,
+        "count": 1
+      },
+      {
+        "bin_start": 18301360,
+        "bin_end": 21370092,
+        "count": 0
+      },
+      {
+        "bin_start": 21370092,
+        "bin_end": 24438823,
+        "count": 0
+      },
+      {
+        "bin_start": 24438823,
+        "bin_end": 27507554,
+        "count": 1
+      },
+      {
+        "bin_start": 27507554,
+        "bin_end": 30576286,
+        "count": 0
+      },
+      {
+        "bin_start": 30576286,
+        "bin_end": 33645018,
+        "count": 0
+      },
+      {
+        "bin_start": 33645018,
+        "bin_end": 36713749,
+        "count": 1
+      },
+      {
+        "bin_start": 36713749,
+        "bin_end": 39782480,
+        "count": 0
+      },
+      {
+        "bin_start": 39782480,
+        "bin_end": 42851212,
+        "count": 0
+      },
+      {
+        "bin_start": 42851212,
+        "bin_end": 45919944,
+        "count": 0
+      },
+      {
+        "bin_start": 45919944,
+        "bin_end": 48988675,
+        "count": 0
+      },
+      {
+        "bin_start": 48988675,
+        "bin_end": 52057406,
+        "count": 1
+      },
+      {
+        "bin_start": 52057406,
+        "bin_end": 55126138,
+        "count": 0
+      },
+      {
+        "bin_start": 55126138,
+        "bin_end": 58194870,
+        "count": 0
+      },
+      {
+        "bin_start": 58194870,
+        "bin_end": 61263601,
+        "count": 1
+      }
+    ]
+  },
+  "Birth Citizen|20": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 20,
+    "count": 46085,
+    "mean_npv": 41082,
+    "median_npv": 10527,
+    "p10_npv": -116473,
+    "p25_npv": -116473,
+    "p75_npv": 91858,
+    "p90_npv": 242752,
+    "std_npv": 168488,
+    "pct_net_contributor": 0.5387,
+    "histogram": [
+      {
+        "bin_start": -116473,
+        "bin_end": 37176,
+        "count": 27593
+      },
+      {
+        "bin_start": 37176,
+        "bin_end": 190826,
+        "count": 12132
+      },
+      {
+        "bin_start": 190826,
+        "bin_end": 344476,
+        "count": 3776
+      },
+      {
+        "bin_start": 344476,
+        "bin_end": 498125,
+        "count": 1485
+      },
+      {
+        "bin_start": 498125,
+        "bin_end": 651774,
+        "count": 623
+      },
+      {
+        "bin_start": 651774,
+        "bin_end": 805424,
+        "count": 248
+      },
+      {
+        "bin_start": 805424,
+        "bin_end": 959074,
+        "count": 133
+      },
+      {
+        "bin_start": 959074,
+        "bin_end": 1112723,
+        "count": 52
+      },
+      {
+        "bin_start": 1112723,
+        "bin_end": 1266372,
+        "count": 20
+      },
+      {
+        "bin_start": 1266372,
+        "bin_end": 1420022,
+        "count": 6
+      },
+      {
+        "bin_start": 1420022,
+        "bin_end": 1573672,
+        "count": 7
+      },
+      {
+        "bin_start": 1573672,
+        "bin_end": 1727321,
+        "count": 4
+      },
+      {
+        "bin_start": 1727321,
+        "bin_end": 1880970,
+        "count": 4
+      },
+      {
+        "bin_start": 1880970,
+        "bin_end": 2034620,
+        "count": 0
+      },
+      {
+        "bin_start": 2034620,
+        "bin_end": 2188270,
+        "count": 1
+      },
+      {
+        "bin_start": 2188270,
+        "bin_end": 2341919,
+        "count": 0
+      },
+      {
+        "bin_start": 2341919,
+        "bin_end": 2495568,
+        "count": 0
+      },
+      {
+        "bin_start": 2495568,
+        "bin_end": 2649218,
+        "count": 0
+      },
+      {
+        "bin_start": 2649218,
+        "bin_end": 2802868,
+        "count": 0
+      },
+      {
+        "bin_start": 2802868,
+        "bin_end": 2956517,
+        "count": 1
+      }
+    ]
+  },
+  "Birth Citizen|30": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 30,
+    "count": 38165,
+    "mean_npv": 70447,
+    "median_npv": -8968,
+    "p10_npv": -199148,
+    "p25_npv": -199148,
+    "p75_npv": 189293,
+    "p90_npv": 436800,
+    "std_npv": 293147,
+    "pct_net_contributor": 0.4856,
+    "histogram": [
+      {
+        "bin_start": -199148,
+        "bin_end": 131649,
+        "count": 26357
+      },
+      {
+        "bin_start": 131649,
+        "bin_end": 462446,
+        "count": 8339
+      },
+      {
+        "bin_start": 462446,
+        "bin_end": 793243,
+        "count": 2437
+      },
+      {
+        "bin_start": 793243,
+        "bin_end": 1124040,
+        "count": 690
+      },
+      {
+        "bin_start": 1124040,
+        "bin_end": 1454837,
+        "count": 196
+      },
+      {
+        "bin_start": 1454837,
+        "bin_end": 1785634,
+        "count": 89
+      },
+      {
+        "bin_start": 1785634,
+        "bin_end": 2116431,
+        "count": 31
+      },
+      {
+        "bin_start": 2116431,
+        "bin_end": 2447228,
+        "count": 17
+      },
+      {
+        "bin_start": 2447228,
+        "bin_end": 2778025,
+        "count": 4
+      },
+      {
+        "bin_start": 2778025,
+        "bin_end": 3108822,
+        "count": 0
+      },
+      {
+        "bin_start": 3108822,
+        "bin_end": 3439620,
+        "count": 3
+      },
+      {
+        "bin_start": 3439620,
+        "bin_end": 3770417,
+        "count": 0
+      },
+      {
+        "bin_start": 3770417,
+        "bin_end": 4101214,
+        "count": 1
+      },
+      {
+        "bin_start": 4101214,
+        "bin_end": 4432011,
+        "count": 0
+      },
+      {
+        "bin_start": 4432011,
+        "bin_end": 4762808,
+        "count": 0
+      },
+      {
+        "bin_start": 4762808,
+        "bin_end": 5093605,
+        "count": 0
+      },
+      {
+        "bin_start": 5093605,
+        "bin_end": 5424402,
+        "count": 0
+      },
+      {
+        "bin_start": 5424402,
+        "bin_end": 5755199,
+        "count": 0
+      },
+      {
+        "bin_start": 5755199,
+        "bin_end": 6085996,
+        "count": 0
+      },
+      {
+        "bin_start": 6085996,
+        "bin_end": 6416793,
+        "count": 1
+      }
+    ]
+  },
+  "Birth Citizen|40": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 40,
+    "count": 42377,
+    "mean_npv": 49758,
+    "median_npv": -60846,
+    "p10_npv": -290093,
+    "p25_npv": -234718,
+    "p75_npv": 197358,
+    "p90_npv": 520456,
+    "std_npv": 395761,
+    "pct_net_contributor": 0.4262,
+    "histogram": [
+      {
+        "bin_start": -290093,
+        "bin_end": 31797,
+        "count": 25838
+      },
+      {
+        "bin_start": 31797,
+        "bin_end": 353688,
+        "count": 9716
+      },
+      {
+        "bin_start": 353688,
+        "bin_end": 675578,
+        "count": 4035
+      },
+      {
+        "bin_start": 675578,
+        "bin_end": 997469,
+        "count": 1536
+      },
+      {
+        "bin_start": 997469,
+        "bin_end": 1319359,
+        "count": 616
+      },
+      {
+        "bin_start": 1319359,
+        "bin_end": 1641249,
+        "count": 314
+      },
+      {
+        "bin_start": 1641249,
+        "bin_end": 1963140,
+        "count": 147
+      },
+      {
+        "bin_start": 1963140,
+        "bin_end": 2285030,
+        "count": 65
+      },
+      {
+        "bin_start": 2285030,
+        "bin_end": 2606921,
+        "count": 35
+      },
+      {
+        "bin_start": 2606921,
+        "bin_end": 2928811,
+        "count": 29
+      },
+      {
+        "bin_start": 2928811,
+        "bin_end": 3250701,
+        "count": 20
+      },
+      {
+        "bin_start": 3250701,
+        "bin_end": 3572592,
+        "count": 11
+      },
+      {
+        "bin_start": 3572592,
+        "bin_end": 3894482,
+        "count": 5
+      },
+      {
+        "bin_start": 3894482,
+        "bin_end": 4216373,
+        "count": 3
+      },
+      {
+        "bin_start": 4216373,
+        "bin_end": 4538263,
+        "count": 3
+      },
+      {
+        "bin_start": 4538263,
+        "bin_end": 4860153,
+        "count": 2
+      },
+      {
+        "bin_start": 4860153,
+        "bin_end": 5182044,
+        "count": 0
+      },
+      {
+        "bin_start": 5182044,
+        "bin_end": 5503934,
+        "count": 1
+      },
+      {
+        "bin_start": 5503934,
+        "bin_end": 5825825,
+        "count": 0
+      },
+      {
+        "bin_start": 5825825,
+        "bin_end": 6147715,
+        "count": 1
+      }
+    ]
+  },
+  "Birth Citizen|50": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 50,
+    "count": 42732,
+    "mean_npv": -76853,
+    "median_npv": -174699,
+    "p10_npv": -375398,
+    "p25_npv": -375398,
+    "p75_npv": 53801,
+    "p90_npv": 344568,
+    "std_npv": 347264,
+    "pct_net_contributor": 0.2953,
+    "histogram": [
+      {
+        "bin_start": -375398,
+        "bin_end": -98657,
+        "count": 25692
+      },
+      {
+        "bin_start": -98657,
+        "bin_end": 178084,
+        "count": 9841
+      },
+      {
+        "bin_start": 178084,
+        "bin_end": 454825,
+        "count": 4176
+      },
+      {
+        "bin_start": 454825,
+        "bin_end": 731566,
+        "count": 1688
+      },
+      {
+        "bin_start": 731566,
+        "bin_end": 1008307,
+        "count": 645
+      },
+      {
+        "bin_start": 1008307,
+        "bin_end": 1285048,
+        "count": 320
+      },
+      {
+        "bin_start": 1285048,
+        "bin_end": 1561789,
+        "count": 180
+      },
+      {
+        "bin_start": 1561789,
+        "bin_end": 1838530,
+        "count": 93
+      },
+      {
+        "bin_start": 1838530,
+        "bin_end": 2115271,
+        "count": 38
+      },
+      {
+        "bin_start": 2115271,
+        "bin_end": 2392012,
+        "count": 20
+      },
+      {
+        "bin_start": 2392012,
+        "bin_end": 2668752,
+        "count": 16
+      },
+      {
+        "bin_start": 2668752,
+        "bin_end": 2945493,
+        "count": 9
+      },
+      {
+        "bin_start": 2945493,
+        "bin_end": 3222234,
+        "count": 7
+      },
+      {
+        "bin_start": 3222234,
+        "bin_end": 3498975,
+        "count": 2
+      },
+      {
+        "bin_start": 3498975,
+        "bin_end": 3775716,
+        "count": 0
+      },
+      {
+        "bin_start": 3775716,
+        "bin_end": 4052457,
+        "count": 1
+      },
+      {
+        "bin_start": 4052457,
+        "bin_end": 4329198,
+        "count": 0
+      },
+      {
+        "bin_start": 4329198,
+        "bin_end": 4605939,
+        "count": 2
+      },
+      {
+        "bin_start": 4605939,
+        "bin_end": 4882680,
+        "count": 0
+      },
+      {
+        "bin_start": 4882680,
+        "bin_end": 5159421,
+        "count": 2
+      }
+    ]
+  },
+  "Birth Citizen|60": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 60,
+    "count": 33489,
+    "mean_npv": -322855,
+    "median_npv": -415443,
+    "p10_npv": -503152,
+    "p25_npv": -503152,
+    "p75_npv": -221628,
+    "p90_npv": 6105,
+    "std_npv": 256642,
+    "pct_net_contributor": 0.1025,
+    "histogram": [
+      {
+        "bin_start": -503152,
+        "bin_end": -268249,
+        "count": 23527
+      },
+      {
+        "bin_start": -268249,
+        "bin_end": -33347,
+        "count": 5995
+      },
+      {
+        "bin_start": -33347,
+        "bin_end": 201556,
+        "count": 2476
+      },
+      {
+        "bin_start": 201556,
+        "bin_end": 436459,
+        "count": 883
+      },
+      {
+        "bin_start": 436459,
+        "bin_end": 671362,
+        "count": 341
+      },
+      {
+        "bin_start": 671362,
+        "bin_end": 906264,
+        "count": 144
+      },
+      {
+        "bin_start": 906264,
+        "bin_end": 1141167,
+        "count": 57
+      },
+      {
+        "bin_start": 1141167,
+        "bin_end": 1376070,
+        "count": 29
+      },
+      {
+        "bin_start": 1376070,
+        "bin_end": 1610972,
+        "count": 22
+      },
+      {
+        "bin_start": 1610972,
+        "bin_end": 1845875,
+        "count": 8
+      },
+      {
+        "bin_start": 1845875,
+        "bin_end": 2080778,
+        "count": 1
+      },
+      {
+        "bin_start": 2080778,
+        "bin_end": 2315680,
+        "count": 4
+      },
+      {
+        "bin_start": 2315680,
+        "bin_end": 2550583,
+        "count": 0
+      },
+      {
+        "bin_start": 2550583,
+        "bin_end": 2785486,
+        "count": 0
+      },
+      {
+        "bin_start": 2785486,
+        "bin_end": 3020388,
+        "count": 0
+      },
+      {
+        "bin_start": 3020388,
+        "bin_end": 3255291,
+        "count": 1
+      },
+      {
+        "bin_start": 3255291,
+        "bin_end": 3490194,
+        "count": 0
+      },
+      {
+        "bin_start": 3490194,
+        "bin_end": 3725097,
+        "count": 0
+      },
+      {
+        "bin_start": 3725097,
+        "bin_end": 3959999,
+        "count": 0
+      },
+      {
+        "bin_start": 3959999,
+        "bin_end": 4194902,
+        "count": 1
+      }
+    ]
+  },
+  "Birth Citizen|70": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 70,
+    "count": 22370,
+    "mean_npv": -433265,
+    "median_npv": -477976,
+    "p10_npv": -481388,
+    "p25_npv": -481388,
+    "p75_npv": -454200,
+    "p90_npv": -388550,
+    "std_npv": 188127,
+    "pct_net_contributor": 0.0201,
+    "histogram": [
+      {
+        "bin_start": -481388,
+        "bin_end": 7941,
+        "count": 21933
+      },
+      {
+        "bin_start": 7941,
+        "bin_end": 497269,
+        "count": 308
+      },
+      {
+        "bin_start": 497269,
+        "bin_end": 986598,
+        "count": 68
+      },
+      {
+        "bin_start": 986598,
+        "bin_end": 1475926,
+        "count": 26
+      },
+      {
+        "bin_start": 1475926,
+        "bin_end": 1965255,
+        "count": 11
+      },
+      {
+        "bin_start": 1965255,
+        "bin_end": 2454584,
+        "count": 9
+      },
+      {
+        "bin_start": 2454584,
+        "bin_end": 2943912,
+        "count": 9
+      },
+      {
+        "bin_start": 2943912,
+        "bin_end": 3433241,
+        "count": 2
+      },
+      {
+        "bin_start": 3433241,
+        "bin_end": 3922569,
+        "count": 1
+      },
+      {
+        "bin_start": 3922569,
+        "bin_end": 4411898,
+        "count": 0
+      },
+      {
+        "bin_start": 4411898,
+        "bin_end": 4901227,
+        "count": 0
+      },
+      {
+        "bin_start": 4901227,
+        "bin_end": 5390555,
+        "count": 1
+      },
+      {
+        "bin_start": 5390555,
+        "bin_end": 5879884,
+        "count": 0
+      },
+      {
+        "bin_start": 5879884,
+        "bin_end": 6369212,
+        "count": 1
+      },
+      {
+        "bin_start": 6369212,
+        "bin_end": 6858541,
+        "count": 0
+      },
+      {
+        "bin_start": 6858541,
+        "bin_end": 7347870,
+        "count": 0
+      },
+      {
+        "bin_start": 7347870,
+        "bin_end": 7837198,
+        "count": 0
+      },
+      {
+        "bin_start": 7837198,
+        "bin_end": 8326527,
+        "count": 0
+      },
+      {
+        "bin_start": 8326527,
+        "bin_end": 8815855,
+        "count": 0
+      },
+      {
+        "bin_start": 8815855,
+        "bin_end": 9305184,
+        "count": 1
+      }
+    ]
+  },
+  "Birth Citizen|80": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 80,
+    "count": 9651,
+    "mean_npv": -238900,
+    "median_npv": -251707,
+    "p10_npv": -251707,
+    "p25_npv": -251707,
+    "p75_npv": -245599,
+    "p90_npv": -227943,
+    "std_npv": 62232,
+    "pct_net_contributor": 0.0079,
+    "histogram": [
+      {
+        "bin_start": -251707,
+        "bin_end": -127968,
+        "count": 9449
+      },
+      {
+        "bin_start": -127968,
+        "bin_end": -4229,
+        "count": 123
+      },
+      {
+        "bin_start": -4229,
+        "bin_end": 119510,
+        "count": 41
+      },
+      {
+        "bin_start": 119510,
+        "bin_end": 243249,
+        "count": 10
+      },
+      {
+        "bin_start": 243249,
+        "bin_end": 366988,
+        "count": 13
+      },
+      {
+        "bin_start": 366988,
+        "bin_end": 490727,
+        "count": 5
+      },
+      {
+        "bin_start": 490727,
+        "bin_end": 614466,
+        "count": 2
+      },
+      {
+        "bin_start": 614466,
+        "bin_end": 738205,
+        "count": 2
+      },
+      {
+        "bin_start": 738205,
+        "bin_end": 861944,
+        "count": 2
+      },
+      {
+        "bin_start": 861944,
+        "bin_end": 985684,
+        "count": 1
+      },
+      {
+        "bin_start": 985684,
+        "bin_end": 1109423,
+        "count": 1
+      },
+      {
+        "bin_start": 1109423,
+        "bin_end": 1233162,
+        "count": 0
+      },
+      {
+        "bin_start": 1233162,
+        "bin_end": 1356901,
+        "count": 0
+      },
+      {
+        "bin_start": 1356901,
+        "bin_end": 1480640,
+        "count": 0
+      },
+      {
+        "bin_start": 1480640,
+        "bin_end": 1604379,
+        "count": 0
+      },
+      {
+        "bin_start": 1604379,
+        "bin_end": 1728118,
+        "count": 0
+      },
+      {
+        "bin_start": 1728118,
+        "bin_end": 1851857,
+        "count": 0
+      },
+      {
+        "bin_start": 1851857,
+        "bin_end": 1975596,
+        "count": 0
+      },
+      {
+        "bin_start": 1975596,
+        "bin_end": 2099335,
+        "count": 0
+      },
+      {
+        "bin_start": 2099335,
+        "bin_end": 2223074,
+        "count": 2
+      }
+    ]
+  },
+  "Birth Citizen|90": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 90,
+    "count": 2157,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 2157
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Birth Citizen|100": {
+    "visa_category": "Birth Citizen",
+    "arrival_age": 100,
+    "count": 47,
+    "mean_npv": 0,
+    "median_npv": 0,
+    "p10_npv": 0,
+    "p25_npv": 0,
+    "p75_npv": 0,
+    "p90_npv": 0,
+    "std_npv": 0,
+    "pct_net_contributor": 0.0,
+    "histogram": [
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 47
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      },
+      {
+        "bin_start": 0,
+        "bin_end": 0,
+        "count": 0
+      }
+    ]
+  },
+  "Non-residential work|10": {
+    "visa_category": "Non-residential work",
+    "arrival_age": 10,
+    "count": 51,
+    "mean_npv": -37861,
+    "median_npv": -44575,
+    "p10_npv": -75189,
+    "p25_npv": -57193,
+    "p75_npv": -23977,
+    "p90_npv": 1923,
+    "std_npv": 26002,
+    "pct_net_contributor": 0.1176,
+    "histogram": [
+      {
+        "bin_start": -78507,
+        "bin_end": -73447,
+        "count": 6
+      },
+      {
+        "bin_start": -73447,
+        "bin_end": -68388,
+        "count": 0
+      },
+      {
+        "bin_start": -68388,
+        "bin_end": -63328,
+        "count": 0
+      },
+      {
+        "bin_start": -63328,
+        "bin_end": -58268,
+        "count": 7
+      },
+      {
+        "bin_start": -58268,
+        "bin_end": -53209,
+        "count": 2
+      },
+      {
+        "bin_start": -53209,
+        "bin_end": -48149,
+        "count": 3
+      },
+      {
+        "bin_start": -48149,
+        "bin_end": -43089,
+        "count": 10
+      },
+      {
+        "bin_start": -43089,
+        "bin_end": -38030,
+        "count": 2
+      },
+      {
+        "bin_start": -38030,
+        "bin_end": -32970,
+        "count": 4
+      },
+      {
+        "bin_start": -32970,
+        "bin_end": -27910,
+        "count": 1
+      },
+      {
+        "bin_start": -27910,
+        "bin_end": -22851,
+        "count": 4
+      },
+      {
+        "bin_start": -22851,
+        "bin_end": -17791,
+        "count": 1
+      },
+      {
+        "bin_start": -17791,
+        "bin_end": -12732,
+        "count": 1
+      },
+      {
+        "bin_start": -12732,
+        "bin_end": -7672,
+        "count": 3
+      },
+      {
+        "bin_start": -7672,
+        "bin_end": -2612,
+        "count": 0
+      },
+      {
+        "bin_start": -2612,
+        "bin_end": 2447,
+        "count": 2
+      },
+      {
+        "bin_start": 2447,
+        "bin_end": 7507,
+        "count": 1
+      },
+      {
+        "bin_start": 7507,
+        "bin_end": 12567,
+        "count": 1
+      },
+      {
+        "bin_start": 12567,
+        "bin_end": 17626,
+        "count": 1
+      },
+      {
+        "bin_start": 17626,
+        "bin_end": 22686,
+        "count": 2
+      }
+    ]
+  },
+  "Non-residential work|20": {
+    "visa_category": "Non-residential work",
+    "arrival_age": 20,
+    "count": 6953,
+    "mean_npv": 68341,
+    "median_npv": 53895,
+    "p10_npv": -9963,
+    "p25_npv": 27872,
+    "p75_npv": 87839,
+    "p90_npv": 148283,
+    "std_npv": 69771,
+    "pct_net_contributor": 0.8903,
+    "histogram": [
+      {
+        "bin_start": -18239,
+        "bin_end": 24771,
+        "count": 1554
+      },
+      {
+        "bin_start": 24771,
+        "bin_end": 67781,
+        "count": 2756
+      },
+      {
+        "bin_start": 67781,
+        "bin_end": 110791,
+        "count": 1450
+      },
+      {
+        "bin_start": 110791,
+        "bin_end": 153801,
+        "count": 552
+      },
+      {
+        "bin_start": 153801,
+        "bin_end": 196811,
+        "count": 273
+      },
+      {
+        "bin_start": 196811,
+        "bin_end": 239821,
+        "count": 169
+      },
+      {
+        "bin_start": 239821,
+        "bin_end": 282831,
+        "count": 87
+      },
+      {
+        "bin_start": 282831,
+        "bin_end": 325841,
+        "count": 38
+      },
+      {
+        "bin_start": 325841,
+        "bin_end": 368851,
+        "count": 24
+      },
+      {
+        "bin_start": 368851,
+        "bin_end": 411862,
+        "count": 18
+      },
+      {
+        "bin_start": 411862,
+        "bin_end": 454872,
+        "count": 12
+      },
+      {
+        "bin_start": 454872,
+        "bin_end": 497882,
+        "count": 8
+      },
+      {
+        "bin_start": 497882,
+        "bin_end": 540892,
+        "count": 4
+      },
+      {
+        "bin_start": 540892,
+        "bin_end": 583902,
+        "count": 2
+      },
+      {
+        "bin_start": 583902,
+        "bin_end": 626912,
+        "count": 3
+      },
+      {
+        "bin_start": 626912,
+        "bin_end": 669922,
+        "count": 1
+      },
+      {
+        "bin_start": 669922,
+        "bin_end": 712932,
+        "count": 0
+      },
+      {
+        "bin_start": 712932,
+        "bin_end": 755942,
+        "count": 1
+      },
+      {
+        "bin_start": 755942,
+        "bin_end": 798952,
+        "count": 0
+      },
+      {
+        "bin_start": 798952,
+        "bin_end": 841962,
+        "count": 1
+      }
+    ]
+  },
+  "Non-residential work|30": {
+    "visa_category": "Non-residential work",
+    "arrival_age": 30,
+    "count": 5219,
+    "mean_npv": 89717,
+    "median_npv": 56950,
+    "p10_npv": -22951,
+    "p25_npv": 21454,
+    "p75_npv": 122924,
+    "p90_npv": 225119,
+    "std_npv": 115996,
+    "pct_net_contributor": 0.8603,
+    "histogram": [
+      {
+        "bin_start": -31905,
+        "bin_end": 30156,
+        "count": 1636
+      },
+      {
+        "bin_start": 30156,
+        "bin_end": 92218,
+        "count": 1883
+      },
+      {
+        "bin_start": 92218,
+        "bin_end": 154279,
+        "count": 735
+      },
+      {
+        "bin_start": 154279,
+        "bin_end": 216340,
+        "count": 400
+      },
+      {
+        "bin_start": 216340,
+        "bin_end": 278402,
+        "count": 228
+      },
+      {
+        "bin_start": 278402,
+        "bin_end": 340463,
+        "count": 119
+      },
+      {
+        "bin_start": 340463,
+        "bin_end": 402524,
+        "count": 83
+      },
+      {
+        "bin_start": 402524,
+        "bin_end": 464586,
+        "count": 46
+      },
+      {
+        "bin_start": 464586,
+        "bin_end": 526647,
+        "count": 29
+      },
+      {
+        "bin_start": 526647,
+        "bin_end": 588708,
+        "count": 25
+      },
+      {
+        "bin_start": 588708,
+        "bin_end": 650770,
+        "count": 9
+      },
+      {
+        "bin_start": 650770,
+        "bin_end": 712831,
+        "count": 10
+      },
+      {
+        "bin_start": 712831,
+        "bin_end": 774893,
+        "count": 4
+      },
+      {
+        "bin_start": 774893,
+        "bin_end": 836954,
+        "count": 4
+      },
+      {
+        "bin_start": 836954,
+        "bin_end": 899015,
+        "count": 2
+      },
+      {
+        "bin_start": 899015,
+        "bin_end": 961077,
+        "count": 2
+      },
+      {
+        "bin_start": 961077,
+        "bin_end": 1023138,
+        "count": 2
+      },
+      {
+        "bin_start": 1023138,
+        "bin_end": 1085199,
+        "count": 0
+      },
+      {
+        "bin_start": 1085199,
+        "bin_end": 1147261,
+        "count": 1
+      },
+      {
+        "bin_start": 1147261,
+        "bin_end": 1209322,
+        "count": 1
+      }
+    ]
+  },
+  "Non-residential work|40": {
+    "visa_category": "Non-residential work",
+    "arrival_age": 40,
+    "count": 1861,
+    "mean_npv": 86700,
+    "median_npv": 37671,
+    "p10_npv": -43626,
+    "p25_npv": -5208,
+    "p75_npv": 124186,
+    "p90_npv": 270897,
+    "std_npv": 156089,
+    "pct_net_contributor": 0.7125,
+    "histogram": [
+      {
+        "bin_start": -55229,
+        "bin_end": 27603,
+        "count": 835
+      },
+      {
+        "bin_start": 27603,
+        "bin_end": 110435,
+        "count": 514
+      },
+      {
+        "bin_start": 110435,
+        "bin_end": 193267,
+        "count": 226
+      },
+      {
+        "bin_start": 193267,
+        "bin_end": 276099,
+        "count": 107
+      },
+      {
+        "bin_start": 276099,
+        "bin_end": 358931,
+        "count": 57
+      },
+      {
+        "bin_start": 358931,
+        "bin_end": 441763,
+        "count": 43
+      },
+      {
+        "bin_start": 441763,
+        "bin_end": 524595,
+        "count": 27
+      },
+      {
+        "bin_start": 524595,
+        "bin_end": 607427,
+        "count": 23
+      },
+      {
+        "bin_start": 607427,
+        "bin_end": 690259,
+        "count": 10
+      },
+      {
+        "bin_start": 690259,
+        "bin_end": 773092,
+        "count": 8
+      },
+      {
+        "bin_start": 773092,
+        "bin_end": 855924,
+        "count": 2
+      },
+      {
+        "bin_start": 855924,
+        "bin_end": 938756,
+        "count": 5
+      },
+      {
+        "bin_start": 938756,
+        "bin_end": 1021588,
+        "count": 1
+      },
+      {
+        "bin_start": 1021588,
+        "bin_end": 1104420,
+        "count": 0
+      },
+      {
+        "bin_start": 1104420,
+        "bin_end": 1187252,
+        "count": 2
+      },
+      {
+        "bin_start": 1187252,
+        "bin_end": 1270084,
+        "count": 0
+      },
+      {
+        "bin_start": 1270084,
+        "bin_end": 1352916,
+        "count": 0
+      },
+      {
+        "bin_start": 1352916,
+        "bin_end": 1435748,
+        "count": 0
+      },
+      {
+        "bin_start": 1435748,
+        "bin_end": 1518580,
+        "count": 0
+      },
+      {
+        "bin_start": 1518580,
+        "bin_end": 1601412,
+        "count": 1
+      }
+    ]
+  },
+  "Non-residential work|50": {
+    "visa_category": "Non-residential work",
+    "arrival_age": 50,
+    "count": 465,
+    "mean_npv": 37154,
+    "median_npv": 20642,
+    "p10_npv": -84910,
+    "p25_npv": -42341,
+    "p75_npv": 92369,
+    "p90_npv": 194113,
+    "std_npv": 116257,
+    "pct_net_contributor": 0.5935,
+    "histogram": [
+      {
+        "bin_start": -113909,
+        "bin_end": -71456,
+        "count": 109
+      },
+      {
+        "bin_start": -71456,
+        "bin_end": -29003,
+        "count": 25
+      },
+      {
+        "bin_start": -29003,
+        "bin_end": 13450,
+        "count": 86
+      },
+      {
+        "bin_start": 13450,
+        "bin_end": 55903,
+        "count": 78
+      },
+      {
+        "bin_start": 55903,
+        "bin_end": 98356,
+        "count": 56
+      },
+      {
+        "bin_start": 98356,
+        "bin_end": 140809,
+        "count": 34
+      },
+      {
+        "bin_start": 140809,
+        "bin_end": 183262,
+        "count": 26
+      },
+      {
+        "bin_start": 183262,
+        "bin_end": 225715,
+        "count": 16
+      },
+      {
+        "bin_start": 225715,
+        "bin_end": 268168,
+        "count": 12
+      },
+      {
+        "bin_start": 268168,
+        "bin_end": 310621,
+        "count": 12
+      },
+      {
+        "bin_start": 310621,
+        "bin_end": 353074,
+        "count": 5
+      },
+      {
+        "bin_start": 353074,
+        "bin_end": 395527,
+        "count": 3
+      },
+      {
+        "bin_start": 395527,
+        "bin_end": 437980,
+        "count": 2
+      },
+      {
+        "bin_start": 437980,
+        "bin_end": 480433,
+        "count": 0
+      },
+      {
+        "bin_start": 480433,
+        "bin_end": 522886,
+        "count": 0
+      },
+      {
+        "bin_start": 522886,
+        "bin_end": 565339,
+        "count": 0
+      },
+      {
+        "bin_start": 565339,
+        "bin_end": 607792,
+        "count": 0
+      },
+      {
+        "bin_start": 607792,
+        "bin_end": 650245,
+        "count": 0
+      },
+      {
+        "bin_start": 650245,
+        "bin_end": 692698,
+        "count": 0
+      },
+      {
+        "bin_start": 692698,
+        "bin_end": 735151,
+        "count": 1
+      }
+    ]
+  },
+  "Non-residential work|60": {
+    "visa_category": "Non-residential work",
+    "arrival_age": 60,
+    "count": 73,
+    "mean_npv": -56032,
+    "median_npv": -150662,
+    "p10_npv": -211463,
+    "p25_npv": -207233,
+    "p75_npv": -2244,
+    "p90_npv": 242025,
+    "std_npv": 251586,
+    "pct_net_contributor": 0.2466,
+    "histogram": [
+      {
+        "bin_start": -263741,
+        "bin_end": -192292,
+        "count": 23
+      },
+      {
+        "bin_start": -192292,
+        "bin_end": -120843,
+        "count": 21
+      },
+      {
+        "bin_start": -120843,
+        "bin_end": -49394,
+        "count": 8
+      },
+      {
+        "bin_start": -49394,
+        "bin_end": 22055,
+        "count": 5
+      },
+      {
+        "bin_start": 22055,
+        "bin_end": 93504,
+        "count": 4
+      },
+      {
+        "bin_start": 93504,
+        "bin_end": 164953,
+        "count": 2
+      },
+      {
+        "bin_start": 164953,
+        "bin_end": 236402,
+        "count": 1
+      },
+      {
+        "bin_start": 236402,
+        "bin_end": 307851,
+        "count": 4
+      },
+      {
+        "bin_start": 307851,
+        "bin_end": 379300,
+        "count": 0
+      },
+      {
+        "bin_start": 379300,
+        "bin_end": 450749,
+        "count": 1
+      },
+      {
+        "bin_start": 450749,
+        "bin_end": 522198,
+        "count": 1
+      },
+      {
+        "bin_start": 522198,
+        "bin_end": 593647,
+        "count": 1
+      },
+      {
+        "bin_start": 593647,
+        "bin_end": 665096,
+        "count": 0
+      },
+      {
+        "bin_start": 665096,
+        "bin_end": 736545,
+        "count": 0
+      },
+      {
+        "bin_start": 736545,
+        "bin_end": 807994,
+        "count": 1
+      },
+      {
+        "bin_start": 807994,
+        "bin_end": 879443,
+        "count": 0
+      },
+      {
+        "bin_start": 879443,
+        "bin_end": 950892,
+        "count": 0
+      },
+      {
+        "bin_start": 950892,
+        "bin_end": 1022341,
+        "count": 0
+      },
+      {
+        "bin_start": 1022341,
+        "bin_end": 1093790,
+        "count": 0
+      },
+      {
+        "bin_start": 1093790,
+        "bin_end": 1165239,
+        "count": 1
+      }
+    ]
+  }
+}

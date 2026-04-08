@@ -1,0 +1,548 @@
+{
+  "visaTypes": [
+    "Australian",
+    "Non-birth Citizen",
+    "Non-residential work",
+    "Permanent Resident",
+    "Resident",
+    "Student",
+    "Visitor"
+  ],
+  "components": [
+    "Direct taxes",
+    "Indirect taxes",
+    "Income support",
+    "Education",
+    "Health",
+    "NZ Super",
+    "Other spending",
+    "Net impact"
+  ],
+  "distributions": {
+    "Australian": {
+      "count": 5045,
+      "Direct taxes": {
+        "mean": 15614,
+        "p10": 0,
+        "p25": 4410,
+        "p50": 8836,
+        "p75": 19924,
+        "p90": 37905,
+        "type": "revenue"
+      },
+      "Indirect taxes": {
+        "mean": 5825,
+        "p10": 0,
+        "p25": 3050,
+        "p50": 7400,
+        "p75": 8560,
+        "p90": 8830,
+        "type": "revenue"
+      },
+      "Income support": {
+        "mean": 93,
+        "p10": 0,
+        "p25": 40,
+        "p50": 50,
+        "p75": 60,
+        "p90": 380,
+        "type": "expenditure"
+      },
+      "Education": {
+        "mean": 2021,
+        "p10": 0,
+        "p25": 500,
+        "p50": 600,
+        "p75": 3470,
+        "p90": 7870,
+        "type": "expenditure"
+      },
+      "Health": {
+        "mean": 3245,
+        "p10": 1300,
+        "p25": 2184,
+        "p50": 2252,
+        "p75": 2737,
+        "p90": 6808,
+        "type": "expenditure"
+      },
+      "NZ Super": {
+        "mean": 2644,
+        "p10": 0,
+        "p25": 0,
+        "p50": 0,
+        "p75": 0,
+        "p90": 20760,
+        "type": "expenditure"
+      },
+      "Other spending": {
+        "mean": 11054,
+        "p10": 970,
+        "p25": 9430,
+        "p50": 11770,
+        "p75": 16940,
+        "p90": 17010,
+        "type": "expenditure"
+      },
+      "Net impact": {
+        "mean": 2383,
+        "p10": -30849,
+        "p25": -20952,
+        "p50": 2661,
+        "p75": 12680,
+        "p90": 30858,
+        "type": "net"
+      }
+    },
+    "Non-birth Citizen": {
+      "count": 33539,
+      "Direct taxes": {
+        "mean": 13843,
+        "p10": 0,
+        "p25": 4410,
+        "p50": 8610,
+        "p75": 17974,
+        "p90": 32683,
+        "type": "revenue"
+      },
+      "Indirect taxes": {
+        "mean": 6378,
+        "p10": 0,
+        "p25": 4120,
+        "p50": 7400,
+        "p75": 8560,
+        "p90": 8830,
+        "type": "revenue"
+      },
+      "Income support": {
+        "mean": 2777,
+        "p10": 0,
+        "p25": 1490,
+        "p50": 2980,
+        "p75": 3780,
+        "p90": 4660,
+        "type": "expenditure"
+      },
+      "Education": {
+        "mean": 1293,
+        "p10": 0,
+        "p25": 0,
+        "p50": 500,
+        "p75": 970,
+        "p90": 6170,
+        "type": "expenditure"
+      },
+      "Health": {
+        "mean": 4412,
+        "p10": 1700,
+        "p25": 2252,
+        "p50": 2737,
+        "p75": 3978,
+        "p90": 6808,
+        "type": "expenditure"
+      },
+      "NZ Super": {
+        "mean": 5014,
+        "p10": 0,
+        "p25": 0,
+        "p50": 0,
+        "p75": 0,
+        "p90": 20760,
+        "type": "expenditure"
+      },
+      "Other spending": {
+        "mean": 11069,
+        "p10": 8000,
+        "p25": 8000,
+        "p50": 11770,
+        "p75": 12190,
+        "p90": 16940,
+        "type": "expenditure"
+      },
+      "Net impact": {
+        "mean": -4344,
+        "p10": -33878,
+        "p25": -21360,
+        "p50": -1528,
+        "p75": 8430,
+        "p90": 22920,
+        "type": "net"
+      }
+    },
+    "Non-residential work": {
+      "count": 14628,
+      "Direct taxes": {
+        "mean": 11738,
+        "p10": 3478,
+        "p25": 5610,
+        "p50": 9503,
+        "p75": 14732,
+        "p90": 22508,
+        "type": "revenue"
+      },
+      "Indirect taxes": {
+        "mean": 5396,
+        "p10": 3050,
+        "p25": 3050,
+        "p50": 7110,
+        "p75": 7110,
+        "p90": 8560,
+        "type": "revenue"
+      },
+      "Income support": {
+        "mean": 54,
+        "p10": 40,
+        "p25": 50,
+        "p50": 50,
+        "p75": 60,
+        "p90": 60,
+        "type": "expenditure"
+      },
+      "Education": {
+        "mean": 2115,
+        "p10": 600,
+        "p25": 970,
+        "p50": 970,
+        "p75": 3470,
+        "p90": 3470,
+        "type": "expenditure"
+      },
+      "Health": {
+        "mean": 2004,
+        "p10": 1700,
+        "p25": 1700,
+        "p50": 2184,
+        "p75": 2252,
+        "p90": 2252,
+        "type": "expenditure"
+      },
+      "NZ Super": {
+        "mean": 9,
+        "p10": 0,
+        "p25": 0,
+        "p50": 0,
+        "p75": 0,
+        "p90": 0,
+        "type": "expenditure"
+      },
+      "Other spending": {
+        "mean": 7214,
+        "p10": 970,
+        "p25": 970,
+        "p50": 9430,
+        "p75": 11770,
+        "p90": 17010,
+        "type": "expenditure"
+      },
+      "Net impact": {
+        "mean": 5739,
+        "p10": -2322,
+        "p25": 1058,
+        "p50": 3543,
+        "p75": 7706,
+        "p90": 15329,
+        "type": "net"
+      }
+    },
+    "Permanent Resident": {
+      "count": 40210,
+      "Direct taxes": {
+        "mean": 15206,
+        "p10": 0,
+        "p25": 5610,
+        "p50": 11431,
+        "p75": 21233,
+        "p90": 33734,
+        "type": "revenue"
+      },
+      "Indirect taxes": {
+        "mean": 6244,
+        "p10": 0,
+        "p25": 4120,
+        "p50": 7110,
+        "p75": 8560,
+        "p90": 8830,
+        "type": "revenue"
+      },
+      "Income support": {
+        "mean": 3463,
+        "p10": 0,
+        "p25": 2980,
+        "p50": 4200,
+        "p75": 4660,
+        "p90": 4860,
+        "type": "expenditure"
+      },
+      "Education": {
+        "mean": 1800,
+        "p10": 0,
+        "p25": 500,
+        "p50": 970,
+        "p75": 970,
+        "p90": 6170,
+        "type": "expenditure"
+      },
+      "Health": {
+        "mean": 2773,
+        "p10": 1700,
+        "p25": 2184,
+        "p50": 2252,
+        "p75": 2737,
+        "p90": 3978,
+        "type": "expenditure"
+      },
+      "NZ Super": {
+        "mean": 1404,
+        "p10": 0,
+        "p25": 0,
+        "p50": 0,
+        "p75": 0,
+        "p90": 0,
+        "type": "expenditure"
+      },
+      "Other spending": {
+        "mean": 11115,
+        "p10": 970,
+        "p25": 9430,
+        "p50": 11770,
+        "p75": 12190,
+        "p90": 17010,
+        "type": "expenditure"
+      },
+      "Net impact": {
+        "mean": 894,
+        "p10": -21360,
+        "p25": -7132,
+        "p50": 504,
+        "p75": 9824,
+        "p90": 22353,
+        "type": "net"
+      }
+    },
+    "Resident": {
+      "count": 38222,
+      "Direct taxes": {
+        "mean": 15212,
+        "p10": 530,
+        "p25": 5610,
+        "p50": 10451,
+        "p75": 20944,
+        "p90": 33794,
+        "type": "revenue"
+      },
+      "Indirect taxes": {
+        "mean": 6337,
+        "p10": 3050,
+        "p25": 3050,
+        "p50": 7400,
+        "p75": 8560,
+        "p90": 8830,
+        "type": "revenue"
+      },
+      "Income support": {
+        "mean": 3431,
+        "p10": 1270,
+        "p25": 2980,
+        "p50": 3780,
+        "p75": 4660,
+        "p90": 4860,
+        "type": "expenditure"
+      },
+      "Education": {
+        "mean": 1619,
+        "p10": 0,
+        "p25": 500,
+        "p50": 600,
+        "p75": 3470,
+        "p90": 3470,
+        "type": "expenditure"
+      },
+      "Health": {
+        "mean": 3073,
+        "p10": 1700,
+        "p25": 2184,
+        "p50": 2252,
+        "p75": 2737,
+        "p90": 3978,
+        "type": "expenditure"
+      },
+      "NZ Super": {
+        "mean": 1923,
+        "p10": 0,
+        "p25": 0,
+        "p50": 0,
+        "p75": 0,
+        "p90": 0,
+        "type": "expenditure"
+      },
+      "Other spending": {
+        "mean": 10582,
+        "p10": 970,
+        "p25": 8000,
+        "p50": 11770,
+        "p75": 12190,
+        "p90": 17010,
+        "type": "expenditure"
+      },
+      "Net impact": {
+        "mean": 921,
+        "p10": -21360,
+        "p25": -7132,
+        "p50": 704,
+        "p75": 10165,
+        "p90": 22947,
+        "type": "net"
+      }
+    },
+    "Student": {
+      "count": 5805,
+      "Direct taxes": {
+        "mean": 1669,
+        "p10": 0,
+        "p25": 0,
+        "p50": 530,
+        "p75": 2026,
+        "p90": 5610,
+        "type": "revenue"
+      },
+      "Indirect taxes": {
+        "mean": 2156,
+        "p10": 0,
+        "p25": 0,
+        "p50": 3050,
+        "p75": 3050,
+        "p90": 7110,
+        "type": "revenue"
+      },
+      "Income support": {
+        "mean": 30,
+        "p10": 0,
+        "p25": 0,
+        "p50": 50,
+        "p75": 60,
+        "p90": 60,
+        "type": "expenditure"
+      },
+      "Education": {
+        "mean": 4993,
+        "p10": 970,
+        "p25": 3470,
+        "p50": 3470,
+        "p75": 7870,
+        "p90": 7870,
+        "type": "expenditure"
+      },
+      "Health": {
+        "mean": 1756,
+        "p10": 1300,
+        "p25": 1300,
+        "p50": 1700,
+        "p75": 2184,
+        "p90": 2592,
+        "type": "expenditure"
+      },
+      "NZ Super": {
+        "mean": 0,
+        "p10": 0,
+        "p25": 0,
+        "p50": 0,
+        "p75": 0,
+        "p90": 0,
+        "type": "expenditure"
+      },
+      "Other spending": {
+        "mean": 7690,
+        "p10": 970,
+        "p25": 970,
+        "p50": 11770,
+        "p75": 12190,
+        "p90": 12190,
+        "type": "expenditure"
+      },
+      "Net impact": {
+        "mean": -10646,
+        "p10": -21360,
+        "p25": -21166,
+        "p50": -2620,
+        "p75": -1914,
+        "p90": -207,
+        "type": "net"
+      }
+    },
+    "Visitor": {
+      "count": 1332,
+      "Direct taxes": {
+        "mean": 4563,
+        "p10": 0,
+        "p25": 0,
+        "p50": 530,
+        "p75": 5680,
+        "p90": 9420,
+        "type": "revenue"
+      },
+      "Indirect taxes": {
+        "mean": 3601,
+        "p10": 0,
+        "p25": 0,
+        "p50": 3050,
+        "p75": 7400,
+        "p90": 8560,
+        "type": "revenue"
+      },
+      "Income support": {
+        "mean": 36,
+        "p10": 0,
+        "p25": 0,
+        "p50": 40,
+        "p75": 50,
+        "p90": 60,
+        "type": "expenditure"
+      },
+      "Education": {
+        "mean": 3692,
+        "p10": 500,
+        "p25": 600,
+        "p50": 3470,
+        "p75": 6170,
+        "p90": 6170,
+        "type": "expenditure"
+      },
+      "Health": {
+        "mean": 2508,
+        "p10": 1700,
+        "p25": 2184,
+        "p50": 2592,
+        "p75": 2592,
+        "p90": 2737,
+        "type": "expenditure"
+      },
+      "NZ Super": {
+        "mean": 427,
+        "p10": 0,
+        "p25": 0,
+        "p50": 0,
+        "p75": 0,
+        "p90": 0,
+        "type": "expenditure"
+      },
+      "Other spending": {
+        "mean": 11228,
+        "p10": 970,
+        "p25": 11770,
+        "p50": 12190,
+        "p75": 12190,
+        "p90": 17010,
+        "type": "expenditure"
+      },
+      "Net impact": {
+        "mean": -9727,
+        "p10": -20952,
+        "p25": -20952,
+        "p50": -2664,
+        "p75": -2322,
+        "p90": 4215,
+        "type": "net"
+      }
+    }
+  }
+}

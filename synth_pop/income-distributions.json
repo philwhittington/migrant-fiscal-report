@@ -1,0 +1,1549 @@
+{
+  "Australian|0": {
+    "visa_category": "Australian",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 1.34,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 2754
+  },
+  "Australian|10": {
+    "visa_category": "Australian",
+    "age_start": 10,
+    "p_zero": 0.5,
+    "mu": 7.965876,
+    "sigma": 1.973025,
+    "fit_quality": 1.0,
+    "calibration_mean": 545.62,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 302.5,
+      "p90": 1673.0
+    },
+    "count": 5667
+  },
+  "Australian|20": {
+    "visa_category": "Australian",
+    "age_start": 20,
+    "p_zero": 0.245266,
+    "mu": 10.727845,
+    "sigma": 0.44498,
+    "fit_quality": 0.9949,
+    "calibration_mean": 6856.47,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 1576.0,
+      "p50": 5448.0,
+      "p75": 9255.0,
+      "p90": 14896.6
+    },
+    "count": 5898
+  },
+  "Australian|30": {
+    "visa_category": "Australian",
+    "age_start": 30,
+    "p_zero": 0.233634,
+    "mu": 11.142306,
+    "sigma": 0.549218,
+    "fit_quality": 0.9846,
+    "calibration_mean": 13859.7,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2756.5,
+      "p50": 8852.0,
+      "p75": 18002.0,
+      "p90": 31003.0
+    },
+    "count": 7377
+  },
+  "Australian|40": {
+    "visa_category": "Australian",
+    "age_start": 40,
+    "p_zero": 0.206898,
+    "mu": 11.229723,
+    "sigma": 0.692278,
+    "fit_quality": 0.9919,
+    "calibration_mean": 18847.89,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 3151.0,
+      "p50": 10421.0,
+      "p75": 22895.0,
+      "p90": 44197.0
+    },
+    "count": 7764
+  },
+  "Australian|50": {
+    "visa_category": "Australian",
+    "age_start": 50,
+    "p_zero": 0.214906,
+    "mu": 11.212656,
+    "sigma": 0.695339,
+    "fit_quality": 0.9609,
+    "calibration_mean": 18260.09,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2591.0,
+      "p50": 8984.0,
+      "p75": 20325.0,
+      "p90": 40426.4
+    },
+    "count": 6786
+  },
+  "Australian|60": {
+    "visa_category": "Australian",
+    "age_start": 60,
+    "p_zero": 0.249925,
+    "mu": 10.50603,
+    "sigma": 0.976775,
+    "fit_quality": 0.9719,
+    "calibration_mean": 10112.93,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 103.5,
+      "p50": 3875.0,
+      "p75": 12619.5,
+      "p90": 24703.2
+    },
+    "count": 5865
+  },
+  "Australian|70": {
+    "visa_category": "Australian",
+    "age_start": 70,
+    "p_zero": 0.460901,
+    "mu": 9.784976,
+    "sigma": 1.148085,
+    "fit_quality": 0.9596,
+    "calibration_mean": 3862.86,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 387.5,
+      "p75": 2840.25,
+      "p90": 9496.1
+    },
+    "count": 4308
+  },
+  "Australian|80": {
+    "visa_category": "Australian",
+    "age_start": 80,
+    "p_zero": 0.481332,
+    "mu": 9.634556,
+    "sigma": 1.146851,
+    "fit_quality": 0.9886,
+    "calibration_mean": 2994.39,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 190.0,
+      "p75": 1645.5,
+      "p90": 5763.3
+    },
+    "count": 1491
+  },
+  "Australian|90": {
+    "visa_category": "Australian",
+    "age_start": 90,
+    "p_zero": 0.404807,
+    "mu": 9.04029,
+    "sigma": 1.376911,
+    "fit_quality": 0.8725,
+    "calibration_mean": 2705.26,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 303.0,
+      "p75": 1643.0,
+      "p90": 6491.5
+    },
+    "count": 246
+  },
+  "Birth Citizen|0": {
+    "visa_category": "Birth Citizen",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 2.75,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 552303
+  },
+  "Birth Citizen|10": {
+    "visa_category": "Birth Citizen",
+    "age_start": 10,
+    "p_zero": 0.5,
+    "mu": 7.629073,
+    "sigma": 2.297867,
+    "fit_quality": 1.0,
+    "calibration_mean": 547.28,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 216.0,
+      "p90": 1510.0
+    },
+    "count": 506754
+  },
+  "Birth Citizen|100": {
+    "visa_category": "Birth Citizen",
+    "age_start": 100,
+    "p_zero": 0.414812,
+    "mu": 9.556447,
+    "sigma": 0.999831,
+    "fit_quality": 0.9097,
+    "calibration_mean": 2310.04,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 5.5,
+      "p50": 435.0,
+      "p75": 1522.5,
+      "p90": 4409.0
+    },
+    "count": 456
+  },
+  "Birth Citizen|20": {
+    "visa_category": "Birth Citizen",
+    "age_start": 20,
+    "p_zero": 0.24965,
+    "mu": 10.612942,
+    "sigma": 0.468333,
+    "fit_quality": 0.9979,
+    "calibration_mean": 5902.47,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 913.0,
+      "p50": 4821.0,
+      "p75": 8440.0,
+      "p90": 13429.8
+    },
+    "count": 439884
+  },
+  "Birth Citizen|30": {
+    "visa_category": "Birth Citizen",
+    "age_start": 30,
+    "p_zero": 0.248628,
+    "mu": 11.004942,
+    "sigma": 0.497759,
+    "fit_quality": 0.9928,
+    "calibration_mean": 10715.26,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 1429.5,
+      "p50": 7186.0,
+      "p75": 14722.0,
+      "p90": 24032.4
+    },
+    "count": 364287
+  },
+  "Birth Citizen|40": {
+    "visa_category": "Birth Citizen",
+    "age_start": 40,
+    "p_zero": 0.235623,
+    "mu": 11.163812,
+    "sigma": 0.561547,
+    "fit_quality": 0.9741,
+    "calibration_mean": 14444.26,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2569.0,
+      "p50": 8838.0,
+      "p75": 18009.0,
+      "p90": 31818.0
+    },
+    "count": 404490
+  },
+  "Birth Citizen|50": {
+    "visa_category": "Birth Citizen",
+    "age_start": 50,
+    "p_zero": 0.241424,
+    "mu": 11.159209,
+    "sigma": 0.563949,
+    "fit_quality": 0.9557,
+    "calibration_mean": 14214.81,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2087.0,
+      "p50": 8264.0,
+      "p75": 17212.0,
+      "p90": 30688.0
+    },
+    "count": 407880
+  },
+  "Birth Citizen|60": {
+    "visa_category": "Birth Citizen",
+    "age_start": 60,
+    "p_zero": 0.452401,
+    "mu": 11.190052,
+    "sigma": 0.520981,
+    "fit_quality": 0.9154,
+    "calibration_mean": 10297.73,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 69.0,
+      "p50": 4442.5,
+      "p75": 13004.0,
+      "p90": 24204.5
+    },
+    "count": 319656
+  },
+  "Birth Citizen|70": {
+    "visa_category": "Birth Citizen",
+    "age_start": 70,
+    "p_zero": 0.460797,
+    "mu": 9.709978,
+    "sigma": 1.212401,
+    "fit_quality": 0.9076,
+    "calibration_mean": 3971.69,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 349.0,
+      "p75": 2816.0,
+      "p90": 10258.0
+    },
+    "count": 213528
+  },
+  "Birth Citizen|80": {
+    "visa_category": "Birth Citizen",
+    "age_start": 80,
+    "p_zero": 0.477063,
+    "mu": 9.32721,
+    "sigma": 1.209081,
+    "fit_quality": 0.9966,
+    "calibration_mean": 2319.95,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 144.0,
+      "p75": 1213.0,
+      "p90": 4458.0
+    },
+    "count": 92118
+  },
+  "Birth Citizen|90": {
+    "visa_category": "Birth Citizen",
+    "age_start": 90,
+    "p_zero": 0.461674,
+    "mu": 9.474878,
+    "sigma": 1.090952,
+    "fit_quality": 0.9422,
+    "calibration_mean": 2278.33,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 238.0,
+      "p75": 1300.0,
+      "p90": 4230.2
+    },
+    "count": 20589
+  },
+  "Diplomatic etc|0": {
+    "visa_category": "Diplomatic etc",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 0.0,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 150
+  },
+  "Diplomatic etc|10": {
+    "visa_category": "Diplomatic etc",
+    "age_start": 10,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 28.77,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 153
+  },
+  "Diplomatic etc|30": {
+    "visa_category": "Diplomatic etc",
+    "age_start": 30,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 440.22,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 159
+  },
+  "Diplomatic etc|40": {
+    "visa_category": "Diplomatic etc",
+    "age_start": 40,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 737.74,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 216
+  },
+  "Diplomatic etc|50": {
+    "visa_category": "Diplomatic etc",
+    "age_start": 50,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 284.15,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 129
+  },
+  "Non-birth Citizen|0": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 7.16,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 14346
+  },
+  "Non-birth Citizen|10": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 10,
+    "p_zero": 0.5,
+    "mu": 7.223608,
+    "sigma": 2.453825,
+    "fit_quality": 1.0,
+    "calibration_mean": 434.14,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 144.0,
+      "p90": 1135.7
+    },
+    "count": 22785
+  },
+  "Non-birth Citizen|100": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 100,
+    "p_zero": 0.448679,
+    "mu": 9.02773,
+    "sigma": 1.385943,
+    "fit_quality": 0.8343,
+    "calibration_mean": 2490.05,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 199.0,
+      "p75": 1462.0,
+      "p90": 6335.0
+    },
+    "count": 84
+  },
+  "Non-birth Citizen|20": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 20,
+    "p_zero": 0.248809,
+    "mu": 10.66777,
+    "sigma": 0.459387,
+    "fit_quality": 0.9983,
+    "calibration_mean": 6367.69,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 1156.0,
+      "p50": 5103.0,
+      "p75": 8984.0,
+      "p90": 14135.0
+    },
+    "count": 22065
+  },
+  "Non-birth Citizen|30": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 30,
+    "p_zero": 0.243863,
+    "mu": 11.094516,
+    "sigma": 0.512601,
+    "fit_quality": 0.9905,
+    "calibration_mean": 12372.19,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2228.0,
+      "p50": 8351.0,
+      "p75": 16542.3,
+      "p90": 27947.3
+    },
+    "count": 23730
+  },
+  "Non-birth Citizen|40": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 40,
+    "p_zero": 0.227151,
+    "mu": 11.175412,
+    "sigma": 0.599793,
+    "fit_quality": 0.9759,
+    "calibration_mean": 15468.81,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2740.0,
+      "p50": 9038.0,
+      "p75": 18767.3,
+      "p90": 34482.2
+    },
+    "count": 27459
+  },
+  "Non-birth Citizen|50": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 50,
+    "p_zero": 0.232021,
+    "mu": 11.113075,
+    "sigma": 0.573158,
+    "fit_quality": 0.9546,
+    "calibration_mean": 13689.98,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2410.0,
+      "p50": 7744.0,
+      "p75": 16187.5,
+      "p90": 29549.0
+    },
+    "count": 59919
+  },
+  "Non-birth Citizen|60": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 60,
+    "p_zero": 0.249925,
+    "mu": 10.582701,
+    "sigma": 0.861415,
+    "fit_quality": 0.9725,
+    "calibration_mean": 9336.58,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 164.5,
+      "p50": 4080.0,
+      "p75": 11712.0,
+      "p90": 22121.0
+    },
+    "count": 73827
+  },
+  "Non-birth Citizen|70": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 70,
+    "p_zero": 0.445008,
+    "mu": 9.785678,
+    "sigma": 1.133153,
+    "fit_quality": 0.9363,
+    "calibration_mean": 3834.94,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 496.0,
+      "p75": 3111.25,
+      "p90": 10191.0
+    },
+    "count": 50766
+  },
+  "Non-birth Citizen|80": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 80,
+    "p_zero": 0.475219,
+    "mu": 9.525551,
+    "sigma": 1.099036,
+    "fit_quality": 1.0,
+    "calibration_mean": 2399.16,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 229.0,
+      "p75": 1579.75,
+      "p90": 5300.3
+    },
+    "count": 21360
+  },
+  "Non-birth Citizen|90": {
+    "visa_category": "Non-birth Citizen",
+    "age_start": 90,
+    "p_zero": 0.434847,
+    "mu": 9.290484,
+    "sigma": 1.209829,
+    "fit_quality": 0.9644,
+    "calibration_mean": 2421.67,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 307.0,
+      "p75": 1620.75,
+      "p90": 5719.2
+    },
+    "count": 3783
+  },
+  "Non-residential work|10": {
+    "visa_category": "Non-residential work",
+    "age_start": 10,
+    "p_zero": 0.249477,
+    "mu": 9.93318,
+    "sigma": 0.467667,
+    "fit_quality": 0.9979,
+    "calibration_mean": 2323.57,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 493.0,
+      "p50": 1982.0,
+      "p75": 3624.5,
+      "p90": 5090.8
+    },
+    "count": 489
+  },
+  "Non-residential work|20": {
+    "visa_category": "Non-residential work",
+    "age_start": 20,
+    "p_zero": 0.1,
+    "mu": 10.486032,
+    "sigma": 0.45602,
+    "fit_quality": 0.976,
+    "calibration_mean": 5880.24,
+    "source_quantiles": {
+      "p10": 690.9,
+      "p25": 2861.0,
+      "p50": 5420.0,
+      "p75": 7553.25,
+      "p90": 10963.0
+    },
+    "count": 66381
+  },
+  "Non-residential work|30": {
+    "visa_category": "Non-residential work",
+    "age_start": 30,
+    "p_zero": 0.09991,
+    "mu": 10.65837,
+    "sigma": 0.536486,
+    "fit_quality": 0.9643,
+    "calibration_mean": 8165.04,
+    "source_quantiles": {
+      "p10": 581.0,
+      "p25": 3690.0,
+      "p50": 6671.0,
+      "p75": 10473.8,
+      "p90": 15839.7
+    },
+    "count": 49794
+  },
+  "Non-residential work|40": {
+    "visa_category": "Non-residential work",
+    "age_start": 40,
+    "p_zero": 0.09991,
+    "mu": 10.702748,
+    "sigma": 0.643986,
+    "fit_quality": 0.7832,
+    "calibration_mean": 9828.21,
+    "source_quantiles": {
+      "p10": 373.0,
+      "p25": 4315.5,
+      "p50": 7693.5,
+      "p75": 12355.0,
+      "p90": 17268.5
+    },
+    "count": 17754
+  },
+  "Non-residential work|50": {
+    "visa_category": "Non-residential work",
+    "age_start": 50,
+    "p_zero": 0.237441,
+    "mu": 11.074734,
+    "sigma": 0.370713,
+    "fit_quality": 0.8173,
+    "calibration_mean": 10807.15,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 3399.75,
+      "p50": 7389.5,
+      "p75": 12334.5,
+      "p90": 18689.3
+    },
+    "count": 4425
+  },
+  "Non-residential work|60": {
+    "visa_category": "Non-residential work",
+    "age_start": 60,
+    "p_zero": 0.25,
+    "mu": 10.864944,
+    "sigma": 0.929495,
+    "fit_quality": 0.984,
+    "calibration_mean": 15085.85,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 5026.0,
+      "p75": 12537.0,
+      "p90": 39213.1
+    },
+    "count": 717
+  },
+  "Non-residential work|70": {
+    "visa_category": "Non-residential work",
+    "age_start": 70,
+    "p_zero": 0.5,
+    "mu": 9.271301,
+    "sigma": 2.153072,
+    "fit_quality": 1.0,
+    "calibration_mean": 558.83,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 1116.0,
+      "p90": 12544.0
+    },
+    "count": 78
+  },
+  "Permanent Resident|0": {
+    "visa_category": "Permanent Resident",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 1.97,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 12303
+  },
+  "Permanent Resident|10": {
+    "visa_category": "Permanent Resident",
+    "age_start": 10,
+    "p_zero": 0.5,
+    "mu": 7.506068,
+    "sigma": 2.210084,
+    "fit_quality": 1.0,
+    "calibration_mean": 418.77,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 191.0,
+      "p90": 1227.0
+    },
+    "count": 35004
+  },
+  "Permanent Resident|20": {
+    "visa_category": "Permanent Resident",
+    "age_start": 20,
+    "p_zero": 0.248602,
+    "mu": 10.657021,
+    "sigma": 0.456283,
+    "fit_quality": 0.9985,
+    "calibration_mean": 6252.38,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 1184.0,
+      "p50": 5065.0,
+      "p75": 8837.0,
+      "p90": 13890.2
+    },
+    "count": 48324
+  },
+  "Permanent Resident|30": {
+    "visa_category": "Permanent Resident",
+    "age_start": 30,
+    "p_zero": 0.23845,
+    "mu": 11.066005,
+    "sigma": 0.467646,
+    "fit_quality": 0.9931,
+    "calibration_mean": 11506.45,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2938.5,
+      "p50": 8328.0,
+      "p75": 15999.5,
+      "p90": 25247.4
+    },
+    "count": 102303
+  },
+  "Permanent Resident|40": {
+    "visa_category": "Permanent Resident",
+    "age_start": 40,
+    "p_zero": 0.218632,
+    "mu": 11.123107,
+    "sigma": 0.566514,
+    "fit_quality": 0.9873,
+    "calibration_mean": 14040.58,
+    "source_quantiles": {
+      "p10": 1.0,
+      "p25": 3184.5,
+      "p50": 8792.0,
+      "p75": 18252.3,
+      "p90": 31381.1
+    },
+    "count": 75600
+  },
+  "Permanent Resident|50": {
+    "visa_category": "Permanent Resident",
+    "age_start": 50,
+    "p_zero": 0.238994,
+    "mu": 11.087415,
+    "sigma": 0.579744,
+    "fit_quality": 0.9781,
+    "calibration_mean": 13211.37,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2018.0,
+      "p50": 7537.0,
+      "p75": 16536.5,
+      "p90": 29600.6
+    },
+    "count": 54168
+  },
+  "Permanent Resident|60": {
+    "visa_category": "Permanent Resident",
+    "age_start": 60,
+    "p_zero": 0.49309,
+    "mu": 10.938244,
+    "sigma": 0.596799,
+    "fit_quality": 0.9736,
+    "calibration_mean": 7223.1,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 1461.0,
+      "p75": 8767.75,
+      "p90": 19420.6
+    },
+    "count": 30543
+  },
+  "Permanent Resident|70": {
+    "visa_category": "Permanent Resident",
+    "age_start": 70,
+    "p_zero": 0.5,
+    "mu": 9.700497,
+    "sigma": 1.241857,
+    "fit_quality": 1.0,
+    "calibration_mean": 2958.97,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 26.0,
+      "p75": 1877.0,
+      "p90": 7145.0
+    },
+    "count": 18084
+  },
+  "Permanent Resident|80": {
+    "visa_category": "Permanent Resident",
+    "age_start": 80,
+    "p_zero": 0.5,
+    "mu": 9.109204,
+    "sigma": 1.399436,
+    "fit_quality": 1.0,
+    "calibration_mean": 1815.84,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 8.0,
+      "p75": 949.0,
+      "p90": 4156.0
+    },
+    "count": 6888
+  },
+  "Permanent Resident|90": {
+    "visa_category": "Permanent Resident",
+    "age_start": 90,
+    "p_zero": 0.5,
+    "mu": 9.432531,
+    "sigma": 1.262348,
+    "fit_quality": 0.9999,
+    "calibration_mean": 2064.19,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 51.0,
+      "p75": 1311.25,
+      "p90": 5343.2
+    },
+    "count": 660
+  },
+  "Resident|0": {
+    "visa_category": "Resident",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 0.58,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 10944
+  },
+  "Resident|10": {
+    "visa_category": "Resident",
+    "age_start": 10,
+    "p_zero": 0.5,
+    "mu": 8.269952,
+    "sigma": 1.580415,
+    "fit_quality": 1.0,
+    "calibration_mean": 548.77,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 410.0,
+      "p90": 1604.0
+    },
+    "count": 23454
+  },
+  "Resident|20": {
+    "visa_category": "Resident",
+    "age_start": 20,
+    "p_zero": 0.249065,
+    "mu": 10.721144,
+    "sigma": 0.425939,
+    "fit_quality": 0.9993,
+    "calibration_mean": 6674.9,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 1306.0,
+      "p50": 5561.0,
+      "p75": 9494.0,
+      "p90": 14655.0
+    },
+    "count": 57270
+  },
+  "Resident|30": {
+    "visa_category": "Resident",
+    "age_start": 30,
+    "p_zero": 0.241092,
+    "mu": 11.028471,
+    "sigma": 0.486673,
+    "fit_quality": 0.9922,
+    "calibration_mean": 11064.03,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2460.0,
+      "p50": 7598.0,
+      "p75": 15059.0,
+      "p90": 24652.4
+    },
+    "count": 69639
+  },
+  "Resident|40": {
+    "visa_category": "Resident",
+    "age_start": 40,
+    "p_zero": 0.230126,
+    "mu": 11.132149,
+    "sigma": 0.566065,
+    "fit_quality": 0.9859,
+    "calibration_mean": 14067.59,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 2768.0,
+      "p50": 8695.0,
+      "p75": 18036.8,
+      "p90": 31508.0
+    },
+    "count": 67467
+  },
+  "Resident|50": {
+    "visa_category": "Resident",
+    "age_start": 50,
+    "p_zero": 0.245162,
+    "mu": 11.110058,
+    "sigma": 0.590115,
+    "fit_quality": 0.9786,
+    "calibration_mean": 13628.76,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 1523.0,
+      "p50": 7673.0,
+      "p75": 17069.8,
+      "p90": 30826.1
+    },
+    "count": 63453
+  },
+  "Resident|60": {
+    "visa_category": "Resident",
+    "age_start": 60,
+    "p_zero": 0.489777,
+    "mu": 11.052582,
+    "sigma": 0.578086,
+    "fit_quality": 0.9565,
+    "calibration_mean": 8374.08,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 2056.5,
+      "p75": 10325.5,
+      "p90": 21694.0
+    },
+    "count": 39447
+  },
+  "Resident|70": {
+    "visa_category": "Resident",
+    "age_start": 70,
+    "p_zero": 0.5,
+    "mu": 9.589462,
+    "sigma": 1.296326,
+    "fit_quality": 1.0,
+    "calibration_mean": 2873.74,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 13.0,
+      "p75": 1576.75,
+      "p90": 6632.2
+    },
+    "count": 21177
+  },
+  "Resident|80": {
+    "visa_category": "Resident",
+    "age_start": 80,
+    "p_zero": 0.5,
+    "mu": 8.649474,
+    "sigma": 1.616868,
+    "fit_quality": 1.0,
+    "calibration_mean": 2194.83,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 1.0,
+      "p75": 599.25,
+      "p90": 2914.4
+    },
+    "count": 10131
+  },
+  "Resident|90": {
+    "visa_category": "Resident",
+    "age_start": 90,
+    "p_zero": 0.5,
+    "mu": 9.160049,
+    "sigma": 1.218402,
+    "fit_quality": 0.9997,
+    "calibration_mean": 1609.28,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 57.0,
+      "p75": 998.5,
+      "p90": 3660.2
+    },
+    "count": 1836
+  },
+  "Student|0": {
+    "visa_category": "Student",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 0.05,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 7437
+  },
+  "Student|10": {
+    "visa_category": "Student",
+    "age_start": 10,
+    "p_zero": 0.825,
+    "mu": 7.628913,
+    "sigma": 0.8,
+    "fit_quality": 1.0,
+    "calibration_mean": 125.39,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 187.0
+    },
+    "count": 18675
+  },
+  "Student|20": {
+    "visa_category": "Student",
+    "age_start": 20,
+    "p_zero": 0.499026,
+    "mu": 9.591003,
+    "sigma": 0.469813,
+    "fit_quality": 0.9992,
+    "calibration_mean": 999.36,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 402.0,
+      "p75": 1624.0,
+      "p90": 2885.0
+    },
+    "count": 22449
+  },
+  "Student|30": {
+    "visa_category": "Student",
+    "age_start": 30,
+    "p_zero": 0.485352,
+    "mu": 9.71689,
+    "sigma": 0.573563,
+    "fit_quality": 0.9832,
+    "calibration_mean": 1325.99,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 545.0,
+      "p75": 1783.0,
+      "p90": 3458.6
+    },
+    "count": 5334
+  },
+  "Student|40": {
+    "visa_category": "Student",
+    "age_start": 40,
+    "p_zero": 0.491613,
+    "mu": 9.461828,
+    "sigma": 0.781727,
+    "fit_quality": 0.9998,
+    "calibration_mean": 1225.03,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 257.0,
+      "p75": 1383.0,
+      "p90": 3439.8
+    },
+    "count": 1206
+  },
+  "Student|50": {
+    "visa_category": "Student",
+    "age_start": 50,
+    "p_zero": 0.5,
+    "mu": 8.366924,
+    "sigma": 1.531241,
+    "fit_quality": 1.0,
+    "calibration_mean": 548.31,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 451.75,
+      "p90": 1751.7
+    },
+    "count": 255
+  },
+  "Student|60": {
+    "visa_category": "Student",
+    "age_start": 60,
+    "p_zero": 0.825,
+    "mu": 7.245137,
+    "sigma": 0.8,
+    "fit_quality": 1.0,
+    "calibration_mean": 123.08,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 127.4
+    },
+    "count": 78
+  },
+  "Unknown (Presumed resident)|0": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 16.11,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 6054
+  },
+  "Unknown (Presumed resident)|10": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 10,
+    "p_zero": 0.825,
+    "mu": 9.259516,
+    "sigma": 0.8,
+    "fit_quality": 0.9999,
+    "calibration_mean": 501.15,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 8.0,
+      "p90": 955.0
+    },
+    "count": 4326
+  },
+  "Unknown (Presumed resident)|100": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 100,
+    "p_zero": 0.5,
+    "mu": 8.253352,
+    "sigma": 1.73927,
+    "fit_quality": 1.0,
+    "calibration_mean": 520.76,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 403.25,
+      "p90": 1925.0
+    },
+    "count": 159
+  },
+  "Unknown (Presumed resident)|20": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 20,
+    "p_zero": 0.497562,
+    "mu": 10.653277,
+    "sigma": 0.366865,
+    "fit_quality": 0.9975,
+    "calibration_mean": 3820.06,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 1822.5,
+      "p75": 6273.75,
+      "p90": 9937.0
+    },
+    "count": 9426
+  },
+  "Unknown (Presumed resident)|30": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 30,
+    "p_zero": 0.47089,
+    "mu": 10.955567,
+    "sigma": 0.460203,
+    "fit_quality": 0.9739,
+    "calibration_mean": 6784.35,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 3485.0,
+      "p75": 9505.0,
+      "p90": 17276.6
+    },
+    "count": 11514
+  },
+  "Unknown (Presumed resident)|40": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 40,
+    "p_zero": 0.475234,
+    "mu": 11.031316,
+    "sigma": 0.52529,
+    "fit_quality": 0.9378,
+    "calibration_mean": 7897.83,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 3013.0,
+      "p75": 10021.0,
+      "p90": 19639.0
+    },
+    "count": 13977
+  },
+  "Unknown (Presumed resident)|50": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 50,
+    "p_zero": 0.497738,
+    "mu": 10.920391,
+    "sigma": 0.485903,
+    "fit_quality": 0.9628,
+    "calibration_mean": 6230.83,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 1512.0,
+      "p75": 8260.0,
+      "p90": 16124.0
+    },
+    "count": 25218
+  },
+  "Unknown (Presumed resident)|60": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 60,
+    "p_zero": 0.5,
+    "mu": 10.544288,
+    "sigma": 0.699325,
+    "fit_quality": 1.0,
+    "calibration_mean": 4696.12,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 9.0,
+      "p75": 5663.0,
+      "p90": 13534.4
+    },
+    "count": 24243
+  },
+  "Unknown (Presumed resident)|70": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 70,
+    "p_zero": 0.5,
+    "mu": 8.171344,
+    "sigma": 2.417697,
+    "fit_quality": 1.0,
+    "calibration_mean": 1660.27,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 371.5,
+      "p90": 3757.0
+    },
+    "count": 16827
+  },
+  "Unknown (Presumed resident)|80": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 80,
+    "p_zero": 0.5,
+    "mu": 7.874196,
+    "sigma": 2.136149,
+    "fit_quality": 1.0,
+    "calibration_mean": 1035.55,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 276.0,
+      "p90": 1796.8
+    },
+    "count": 10362
+  },
+  "Unknown (Presumed resident)|90": {
+    "visa_category": "Unknown (Presumed resident)",
+    "age_start": 90,
+    "p_zero": 0.5,
+    "mu": 8.34284,
+    "sigma": 1.702638,
+    "fit_quality": 1.0,
+    "calibration_mean": 1274.93,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 441.0,
+      "p90": 2100.5
+    },
+    "count": 3087
+  },
+  "Visitor|0": {
+    "visa_category": "Visitor",
+    "age_start": 0,
+    "p_zero": 1.0,
+    "mu": 0.0,
+    "sigma": 1.0,
+    "fit_quality": 1.0,
+    "calibration_mean": 0.06,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0
+    },
+    "count": 5265
+  },
+  "Visitor|10": {
+    "visa_category": "Visitor",
+    "age_start": 10,
+    "p_zero": 0.825,
+    "mu": 7.778623,
+    "sigma": 0.8,
+    "fit_quality": 1.0,
+    "calibration_mean": 239.11,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 217.2
+    },
+    "count": 786
+  },
+  "Visitor|20": {
+    "visa_category": "Visitor",
+    "age_start": 20,
+    "p_zero": 0.825,
+    "mu": 10.531404,
+    "sigma": 0.8,
+    "fit_quality": 0.9996,
+    "calibration_mean": 1054.32,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 84.5,
+      "p90": 4698.4
+    },
+    "count": 1464
+  },
+  "Visitor|30": {
+    "visa_category": "Visitor",
+    "age_start": 30,
+    "p_zero": 0.5,
+    "mu": 9.052293,
+    "sigma": 1.999856,
+    "fit_quality": 1.0,
+    "calibration_mean": 1885.31,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 896.5,
+      "p90": 7062.1
+    },
+    "count": 1689
+  },
+  "Visitor|40": {
+    "visa_category": "Visitor",
+    "age_start": 40,
+    "p_zero": 0.5,
+    "mu": 9.831531,
+    "sigma": 1.224531,
+    "fit_quality": 1.0,
+    "calibration_mean": 2680.34,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 2277.0,
+      "p90": 8668.8
+    },
+    "count": 1809
+  },
+  "Visitor|50": {
+    "visa_category": "Visitor",
+    "age_start": 50,
+    "p_zero": 0.5,
+    "mu": 10.087534,
+    "sigma": 0.877534,
+    "fit_quality": 1.0,
+    "calibration_mean": 2465.69,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 3227.25,
+      "p90": 8114.9
+    },
+    "count": 993
+  },
+  "Visitor|60": {
+    "visa_category": "Visitor",
+    "age_start": 60,
+    "p_zero": 0.825,
+    "mu": 10.613396,
+    "sigma": 0.8,
+    "fit_quality": 1.0,
+    "calibration_mean": 1324.77,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 2.75,
+      "p90": 5183.6
+    },
+    "count": 489
+  },
+  "Visitor|70": {
+    "visa_category": "Visitor",
+    "age_start": 70,
+    "p_zero": 0.825,
+    "mu": 9.458367,
+    "sigma": 0.8,
+    "fit_quality": 1.0,
+    "calibration_mean": 640.36,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 1165.1
+    },
+    "count": 195
+  },
+  "Visitor|80": {
+    "visa_category": "Visitor",
+    "age_start": 80,
+    "p_zero": 0.5,
+    "mu": 7.569122,
+    "sigma": 2.5,
+    "fit_quality": 0.9986,
+    "calibration_mean": 2369.01,
+    "source_quantiles": {
+      "p10": 0.0,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 145.0,
+      "p90": 1800.0
+    },
+    "count": 81
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "total_population": 500004,
+  "total_npv": -39842482997,
+  "mean_npv": -79684,
+  "by_visa_category": {
+    "Australian": {
+      "count": 5045,
+      "mean_npv": 35278,
+      "total_npv": 177975071
+    },
+    "Birth Citizen": {
+      "count": 348025,
+      "mean_npv": -112408,
+      "total_npv": -39120708973
+    },
+    "Diplomatic etc": {
+      "count": 82,
+      "mean_npv": -192331,
+      "total_npv": -15771104
+    },
+    "Non-birth Citizen": {
+      "count": 33539,
+      "mean_npv": -36982,
+      "total_npv": -1240328948
+    },
+    "Non-residential work": {
+      "count": 14628,
+      "mean_npv": 76224,
+      "total_npv": 1115003871
+    },
+    "Permanent Resident": {
+      "count": 40210,
+      "mean_npv": 12210,
+      "total_npv": 490966190
+    },
+    "Resident": {
+      "count": 38222,
+      "mean_npv": 5172,
+      "total_npv": 197674718
+    },
+    "Student": {
+      "count": 5805,
+      "mean_npv": -65322,
+      "total_npv": -379197059
+    },
+    "Unknown (Presumed resident)": {
+      "count": 13116,
+      "mean_npv": -72319,
+      "total_npv": -948536587
+    },
+    "Visitor": {
+      "count": 1332,
+      "mean_npv": -89760,
+      "total_npv": -119560176
+    }
+  },
+  "by_arrival_age": {
+    "0": {
+      "count": 64067,
+      "mean_npv": -245632
+    },
+    "10": {
+      "count": 64751,
+      "mean_npv": -94812
+    },
+    "20": {
+      "count": 70524,
+      "mean_npv": 42935
+    },
+    "30": {
+      "count": 66615,
+      "mean_npv": 76384
+    },
+    "40": {
+      "count": 64717,
+      "mean_npv": 61500
+    },
+    "50": {
+      "count": 65291,
+      "mean_npv": -44559
+    },
+    "60": {
+      "count": 51844,
+      "mean_npv": -248672
+    },
+    "70": {
+      "count": 34040,
+      "mean_npv": -337276
+    },
+    "80": {
+      "count": 14919,
+      "mean_npv": -186370
+    },
+    "90": {
+      "count": 3161,
+      "mean_npv": 0
+    },
+    "100": {
+      "count": 75,
+      "mean_npv": 0
+    }
+  },
+  "pct_net_contributor": 0.2765,
+  "discount_rate": 0.035,
+  "max_age": 85
+}

@@ -35,3 +35,27 @@
 | P5.3 | Widget QA — test rendering and edge cases | P4.3 | done | 5-qa | yes |
 | P5.4 | Build and final review | P5.1,P5.2,P5.3 | done | 5-qa | no |
 | P6.1 | Production build and deploy prep | P5.4 | done | 6-deploy | no |
+| P7.1 | Update agentic files for Phase 2 | — | done | 7-setup | no |
+| P7.2 | Explore data feasibility and Census API decision | P7.1 | done | 7-setup | no |
+| P7.3 | Create synth-pop directory and shared utilities | P7.2 | done | 7-setup | no |
+| P8.1 | Build seed population from Table 4 | P7.3 | done | 8-synthpop | yes |
+| P8.2 | Fit income distributions from Table 5 quantiles | P7.3 | done | 8-synthpop | yes |
+| P8.3 | Build nationality and relationship assignment tables | P7.3 | done | 8-synthpop | yes |
+| P8.4 | Assign income to seed population via stochastic imputation | P8.1,P8.2 | done | 8-synthpop | no |
+| P8.5 | Assign relationship, nationality, tenure | P8.4,P8.3 | done | 8-synthpop | no |
+| P8.6 | Construct family units and compute household fiscal incidence | P8.5 | done | 8-synthpop | no |
+| P8.7 | Compute individual NPV and lifecycle trajectories | P8.6 | done | 8-synthpop | no |
+| P8.8 | Validation gate: verify synth-pop reproduces Phase 1 aggregates | P8.7 | done | 8-synthpop | no |
+| P9.1 | Update methodology section with synthetic population description | P8.8 | done | 9-content | no |
+| P9.2 | Add distributional findings to each analytical section | P8.8 | done | 9-content | no |
+| P9.3 | Style review of updated content | P9.1,P9.2 | done | 9-content | no |
+| P10.1 | NPV distribution widget (histogram and percentile bands) | P8.7 | done | 10-widgets | yes |
+| P10.2 | Enhanced fiscal waterfall with uncertainty bands | P8.7 | done | 10-widgets | yes |
+| P10.3 | Household NPV widget (family unit view) | P8.6 | done | 10-widgets | yes |
+| P10.4 | Policy scenario slider widget | P8.7 | done | 10-widgets | yes |
+| P10.5 | Register new widgets and assess existing replacements | P10.1,P10.2,P10.3,P10.4 | done | 10-widgets | no |
+| P11.1 | Prepare widget data outputs for build pipeline | P10.5,P8.7 | done | 11-integration | no |
+| P11.2 | Insert new widget tags into report markdown | P9.3,P10.5 | done | 11-integration | no |
+| P11.3 | Data QA: verify distributional statistics | P11.1 | done | 11-integration | yes |
+| P11.4 | Widget QA: build and test all 9 widgets | P11.2 | done | 11-integration | yes |
+| P12.1 | Build, commit, push, redeploy to Cloudflare Pages | P11.3,P11.4 | running | 12-deploy | no |

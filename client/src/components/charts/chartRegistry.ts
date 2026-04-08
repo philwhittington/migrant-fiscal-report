@@ -21,6 +21,18 @@ const registry: Record<string, React.LazyExoticComponent<ComponentType<any>>> = 
   "fiscal-waterfall": lazy(() =>
     import("./FiscalWaterfallWidget").then((m) => ({ default: m.FiscalWaterfallWidget }))
   ),
+  "npv-distribution": lazy(() =>
+    import("./NPVDistributionWidget").then((m) => ({ default: m.NPVDistributionWidget }))
+  ),
+  "fiscal-waterfall-dist": lazy(() =>
+    import("./FiscalWaterfallDistWidget").then((m) => ({ default: m.FiscalWaterfallDistWidget }))
+  ),
+  "household-npv": lazy(() =>
+    import("./HouseholdNPVWidget").then((m) => ({ default: m.HouseholdNPVWidget }))
+  ),
+  "policy-scenario": lazy(() =>
+    import("./PolicyScenarioWidget").then((m) => ({ default: m.PolicyScenarioWidget }))
+  ),
 };
 
 export function getDemoComponent(id: string) {

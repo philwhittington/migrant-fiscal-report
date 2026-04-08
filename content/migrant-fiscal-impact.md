@@ -99,7 +99,21 @@ The fit achieves R² > 0.93 for all visa types except Working Holiday, which exh
 
 This is not individual-level microsimulation. We use published summary statistics, not linked administrative microdata from the Integrated Data Infrastructure (IDI). We cannot control for selection on observable characteristics — migrants who pay high tax may differ from NZ-born high earners in ways that affect their future fiscal trajectory. This is not causal analysis: it does not estimate the effect of changing migration policy settings on fiscal outcomes. It does not capture second-round effects — the impact of migration on housing markets, infrastructure demand, wages, or productivity spillovers. It is a proof of concept using publicly available data, intended to demonstrate the feasibility and value of a full IDI-based lifecycle fiscal model.
 
-The sections that follow apply this framework to the Hughes and Wright and Nguyen data, moving from the aggregate fiscal picture to visa-specific analysis, nationality convergence, and lifecycle NPV estimates.
+### 2.6 Synthetic population methodology
+
+The group-mean estimates in the preceding sections answer the question "what is the average fiscal impact of a skilled migrant?" But policy analysis also requires distributional detail: what proportion of skilled migrants are net contributors? What is the range of outcomes within a visa category? How would a shift in visa composition change the aggregate fiscal balance? Phase 2 of this analysis generates a synthetic population of 500,000 individual migrants to produce these distributional estimates.
+
+**Income imputation.** For each of the 91 visa-category-by-age cells in the 2019 tax year, we fit a zero-inflated log-normal distribution to five quantile points (p10, p25, p50, p75, p90) derived from Hughes Table 5. Tax quantiles from Table 5 are first inverted to gross income quantiles using a closed-form inverse of the NZ PAYE schedule, since the downstream fiscal computation requires gross income as its input. The zero-inflation component captures the proportion of non-earners within each cell — children, students, and retirees who report zero or negligible taxable income. The fitting objective minimises squared relative quantile deviations using the Nelder-Mead algorithm (scipy.optimize), subject to a mean calibration constraint: for each cell, the log-normal location parameter is adjusted so that the expected PAYE liability of sampled incomes matches the per-capita mean tax observed in Hughes Table 4. This ensures the synthetic population reproduces aggregate tax revenue by construction. The fit achieves R² above 0.80 for 90 of 91 cells (98.9%), with key working-age cells — where the fiscal impact is concentrated — achieving R² above 0.98 and mean tax errors below 2%.
+
+**Seed population and attribute assignment.** We draw a proportional random sample of 500,000 individuals from the 226 non-empty visa-subcategory-by-age cells in Hughes Table 4 (tax year 2019), maintaining the observed population composition. Each individual is assigned a gross income drawn from the fitted distribution for their cell, then stochastically assigned a nationality (from Table 10 marginal distributions), family relationship type (conditional on nationality, from Table 10), and years of New Zealand residence (from Table 11 tenure distributions). Primary applicants are linked with spouses and dependent children into family units using a greedy matching algorithm based on age proximity and visa-type-specific family composition rates.
+
+**Individual fiscal computation.** Each individual's tax liability is computed directly from their assigned gross income using the 2024 NZ PAYE brackets (10.5% on income up to $14,000; 17.5% on $14,001–$48,000; 30% on $48,001–$70,000; 33% on $70,001–$180,000; 39% above $180,000) plus the 1.6% ACC earners' levy, rather than applying group-mean tax rates. Government expenditure uses age-specific per-capita templates from Wright and Nguyen, with the same migrant-specific adjustments described in section 2.2: the healthy migrant health factor (85% of NZ-average health expenditure), benefit stand-down for recent arrivals (50% of income support for the first two years), NZ Super eligibility after 10 years of residence, and exclusion of temporary visa holders from Working for Families and income support. The lifecycle NPV for each individual follows the same discounted retention-weighted formula as the group-level model (section 2.3), applied to individual-level fiscal flows.
+
+**Validation.** The synthetic population aggregates reproduce Phase 1 group-mean results within tight tolerances. Aggregate tax revenue matches to within 0.33%. Mean NPV estimates for cleanly comparable categories — NZ-born and Australian visa holders across ages 20 to 50 — agree within 3% (maximum deviation 3.0% for Australian age 20). Retention curves are shared data and match at 0.0% deviation across all 21 tested points. Nine cells at extreme ages (teens and retirees) show larger tax deviations, reflecting the inherent difficulty of fitting a single log-normal to bimodal income distributions in those age bands; these cells are fiscally immaterial. The full validation report documents all five metrics and the gate decision to proceed.
+
+It is important to note what these estimates are not. The synthetic population is model-generated: individual incomes and attributes are stochastically imputed from aggregate distributions, not observed at the individual level. The distributional detail that follows — histograms, percentile ranges, and probability statements — reflects the range of outcomes consistent with the group-level data, not individual administrative records. The distributions are as reliable as the underlying summary statistics and the distributional assumptions imposed on them.
+
+The sections that follow apply this framework to the Hughes and Wright and Nguyen data, moving from the aggregate fiscal picture to visa-specific analysis, nationality convergence, lifecycle NPV estimates, and — drawing on the synthetic population — distributional analysis of fiscal outcomes within visa categories.
 
 ## 3. The aggregate picture
 
@@ -117,9 +131,13 @@ The foreign-born tax contribution is concentrated in working ages. Skilled and i
 
 Non-resident workers and visitors — people who earn in New Zealand but do not live here permanently — contributed $0.5 billion in personal income tax in 2023, or approximately 1% of the total (Hughes Table 1). This represents a fiscal gain requiring no corresponding public service expenditure, but falls outside the lifecycle model that follows.
 
+The synthetic population model developed in section 2.6 indicates a wide range of individual outcomes beneath these aggregate figures. For resident visa holders, estimated annual direct tax payments range from $530 at the 10th percentile to $33,800 at the 90th — a factor of more than sixty, reflecting the mix of non-earners, part-time workers, and high-income professionals within a single visa category (synthetic population output). Health expenditure shows a far tighter distribution: $1,700 to $3,978 per year across the same percentile range. The estimated annual net fiscal impact for individual resident visa holders spans from a net cost of $21,400 at the 10th percentile to a net contribution of $22,900 at the 90th, with a median net contribution of approximately $700. Variation in fiscal outcomes is driven overwhelmingly by the revenue side — by differences in individual earnings — rather than by expenditure.
+
 The aggregate picture shows foreign-born taxpayers as a growing and disproportionate share of New Zealand's revenue base. But this headline masks wide variation by visa type — variation that shapes whether a given migration pathway generates a net fiscal surplus or a net cost over a lifetime.
 
 <div data-demo="fiscal-waterfall"></div>
+
+<div data-demo="fiscal-waterfall-dist"></div>
 
 ## 4. Fiscal selection by visa type
 
@@ -139,6 +157,8 @@ These patterns persist in the 2024 data. The median (p50) NZ-born taxpayer at ag
 
 This interaction between annual tax and departure timing is the mechanism that drives the lifecycle results in Section 7. A migrant who pays moderate tax for ten years and then departs may contribute more in NPV terms than one who pays higher tax but remains through retirement. The fiscal selection created by the visa system operates not just on earnings potential but — through its effect on retention — on the expected duration of public expenditure. Before turning to the lifecycle model in Section 7, Section 5 examines a one-off policy event that reshaped the visa composition underlying these patterns.
 
+The synthetic population model translates these annual tax differentials into lifecycle probabilities. Among resident visa holders arriving at age 30, an estimated 64% are net fiscal contributors over their expected New Zealand lifetime, with a p10–p90 range spanning from a net cost of $92,000 to a net contribution of $323,000 (synthetic population output). Non-residential workers at the same age — shorter-tenure but concentrated in peak earning years — show an estimated 86% probability of net contribution, with a tighter range of −$23,000 to +$225,000. Australian citizens at age 30 show a 73% probability. Student visa holders at age 20 show only an estimated 19% probability of net contribution, though their rapid departure limits the aggregate fiscal cost. For comparison, an estimated 49% of the NZ-born at age 30 are net contributors over the lifecycle — the visa system selects for a markedly higher probability of positive fiscal outcomes than the general population produces.
+
 <div data-demo="retention-explorer"></div>
 
 ## 5. The 2021 resident visa effect
@@ -154,6 +174,8 @@ The most direct evidence appears in the visa category counts from Hughes Table 4
 For the Crown's fiscal accounts, this is a double-edged shift. Higher retention means more years of working-age tax revenue — but also a higher probability of drawing NZ Super and health expenditure in retirement. The net fiscal effect depends on whether the additional working-age tax contributions exceed the additional retirement costs. For a skilled migrant arriving at age 30, our NPV model in Section 7 suggests they do. But migrants who were already in their late 40s or 50s at the time of reclassification may have too few remaining working years to offset retirement costs.
 
 Our model does not separately estimate the fiscal impact of the RV2021 cohort. These migrants have an unusual profile: they already had years of NZ residence and established earnings trajectories, but their retention curves from the point of residence grant may differ from typical skilled migrants who arrive with a residence visa. A full assessment would require IDI-level data linking individual tax histories to visa transitions — precisely the type of analysis this paper is designed to motivate.
+
+The distributional implications of the reclassification can be inferred from the synthetic population model. Among non-residential workers arriving at age 30, an estimated 86% are net contributors over the lifecycle, reflecting high working-age earnings combined with early departure before retirement costs accumulate (synthetic population output). Resident visa holders of the same age show a lower estimated 64% probability of net contribution, because higher retention exposes more individuals to the retirement-age cost phase. By moving approximately 165,000 migrants from temporary to resident retention pathways, the RV2021 likely reduced the share who are net contributors while extending the duration of both their tax payments and their eventual public service claims. Whether the additional working-age revenue outweighs the additional retirement exposure for this specific cohort remains a question that would require IDI-linked analysis to resolve.
 
 <div data-demo="rv2021-shift"></div>
 
@@ -179,6 +201,8 @@ South Asian migrants span a wide range of visa pathways — from skilled profess
 
 Chinese migrants at age 30 show an estimated contribution of $47,000, below the NZ-born benchmark of $72,000 (NPV model output). This reflects the lower mean tax in the 2019 matching year, before the convergence documented above had fully materialised. An updated model using 2024 tax data would yield a higher estimate for this group — a reminder that static point-in-time estimates understate the fiscal contribution of nationality groups on an upward earnings trajectory. Section 7 combines these visa- and nationality-specific tax patterns with retention probabilities into lifecycle NPV estimates.
 
+The synthetic population estimates add an important caveat to these nationality-level averages. Within every visa category, the gap between mean and median lifecycle NPV is wide: for resident visa holders at age 30, the estimated mean contribution is $88,000 but the estimated median is $41,000 (synthetic population output). This positive skewness — driven by the right tail of high earners — means that the mean lifecycle contribution reported for each nationality group is pulled upward by a minority of very high contributors. Median outcomes are roughly half the mean. The within-category p10–p90 range of −$92,000 to +$323,000 for resident visa holders at age 30 suggests that every nationality group, regardless of its mean contribution, contains individuals spanning the full range from net cost to net contribution.
+
 <div data-demo="nationality-convergence"></div>
 
 ## 7. Lifecycle net fiscal impact
@@ -190,6 +214,8 @@ The preceding sections established that migrants pay varying amounts of tax and 
 A skilled/investor migrant arriving at age 30 has an estimated net fiscal contribution of $132,100 in present value terms (2018/19 NZD, discounted at 3.5%). The NZ-born equivalent over the same age range is $71,600. The skilled migrant contributes approximately $60,500 more than the NZ-born benchmark — a fiscal surplus of 85% (NPV model output).
 
 Other visa types at age 30 are also net contributors in absolute terms: skilled work visa holders contribute an estimated $113,300, Australian citizens $114,800, working holiday holders $43,700, and family stream migrants $39,600. Humanitarian visa holders contribute $2,100 — a marginal net positive, essentially break-even. Only student visa holders show a near-zero result at an estimated net cost of $300 (NPV model output). In sign convention, all visa types except students generate a net fiscal surplus for the Crown over their expected New Zealand lifetime.
+
+The synthetic population estimates developed in section 2.6 suggest the distribution of individual outcomes behind these group means. For resident visa holders arriving at age 30 — a composite category encompassing skilled, family, and humanitarian streams — the estimated p10–p90 range spans from a net cost of $92,000 to a net contribution of $323,000, with 64% estimated to be net contributors (synthetic population output). Across the full synthetic population of 500,000 individuals, an estimated 28% are net fiscal contributors over the lifecycle — a figure that includes children, retirees, and other age groups who are structurally net recipients. The distribution is positively skewed: the estimated mean contribution of $88,000 for resident arrivals at age 30 exceeds the median of $41,000 by a factor of more than two, indicating that the fiscal surplus reported above is concentrated among a subset of higher earners.
 
 ### 7.2 Why the gap exists
 
@@ -206,6 +232,8 @@ Third, and most consequentially, **out-migration before retirement** — the "ou
 The fiscal components data illustrates this mechanism. Weighted by retention probability (but undiscounted), a skilled migrant arriving at age 30 generates approximately $895,000 in lifetime tax revenue (direct and indirect), against approximately $502,000 in government expenditure — including $361,000 in income support, $129,000 in health, and $12,000 in education. The NZ-born equivalent generates more revenue ($1,409,000) but incurs far higher costs ($1,243,000), driven by health expenditure of $346,000 and income support of $881,000 over the full lifecycle at retention 1.0 (NPV model, fiscal components output).
 
 The difference is concentrated in the retirement years. At age 75, a NZ-born individual draws $34,200 per year in net fiscal cost (NZ Super plus health minus residual tax), and 100% of NZ-born are present to draw it. A skilled migrant at the same age faces the same per-year cost, but only 36% are still in New Zealand (Wright and Nguyen; Hughes Table 16). The retention-weighted retirement cost is therefore a fraction of the NZ-born equivalent.
+
+At the household level, the annual fiscal balance shifts. A representative migrant family — primary applicant earning $53,000 per year, non-earning spouse, and three dependent children — has an estimated annual net fiscal cost of $68,400 in the year of arrival, driven by education and health expenditure on children at approximately $21,400 per child per year (synthetic population output). This compares with an NZ-born family of similar composition at a net cost of $58,600. The primary applicant alone is a net contributor of approximately $2,500 per year; it is the dependants who tip the household balance to a net cost. A working holiday couple with no children, by contrast, shows a combined annual net contribution of $5,700. These household-level figures are point-in-time snapshots — over the lifecycle, children age into working years and the household fiscal balance improves — but they illustrate how family composition dilutes the individual-level fiscal advantage of working-age migrants.
 
 ### 7.4 Variation by arrival age
 
@@ -233,6 +261,14 @@ These directional sensitivities indicate that the skilled migrant surplus is rob
 
 <div data-demo="npv-calculator"></div>
 
+<div data-demo="npv-distribution"></div>
+
+### Household-level analysis
+
+Understanding the fiscal impact of complete family units — including spouses and children — provides a more realistic picture than individual analysis alone.
+
+<div data-demo="household-npv"></div>
+
 ## 8. Caveats and limitations
 
 **Cross-sectional matching, not longitudinal tracking.** This analysis observes different cohorts of migrants at a single point in time and constructs a synthetic lifecycle by combining age-specific tax profiles with visa-specific retention curves. It does not track the same individuals over time. This approach may overstate convergence if later cohorts are fundamentally different from earlier ones, or understate it if recent arrivals have steeper earnings growth than their predecessors.
@@ -257,6 +293,8 @@ Despite these limitations, the direction and broad magnitude of the findings are
 
 This analysis finds that skilled migrants arriving in their 20s to 40s are net fiscal contributors to the New Zealand Crown. A skilled migrant arriving at age 30 contributes an estimated $60,500 more than the NZ-born equivalent over the lifecycle. The primary mechanism is out-migration before retirement: 56% of skilled migrants arriving at age 30 leave before age 65, paying tax during peak earning years but never drawing NZ Superannuation or the elevated health costs of old age. This out-migration dividend is the dominant driver of the fiscal surplus.
 
+The synthetic population extension developed in section 2.6 adds distributional detail: among resident arrivals at age 30, an estimated 64% are net contributors over the lifecycle, with individual outcomes ranging from a net cost of $92,000 to a net contribution of $323,000 (p10–p90). The fiscal advantage of migration operates across most of the individual outcome range, not merely at the mean.
+
 The analysis demonstrates that meaningful lifecycle fiscal estimates can be derived from publicly available Treasury data. The approach is deliberately simple — combining two published datasets with standard NPV techniques and migrant-specific eligibility adjustments. It produces estimates that are broadly consistent in direction and magnitude with international evidence, including the Australian Treasury's lifecycle fiscal model (Varela et al., 2021).
 
 The natural extension is a full lifecycle model using the Integrated Data Infrastructure (IDI), which would allow:
@@ -268,6 +306,12 @@ The natural extension is a full lifecycle model using the Integrated Data Infras
 - expenditure-side differentiation by migrant status, rather than NZ-average templates
 
 The Australian Treasury model (Varela et al., 2021) provides a direct benchmark: their analysis framework uses linked administrative data to estimate fiscal impact by visa category and arrival age — precisely the type of analysis New Zealand is well positioned to replicate using the IDI.
+
+### What if settings changed?
+
+The interactive scenario explorer below allows readers to examine how changes to visa composition, retention rates, and NZ Super eligibility thresholds affect the aggregate fiscal picture.
+
+<div data-demo="policy-scenario"></div>
 
 As New Zealand's population ages and the fiscal cost of NZ Superannuation grows, understanding the fiscal profile of migration becomes increasingly relevant to long-run fiscal sustainability. The evidence in this paper — that the migration system selects for fiscal contributors who moderate the Crown's retirement-age expenditure exposure — is relevant to Treasury's 2025 Long-Term Fiscal Statement and to the broader policy conversation about New Zealand's migration settings.
 
