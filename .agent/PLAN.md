@@ -58,4 +58,4 @@
 | P11.2 | Insert new widget tags into report markdown | P9.3,P10.5 | done | 11-integration | no |
 | P11.3 | Data QA: verify distributional statistics | P11.1 | done | 11-integration | yes |
 | P11.4 | Widget QA: build and test all 9 widgets | P11.2 | done | 11-integration | yes |
-| P12.1 | Build, commit, push, redeploy to Cloudflare Pages | P11.3,P11.4 | running | 12-deploy | no |
+| P12.1 | Build, commit, push, redeploy to Cloudflare Pages | P11.3,P11.4 | done | 12-deploy | no |
